@@ -1,0 +1,13 @@
+#use wml::debian::consultant name="Qulix Systems"
+# $Id: qulix.wml,v 1.2 2005-08-25 12:06:08 thuriaux Exp $
+
+<p>
+Qulix is an offshore software development company headquartered in Minsk,
+Belarus.
+</p>
+<p>
+One of our primary areas of expertise is system-level
+programming / administration of Linux based applications. From years of
+experience we have accumulated significant knowledge of working with
+Debian Linux, so we would be very happy to share it with community.
+</p>

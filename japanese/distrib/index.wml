@@ -1,0 +1,79 @@
+#use wml::debian::template title="Debian を入手するには"
+#use wml::debian::translation-check translation="1.47"
+
+<p>Debian GNU/Linux は、インターネット上で
+<a href="../intro/free">フリー</a>に配布されています。
+私たちの<a href="ftplist">ミラー</a>のどれからでも、
+ダウンロードすることができます。</p>
+
+<p>もし Debian を実際にインストールしたいのでしたら、
+以下の方法があります。</p>
+
+<ul>
+  <li><strong><a href="netinst">小さなイメージファイルをダウンロードし、CD/DVD/USB
+      ディスクまたはフロッピーに焼いたり書き込んだりして、
+      インターネットからインストールする。</a></strong>
+   <p>
+     これらの小さな <q>netinst</q> イメージは短時間でダウンロードできます。
+         <br />
+これらのイメージでは、
+実際に必要となる Debian パッケージだけをダウンロードするようにできますが、
+インストールするマシンにインターネット接続が必要です。
+   </p>
+  </li>
+  <li><strong>サイズが大きめの CD/DVD イメージファイルをダウンロードし、
+      メディアに焼いて、そのメディアのみを用いてインストールする。</strong>
+   <p>
+      CD/DVD イメージは、<strong><a
+      href="../CD/http-ftp/">HTTP/FTP</a></strong> または <strong><a
+      href="../CD/torrent-cd/">BitTorrent</a></strong>、<strong><a
+      href="../CD/jigdo-cd/">Jigdo</a></strong> でダウンロードできます。
+   </p>
+   <p>
+      サイズの大きなこれらの CD および DVD イメージにはより多くのパッケージが含まれているため、
+      インターネット接続のないマシンにインストールするのが簡単になります。
+      しかし、CD や DVD の全セットを入手すると、
+      実際には使用することがないであろうたくさんのパッケージを持つことになります。
+   </p>
+  </li>
+
+ <li><strong><a href="../CD/vendors/">Debian の CD を販売している業者</a>から
+     Debian の CD または DVD のセットを購入し、インストールする</strong>。
+  <p>
+     多くの業者が、5 米ドル以下の料金プラス送料で、Debian を販売しています。
+     (国際発送してくれるかどうかは、彼らのウェブページで確認してください)。
+     <br />
+     <a href="../doc/books">Debian に関する書籍</a>には、CD
+     が付属しているものもあります (<a href="http://www.debian.or.jp/">Debian JP
+     Project</a> のサイトには、日本国内で販売されている<a
+     href="http://www.debian.or.jp/using/book.html">書籍</a>の情報があります)。
+  </p>
+
+  <p>出来合いの CD の利用には、以下のような利点があります。</p>
+
+  <ul>
+    <li>CD からのインストールは面倒なことがない。</li>
+    <li>インターネットに接続されていないマシンにインストールできる。</li>
+    <li>一々すべてのパッケージをダウンロードせずに、(インストールしたいマシンの数だけ) Debian をインストールできる。</li>
+    <li>CD は、破損した Debian システムをより簡単に復旧させるのに使える。</li>
+  </ul>
+ </li>
+
+ <li><strong><a href="pre-installed">Debian がプリインストールされた
+     コンピュータ</a>を買う</strong>
+
+  <p>多数の利点があります。</p>
+
+  <ul>
+    <li>Debian をインストールする必要がない。</li>
+    <li>ハードウェアに適合するように設定済み。</li>
+    <li>ベンダーがテクニカルサポートをしてくれるかもしれない。</li>
+  </ul>
+
+ </li>
+
+</ul>
+
+<p><a href="../releases/stable/installmanual">インストールマニュアル</a>には、
+インストールの手順についての詳細が記述されています。</p>
+

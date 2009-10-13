@@ -1,0 +1,74 @@
+#use wml::debian::template title="インターネット経由の Debian GNU/Linux のインストール" BARETITLE=true
+#use wml::debian::toc
+#include "$(ENGLISHDIR)/releases/info"
+#include "$(ENGLISHDIR)/releases/images.data"
+#use wml::debian::translation-check translation="1.15"
+
+
+<p>インターネットへ常時接続している環境をお持ちの場合、インターネット経由で
+Debian をインストールできます。まず最初に、インストールを始めるために
+必要となる Debian の一部をダウンロードします。他に必要となるものはインス
+トールプログラム上でインストールしてください。</p>
+
+<p>この方法によるネットワークインストールでは、
+イーサネットか無線経由でのインターネットアクセス (ノートパソコ
+ンの場合はおそらく PCMCIA です) が可能である必要があります。残念ながら
+<strong>内蔵型の</strong> ISDN カードはサポートしていません。</p>
+
+<p>ネットワーク経由のインストール方法は、3つあります。</p>
+
+<toc-display />
+
+<toc-add-entry name="smallcd">小さな CD</toc-add-entry>
+
+<p>650MB の CD フルイメージを取得する代わりに、残りのものをインストールするために必要最小限のものだけを含んだ CD イメージファイルをダウンロードします。
+これを使うためには CD レコーダを操作できる必要があります。
+</p>
+
+<p>以下に挙げるのは、直系80&nbsp;mm / 3.1" インチの小さな CD-R(W)
+メディアに書き込むことのできる、180&nbsp;MB 以下のサイズのイメージファイルです。
+</p>
+
+<ul><li><stable-netinst-images /></li></ul>
+
+<p>以下に挙げるのは、名刺型 CD
+(58&times;75&nbsp;mm/2.3&times;3" インチのように別のサイズになっていることもある)
+に書き込むことのできる、
+40&nbsp;MB 以下のサイズのイメージファイルです。</p>
+
+<ul><li><stable-businesscard-images /></li></ul>
+
+<p>詳細については<a href="../CD/netinst/">最小の CD を使って、ネットワークインストールする</a>を参照してください。</p>
+
+<toc-add-entry name="verysmall">最小の CD、フロッピーディスク、USB メモリなど</toc-add-entry>
+
+<p>フロッピーディスクや、類似の小さなサイズのその他のリムーバブルメディアのサイズに合わせたいくつかのイメージファイルをダウンロードして、
+それをメディアに書き込み、そこから起動することでインストールを開始できます。</p>
+
+<p>各アーキテクチャ間で、種々の小さなイメージからインストールする上での
+サポートにいくらか違いがあります。
+次に、利用可能なイメージファイルへのリンクを示します
+(詳細については MANIFEST ファイルを参照してください)。</p>
+
+<ul><li><stable-verysmall-images /></li></ul>
+
+<p>詳細については、
+<a href="$(HOME)/releases/stable/installmanual">あなたのアーキテクチャ向けのインストールガイド</a>、
+特に<q>システムインストールメディアの入手</q>の章を参照してください。</p>
+
+<toc-add-entry name="netboot">ネットワークブート</toc-add-entry>
+
+<p>ローカルネットワークのマシンにインストールメディアを提供する
+TFTP および DHCP (あるいは BOOTP や RARP) サーバをセットアップします。
+クライアントのマシンの BIOS がサポートしているなら、ネットワークから (PXE と TFTP を使って) Debian インストールシステムを起動して、ネットワークから Debian の残りの部分のインストールを進められます。</p>
+
+<p>すべてのマシンでネットワーク越しの起動がサポートされているとは限りません。
+付加作業が必要となるために、この Debian インストール方法は初心者ユーザにはお勧めできません。</p>
+
+<p>次にイメージファイルへのリンクを示します (詳細については MANIFEST ファイルを参照してください)。</p>
+
+<ul><li><stable-netboot-images /></li></ul>
+
+<p>詳細については、
+<a href="$(HOME)/releases/stable/installmanual">あなたのアーキテクチャ向けのインストールガイド</a>、
+特に<q>TFTP ネットブート用ファイルの準備</q>の章を参照してください。</p>

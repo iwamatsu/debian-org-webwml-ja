@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: l10n.po\n"
+"PO-Revision-Date: 2006-08-11 17:03+0900\n"
+"Last-Translator: Tomohiro KUBOTA <kubota@debian.org>\n"
+"Language-Team: Japanese <debian-doc@debian.or.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../english/international/l10n/dtc.def:11
+msgid "File"
+msgstr "ファイル"
+
+#: ../../english/international/l10n/dtc.def:15
+msgid "Package"
+msgstr "パッケージ"
+
+#: ../../english/international/l10n/dtc.def:19
+msgid "Score"
+msgstr "得点"
+
+#: ../../english/international/l10n/dtc.def:23
+msgid "Translator"
+msgstr "翻訳者"
+
+#: ../../english/international/l10n/dtc.def:27
+msgid "Team"
+msgstr "チーム"
+
+#: ../../english/international/l10n/dtc.def:31
+msgid "Date"
+msgstr "日時"
+
+#: ../../english/international/l10n/dtc.def:35
+msgid "Status"
+msgstr "状態"
+
+#: ../../english/international/l10n/dtc.def:39
+msgid "Strings"
+msgstr "文字列"
+
+#: ../../english/international/l10n/dtc.def:43
+msgid "Bug"
+msgstr "バグ"
+
+#: ../../english/international/l10n/dtc.def:50
+msgid "<get-var lang />, as spoken in <get-var country />"
+msgstr "<get-var country />で話されている<get-var lang />"
+
+#: ../../english/international/l10n/dtc.def:55
+msgid "Unknown language"
+msgstr "不明な言語"
+
+#: ../../english/international/l10n/dtc.def:65
+msgid "This page was generated with data collected on: <get-var date />."
+msgstr "このページは <get-var date />に収集した情報に基づき作成されました。"
+
+#: ../../english/international/l10n/dtc.def:70
+msgid "Before working on these files, make sure they are up to date!"
+msgstr ""
+"これらのファイルについて作業するときは、最新のものであることを確認してくださ"
+"い!"
+
+#: ../../english/international/l10n/dtc.def:80
+msgid "Section: <get-var name />"
+msgstr "セクション <get-var name />"
+
+#: ../../english/international/l10n/menu.def:9
+msgid "L10n"
+msgstr "地域化"
+
+#: ../../english/international/l10n/menu.def:13
+msgid "Language list"
+msgstr "言語一覧"
+
+#: ../../english/international/l10n/menu.def:17
+msgid "Ranking"
+msgstr "ランキング"
+
+#: ../../english/international/l10n/menu.def:21
+msgid "Hints"
+msgstr "ヒント"
+
+#: ../../english/international/l10n/menu.def:25
+msgid "Errors"
+msgstr "エラー"
+
+#: ../../english/international/l10n/menu.def:29
+msgid "POT files"
+msgstr "POT ファイル"
+
+#: ../../english/international/l10n/menu.def:33
+msgid "Hints for translators"
+msgstr "翻訳者への助言"

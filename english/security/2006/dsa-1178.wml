@@ -1,0 +1,17 @@
+<define-tag description>integer overflow</define-tag>
+<define-tag moreinfo>
+<p>It was discovered that an integer overflow in freetype's PCF font code
+may lead to denial of service and potential execution of arbitrary code.</p>
+
+<p>For the stable distribution (sarge) this problem has been fixed in
+version 2.1.7-6.</p>
+
+<p>For the unstable distribution (sid) this problem has been fixed in
+version 2.2.1-5.</p>
+
+<p>We recommend that you upgrade your freetype package.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2006/dsa-1178.data"
+# $Id: dsa-1178.wml,v 1.2 2006-10-02 07:53:37 toddy Exp $
