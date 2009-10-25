@@ -1,7 +1,7 @@
 <define-tag pagetitle>2009 Annual International Debian Conference finished successfully</define-tag>
 <define-tag release_date>2009-08-06</define-tag>
 #use wml::debian::news
-# $Id: 20090806.wml,v 1.4 2009-08-07 08:22:56 tolimar Exp $
+# $Id: 20090806.wml,v 1.5 2009-10-25 16:55:29 victory-guest Exp $
 
 <p>About 250 people from over 35 countries attended this year's Debian
 conference, DebConf9, which took place from July 24th to 30th in
@@ -14,7 +14,7 @@ on ad-hoc projects that require closer collaboration.</p>
 <p>Thanks to strong sponsorship from HP, Junta de Extremadura,
 Telefonica, Linux Magazine, Google, Collabora, Canonical, Qt,
 maemo.org, Comparex, Intel, Ayuntamiento de Cáceres and others, the
-conference's catering, facilities, accomodation as well as abundant
+conference's catering, facilities, accommodation as well as abundant
 computing power were free of charge to all early registrants and
 inexpensive to other attendees. Additionally, this allowed many active
 Debian contributors from both inside and outside Europe to receive
