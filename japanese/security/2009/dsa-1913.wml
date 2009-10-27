@@ -21,4 +21,4 @@ Bug.create ウェブサービス関数に SQL インジェクション脆弱性�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1913.data"
-# $Id: dsa-1913.wml,v 1.1 2009-10-18 09:15:28 spaillard Exp $
+# $Id: dsa-1913.wml,v 1.2 2009-10-26 13:59:06 kmuto Exp $
