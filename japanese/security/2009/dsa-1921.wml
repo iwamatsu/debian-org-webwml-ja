@@ -20,4 +20,4 @@ UTF-8 シーケンスの処理に誤りがあり、攻撃によってこのラ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1921.data"
-# $Id: dsa-1921.wml,v 1.1 2009-10-28 13:48:18 spaillard Exp $
+# $Id: dsa-1921.wml,v 1.1 2009-11-09 02:50:26 kmuto Exp $

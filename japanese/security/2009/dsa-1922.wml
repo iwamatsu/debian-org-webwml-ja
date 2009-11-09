@@ -77,4 +77,4 @@ Vulnerabilities and Exposures project は以下の問題を認識しています
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1922.data"
-# $Id: dsa-1922.wml,v 1.1 2009-10-28 21:29:16 spaillard Exp $
+# $Id: dsa-1922.wml,v 1.1 2009-11-09 02:51:40 kmuto Exp $

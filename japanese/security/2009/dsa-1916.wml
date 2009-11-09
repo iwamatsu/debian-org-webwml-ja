@@ -22,4 +22,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1916.data"
-# $Id: dsa-1916.wml,v 1.1 2009-10-25 10:36:10 toddy Exp $
+# $Id: dsa-1916.wml,v 1.1 2009-11-09 02:46:16 kmuto Exp $
