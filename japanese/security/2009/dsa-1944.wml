@@ -24,4 +24,4 @@ request-tracker が、同じドメインへのアクセス権限を持つ攻撃�
 </define-tag>
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1944.data"
-# $Id: dsa-1944.wml,v 1.1 2009-12-03 14:33:16 spaillard Exp $
+# $Id: dsa-1944.wml,v 1.1 2009-12-04 09:47:39 kmuto Exp $
