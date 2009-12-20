@@ -33,7 +33,7 @@ to the possible execution of arbitrary code.
 (SA-CORE-2009-008)</p>
 
 
-<p>The oldstable distribution (etch) does not contain drupal6.</p></li>
+<p>The oldstable distribution (etch) does not contain drupal6.</p>
 
 <p>For the stable distribution (lenny), these problems have been fixed in
 version 6.6-3lenny3.</p>
@@ -46,4 +46,4 @@ version 6.6-3lenny3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1930.data"
-# $Id: dsa-1930.wml,v 1.2 2009-11-15 01:46:26 kraai Exp $
+# $Id: dsa-1930.wml,v 1.3 2009-12-20 11:36:02 florian Exp $

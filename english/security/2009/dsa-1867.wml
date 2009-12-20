@@ -32,7 +32,7 @@ arbitrary code when visiting a malicious website.</p></li>
 in version 4:3.5.5a.dfsg.1-8etch2.</p>
 
 <p>For the stable distribution (lenny), these problems have been fixed in
-version 4:3.5.10.dfsg.1-0lenny2.</p></li>
+version 4:3.5.10.dfsg.1-0lenny2.</p>
 
 <p>For the testing distribution (squeeze) and the unstable distribution
 (sid), these problems will be fixed soon.</p>
@@ -43,4 +43,4 @@ version 4:3.5.10.dfsg.1-0lenny2.</p></li>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1867.data"
-# $Id: dsa-1867.wml,v 1.1 2009-08-19 18:35:05 spaillard Exp $
+# $Id: dsa-1867.wml,v 1.2 2009-12-20 11:36:02 florian Exp $

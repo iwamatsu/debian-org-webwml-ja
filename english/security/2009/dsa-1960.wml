@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>It was discovered that acpid, the Advanced Configuration and Power
 Interface event daemon, on the oldstable distribution (etch) creates
-its log file with weak permissions, which might expose sensible
+its log file with weak permissions, which might expose sensitive
 information or might be abused by a local user to consume all free disk
 space on the same partition of the file.</p>
 
@@ -21,4 +21,4 @@ versions.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1960.data"
-# $Id: dsa-1960.wml,v 1.1 2009-12-19 20:33:02 spaillard Exp $
+# $Id: dsa-1960.wml,v 1.2 2009-12-20 11:41:24 florian Exp $
