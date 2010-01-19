@@ -5,7 +5,7 @@
 <define-tag startdate>2010-02-06</define-tag>
 <define-tag enddate>2010-02-07</define-tag>
 <define-tag infolink>http://www.fosdem.org/</define-tag>
-<define-tag coord><a href="mailto:wouter@debian.org">Wouter Verhelst</a></define-tag>
+<define-tag coord><a href="mailto:abe@deuxchevaux.org">Axel Beckert</a></define-tag>
 
 <define-tag intro>
 
@@ -36,7 +36,7 @@ solutions.</li>
 <p>A booth has been granted, where members of the Debian project will
 present the upcoming release Debian 6.0 <q>Squeeze</q>.  Of special
 interest for attendees might be the presentation of the newly introduced
-port <q>Debian GNU/kFreeBSD</q> of the Debian operating System to the
+port <q>Debian GNU/kFreeBSD</q> of the Debian operating system to the
 FreeBSD Kernel.</p>
 
 <p>Contrary to previous years, this year
@@ -50,10 +50,11 @@ announcement</a>.</p>
 </define-tag>
 
 #use wml::debian::event
-# $Id: 0206-fosdem.wml,v 1.2 2010-01-18 13:37:23 tolimar Exp $
+# $Id: 0206-fosdem.wml,v 1.5 2010-01-19 13:03:10 tolimar Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://www.fosdem.org'>the FOSDEM official site</a></li>
+ <li><a href="http://wiki.debian.org/DebianEvents/FOSDEM/2010">Wikicoordination page</a></li>
  <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu
  mailing list</a></li>
 </ul>
