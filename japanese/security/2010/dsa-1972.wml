@@ -26,4 +26,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1972.data"
-# $Id: dsa-1972.wml,v 1.2 2010-01-17 11:18:19 martinag-guest Exp $
+# $Id: dsa-1972.wml,v 1.1 2010-01-22 08:55:48 kmuto Exp $

@@ -45,4 +45,4 @@ lenny ではこの問題は既に修正されていましたが、セキュリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1966.data"
-# $Id: dsa-1966.wml,v 1.1 2010-01-07 12:56:57 rhonda-guest Exp $
+# $Id: dsa-1966.wml,v 1.1 2010-01-22 08:53:00 kmuto Exp $

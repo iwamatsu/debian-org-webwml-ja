@@ -26,4 +26,4 @@ php5-curl 拡張をロードしている場合、リモートから攻撃可能�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1970.data"
-# $Id: dsa-1970.wml,v 1.1 2010-01-13 19:49:26 spaillard Exp $
+# $Id: dsa-1970.wml,v 1.1 2010-01-22 08:54:50 kmuto Exp $
