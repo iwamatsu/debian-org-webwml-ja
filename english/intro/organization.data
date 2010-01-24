@@ -128,21 +128,20 @@
   <job <a href="http://buildd.debian.org/"><gettext domain="organization">Autobuilding infrastructure</gettext></a>>
   <ul>
     <job <gettext domain="organization">Wanna-build team</gettext>> <genericemail debian-wb-team@lists.debian.org>
-      <member>Luk Claes
-      <member>Philipp Kern
-      <member>Marc Brockschmidt
       <member>Andreas Barth
-      <member>Ryan Murray
+      <member>Kurt Roeckx
+      <member>Marc Brockschmidt
+      <member>Philipp Kern
     <job <gettext domain="organization">Buildd administration</gettext>> <var>&lt;architecture&gt;</var>@buildd.debian.org
-      <member>Arthur Loiret
+      <member>Andreas Barth
       <member>Aurelien Jarno
       <member>Bastian Blank
       <member>Colin Tuckley
+      <member>Cyril Brulebois
+      <member>Dann Frazier
       <member>Frederik Schüler
-      <member>Guillem Jover
       <member>Kurt Roeckx
       <member>LaMont Jones
-      <member>Luk Claes
       <member>Marc Brockschmidt
       <member>Martin Zobel-Helas
       <member>Peter De Schrijver
@@ -407,7 +406,6 @@
     <note <gettext domain="organization">This is the address to use when encountering problems on one of Debian's machines, including password problems or you need a package installed.</gettext>>
     <member>Luca Filipozzi
     <member>Stephen Gran
-    <member>Martin Schulze
     <member>Peter Palfrader
     <member>Martin Zobel-Helas
     <note <gettext domain="organization">If you have hardware problems with Debian machines, please see <a href="http://db.debian.org/machines.cgi">Debian Machines</a> page, it should contain per-machine administrator information.</gettext>>
