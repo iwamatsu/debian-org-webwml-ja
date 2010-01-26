@@ -22,16 +22,16 @@ There will be an exhibition and a conference track.</p>
 users and developers from the Southern California area (and those who
 have flown in for SCALE).</p>
 
-# <p>Through the special promotional code <q>DBIAN</q> Users
-# and/or Developers will get you a 50% discount off a full
-# access pass to the show.</p>
+<p>Through the special promotional code <q>DBIAN</q> Users
+and/or Developers will get you a 50% discount off a full
+access pass to the show.</p>
 
 </define-tag>
 
 #use wml::debian::event
-# $Id: 0220-scale8x.wml,v 1.1 2010-01-26 04:04:16 don Exp $
+# $Id: 0220-scale8x.wml,v 1.2 2010-01-26 05:07:36 don Exp $
 #Related Links here (free form)
-# There currently is not a discount
+# There is a discount, but it hasn't been publicly announced yet
 # <ul>
 #   <li><a href="http://lists.debian.org/debian-events-na/2009/02/msg00000.html">Announcement for the 50% discount</a></li>
 # </ul>
