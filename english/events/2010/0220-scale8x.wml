@@ -29,9 +29,8 @@ access pass to the show.</p>
 </define-tag>
 
 #use wml::debian::event
-# $Id: 0220-scale8x.wml,v 1.2 2010-01-26 05:07:36 don Exp $
+# $Id: 0220-scale8x.wml,v 1.3 2010-01-26 06:32:53 don Exp $
 #Related Links here (free form)
-# There is a discount, but it hasn't been publicly announced yet
-# <ul>
-#   <li><a href="http://lists.debian.org/debian-events-na/2009/02/msg00000.html">Announcement for the 50% discount</a></li>
-# </ul>
+<ul>
+  <li><a href="http://lists.debian.org/debian-events-na/2010/01/msg00004.html">Announcement for the 50% discount</a></li>
+</ul>
