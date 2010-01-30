@@ -52,4 +52,4 @@ The following Common Vulnerabilities and Exposures project は以下の問
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1979.data"
-# $Id: dsa-1979.wml,v 1.1 2010-01-27 20:55:01 spaillard Exp $
+# $Id: dsa-1979.wml,v 1.1 2010-01-30 03:56:36 kmuto Exp $

@@ -35,4 +35,4 @@ Vulnerabilities and Exposures project は以下の問題を認識しています
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1978.data"
-# $Id: dsa-1978.wml,v 1.1 2010-01-26 22:39:00 spaillard Exp $
+# $Id: dsa-1978.wml,v 1.1 2010-01-30 03:56:14 kmuto Exp $
