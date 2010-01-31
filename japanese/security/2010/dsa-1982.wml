@@ -25,4 +25,4 @@ hybserv が、コマンドオプションによるサービス拒否攻撃に脆
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1982.data"
-# $Id: dsa-1982.wml,v 1.1 2010-01-30 12:59:29 spaillard Exp $
+# $Id: dsa-1982.wml,v 1.1 2010-01-31 13:17:49 kmuto Exp $
