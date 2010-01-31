@@ -99,7 +99,7 @@ which uses the same version of the installer as the last release:
 </if-stable-release>
 
 <p>
-If you prefer to use the latest and greatest, want to help us test a future
+If you prefer to use the latest and greatest, either to help us test a future
 release of the installer, or because of hardware problems or other issues,
 try one of these <strong>daily built images</strong> which contain the latest
 available version of installer components.
@@ -145,7 +145,9 @@ be found in the Installation Guide (see Documentation below).
 	The full sets are only available via jigdo.</li>
 	<li>The multi-arch <em>CD</em> images support i386/amd64/powerpc and
 	alpha/hppa/ia64; the installation is similar to installing
-	from a single architecture netinst image.</li>
+	from a single architecture netinst image.
+	The multi-arch i386/amd64/powerpc CD also supports installing XEN
+	instances, but only for i386 and am64.</li>
 	<li>The multi-arch <em>DVD</em> image supports i386/amd64; the
 	installation is similar to installing from a single architecture full
 	CD image; the DVD also includes the source for all included packages.</li>
