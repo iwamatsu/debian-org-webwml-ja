@@ -40,16 +40,26 @@ IPv6: no
 
 Site: www-master.debian.org
 Alias: www.debian.org
+Alias: klecker.debian.org
 Type: Origin
 WWW-http: /
 WWW-rsync: web.debian.org/
 Country: NL Netherlands
+Sponsor: XS4ALL http://www.xs4all.nl/
 IPv6: no
 
-Site: www.us.debian.org
+Site: senfl.debian.org
 Type: Push-Primary
 WWW-http: /
 Country: US United States
+Sponsor: MIT Computer Science & Artificial Intelligence Lab http://www.csail.mit.edu/
+IPv6: no
+
+Site: bellini.debian.org
+Type: Push-Primary
+WWW-http: /
+Country: CA Canada
+Sponsor: UBC Electrical and Computer Engineering http://www.ece.ubc.ca/
 IPv6: no
 
 Site: cdimage.debian.org
@@ -96,6 +106,7 @@ Sponsor: RapidSwitch Ltd http://www.rapidswitch.com/
 IPv6: no
 
 Site: www.uk.debian.org
+Alias: debian.hands.com
 Type: Push-Primary
 WWW-http: /
 WWW-upstream: www-master.debian.org
@@ -374,6 +385,7 @@ Sponsor: Silver Server http://www.sil.at/
 IPv6: yes
 
 Site: www.at.debian.org
+Alias: www.debian.at
 Type: Push-Secondary
 WWW-http: /
 WWW-rsync: www.debian.org/
@@ -651,19 +663,21 @@ Location: Belfort
 Sponsor: Institut universitaire technologique de Belfort-Montbeliard, Universit&eacute; de Franche Comt&eacute; http://www.iut-bm.univ-fcomte.fr/
 IPv6: no
 
-Site: ftp.eudil.fr
+Site: debian.polytech-lille.fr
+Alias: ftp.eudil.fr
 Type: leaf
-Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i386 kfreebsd-amd64 mips mipsel powerpc s390 sparc
+Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 m68k mips mipsel powerpc s390 sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
+Archive-rsync: debian/
 Archive-upstream: ftp.de.debian.org
-NonUS-ftp: /debian-non-US/
-NonUS-http: /debian-non-US/
-Maintainer: Patrick Menager <Patrick.Menager@eudil.fr>, admin@ftp.eudil.fr
+IPv6: yes
+Maintainer: Patrick Menager <cinfo@polytech-lille.fr>
 Country: FR France
-Location: Lille
-Sponsor: Ecole Universitaire D'Ing&eacute;nieurs de Lille http://www.eudil.fr/
-IPv6: no
+Location: Villeneuve d'ascq, université de Lille1
+Comment: 100Mbps (RENATER)
+Sponsor: Polytech'Lille http://www.polytech-lille.fr/
+
 
 Site: ftp.pt.debian.org
 Alias: ftp.uevora.pt
@@ -1215,6 +1229,7 @@ Sponsor: University of Chicago http://www.uchicago.edu/
 IPv6: no
 
 Site: www.za.debian.org
+Alias: www.leg.uct.ac.za
 Type: Push-Primary
 WWW-http: /
 WWW-upstream: www-master.debian.org
@@ -1225,6 +1240,7 @@ Sponsor: University of Cape Town Linux Enthusiasts Group http://www.leg.uct.ac.z
 IPv6: no
 
 Site: www.es.debian.org
+Alias: debian.ci.uv.es
 Type: Push-Secondary
 WWW-http: /
 WWW-upstream: www.de.debian.org
@@ -4584,11 +4600,12 @@ IPv6: no
 Site: mirrors.nfsi.pt
 Type: leaf
 Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i386 kfreebsd-amd64 mips mipsel powerpc s390 sparc
-Archive-ftp: /pub/debian/
+Archive-ftp: /debian/
 Archive-http: /debian/
-X-CDImage-ftp: /pub/debian-cd/
-X-CDImage-http: /debian-cd/
-Archive-upstream: ftp.uk.debian.org
+Archive-upstream: ftp.pt.debian.org
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-upstream: ftp.de.debian.org
 Maintainer: Nuno Vieira <nuno.vieira@nfsi.pt>
 Country: PT Portugal
 Location: Lisbon
@@ -6428,7 +6445,7 @@ Comments: 1Gbps
 
 Site: mirror2.corbina.ru
 Type: leaf
-Archive-architecture: alpha amd64 arm hppa hurd-i386 i386 ia64 m68k mips mipsel powerpc s390 sparc
+Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i386 kfreebsd-amd64 m68k mips mipsel powerpc s390 sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
 IPv6: no
