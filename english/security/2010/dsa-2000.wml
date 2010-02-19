@@ -8,8 +8,8 @@ libraries used in applications like MPlayer:</p>
 may lead to denial of service or the execution of arbitrary code
 if the user is tricked into opening a malformed media file or stream.</p>
 
-<p>Affected and updated have been the implementations of the following
-codecs and container formats:</p>
+<p>The implementations of the following affected codecs and container formats
+have been updated:</p>
 
 <ul>
 <li>the Vorbis audio codec</li>
@@ -32,4 +32,4 @@ version 4:0.5+svn20090706-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2000.data"
-# $Id: dsa-2000.wml,v 1.1 2010-02-18 22:06:36 spaillard Exp $
+# $Id: dsa-2000.wml,v 1.2 2010-02-19 08:04:56 kaare-guest Exp $
