@@ -50,4 +50,4 @@ Common Vulnerabilities and Exposures project は以下の問題を認識して
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1999.data"
-# $Id: dsa-1999.wml,v 1.1 2010-02-18 20:40:32 spaillard Exp $
+# $Id: dsa-1999.wml,v 1.1 2010-02-23 03:27:29 kmuto Exp $
