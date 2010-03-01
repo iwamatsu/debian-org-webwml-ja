@@ -117,4 +117,4 @@ applicable, will be fixed in updates to linux-2.6 and linux-2.6.24.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1996.data"
-# $Id: dsa-1996.wml,v 1.1 2010-02-18 20:47:07 spaillard Exp $
+# $Id: dsa-1996.wml,v 1.1 2010-03-01 09:34:20 kmuto Exp $
