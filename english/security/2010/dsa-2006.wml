@@ -1,8 +1,7 @@
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
 <p>Several vulnerabilities have been discovered in sudo, a program
-designed to allow a sysadmin to give limited root privileges to users
-database server.
+designed to allow a sysadmin to give limited root privileges to users.
 The Common Vulnerabilities and Exposures project identifies the
 following problems:</p>
 
@@ -36,4 +35,4 @@ shortly.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2006.data"
-# $Id: dsa-2006.wml,v 1.1 2010-03-03 10:47:03 rhonda-guest Exp $
+# $Id: dsa-2006.wml,v 1.2 2010-03-03 11:36:00 kaare-guest Exp $
