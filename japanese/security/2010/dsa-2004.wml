@@ -33,4 +33,4 @@ Vulnerabilities and Exposures project は以下の問題を認識しています
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2004.data"
-# $Id: dsa-2004.wml,v 1.1 2010-03-01 19:32:49 spaillard Exp $
+# $Id: dsa-2004.wml,v 1.1 2010-03-05 01:48:29 kmuto Exp $

@@ -35,4 +35,4 @@ pseudo コマンドと実行ファイル名の対応付けを許してしまう�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2006.data"
-# $Id: dsa-2006.wml,v 1.2 2010-03-03 11:36:00 kaare-guest Exp $
+# $Id: dsa-2006.wml,v 1.1 2010-03-05 01:49:33 kmuto Exp $

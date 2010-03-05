@@ -135,4 +135,4 @@ ommon Vulnerabilities and Exposures project は以下の問題を認識してい
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2005.data"
-# $Id: dsa-2005.wml,v 1.1 2010-03-01 19:46:42 spaillard Exp $
+# $Id: dsa-2005.wml,v 1.1 2010-03-05 01:49:11 kmuto Exp $
