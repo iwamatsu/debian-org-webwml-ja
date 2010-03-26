@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PAGENAME="Contributing"
-# $Id: contributing.wml,v 1.36 2010-03-26 14:06:01 tolimar Exp $
+# $Id: contributing.wml,v 1.37 2010-03-26 14:45:26 tolimar Exp $
 
 <p>
 Debian Project News is in need of contributors. Putting out Debian Project
@@ -16,7 +16,7 @@ and <a href="mailto:debian-publicity@lists.debian.org">contact us</a> in time.
 </p>
 
 <p>
-More information is available on wiki.debian.org. The most important pages
+More information is available in <a href="http://wiki.debian.org/">Debian's wiki</a>. The most important pages
 are:</p>
 
 <ul>
