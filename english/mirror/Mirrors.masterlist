@@ -757,6 +757,7 @@ IPv6: no
 Site: www-debian.linux.org.tw
 WWW-http: /
 WWW-upstream: www-master.debian.org
+Type: Push-Primary
 Maintainer: Andrew Lee <andrew@linux.org.tw>
 Country: TW Taiwan
 Location: Taipei
@@ -1790,7 +1791,7 @@ Archive-architecture: amd64 hurd-i386 i386 powerpc
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-upstream: http.us.debian.org
-Maintainer: Dhidhel Dedel Duel <dhidhel@katmai.its.ac.id>
+Maintainer: Idris Winarno <idris@eepis-its.edu>, idris@kebo.vlsm.org
 Country: ID Indonesia
 Location: Surabaya
 Sponsor: vLSM.org http://www.vlsm.org/
@@ -6101,7 +6102,7 @@ Sponsor: Nautile (ISP) http://www.nautile.nc/
 X-Comment: generates ISOs localy using jigdo
 
 Site: www.debian.nautile.nc
-Type: Push-Secondary
+Type: Push-Primary
 WWW-http: /
 WWW-upstream: www-master.debian.org
 IPv6: no
