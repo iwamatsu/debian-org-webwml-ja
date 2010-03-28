@@ -1940,17 +1940,6 @@ Sponsor: Linux Users of Central Illinois http://www.luci.org/
 Sponsor: St. Louis Linux Users Group http://www.stllinux.org/
 IPv6: no
 
-Site: ftp.externet.hu
-Type: leaf
-X-Archive-architecture: i386 amd64
-X-Archive-ftp: /debian/
-X-Archive-http: /debian/
-X-Archive-upstream: ftp.debian.org
-Maintainer: hostmaster@externet.hu
-Country: HU Hungary
-Sponsor: Externet http://www.externet.hu/
-IPv6: no
-
 Site: ftp.fu-berlin.de
 Alias: Hefe.ZEDAT.FU-Berlin.DE
 Type: leaf
@@ -2976,9 +2965,6 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.us.debian.org
-X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
-X-CDImage-architecture: i386
 Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
@@ -2990,7 +2976,6 @@ Country: CN China
 Location: Shanghai
 Sponsor: GeekBone http://www.geekbone.org/
 Comment: 100M connection to China backbone network
-X-Comment: outdated ISO ; spaillar 2007/04/07
 IPv6: no
 
 Site: debian.uni.edu.ni
@@ -3161,9 +3146,9 @@ IPv6: no
 Site: debian.ihug.co.nz
 Type: leaf
 Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i386 kfreebsd-amd64 mips mipsel powerpc s390 sparc
-X-Archive-ftp: /debian/
-X-Archive-http: /debian/
-Archive-upstream: ftp.se.debian.org
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-upstream: ftp.au.debian.org
 Security-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
 Security-ftp: /debian-security/
 Security-http: /debian-security/
@@ -4136,12 +4121,12 @@ IPv6: no
 Site: ftp.mipt.ru
 Alias: petrel.telecom.mipt.ru
 Type: leaf
-X-Archive-ftp: /debian/
-X-Archive-rsync: mirror/debian/
-X-Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i386 kfreebsd-amd64 mips mipsel powerpc s390 sparc
-X-Security-ftp: /mirror/debian-security/
-X-Security-rsync: mirror/debian-security/
-X-Archive-upstream: ftp.pl.debian.org
+Archive-ftp: /debian/
+Archive-rsync: mirror/debian/
+Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i386 kfreebsd-amd64 mips mipsel powerpc s390 sparc
+Archive-upstream: mirror.yandex.ru
+Security-ftp: /mirror/debian-security/
+Security-rsync: mirror/debian-security/
 Maintainer: Olleg Samoylov <olleg@mipt.ru>
 Country: RU Russia
 Updates: once
@@ -4516,7 +4501,7 @@ Type: Push-Secondary
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
-X-CDImage-ftp: /ISO/debian/
+CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Archive-upstream: ftp.tw.debian.org
