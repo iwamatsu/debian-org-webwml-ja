@@ -32,8 +32,8 @@ of March at 15:00 at the Univention Open Source Stage at hall 2 stand B36.</p>
 
 </define-tag>
 
-#use wml::debian::event
-# $Id: 0302-cebit.wml,v 1.2 2010-02-23 12:27:11 tolimar Exp $
+#use wml::debian::past_event
+# $Id: 0302-cebit.wml,v 1.3 2010-03-30 08:43:39 tolimar Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.univention.de/cebit2010.html">Univention</a></li>

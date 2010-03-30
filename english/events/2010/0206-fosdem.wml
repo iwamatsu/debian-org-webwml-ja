@@ -49,8 +49,8 @@ announcement</a>.</p>
 
 </define-tag>
 
-#use wml::debian::event
-# $Id: 0206-fosdem.wml,v 1.5 2010-01-19 13:03:10 tolimar Exp $
+#use wml::debian::past_event
+# $Id: 0206-fosdem.wml,v 1.6 2010-03-30 08:43:38 tolimar Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://www.fosdem.org'>the FOSDEM official site</a></li>
