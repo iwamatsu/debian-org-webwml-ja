@@ -24,4 +24,4 @@ libcurl に、アプリケーションが libcurl に自動的にデータ伸張
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2023.data"
-# $Id: dsa-2023.wml,v 1.1 2010-03-28 11:23:36 spaillard Exp $
+# $Id: dsa-2023.wml,v 1.1 2010-04-01 13:00:00 kmuto Exp $
