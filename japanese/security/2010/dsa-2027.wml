@@ -55,4 +55,4 @@ Common Vulnerabilities and Exposures project は以下の問題を認識して�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2027.data"
-# $Id: dsa-2027.wml,v 1.1 2010-04-03 20:53:16 spaillard Exp $
+# $Id: dsa-2027.wml,v 1.1 2010-04-09 04:23:40 kmuto Exp $
