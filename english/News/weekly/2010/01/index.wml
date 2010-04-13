@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.2 2010-04-12 07:13:47 tolimar Exp $
+$Id: index.wml,v 1.5 2010-04-13 09:47:26 tolimar Exp $
 $Rev: 116 $
   -->
 
@@ -91,7 +91,7 @@ of time change for the DPL term?</a></li>
 <a name="2"></a>
 <h2>Bits from the Release Team</h2>
 
-<p>Release manager Adam Barrat sent <a
+<p>Release manager Adam Barratt sent <a
 href="http://lists.debian.org/debian-devel-announce/2010/04/msg00001.html">Bits
 from the release team</a> which gave an overview of the state of the
 upcoming release, Debian 6.0 <q>Squeeze</q>.  Adam admits that the
@@ -110,7 +110,7 @@ more detailed list on how to help with the release.</p>
 <h2>Estimates of the number of Debian users</h2>
 
 <p>In the discussion about the upcoming elections for the Debian Project
-Leader, <a href="http://lists.debian.org/debian-vote/2010/03/msg00205.html">Antony
+Leader, <a href="http://lists.debian.org/debian-vote/2010/03/msg00205.html">Anthony
 Towns</a> wondered how many users Debian has.  Several people discussed
 who is a <q>Debian user</q> and if users of Debian derivatives would count,
 too.  Another topic was how accurate <a
@@ -250,7 +250,7 @@ duties and problems the ftp-team is facing.</p>
 with Ben Armstrong</a> about his work on the
 <a href="http://wiki.debian.org/DebianEeePC">Debian Eee PC project</a>.</p>
 
-<p><acronym lang="en" title="Debian System Administrator">DSA</a> Martin Zobel-Helas <a href="http://lists.debian.org/debian-devel-announce/2010/04/msg00004.html">announced</a>,
+<p><acronym lang="en" title="Debian System Administrator">DSA</acronym> Martin Zobel-Helas <a href="http://lists.debian.org/debian-devel-announce/2010/04/msg00004.html">announced</a>,
 that the Debian Project got four powerful MIPS machines donated by <a
 href="http://www.movidis.com/">Movidis</a>.  Two or three will be used as
 build daemon, the remaining one is accessible for all Developers as porter
