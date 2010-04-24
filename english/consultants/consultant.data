@@ -5772,9 +5772,9 @@ Chennai-600020, <INc>>
 <name	 Chris Petrik>
 <company Officialunix Consulting>
 <address calle 6 no 86A Merida Yucatan, <MXc>>
-<phone	 52 999 9205228/9484420>
-<email	 consulting at officialunix dot com>
-<URL	 "http://www.officialunix.com/pg/offered_services">
+<phone	 999 9200809>
+<email	 consulting@officialunix.com>
+<URL	 "http://www.officialunix.com/">
 <rates	  Rates very from 25/hr to 195 one time>
 </p>
 
@@ -9440,7 +9440,7 @@ open-source projects.>
 <address 505 Washington St SE #1, Olympia, WA 98501, <USc>>
 <phone   360-789-5921>
 <email   zeet@zeet.net>
-<rates   $65/hour>
+<rates   $80/hour>
 </p>
 
 # Consultant: US
@@ -9614,6 +9614,30 @@ discount for students, educations and non-profits.>
 <URL	 "http://www.psychsoftek.com">
 <rates	 $65 per hour>
 <additional_info psychsoft>
+</p>
+
+# Consultant: US
+<p>
+<name	 Mark Linn>
+<company XWC Solutions>
+<address PO Box 7894, Huntington Beach, CA 92615, <USc>>
+<phone	 949.287.4896>
+<email	 info@xwcsolutions.com>
+<URL	 "http://www.xwcsolutions.com">
+<rates	 Negotiable depending on size of project>
+</p>
+
+# Consultant: US
+<p>
+<name	 Terry Inzauro>
+<company Highly Available Solutions>
+<address 222 S. 15th Street Suite 3B Omaha, NE 68102, <USc>>
+<phone	 888.884.7967 x 103>
+<fax  	 402.884.7970>
+<email	 tinzauro@ha-solutions.net>
+<URL	 "http://ha-solutions.net">
+<rates	 $95USD/hr>
+<additional_info ha_solutions>
 </p>
 
 
