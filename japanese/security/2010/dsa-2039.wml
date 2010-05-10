@@ -18,4 +18,4 @@ cacti にサニタイズ漏れがあり、SQL インジェクション攻撃を�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2039.data"
-# $Id: dsa-2039.wml,v 1.1 2010-04-24 07:54:51 spaillard Exp $
+# $Id: dsa-2039.wml,v 1.1 2010-05-10 08:59:01 kmuto Exp $
