@@ -377,6 +377,7 @@ Backports-ftp: /backports.org/
 Backports-http: /backports.org/
 Backports-rsync: backports.org/
 Backports-upstream: syncproxy3.eu.debian.org
+Backports-method: push
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
@@ -411,6 +412,10 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp-master.debian.org
+Backports-ftp: /backports.org/
+Backports-http: /backports.org/
+Backports-rsync: backports.org/
+Backports-upstream: syncproxy3.eu.debian.org
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
@@ -1840,6 +1845,7 @@ Backports-ftp: /backports.org/
 Backports-http: /backports.org/
 Backports-rsync: backports.org/
 Backports-upstream: syncproxy3.eu.debian.org
+Backports-method: push
 NonUS-ftp: /debian-non-US/
 NonUS-http: /debian-non-US/
 NonUS-rsync: debian-non-US/
@@ -3990,6 +3996,11 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.de.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: syncproxy3.eu.debian.org
+Backports-method: push
 Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
@@ -5132,6 +5143,7 @@ Backports-ftp: /backports.org/
 Backports-http: /backports.org/
 Backports-rsync: backports.org/
 Backports-upstream: syncproxy3.eu.debian.org
+Backports-method: push
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
