@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.4 2010-05-21 02:48:19 taffit-guest Exp $
+$Id: index.wml,v 1.5 2010-05-22 15:50:53 taffit-guest Exp $
 $Rev: 222 $
   -->
 
@@ -348,7 +348,6 @@ others</a>):</p>
 <li><a href="http://packages.debian.org/unstable/main/python-django-markupfield">python-django-markupfield &mdash; custom Django field for easy use of markup in text fields</a></li>
 <li><a href="http://packages.debian.org/unstable/main/python-flask">python-flask &mdash; micro web framework based on Werkzeug, Jinja2 and good intentions</a></li>
 <li><a href="http://packages.debian.org/unstable/main/python-nids">python-nids &mdash; Python binding for libnids (aka pynids)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/python-prctl">python-prctl &mdash; Python interface to the prctl() syscall</a></li>
 <li><a href="http://packages.debian.org/unstable/main/python-prctl">python-prctl &mdash; Python interface to the prctl() syscall</a></li>
 <li><a href="http://packages.debian.org/unstable/main/python-xklavier">python-xklavier &mdash; Python binding for libxklavier, a X Keyboard Extension API</a></li>
 <li><a href="http://packages.debian.org/unstable/main/rabbitvcs-cli">rabbitvcs-cli &mdash; Command line interface for RabbitVCS</a></li>
