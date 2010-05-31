@@ -18,4 +18,4 @@ barnowl の CC: 処理に、任意のコードの実行に繋がるバッファ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2049.data"
-# $Id: dsa-2049.wml,v 1.1 2010-05-25 13:58:32 kmuto Exp $
+# $Id: dsa-2049.wml,v 1.2 2010-05-31 13:52:01 kmuto Exp $
