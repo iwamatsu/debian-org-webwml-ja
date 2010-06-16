@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 
@@ -26,4 +26,4 @@ CPU の多量の消費や、ログによるディスクの多量の消費とな�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1948.data"
-# $Id: dsa-1948.wml,v 1.1 2009-12-08 20:41:51 spaillard Exp $
+# $Id: dsa-1948.wml,v 1.2 2010-06-16 10:34:18 victory-guest Exp $
