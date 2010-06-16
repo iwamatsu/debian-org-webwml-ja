@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -32,4 +32,4 @@ wiki ページに外部の画像を表示可能です。これは、管理下に
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2022.data"
-# $Id: dsa-2022.wml,v 1.1 2010-04-01 12:59:22 kmuto Exp $
+# $Id: dsa-2022.wml,v 1.2 2010-06-16 09:54:20 victory-guest Exp $
