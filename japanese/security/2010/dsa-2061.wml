@@ -20,4 +20,4 @@ samba デーモンのクラッシュによるサービス拒否攻撃などを�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2061.data"
-# $Id: dsa-2061.wml,v 1.1 2010-06-19 10:01:48 spaillard Exp $
+# $Id: dsa-2061.wml,v 1.1 2010-06-20 10:50:56 kmuto Exp $
