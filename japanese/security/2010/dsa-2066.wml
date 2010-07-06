@@ -19,4 +19,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2066.data"
-# $Id: dsa-2066.wml,v 1.1 2010-07-01 23:39:28 rhonda-guest Exp $
+# $Id: dsa-2066.wml,v 1.1 2010-07-06 00:09:24 kmuto Exp $

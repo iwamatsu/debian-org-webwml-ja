@@ -70,4 +70,4 @@ Exposures project は以下の問題を認識しています。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2064.data"
-# $Id: dsa-2064.wml,v 1.1 2010-06-28 20:35:40 spaillard Exp $
+# $Id: dsa-2064.wml,v 1.1 2010-07-06 00:05:06 kmuto Exp $
