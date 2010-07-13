@@ -1803,6 +1803,16 @@
 <rates	 negotiable>
 </p>
 
+# Consultant: Brazil
+<p>
+<name	 Thalysson Sarmento>
+<address Rua Jos&eacute; Hailton dos Santos - Tabuleiro dos Martins, Macei&oacute;, <BR<c>>
+<phone	 +55 (82)-88266167>
+<email	 sarmento@bsd.com.br>
+<rates	 Negotiable>
+<additional_info thalysson_sarmento>
+</p>
+
 <h1><a name="Bulgaria"><BGc>:</a></h1>
 
 # Consultant: Bulgaria
@@ -4903,6 +4913,16 @@ Chennai-600020, <INc>>
 <URL     "http://www.breakt.co.il/">
 <rates   Negotiable.>
 <additional_info alex_r>
+</p>
+
+# Consultant: Israel
+<p>
+<name	 Antony Gelberg>
+<address Tel Aviv-Yafo, <ILc>>
+<email	 antony@wayforth.co.uk>
+<rates	 Dependent on project. Development and other fixed-term projects
+         estimated before commencement of work, support and maintenance
+         charged by the hour or contract.>
 </p>
 
 <h1><a name="Italy"><ITc>:</a></h1>
@@ -8195,19 +8215,6 @@ non-profit.>
 <URL	 "http://www.chocky.org/">
 <rates	 Please enquire.>
 <additional_info peter_naulls>
-</p>
-
-# Consultant: UK
-<p>
-<name	 Antony Gelberg>
-<company Wayforth>
-<address London, <UKc>>
-<phone	 +44-7747-533-543>
-<email	 antony@wayforth.co.uk>
-<URL	 "http://www.wayforth.co.uk/">
-<rates	 Dependent on project.  Development and other defined projects
-         estimated before commencement of work, support and maintenance
-         charged by the hour or alternatively contract.>
 </p>
 
 # Consultant: UK
