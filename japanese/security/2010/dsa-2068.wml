@@ -19,4 +19,4 @@ python-cjson にバッファオーバフローの欠陥があり、リモート�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2068.data"
-# $Id: dsa-2068.wml,v 1.1 2010-07-12 07:14:24 rhonda-guest Exp $
+# $Id: dsa-2068.wml,v 1.1 2010-07-18 00:09:59 kmuto Exp $
