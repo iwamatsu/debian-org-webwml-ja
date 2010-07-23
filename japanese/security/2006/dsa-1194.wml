@@ -1,3 +1,4 @@
+#use wml::debian::translation-check translation="1.1"
 <define-tag description>整数オーバフロー</define-tag>
 <define-tag moreinfo>
 <p>Windows メタファイル形式のファイルを読み込むためのライブラリ
@@ -16,4 +17,4 @@ libwmf に整数オーバフローが発見されました。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1194.data"
-# $Id: dsa-1194.wml,v 1.2 2009-08-22 11:08:17 osamu Exp $
+# $Id: dsa-1194.wml,v 1.3 2010-07-23 17:16:20 bas Exp $
