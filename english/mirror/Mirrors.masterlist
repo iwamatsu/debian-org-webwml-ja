@@ -4991,7 +4991,7 @@ Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-i3
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
-Archive-upstream: ftp-master.debian.org
+Archive-upstream: syncproxy.wna.debian.org
 Backports-ftp: /backports.org/
 Backports-http: /backports.org/
 Backports-rsync: backports.org/
@@ -6877,3 +6877,14 @@ Maintainer: Tehnic xServers <tehnic@xservers.ro>
 Country: RO Romania
 Location: Bucharest
 Comment: Romania: 1 Gbps, International: 20 Mbps
+
+Site: debian.turkmesh.com.tr
+Type: Push-Secondary
+Archive-architecture: amd64 i386 ia64
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: ftp.tr.debian.org
+Maintainer: Levent YILDIRIM <levent.yildirim@turkmesh.com.tr>
+Country: TR Turkey
+Sponsor: TM Telekom http://www.turkmesh.com.tr/
+Comment: 100Mbps
