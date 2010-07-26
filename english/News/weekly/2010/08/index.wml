@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.1 2010-07-26 07:58:34 tolimar Exp $
+$Id: index.wml,v 1.2 2010-07-26 17:03:15 taffit-guest Exp $
 $Rev: 568 $
 Status: content-frozen
   -->
@@ -41,7 +41,7 @@ Debian community. Topics covered in this issue include:</p>
   <li><a href="#1">Debian Day in New York coming up</a></li>
   <li><a href="#2">Mini Debian conference in India</a></li>
   <li><a href="#3">Debian Installer beta1 coming up</a></li>
-  <li><a href="#4"><q>This week in Debian</q> podcast?<a></li>
+  <li><a href="#4"><q>This week in Debian</q> podcast?</a></li>
   <li><a href="#5">How to make Debian more attractive for users?</a></li>
   <li><a href="#6">... and much more</a>.</li>
 </ul>
