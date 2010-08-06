@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian 6.0 <q>Squeeze</q> frozen</define-tag>
 <define-tag release_date>2010-08-06</define-tag>
 #use wml::debian::news
-# $Id: 20100806.wml,v 1.1 2010-08-06 14:04:57 zobel Exp $
+# $Id: 20100806.wml,v 1.2 2010-08-06 20:27:28 spaillard Exp $
 
 <p>In this very moment, during the ongoing annual Debian Developer
 Conference "Debconf10" in New York, Debian's release managers have
@@ -34,7 +34,7 @@ in the installer and on all Linux architectures.</p>
 </ul></p>
 
 <p>
-Debian 6.0 <q>Squeeze</q> will also be accompied by variants based on the
+Debian 6.0 <q>Squeeze</q> will also be accompanied by variants based on the
 FreeBSD kernel for amd64 and i386 machines, together with the GNU
 libc and userland as a "technology preview". Users of these versions
 however should be warned that the quality of these ports is still
