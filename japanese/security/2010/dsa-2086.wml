@@ -31,4 +31,4 @@ Vulnerabilities and Exposures project は以下の問題を認識しています
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2086.data"
-# $Id: dsa-2086.wml,v 1.1 2010-08-04 09:00:51 rhonda-guest Exp $
+# $Id: dsa-2086.wml,v 1.1 2010-08-16 03:22:57 kmuto Exp $
