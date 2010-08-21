@@ -1,6 +1,6 @@
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
-<p>Several remote vulnerabilities have been discovered in PHP 5, an hypertext
+<p>Several remote vulnerabilities have been discovered in PHP&nbsp;5, an hypertext
 preprocessor.
 The Common Vulnerabilities and Exposures project identifies the following
 problems:</p>
@@ -47,4 +47,4 @@ these problems will be fixed soon.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2089.data"
-# $Id: dsa-2089.wml,v 1.1 2010-08-21 11:16:50 spaillard Exp $
+# $Id: dsa-2089.wml,v 1.2 2010-08-21 13:13:05 spaillard Exp $
