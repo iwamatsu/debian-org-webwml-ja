@@ -88,4 +88,4 @@ Debian bug ページをご覧ください。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2094.data"
-# $Id: dsa-2094.wml,v 1.1 2010-08-23 14:08:53 kmuto Exp $
+# $Id: dsa-2094.wml,v 1.2 2010-08-24 09:27:54 kmuto Exp $
