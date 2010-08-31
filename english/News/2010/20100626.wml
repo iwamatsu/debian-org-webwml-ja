@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 5.0 updated</define-tag>
 <define-tag release_date>2010-06-26</define-tag>
 #use wml::debian::news
-# $Id: 20100626.wml,v 1.1 2010-06-26 14:26:20 joey Exp $
+# $Id: 20100626.wml,v 1.2 2010-08-31 03:06:52 taffit-guest Exp $
 
 <define-tag release>5.0</define-tag>
 <define-tag codename>lenny</define-tag>
@@ -31,8 +31,8 @@ a few adjustment to serious problems.</p>
 
 <p>Please note that this update does not constitute a new version of Debian
 GNU/Linux 5.0 but only updates some of the packages included.  There is
-no need to throw away 5.0 CDs or DVDs but only to update via an up-to-
-date Debian mirror after an installation, to cause any out of date
+no need to throw away 5.0 CDs or DVDs but only to update via an up-to-date
+Debian mirror after an installation, to cause any out of date
 packages to be updated.</p>
 
 <p>Those who frequently install updates from security.debian.org won't have
