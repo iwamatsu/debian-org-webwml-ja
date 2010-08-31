@@ -38,4 +38,4 @@ project identifies the following problems:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2097.data"
-# $Id: dsa-2097.wml,v 1.1 2010-08-29 17:58:41 spaillard Exp $
+# $Id: dsa-2097.wml,v 1.1 2010-08-31 12:41:45 kmuto Exp $
