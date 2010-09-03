@@ -18,4 +18,4 @@ SigComp 汎用デコンプレッサのディスセクタに複数の実装ミス
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2101.data"
-# $Id: dsa-2101.wml,v 1.1 2010-08-31 22:35:21 spaillard Exp $
+# $Id: dsa-2101.wml,v 1.1 2010-09-03 08:17:34 kmuto Exp $
