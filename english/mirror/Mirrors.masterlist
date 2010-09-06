@@ -1424,6 +1424,9 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-nfs: /debian/
 Archive-upstream: ftp.cz.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-upstream: www.backports.org 
 Maintainer: ftp@lists.sh.cvut.cz
 Country: CZ Czech Republic
 Location: Prague
@@ -1924,6 +1927,10 @@ Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-am
 Archive-ftp: /debian/debian/
 Archive-http: /debian/debian/
 Archive-upstream: ftp.au.debian.org
+X-Backports-ftp: /debian/debian-backports/
+X-Backports-http: /debian/debian-backports/
+X-Backports-rsync: debian-backportsd/
+X-Backports-upstream: www.backports.org
 CDImage-ftp: /debian/debian-cd/
 CDImage-http: /debian/debian-cd/
 NonUS-ftp: /debian/debian-non-US/
@@ -2525,6 +2532,10 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.fi.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+X-Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
@@ -5064,6 +5075,10 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: gulus.usherbrooke.ca
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 Security-rsync: debian-security/
@@ -6001,6 +6016,10 @@ Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-am
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
+X-Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+X-Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 IPv6: no
 Archive-upstream: debian.lcs.mit.edu
 Updates: twice
@@ -6967,6 +6986,9 @@ Archive-architecture: amd64 i386
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-upstream: ftp.nl.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-upstream: ftp.nl.debian.org
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-upstream: ftp.nl.debian.org
