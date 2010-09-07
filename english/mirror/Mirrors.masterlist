@@ -2097,6 +2097,9 @@ Archive-architecture: amd64 i386
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-upstream: ftp.de.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-upstream: www.backports.org
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 Volatile-ftp: /debian-volatile/
@@ -3486,6 +3489,10 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.tw.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
@@ -3509,6 +3516,10 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: debian.osuosl.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
@@ -3679,6 +3690,10 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: syncproxy.wna.debian.org
+X-Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+X-Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 NonUS-ftp: /debian-non-US/
 NonUS-http: /debian-non-US/
 NonUS-rsync: debian-non-US/
@@ -3902,6 +3917,10 @@ Archive-http: /debian/
 Archive-ftp: /pub/Mirrors/debian.org/debian/
 Archive-rsync: debian/debian/
 Archive-upstream: ftp.de.debian.org
+X-Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+X-Backports-rsync: debian-backports/
+Backports-upstream: www.backports.org 
 CDImage-architecture: amd64 i386 ia64 powerpc
 CDImage-http: /debian-cd/
 CDImage-ftp: /pub/Mirrors/debian.org/debian-cd/
@@ -5264,8 +5283,13 @@ Type: Push-Secondary
 X-Archive-architecture: alpha amd64 arm hppa hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
 X-Archive-http: /debian/
 X-Archive-rsync: debian/
-IPv6: no
 Archive-upstream: hanzubon.jp
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: syncproxy3.eu.debian.org
+Backports-method: push
+IPv6: no
 Maintainer: Kenshi Muto <kmuto@debian.org>
 Country: JP Japan
 Sponsor: Topstudio Corporation http://www.topstudio.co.jp/
