@@ -1,7 +1,7 @@
 <define-tag pagetitle>Paris Mini-DebConf 2010</define-tag>
 <define-tag release_date>2010-09-08</define-tag>
 #use wml::debian::news
-# $Id: 20100908.wml,v 1.2 2010-09-08 13:21:09 tolimar Exp $
+# $Id: 20100908.wml,v 1.3 2010-09-08 16:36:31 tolimar Exp $
 
 
 <p>Debian France is organizing the first Paris Mini-DebConf. This event
@@ -20,7 +20,7 @@ wish to attend, it is *mandatory* to add some information about yourself
 to this page because of University security.</p>
 
 <p>We are in the process of defining the talks and workshops. If you wish
-to contribute, please let us know by dropping me an email or describing
+to contribute, please let us know by <a href="mailto:chaica@ohmytux.com">dropping an email</a> or describing
 your talk/workshop in the <a
 href="http://wiki.debconf.org/wiki/Miniconf-Paris/2010">DebConf wiki</a>
 before September 30. Most of the talk will be in French, but you're welcome
