@@ -1,7 +1,7 @@
 <define-tag pagetitle>Paris Mini-DebConf 2010</define-tag>
 <define-tag release_date>2010-09-08</define-tag>
 #use wml::debian::news
-# $Id: 20100908.wml,v 1.1 2010-09-08 08:43:29 tolimar Exp $
+# $Id: 20100908.wml,v 1.2 2010-09-08 13:21:09 tolimar Exp $
 
 
 <p>Debian France is organizing the first Paris Mini-DebConf. This event
@@ -32,7 +32,7 @@ thank:</p>
 
 <p><a href="http://www.univ-paris-diderot.fr/">Universit&eacute; Paris
 Diderot</a> - Paris 7 (for offering the venues), <a
-href="http://www.edf.fre/">EDF</a>,
+href="http://www.edf.fr/">EDF</a>,
 <a href="http://gandi.net/">Gandi.net</a> and <a
 href="http://www.easter-eggs.fr/">Easter-eggs</a>.</p>
  
