@@ -17,4 +17,4 @@ couchdb を実行させることにより、任意のコードを実行可能で
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2107.data"
-# $Id: dsa-2107.wml,v 1.1 2010-09-09 11:50:50 spaillard Exp $
+# $Id: dsa-2107.wml,v 1.1 2010-09-13 10:58:09 kmuto Exp $
