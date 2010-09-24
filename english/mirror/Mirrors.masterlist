@@ -1032,10 +1032,11 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.se.debian.org
+Archive-method: push
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
-CDImage-upstream: ftp.se.debian.org
+CDImage-upstream: cdimage.debian.org
 Maintainer: Morten Werner Forsbring <ftp-drift@uio.no>
 Country: NO Norway
 Location: Oslo
@@ -6935,8 +6936,10 @@ Site: debian.cc.lehigh.edu
 Type: Push-Secondary
 Archive-architecture: amd64 i386
 Archive-http: /debian/
-IPv6: no
 Archive-upstream: debian.lcs.mit.edu
+IPv6: no
+X-Backports-http: /debian-backports/
+X-Backports-upstream: mirror.csclub.uwaterloo.ca
 Updates: once
 Maintainer: Keith Erekson <keith.erekson@gmail.com>, keith@lehigh.edu, hostmaster@lehigh.edu
 Country: US United States
