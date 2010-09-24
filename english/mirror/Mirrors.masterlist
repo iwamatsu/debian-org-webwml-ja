@@ -4527,11 +4527,11 @@ Type: Push-Secondary
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
+Archive-upstream: ftp.tw.debian.org
+Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
-Archive-upstream: ftp.tw.debian.org
-Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 Maintainer: Stephon Chen <LinuxTA@cs.nctu.edu.tw>
 Country: TW Taiwan
 Sponsor: Computer Center of Computer Science, NCTU, Taiwan http://www.cs.nctu.edu.tw/
@@ -6458,12 +6458,12 @@ Sponsor: WEB NG SRL http://www.webng.md/
 Site: mirror.debian.mn
 Type: leaf
 Archive-architecture: amd64 i386 ia64
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
-CDImage-rsync: debian-cd/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
+X-CDImage-ftp: /debian-cd/
+X-CDImage-http: /debian-cd/
+X-CDImage-rsync: debian-cd/
 IPv6: no
 Archive-upstream: ftp.tw.debian.org
 CDImage-upstream: ftp.tw.debian.org
@@ -7140,4 +7140,26 @@ IPv6: yes
 Maintainer: 1 und 1 Internet AG <mirroradmin@1und1.de>
 Country: DE Germany
 Sponsor: 1&1 Internet AG http://www.1und1.de/
+Comment: 1Gbps
+
+Site: mirrors.rackhosting.com
+Type: leaf
+Archive-architecture: amd64 i386 ia64 kfreebsd-amd64 kfreebsd-i386 sparc 
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+Volatile-ftp: /debian-volatile/
+Volatile-http: /debian-volatile/
+Volatile-rsync: debian-volatile/
+IPv6: no
+Archive-upstream: ftp.de.debian.org
+Volatile-upstream: ftp.de.debian.org
+CDImage-upstream: ftp.de.debian.org
+Maintainer: Tommy Eriksen <te@rackhosting.com>
+Country: DK Denmark
+Location: Taastrup, Denmark
+Sponsor: Rackhosting.com http://rackhosting.com/
 Comment: 1Gbps
