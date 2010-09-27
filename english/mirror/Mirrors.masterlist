@@ -4214,6 +4214,7 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: syncproxy.wna.debian.org
+Archive-method: push
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 Security-upstream: ftp2.de.debian.org
@@ -4225,6 +4226,7 @@ Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
 Volatile-upstream: volatile-master.debian.org
+Volatile-method: push
 Maintainer: Jean-Francois Chevrette <mirrors@iweb.ca>
 Country: CA Canada
 Location: Montreal
@@ -5628,7 +5630,7 @@ Location: Taoyuan, Taiwan
 Sponsor: Department of Computer Science and Engineering at University of Yuan Ze http://www.cse.yzu.edu.tw/
 
 Site: ftp.ca.debian.org
-Includes: gulus.usherbrooke.ca debian.mirror.iweb.ca ftp3.nrc.ca debian.mirror.rafal.ca
+Includes: debian.mirror.iweb.ca ftp3.nrc.ca debian.mirror.rafal.ca
 Type: Push-Primary
 Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 Archive-http: /debian/
