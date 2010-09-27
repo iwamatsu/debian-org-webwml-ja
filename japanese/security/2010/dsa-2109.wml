@@ -24,4 +24,4 @@ mips アーキテクチャ向けの修正は今回の勧告には間に合いま
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2109.data"
-# $Id: dsa-2109.wml,v 1.1 2010-09-17 20:45:26 rhonda Exp $
+# $Id: dsa-2109.wml,v 1.1 2010-09-27 22:52:15 kmuto Exp $
