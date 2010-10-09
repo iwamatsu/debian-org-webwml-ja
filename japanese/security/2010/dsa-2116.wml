@@ -25,4 +25,4 @@ checkrestart スクリプトや、lsof コマンドが、古い版の libfreetyp
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2116.data"
-# $Id: dsa-2116.wml,v 1.1 2010-10-05 17:28:27 spaillard Exp $
+# $Id: dsa-2116.wml,v 1.1 2010-10-09 03:26:15 kmuto Exp $

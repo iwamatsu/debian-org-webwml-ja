@@ -25,4 +25,4 @@ Apache2 サーバプロセスを全て再起動する必要があります。</p
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2117.data"
-# $Id: dsa-2117.wml,v 1.1 2010-10-05 17:28:38 spaillard Exp $
+# $Id: dsa-2117.wml,v 1.1 2010-10-09 03:26:37 kmuto Exp $
