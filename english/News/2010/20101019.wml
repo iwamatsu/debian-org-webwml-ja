@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian to officially welcome non-packaging contributors</define-tag>
 <define-tag release_date>2010-10-19</define-tag>
 #use wml::debian::news
-# $Id: 20101019.wml,v 1.3 2010-10-19 10:11:18 tolimar Exp $
+# $Id: 20101019.wml,v 1.4 2010-10-19 12:01:45 madamezou-guest Exp $
 
 <p>Today, the Debian Project has overwhelmingly decided in a <a
 href="$(HOME)/vote/2010/vote_002">General Resolution</a> to
@@ -17,7 +17,7 @@ non-packaging contributors, it was handled on a case-by-case basis.</p>
 
 <p>It was decided to end this nuisance by finally welcoming all contributors,
 regardless of the nature of their contribution into the heart of the
-Debian Project and invite the Debian Account managers to establish
+Debian Project and invite the Debian Account Managers to establish
 procedures to evaluate and accept non-packaging contributors.</p>
 
 
