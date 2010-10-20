@@ -27,6 +27,8 @@ problems:</p>
 	enabling attackers to cause the web server process to crash
 	and thus consume additional system resources.</p></li>
 	
+</ul>
+
 <p>For the stable distribution (lenny), these problems have been fixed in
 version 4.2.5-1+lenny6.</p>
 
@@ -39,4 +41,4 @@ distribution (squeeze), these problems have been fixed in version
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2121.data"
-# $Id: dsa-2121.wml,v 1.1 2010-10-19 22:06:56 spaillard Exp $
+# $Id: dsa-2121.wml,v 1.2 2010-10-20 06:43:01 kaare-guest Exp $
