@@ -25,4 +25,4 @@ mod_dav_svn モジュールが、スコープが制限された名前付きリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2118.data"
-# $Id: dsa-2118.wml,v 1.1 2010-10-09 09:42:34 spaillard Exp $
+# $Id: dsa-2118.wml,v 1.1 2010-10-25 10:56:10 kmuto Exp $

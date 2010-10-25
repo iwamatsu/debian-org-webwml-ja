@@ -43,4 +43,4 @@ Exposures project は以下の問題を認識しています。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2121.data"
-# $Id: dsa-2121.wml,v 1.2 2010-10-20 06:43:01 kaare-guest Exp $
+# $Id: dsa-2121.wml,v 1.1 2010-10-25 10:58:02 kmuto Exp $
