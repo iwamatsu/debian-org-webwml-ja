@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PAGENAME="Contributing"
-# $Id: contributing.wml,v 1.38 2010-11-01 12:08:43 taffit-guest Exp $
+# $Id: contributing.wml,v 1.39 2010-11-01 13:25:32 taffit-guest Exp $
 
 <p>
 Debian Project News is in need of contributors. Putting out Debian Project
@@ -8,7 +8,7 @@ small amount of time spent each week. We need people who read some
 mailing lists which we don't read and summarize threads in them.
 We also need people who keep an eye on <a
 href="http://www.debianhelp.org/">DebianHELP</a>, <a
-href="http://www.debian.planet.org/">Debian Planet</a>, <a
+href="http://planet.debian.org/">Debian Planet</a>, <a
 href="http://www.advogato.org/">Advogato</a>
 and other online resources.
 If you are interested in helping, please read this page to the end 
