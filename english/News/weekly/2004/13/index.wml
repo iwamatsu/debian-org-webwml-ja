@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-30" SUMMARY="Social Contract, GNOME, DPL, UUCP, Kernel, Installer, Release"
-# $Id: index.wml,v 1.4 2004-03-30 19:33:35 joey Exp $
+# $Id: index.wml,v 1.5 2010-11-03 16:55:02 taffit-guest Exp $
 
 <p>Welcome to this year's 13th issue of DWN, the weekly newsletter for the
 Debian community.  The next update to Debian GNU/Linux 3.0 is being <a
@@ -24,7 +24,7 @@ href="$(HOME)/vote/2004/vote_002">general resolution</a> has passed.  The follow
 voting period shall be from Sunday, April 11th, to Sunday, April 25th.</p>
 
 <p><strong>GNOME 2.6 for Sarge?</strong> A user on <a
-href="http://debianplanet.org/node.php?id=1068">Debian Planet</a> noticed that
+href=../../oldurl?http://debianplanet.org/node.php?id=1068">Debian Planet</a> noticed that
 it is quite unlikely for sarge to include GNOME 2.6, which has been <a
 href="http://mail.gnome.org/archives/gnome-announce-list/2004-March/msg00115.html">\
 rescheduled</a> for March 31st.  This would be a pity, especially as KDE 3.2

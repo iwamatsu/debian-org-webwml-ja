@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-17" SUMMARY="Project, Changelog, Glibc, PornView, SE Linux, Quality, Downgrading, Katie, Jigdo, SPI, 3.0r1"
-# $Id: index.wml,v 1.8 2005-05-03 19:03:10 jseidel Exp $
+# $Id: index.wml,v 1.9 2010-11-03 16:54:47 taffit-guest Exp $
 
 <p>Welcome to this year's 49th issue of DWN, the weekly newsletter for the
 Debian community.  David Graham, leader of the <a
@@ -89,7 +89,7 @@ that he has the beginnings of a UML-based tool for automatic package testing,
 however he has limited time and his hands full with other projects.</p>
 
 <p><strong>Downgrading from Sarge to Woody.</strong> DebianPlanet carries an
-<a href="http://www.debianplanet.org/node.php?id=880">article</a> about how to
+<a href=../../oldurl?http://www.debianplanet.org/node.php?id=880">article</a> about how to
 downgrade from a Debian sarge system (testing) to a woody system (stable).
 The writer explains that his second workstation has now become another server
 and needs the stability and security of Debian woody.  The article describes

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-03" SUMMARY="Translation, GFDL, CDs, KDE3, Java, APT-Repositories, non-EU, CBS, PostgreSQL, Alioth, SCSI-IDE, POD"
-# $Id: index.wml,v 1.14 2004-09-03 13:45:00 florian Exp $
+# $Id: index.wml,v 1.15 2010-11-03 16:54:40 taffit-guest Exp $
 
 <p>Welcome to this year's 47th issue of DWN, the weekly newsletter for the
 Debian community.  During the second <a
@@ -84,7 +84,7 @@ severity bugs as these packages currently have incomplete dependency
 information.</p>
 
 <p><strong>New Unofficial APT Repository List.</strong> DebianPlanet <a
-href="http://www.debianplanet.org/node.php?id=873">announced</a> that <a
+href=../../oldurl?http://www.debianplanet.org/node.php?id=873">announced</a> that <a
 href="http://www.apt-get.org/">apt-get.org</a> is up and running.  It carries
 a list of unofficial APT repositories and allows users to submit new
 repositories in addition to the old and unmaintained <a
