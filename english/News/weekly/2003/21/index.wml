@@ -1,12 +1,12 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-27" SUMMARY="Donations, I18n, GCC, Kernel, DebConf, Multimedia, Wiki, CDs, Robots, Patents, Tags, Keysigning, BTS"
-# $Id: index.wml,v 1.14 2010-11-03 16:52:58 taffit-guest Exp $
+# $Id: index.wml,v 1.15 2010-11-03 21:26:17 taffit-guest Exp $
 
 <p>Welcome to this year's 21st issue of DWN, the weekly newsletter for the
 Debian community.  The GNOME project <a
 href="http://www.gnomedesktop.org/article.php?sid=1126">released</a> their
 unstable snapshot of GNOME (version 2.3.2) for testing.  The miniwoody CD,
 which offers a stripped down variant of Debian woody, has been <a
-href=../../oldurl?http://www.debianplanet.org/node.php?id=954">renamed</a> to <a
+href="../../oldurl?http://www.debianplanet.org/node.php?id=954">renamed</a> to <a
 href="http://developer.berlios.de/projects/bonzai/">Bonzai Linux</a>.</p>
 
 <p><strong>Donations Wishlist.</strong> Wouter Verhelst <a

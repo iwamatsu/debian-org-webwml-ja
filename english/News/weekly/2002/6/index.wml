@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-02-06" SUMMARY="Woody, Donations, Testing, Bugs, Loki, LSB, Booth, Debian Jr., Boot-Floppies"
-# $Id: index.wml,v 1.8 2010-11-03 16:53:21 taffit-guest Exp $
+# $Id: index.wml,v 1.9 2010-11-03 21:26:42 taffit-guest Exp $
 
 <p>Welcome to the sixth issue of 2002's series of DWN, the weekly
 newsletter for the Debian community.  The feedback we received after we tried
@@ -100,7 +100,7 @@ advocate, use and develop open resources for primary and secondary
 education".</p>
 
 <p><strong>Updating Outdated Netscape Packages.</strong> Diego Biurrun, who
-wrote the <a href=../../oldurl?http://www.debianplanet.org/article.php?sid=570">\
+wrote the <a href="../../oldurl?http://www.debianplanet.org/article.php?sid=570">\
 article</a> on DebianPlanet that we commented on in our last issue, sent us an
 update.  The maintainer for our Netscape packages, Ryan Murray, was waiting
 for CJK translations, is working on 4.79 packages and hopes to finish them

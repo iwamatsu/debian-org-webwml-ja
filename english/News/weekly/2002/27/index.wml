@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-07-16" SUMMARY="DebConf, non-US, HP, 2.2r7, Ian Jackson, Free Fonts, Patches, GNU Libc, Webb.it"
-# $Id: index.wml,v 1.13 2010-11-03 16:24:58 taffit-guest Exp $
+# $Id: index.wml,v 1.14 2010-11-03 21:27:25 taffit-guest Exp $
 
 <p>Welcome to this year's 27th issue of DWN, the weekly newsletter for the
 Debian community.  This week we received an <a
@@ -88,7 +88,7 @@ the <a href="http://people.debian.org/~joey/2.2r7/">preparation page</a> for
 details.</p>
 
 <p><strong>Rendez-vouz with Ian Jackson.</strong> Robert McQueen <a
-href=../../oldurl?http://www.debianplanet.org/node.php?id=735">interviewed</a> Ian Jackson
+href="../../oldurl?http://www.debianplanet.org/node.php?id=735">interviewed</a> Ian Jackson
 for <a href="../../oldurl?http://debianplanet.org/">DebianPlanet</a>, a Debian member
 since the early days.  He joined the Debian effort, because he got fed up of
 maintaining his system by hand (a common reason, together with the <a

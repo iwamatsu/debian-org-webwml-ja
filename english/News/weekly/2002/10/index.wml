@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-03-06" SUMMARY="DebConf 2, Campaigning, GUI Apps, Woody Release, Web Browser, Printing, Release Notes"
-# $Id: index.wml,v 1.10 2010-11-03 16:53:46 taffit-guest Exp $
+# $Id: index.wml,v 1.11 2010-11-03 21:27:11 taffit-guest Exp $
 
 <p>Welcome to this year's tenth issue of DWN, the weekly newsletter for the
 Debian community.  We're very excited to report about the most weird way to
@@ -68,7 +68,7 @@ TP3 (which is not available in Debian GNU/Linux since it is non-free).</p>
 <p><strong>Gnome-Print Caused Trouble in Sid.</strong> Gnome packages didn't
 work as well as they should recently, due to problems with Gnome core
 packages.  Because of a <a
-href=../../oldurl?http://debianplanet.org/article.php?sid=611">dependency issue</a>
+href="../../oldurl?http://debianplanet.org/article.php?sid=611">dependency issue</a>
 affecting <code>libgnomeprint*</code> packages, most of the core Gnome
 packages were removed.  It seems that there were circular dependencies on
 gnome-print, which were resolved later.</p>

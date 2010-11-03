@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-17" SUMMARY="プロジェクト, changelog, Glibc, PornView, SE Linux, 品質, ダウンロード, katie, jigdo, SPI, 3.0r1"
-# $Id: index.wml,v 1.10 2010-11-03 16:54:51 taffit-guest Exp $
-#use wml::debian::translation-check translation="1.9"
+# $Id: index.wml,v 1.11 2010-11-03 21:29:09 taffit-guest Exp $
+#use wml::debian::translation-check translation="1.10"
 
 <p>Debian コミュニティの為の週刊ニュースレター、今年 49 号の DWN へようこそ。
 Debian で利用している IRC チャンネルを提供してくれている <a
@@ -116,7 +116,7 @@ Kernel 内部で、もう一つの Linux Kernel を立ち上げる機能を指�
 DebianPlanet にて、どうやって Sarge (テスト版)
 がインストールされているシステムを Woody (安定版)
 へとダウングレードすればいいのか、という<a
-href=../../oldurl?http://www.debianplanet.org/node.php?id=880">\
+href="../../oldurl?http://www.debianplanet.org/node.php?id=880">\
 記事</a>が投稿されました。この記事を投稿した人が説明するには、自分の
 2 台目のワークステーションを変更してサーバにすることになったので、
 Debian Woody の安定性とセキュリティが必要になったから、ということでした。
