@@ -36,4 +36,4 @@ Exposures project identifies the following problems:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2123.data"
-# $Id: dsa-2123.wml,v 1.2 2010-11-02 11:36:27 spaillard Exp $
+# $Id: dsa-2123.wml,v 1.1 2010-11-04 13:32:46 kmuto Exp $
