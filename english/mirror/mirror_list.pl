@@ -166,7 +166,7 @@ sub secondary_mirrors {
     print "</h2>\n\n" if $html;
     if ($html) {
       print <<END;
-<table border="0" align="center">
+<table border="0" class="center">
 <tr>
   <th>Host name</th>
   <th>FTP</th>
@@ -508,9 +508,9 @@ sub primary_mirrors {
   if ($html) {
     print <<END;
 
-<h2 align="center">Primary Debian mirror sites</h2>
+<h2 class="center">Primary Debian mirror sites</h2>
 
-<table border="0" align="center">
+<table border="0" class="center">
 <tr>
   <th>Country</th>
   <th>Site</th>
@@ -790,7 +790,7 @@ sub trailer {
 # this is likely obsolete
 sub access_methods {
   print <<END;
-<h1 align="center">Debian worldwide mirror sites</h1>
+<h1 class="center">Debian worldwide mirror sites</h1>
 
 <p>This is a <strong>complete</strong> list of mirrors of Debian. For each
 site, the different types of material available are listed, along with the
@@ -817,7 +817,7 @@ access method for each type.
 </dl>
 
 <p>The following access methods are possible:
-<dl compact>
+<dl>
 <dt><strong>HTTP</strong>
   <dd>Standard web access, but it can be used for downloading files.
 <dt><strong>FTP</strong>
@@ -829,7 +829,7 @@ access method for each type.
 </dl>
 
 <p>The 'Type' entry is one of:
-<dl compact>
+<dl>
 <dt><strong>leaf</strong>
   <dd>These comprise the bulk of the mirrors.
 <dt><strong>Push-Secondary</strong>
@@ -861,7 +861,7 @@ sub full_listing {
   my $wml = 1 if ($format eq 'wml');
 
   if ($html) {
-    print "\n<hr noshade size=\"1\">\n";
+    print "\n<hr style=\"height:1\">\n";
     print "<p>Jump directly to a country on the list:<br>\n";
   }
   if ($html) {
@@ -906,7 +906,7 @@ foreach my \$country (sort langcmp keys \%countrylist) {
 EOF
   }
   if ($html || $wml) {
-    print "\n<hr noshade size=\"1\">\n";
+    print "\n<hr style=\"height:1\">\n";
   }
   print "<pre>\n" if $html;
   foreach my $country (sort keys %countries) {
