@@ -1531,9 +1531,8 @@
 <p>
 <name    M&aacute;rcio H. Parreiras>
 <address Pedro Leopoldo (Grande BH), MG, <BRc>>
-<phone   +55-31-9745-9562>
-<phone   +55-31-3660-4842>
-<email   debian@army.com>
+<phone   +55-31-9632-0320>
+<email   mhp.eti@gmail.com>
 <rates   On request.>
 <additional_info parreiras_m>
 </p>
@@ -1845,6 +1844,15 @@
 <rates	 Negotiable>
 </p>
 
+# Consultant: Brazil
+<p>
+<name	 Rafael Moraes>
+<address General E Gaspar 1161, Florian&oacute;polis,SC, <BRc>>
+<phone   +55 48 8447-7860>
+<email	 rafael@bsd.com.br>
+<rates	 Negoci&aacute;vel>
+<additional_info rafael_moraes>
+</p>
 
 
 <h1><a name="Bulgaria"><BGc>:</a></h1>
@@ -4681,16 +4689,6 @@
 <rates   Negotiable>
 </p>
 
-# Consultant: Hungary
-<p>
-<name	 Andras Sallai>
-<address Budapest, <HUc>>
-<phone	 +36-30-4386931>
-<phone   +36-30-337-4243>
-<email	 sallaia@szit.hu>
-<rates	 A quick help via e-mail/phone is free. Other depends on the problem. Full system install and maintain also available.>
-</p>
-
 
 <h1><a name="India"><INc>:</a></h1>
 
@@ -4844,10 +4842,10 @@
 
 # Consultant: India
 <p>
-<name	 Shibu C V>
+<name	 Kiran V>
 <company serversignature.com>
 <address Pandinjarakutt House, Santhipuram P O , Kottayam, Kerala, <INc>>
-<phone	 91-9740607070>
+<phone	 91-9611524944>
 <email	 admin@serversignature.com>
 <URL	 "http://serversignature.com/">
 <rates	 $15/hr>
@@ -8499,18 +8497,6 @@ non-profit.>
 
 # Consultant: US
 <p>
-<name    James Richardson>
-<address 1315 S Darlington Hwy, PO Box 1141, Bishopville, SC 29010, <USc>>
-<phone   +1-843-625-9102, +1-888-896-4965>
-<email   james@jamesr.biz>
-<url     "http://www.jamesr.biz/">
-<rates   Standard $50.00/hour for remote support. Will quote by project.>
-<additional_info jamesr>
-</p>
-
-
-# Consultant: US
-<p>
 <name    James Strandboge>
 <company Anemone Computing>
 <address Rochester, NY, <USc>>
@@ -9677,18 +9663,6 @@ open-source projects.>
 <url     "http://linuxconsultant.info">
 <rates   Please contact for a quote>
 <additional_info christopher_pace>
-</p>
-
-# Consultant: US
-<p>
-<name	 Petros Koutoupis>
-<company Hydra Systems, LLC>
-<address Carol Stream, IL, <USc>>
-<phone	 +1-847-217-7161>
-<email	 pkoutoupis@hydrasystemsllc.com>
-<URL	 "www.hydrasysllc.com">
-<rates	 $35/h>
-<additional_info hydra_systems>
 </p>
 
 # Consultant: US
