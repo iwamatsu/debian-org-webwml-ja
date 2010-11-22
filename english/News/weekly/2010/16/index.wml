@@ -1,4 +1,4 @@
-#use wml::debian::projectnews::header PUBDATE="2010-11-23" SUMMARY="State of Debian 6.0 <q>Squeeze</q>, Debian linux-2.6 Meeting, new default artwork for Debian <q>Squeeze</q>, Debian Women IRC Training Sessions"
+#use wml::debian::projectnews::header PUBDATE="2010-11-22" SUMMARY="State of Debian 6.0 <q>Squeeze</q>, Debian linux-2.6 Meeting, new default artwork for Debian <q>Squeeze</q>, Debian Women IRC Training Sessions"
 #use wml::debian::acronyms
 
 <define-tag MID whitespace=delete>http://lists.debian.org/$0</define-tag>
@@ -197,7 +197,7 @@ experimental</a> and also elaborated on dependency handling of X related
 packages.  Julien Viard de Galbert, who recently joined the
 X Strike Force, blogged about his <a
 href="http://silicone.homelinux.org/2010/11/03/working-on-x-isnt-that-hard/">experiences joining the
-team</a>.  His conclusion?  <q>Working on X isn’t that hard!</q></p>
+team</a>.  His conclusion?  <q>Working on X isn't that hard!</q></p>
 
 <p>Petter Reinholdtsen <a
 href="http://people.skolelinux.org/pere/blog/Debian_in_3D.html">noticed</a>
