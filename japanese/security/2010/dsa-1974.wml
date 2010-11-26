@@ -31,10 +31,10 @@ LZW 圧縮されたアーカイブを伸張する際に任意のコードを実�
 <p>テスト版 (squeeze) および不安定版 (unstable) ディストリビューションでは、
 これらの問題は近く修正予定です。</p>
 
-</p>直ぐに gzip パッケージをアップグレードすることを勧めます。</p>
+<p>直ぐに gzip パッケージをアップグレードすることを勧めます。</p>
 
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1974.data"
-# $Id: dsa-1974.wml,v 1.1 2010-01-22 08:56:32 kmuto Exp $
+# $Id: dsa-1974.wml,v 1.2 2010-11-26 11:29:33 madamezou-guest Exp $
