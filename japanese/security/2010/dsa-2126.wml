@@ -232,4 +232,4 @@ Common Vulnerabilities and Exposures project は以下の問題を認識して
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2126.data"
-# $Id: dsa-2126.wml,v 1.2 2010-11-29 20:41:46 kaare-guest Exp $
+# $Id: dsa-2126.wml,v 1.1 2010-12-02 11:42:15 kmuto Exp $

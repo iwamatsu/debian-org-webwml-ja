@@ -104,7 +104,7 @@ The Common Vulnerabilities and Exposures project は以下の問題を認識し�
     ーカルからアクセスしているユーザにデバイスを外すようにし向けるかのど
     ちらかが攻撃に必要なため、セキュリティ上の影響は小さいと考えられます。</p></li>
     
-<li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6063">CVE-2007-6063</a></p>
+<li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6063">CVE-2007-6063</a>
 
     <p>Venustech AD-LAB 社によりローカルユーザから攻撃可能なバッファオーバ
     フローが isdn ioctl 処理に発見されました。</p></li>
@@ -173,4 +173,4 @@ The Common Vulnerabilities and Exposures project は以下の問題を認識し�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1503.data"
-# $Id: dsa-1503.wml,v 1.4 2009-08-22 11:08:18 osamu Exp $
+# $Id: dsa-1503.wml,v 1.5 2010-12-02 11:17:12 dj3mb3-guest Exp $
