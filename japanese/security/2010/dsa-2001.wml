@@ -20,7 +20,7 @@
 
 </ul>
 
-</p>安定版ディストリビューション (lenny) では、今回の勧告には安定版ポイント
+<p>安定版ディストリビューション (lenny) では、今回の勧告には安定版ポイント
 リリースのバージョン 5.2.6.dfsg.1-1+lenny5 として含まれる予定だったバグ
 修正 (bug #529278, #556459, #565387, #523073) が含まれています。</p>
 
@@ -36,4 +36,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2001.data"
-# $Id: dsa-2001.wml,v 1.1 2010-02-23 03:27:57 kmuto Exp $
+# $Id: dsa-2001.wml,v 1.2 2010-12-03 09:46:26 dj3mb3-guest Exp $
