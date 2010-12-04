@@ -20,9 +20,6 @@
 
     <p>解放後使用の欠陥により、SplObjectStorage アンシリアライザが、シリア
     ライズデータを使った任意のコードの実行を許します。</p></li>
-    <p>The SplObjectStorage unserializer allows attackers to execute arbitrary
-    code via serialized data by the means of a use-after-free
-    vulnerability.</p></li>
 
 <li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-3065">CVE-2010-3065</a>
 
@@ -54,4 +51,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2089.data"
-# $Id: dsa-2089.wml,v 1.2 2010-08-28 00:51:08 kmuto Exp $
+# $Id: dsa-2089.wml,v 1.3 2010-12-04 12:25:12 dj3mb3-guest Exp $
