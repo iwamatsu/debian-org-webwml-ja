@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian talks"
-# $Id: talks.wml,v 1.21 2010-12-11 23:47:21 madamezou-guest Exp $
+# $Id: talks.wml,v 1.23 2010-12-12 00:26:22 taffit-guest Exp $
 
 <p>This file intends to list links to talks that were given at various
 conferences and describe the Debian project or a specific angle of the
@@ -23,8 +23,8 @@ talk upon.</p>
 
 <p>
 If you want to submit a new talk, or if you know of a missing talk, please
-include the following information in an email <a
-href="mailto:event@debian.org?subject=New%20Debian%20talk">here</a> (please
+include the following information in an email to <a
+href="mailto:events@debian.org?subject=New%20Debian%20talk">events@debian.org</a> (please
 don't change the subject line).
 The submission should be sent in English. If you don't speak English, please
 send your submission to the <a
@@ -37,10 +37,10 @@ Notice that your submission mail will be posted to a public mailing list.
   <li>Language of the talk</li>
   <li>Author</li>
   <li>Date</li>
-  <li>Event, Location</li>
-  <li>Slides' and/or Abstract's URL (HTML, PDF, URL of sources, Magic-Point).
+  <li>Event, location</li>
+  <li>Slides' and/or Abstract's URL (HTML, PDF, sources, MagicPoint).
   If the talk is not available online, please include it as an
-  attachement.</li>
+  attachment.</li>
 </ol>
 
 <br /><br />
