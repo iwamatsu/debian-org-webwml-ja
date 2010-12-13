@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian in Swedish -- contributors" NOHEADER="true" BARETITLE="true" NOHOMELINK="true"
-#use wml::debian::translation-check translation="1.26" original="swedish"
+#use wml::debian::translation-check translation="1.27" original="swedish"
 #
-# $Id: bidragslamnare.wml,v 1.29 2009-10-06 12:09:23 peterk Exp $
+# $Id: bidragslamnare.wml,v 1.30 2010-12-13 20:40:24 taffit-guest Exp $
 #
 # If you are translating these pages to a language not using iso-8859-1, you
 # may need to replace some of the characters with their corresponding SGML
@@ -64,7 +64,7 @@ information</a>, especially important is
 <a href="$(HOME)/devel/website/uptodate">how to keep the translations
 up-to-date</a>:
 You should also read through the
-<a href="http://cvs.debian.org/cgi-bin/viewcvs.cgi/~checkout~/webwml/swedish/om_svenska/HOWTO_svenska?cvsroot=webwml">
+<a href="http://cvs.debian.org/webwml/webwml/swedish/om_svenska/HOWTO_svenska">
 policy for the Swedish translation</a>
 (ends up in <code>webwml/swedish/om_svenska</code> when you check out the
 pages from the CVS) and familiarize yourself with the
