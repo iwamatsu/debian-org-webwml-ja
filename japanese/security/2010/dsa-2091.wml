@@ -10,7 +10,7 @@
 変更が可能です。</p>
 
 <p>さらに、パスワードに 8-bit 文字が含まれている場合に、ログイン時にサービ
-ス拒否攻撃となる欠陥 (<a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-2813">CVE-2010-2813</a>) も修正されています。</p>
+ス拒否攻撃となる欠陥 (<a href="http://security-tracker.debian.org/tracker/CVE-2010-2813">CVE-2010-2813</a>) も修正されています。</p>
 
 <p>安定版 (stable) ディストリビューション (lenny) では、これらの問題はバー
 ジョン 1.4.15-4+lenny3.1 で修正されています。</p>
@@ -24,4 +24,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2091.data"
-# $Id: dsa-2091.wml,v 1.1 2010-08-18 11:12:19 kmuto Exp $
+# $Id: dsa-2091.wml,v 1.2 2010-12-17 14:28:04 taffit-guest Exp $
