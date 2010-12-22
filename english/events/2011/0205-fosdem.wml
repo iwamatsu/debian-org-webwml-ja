@@ -33,7 +33,7 @@ solutions.</li>
 
 <define-tag involve>
 
-<p>A booth has been requested, where members of the Debian project will
+<p>A booth has been requested and assigned, where members of the Debian project will
 present the upcoming release Debian 6.0 <q>Squeeze</q>.  Of special
 interest for attendees might be the presentation of the newly introduced
 port <q>Debian GNU/kFreeBSD</q> of the Debian operating system to the
@@ -47,7 +47,7 @@ in. People interested in holding talks during this miniconference, should read <
 </define-tag>
 
 #use wml::debian::event
-# $Id: 0205-fosdem.wml,v 1.3 2010-11-05 08:50:33 kaare-guest Exp $
+# $Id: 0205-fosdem.wml,v 1.4 2010-12-22 11:47:22 wouter Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://www.fosdem.org'>the FOSDEM official site</a></li>
