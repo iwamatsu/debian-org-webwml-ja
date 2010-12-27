@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>サービス拒否攻撃</define-tag>
 <define-tag moreinfo>
 
@@ -23,4 +23,4 @@ s390 と sparc アーキテクチャ向けパッケージが提供されてい�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2133.data"
-# $Id: dsa-2133.wml,v 1.1 2010-12-14 23:59:56 kmuto Exp $
+# $Id: dsa-2133.wml,v 1.2 2010-12-27 05:59:31 victory-guest Exp $

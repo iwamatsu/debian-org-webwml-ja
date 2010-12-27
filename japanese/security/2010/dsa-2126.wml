@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>特権の昇格/サービス拒否攻撃/情報の漏洩</define-tag>
 <define-tag moreinfo>
 
@@ -232,4 +232,4 @@ Common Vulnerabilities and Exposures project は以下の問題を認識して
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2126.data"
-# $Id: dsa-2126.wml,v 1.2 2010-12-17 14:28:12 taffit-guest Exp $
+# $Id: dsa-2126.wml,v 1.3 2010-12-27 05:59:24 victory-guest Exp $
