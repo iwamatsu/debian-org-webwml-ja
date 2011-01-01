@@ -530,7 +530,7 @@ gladly accepted.
 ##Use the <code>MAKEDEV</code> script to create any needed device nodes.
 #</p>
 
-<h3> 8.3 Installing More Packages </h3>
+<h3> Installing More Packages </h3>
 
 <p>
 There are several ways to add packages. Downloading and using
@@ -601,7 +601,7 @@ indicated in the previous section.
 </p>
 
 <p>
-You will need several X packages. <code>x-window-system-core</code>,
+You will need several X packages. <code>xorg</code>,
 <code>rxvt</code> and <code>twm</code>, <code>fvwm</code> or <code>wmaker</code>
 are a good start.
 </p>
