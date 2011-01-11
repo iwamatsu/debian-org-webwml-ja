@@ -63,4 +63,4 @@ apache2 には、安全でない再ネゴシエーションを許す選択を行
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2141.data"
-# $Id: dsa-2141.wml,v 1.1 2011-01-07 08:18:15 kaare Exp $
+# $Id: dsa-2141.wml,v 1.1 2011-01-11 12:49:46 kmuto Exp $

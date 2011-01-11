@@ -32,4 +32,4 @@ Rapha&euml;l Hertzog さんがさらに .pc ディレクトリのシンボリッ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2142.data"
-# $Id: dsa-2142.wml,v 1.1 2011-01-06 18:37:00 kaare Exp $
+# $Id: dsa-2142.wml,v 1.1 2011-01-11 12:49:47 kmuto Exp $
