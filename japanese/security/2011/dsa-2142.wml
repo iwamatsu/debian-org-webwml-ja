@@ -13,7 +13,7 @@ Rapha&euml;l Hertzog さんがさらに .pc ディレクトリのシンボリッ
 <p>何れの問題も、伸張時ソースパッケージが "3.0 quilt" フォーマット
 の場合にのみ影響します。</p>
 
-<p?安定版 (stable) ディストリビューション (lenny) では、これらの問
+<p>安定版 (stable) ディストリビューション (lenny) では、これらの問
 題はバージョン 1.14.31 で修正されています。
 
 <p>テスト版 (squeeze) および不安定版 (unstable) ディストリビューション
@@ -32,4 +32,4 @@ Rapha&euml;l Hertzog さんがさらに .pc ディレクトリのシンボリッ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2142.data"
-# $Id: dsa-2142.wml,v 1.1 2011-01-11 12:49:47 kmuto Exp $
+# $Id: dsa-2142.wml,v 1.2 2011-01-13 00:42:45 taffit-guest Exp $
