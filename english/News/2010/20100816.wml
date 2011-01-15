@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian celebrates its 17th birthday</define-tag>
 <define-tag release_date>2010-08-16</define-tag>
 #use wml::debian::news
-# $Id: 20100816.wml,v 1.3 2010-08-17 12:05:48 zobel Exp $
+# $Id: 20100816.wml,v 1.4 2011-01-15 12:22:06 taffit-guest Exp $
 
 
 <p>The Debian Project is pleased to mark the 17th anniversary of its start.
@@ -25,7 +25,7 @@ Debian is used by a number of <q>derivative</q> distributions that further
 expand the reach of Debian's software and Debian's philosophy of 
 putting the user first.</p>
 
-<p>Under the auspices of <a href="http://www.spi-inc.org/about-spi">Software In the Public Interest</a> and through 
+<p>Under the auspices of <a href="http://www.spi-inc.org/about/">Software In the Public Interest</a> and through 
 the <a href="$(HOME)/partners/">Debian Partners program</a> Debian continues to work with some of 
 the largest names in hardware and software development. Debian has 
 always striven to support a broad range of hardware with high-quality, 
