@@ -3677,6 +3677,8 @@ Archive-http: /debian/
 Archive-upstream: debian.mirror.iweb.ca
 Volatile-http: /debian-volatile/
 Volatile-upstream: debian.mirror.iweb.ca
+Security-http: /debian-security/
+Security-upstream: security.debian.org
 IPv6: no
 Updates: once
 Maintainer: Nate Elkan <mirror@peer1.com>, Nate Elkan <debian@peer1.com>
@@ -4830,11 +4832,11 @@ Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-am
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
-Archive-upstream: ftp.pt.debian.org
+Archive-upstream: ftp.uk.debian.org
 Backports-ftp: /debian-backports/
 Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
-Backports-upstream: ftp.nl.debian.org
+Backports-upstream: ftp.uk.debian.org
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
@@ -4846,6 +4848,8 @@ Volatile-upstream: ftp.de.debian.org
 Maintainer: mirrors@fe.up.pt
 Country: PT Portugal
 Location: Porto
+Sponsor: FEUP - University of Porto http://www.fe.up.pt
+Bandwidth: 1Gbps
 IPv6: yes
 
 Site: ftp.pwr.wroc.pl
@@ -7299,3 +7303,15 @@ Maintainer: Luca Filipozzi <mirrors@ece.ubc.ca>
 Country: CA Canada
 Location: Vancouver
 Sponsor: UBC Electrical and Computer Engineering http://www.ece.ubc.ca/
+
+Site: mirror.ens-lyon.fr
+Type: leaf
+Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
+X-Comment: not acked by admin
+Archive-upstream: ftp.fr.debian.org 
+Country: FR France
+Location: Lyon 
+Sponsor: ENS Lyon http://www.ens-lyon.fr/ 
