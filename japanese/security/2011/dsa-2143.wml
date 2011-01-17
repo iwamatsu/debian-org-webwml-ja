@@ -116,4 +116,4 @@ The Common Vulnerabilities and Exposures project は以下の問題を認識し�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2143.data"
-# $Id: dsa-2143.wml,v 1.1 2011-01-14 13:46:44 kaare Exp $
+# $Id: dsa-2143.wml,v 1.1 2011-01-17 22:58:07 kmuto Exp $
