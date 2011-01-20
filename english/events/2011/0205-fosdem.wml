@@ -1,6 +1,6 @@
 <define-tag abbr>FOSDEM11</define-tag>
 <define-tag year>2011</define-tag>
-<define-tag pagetitle>Free and Open Source Developers' European Meeting</define-tag>
+<define-tag pagetitle>Free and Open Source Developers' European Meeting (FOSDEM)</define-tag>
 <define-tag where>Brussels, Belgium</define-tag>
 <define-tag startdate>2011-02-05</define-tag>
 <define-tag enddate>2011-02-06</define-tag>
@@ -47,7 +47,7 @@ in. People interested in holding talks during this miniconference, should read <
 </define-tag>
 
 #use wml::debian::event
-# $Id: 0205-fosdem.wml,v 1.4 2010-12-22 11:47:22 wouter Exp $
+# $Id: 0205-fosdem.wml,v 1.5 2011-01-20 12:31:00 tolimar Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://www.fosdem.org'>the FOSDEM official site</a></li>
