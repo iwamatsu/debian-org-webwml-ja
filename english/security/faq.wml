@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian security FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-# $Id: faq.wml,v 1.72 2011-01-15 16:56:04 taffit-guest Exp $
+# $Id: faq.wml,v 1.74 2011-01-22 12:06:02 thijs Exp $
 
 <p>We receive the following questions a bit too often these days, so
 their answers are summarized here.</p>
@@ -181,6 +181,12 @@ updates available as quickly and easily as possible.</p>
    the security team.
 </p>
 
+<p>If you are a package maintainer and want to contact us regarding an issue
+   in your package, please <a href="http://wiki.debian.org/rt.debian.org#SecurityTeam">file
+   a ticket in our Request Tracker</a>.
+   If you want to use PGP encryption it's better to use regular email though.
+</p>
+
 <p>If desired, email can be encrypted with the Debian Security
    Contact key (key ID <a
    href="http://pgpkeys.pca.dfn.de/pks/lookup?search=0x68B64E0D&amp;op=vindex">\
@@ -207,8 +213,9 @@ updates available as quickly and easily as possible.</p>
    my packages?</toc-add-entry>
 
 <p>A: If you learn of a security problem, either in your package or
-   someone else's please always contact the security team.  You can
-   reach them via email at team@security.debian.org.  They keep track
+   someone else's please always contact the security team, preferedly
+   by filing a ticket in Request Tracker, but you can also reach them
+   via email at team@security.debian.org.  They keep track
    of outstanding security problems, can help maintainers with
    security problems or fix problems on their own, are responsible for
    sending out security advisories and maintaining
@@ -241,10 +248,10 @@ updates available as quickly and easily as possible.</p>
 
 <p>A: No, you can't.  The archive at security.debian.org is maintained
    by the security team, who have to approve all packages.  You should
-   instead send patches or proper source packages to the security team at
-   team@security.debian.org.  They will be reviewed by the 
-   security team and eventually uploaded, either with or without
-   modifications.</p>
+   instead send patches or proper source packages to the security team,
+   via Request Tracker or team@security.debian.org.  They will be
+   reviewed by the  security team and eventually uploaded, either with
+   or without modifications.</p>
 
 <p>If you are not used to security uploads and are not 100% sure that
    your package is sane, please use this way and don't upload to the
