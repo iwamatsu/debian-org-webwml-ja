@@ -1,6 +1,6 @@
 #use wml::debian::template title="Latest News" NOHEADER="true"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.29 2011-01-21 23:03:43 zack Exp $
+# $Id: index.wml,v 1.30 2011-01-22 00:15:57 taffit-guest Exp $
 
 <h1><a href="$(CUR_YEAR)/">Latest News</a></h1>
 
@@ -45,4 +45,6 @@ href="project/">Debian Project News</a>.</p>
 {#rss#:
 <link rel="alternate" type="application/rss+xml"
  title="Debian News" href="news">
+<link rel="alternate" type="application/rss+xml"
+ title="Debian Project News" href="weekly/dwn">
 :#rss#}
