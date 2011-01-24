@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 6.0 <q>Squeeze</q> release goals</define-tag>
 <define-tag release_date>2009-07-30</define-tag>
 #use wml::debian::news
-# $Id: 20090730.wml,v 1.1 2009-07-30 17:12:25 tolimar Exp $
+# $Id: 20090730.wml,v 1.2 2011-01-24 09:21:20 dmn Exp $
 
 <p>Following up on its decision to adopt the policy of timed release freezes 
 beginning with the next release of Debian GNU/Linux, the Debian Release 
@@ -63,7 +63,7 @@ preparing the next high-quality Debian release.</p>
 
 <p>The Debian Project is an association of Free Software developers who
 volunteer their time and effort in order to produce the completely free
-operating systems Debian GNU/Linux.</p>
+operating system Debian GNU/Linux.</p>
 
 <h2>Contact Information</h2>
 

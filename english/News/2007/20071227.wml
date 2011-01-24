@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 4.0 updated</define-tag>
 <define-tag release_date>2007-12-27</define-tag>
 #use wml::debian::news
-# $Id: 20071227.wml,v 1.6 2008-01-08 17:27:11 kreutzm Exp $
+# $Id: 20071227.wml,v 1.7 2011-01-24 09:21:03 dmn Exp $
 
 <define-tag release>4.0</define-tag>
 <define-tag codename>etch</define-tag>
@@ -284,7 +284,7 @@ release:</p>
 
 <p>The Debian Project is an association of Free Software developers who
 volunteer their time and effort in order to produce the completely
-free operating systems Debian GNU/Linux.</p>
+free operating system Debian GNU/Linux.</p>
 
 <h2>Contact Information</h2>
 

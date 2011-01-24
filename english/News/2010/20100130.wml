@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 5.0 updated</define-tag>
 <define-tag release_date>2010-01-30</define-tag>
 #use wml::debian::news
-# $Id: 20100130.wml,v 1.4 2010-05-28 17:09:58 kreutzm-guest Exp $
+# $Id: 20100130.wml,v 1.5 2011-01-24 09:21:22 dmn Exp $
 
 <define-tag release>5.0</define-tag>
 <define-tag codename>lenny</define-tag>
@@ -371,7 +371,7 @@ release:</p>
 
 <p>The Debian Project is an association of Free Software developers who
 volunteer their time and effort in order to produce the completely free
-operating systems Debian GNU/Linux.</p>
+operating system Debian GNU/Linux.</p>
 
 <h2>Contact Information</h2>
 

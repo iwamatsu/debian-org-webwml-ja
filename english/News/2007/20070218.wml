@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 3.1 updated</define-tag>
 <define-tag release_date>2007-02-18</define-tag>
 #use wml::debian::news
-# $Id: 20070218.wml,v 1.4 2007-03-03 20:44:58 kreutzm Exp $
+# $Id: 20070218.wml,v 1.5 2011-01-24 09:21:01 dmn Exp $
 
 <define-tag revision>3.1r5</define-tag>
 
@@ -190,7 +190,7 @@ release:</p>
 
 <p>The Debian Project is an association of Free Software developers who
 volunteer their time and effort in order to produce the completely
-free operating systems Debian GNU/Linux.</p>
+free operating system Debian GNU/Linux.</p>
 
 <h2>Contact Information</h2>
 

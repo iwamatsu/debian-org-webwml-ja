@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian mourns the loss of Thiemo Seufer</define-tag>
 <define-tag release_date>2008-12-29</define-tag>
 #use wml::debian::news
-# $Id: 20081229.wml,v 1.3 2008-12-29 23:36:56 tolimar Exp $
+# $Id: 20081229.wml,v 1.4 2011-01-24 09:21:10 dmn Exp $
 
 
 <p>The Debian Project has lost an active member of its community.  Thiemo
@@ -33,7 +33,7 @@ be passed on to Thiemo's family.</p>
 
 <p>The Debian Project is an association of Free Software developers who
 volunteer their time and effort in order to produce the completely free
-operating systems Debian GNU/Linux.</p>
+operating system Debian GNU/Linux.</p>
 
 
 <h2>Contact Information</h2>
