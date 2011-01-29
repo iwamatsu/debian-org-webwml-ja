@@ -94,4 +94,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2151.data"
-# $Id: dsa-2151.wml,v 1.2 2011-01-26 19:13:23 taffit-guest Exp $
+# $Id: dsa-2151.wml,v 1.1 2011-01-29 11:35:10 kmuto Exp $
