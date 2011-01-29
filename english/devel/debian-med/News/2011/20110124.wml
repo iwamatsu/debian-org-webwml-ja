@@ -1,11 +1,11 @@
 <define-tag pagetitle>Debian Med organises workshop on Bioinformatics</define-tag>
 <define-tag release_date>2011-01-24</define-tag>
 #use wml::debian::news
-# $Id: 20110124.wml,v 1.2 2011-01-26 00:15:36 plessy Exp $
+# $Id: 20110124.wml,v 1.3 2011-01-29 03:48:48 plessy Exp $
 
 <p>Over the last weekend of January the first <a
 href="http://wiki.debian.org/DebianMed/Meeting/Luebeck2011">Debian Sprint on
-Bioinformatics</a> is taking place in Lübeck-Travenmünde, Germany.  This brings
+Bioinformatics</a> is taking place in L&uuml;beck-Travenm&uuml;nde, Germany.  This brings
 a series of developers from upstream, Debian, its derivatives and their users
 (scientists) together. For two intensive days they expect to find ways for
 better avoidance of redundancies in their daily work, the packaging and further
