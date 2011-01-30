@@ -333,6 +333,15 @@
         cd="yes"
         dvd="yes"
         architectures="i386" />
+<vendor name="SAComp"
+        url="http://sacomp.tech.officelive.com"
+        deburl="http://sacomp.tech.officelive.com/Debian.aspx"
+        contacturl="mailto:vifsolano@hotmail.com"
+        country="cr"
+        contribution="yes"
+        ship="yes"
+        dvd="yes"
+        architectures="amd64 i386 " />
 </country>
 <country code="cz" name="<CZc>">
 <vendor name="Antiradary-Distributor.cz"
@@ -1297,6 +1306,16 @@
         cd="yes"
         dvd="yes"
         architectures="amd64, i386"/>
+<vendor name="Linux2u"
+        url="http://linux2u.ru/"
+        deburl="http://linux2u.ru/debian.html"
+        contacturl="mailto:info@linux2u.ru"
+        country="ru"
+        contribution="no"
+        ship="some"
+        cd="yes"
+        dvd="yes"
+        architectures="amd64 i386 " />
 <vendor name="Linux4u.ru"
         country="ru"
         url="http://linux4u.ru/"
@@ -1501,7 +1520,7 @@
         contribution="yes"
         ship="yes"
         dvd="yes"
-        architectures="amd64, i386" />
+        architectures="amd64 armel i386 powerpc " />
 <vendor name="Linux Distro UK"
         country="uk"
         url="http://linux-distro.co.uk/"
@@ -1787,16 +1806,16 @@
         dvd="yes"
         architectures="amd64, i386" />
 </country>
-<country code="za" name="<ZAc>">
-<vendor name="FOSS CDs"
-        country="za"
-        url="http://www.fosscds.co.za/"
-        deburl="http://www.fosscds.co.za/advanced_search_result.php?keywords=debian"
-        contribution="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386, amd64, ia64, powerpc, alpha, arm, hppa, mips, mipsel, s390, sparc"
-        ship="no"
-        contacturl="mailto:sales@fosscds.co.za" />
-</country>
+#<country code="za" name="<ZAc>">
+#<vendor name="FOSS CDs"
+#        country="za"
+#        url="http://www.fosscds.co.za/"
+#        deburl="http://www.fosscds.co.za/advanced_search_result.php?keywords=debian"
+#        contribution="no"
+#        cd="yes"
+#        dvd="yes"
+#        architectures="i386, amd64, ia64, powerpc, alpha, arm, hppa, mips, mipsel, s390, sparc"
+#        ship="no"
+#        contacturl="mailto:sales@fosscds.co.za" />
+#</country>
 </protect>
