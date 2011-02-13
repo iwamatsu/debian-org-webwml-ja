@@ -27,6 +27,19 @@ use Webwml::Langs;
 use Webwml::TransCheck;
 use Webwml::TransIgnore;
 
+BEGIN {
+    $udd_available = 0;
+    eval {
+        require JSON;
+        require LWP::Simple;
+        LWP::Simple->import;
+        $udd_available = 1;
+    }; if ($@) {
+        warn "One or more modules required for DDE support failed to load: $@\n";
+    }
+}
+
+
 $| = 1;
 
 $opt_h = "/org/www.debian.org/www/devel/website/stats";
@@ -37,7 +50,9 @@ $opt_v = 0;
 $opt_d = "u";
 $opt_l = undef;
 $opt_b = ""; # Base URL, if not debian.org
-getopts('h:w:b:p:t:vd:l:') || die;
+# URL of JSON data or path to plaintext file with lines: "1299999 /doc/index\n"
+$opt_f = "http://dde.debian.net/dde/q/static/porridge/stats?t=json";
+getopts('h:w:b:p:t:vd:l:f:') || die;
 #  Replace filename globbing by Perl regexps
 $opt_p =~ s/\./\\./g;
 $opt_p =~ s/\?/./g;
@@ -50,6 +65,7 @@ $opt_p =~ s/$/\$/g;
 	   'title'   => $opt_t,
 	   'verbose' => $opt_v,
 	   'difftype'=> $opt_d,
+           'hit_file'=> $opt_f,
 	   );
 
 my $l = Webwml::Langs->new($opt_w);
@@ -267,7 +283,54 @@ print "done.\n" if ($config{'verbose'});
 # =============== Create HTML files ===============
 mkdir ($config{'htmldir'}, 02775) if (! -d $config{'htmldir'});
 
-my @filenames = sort keys %files;
+# Read website hit statistics, if available
+my %hits;
+my $file_sorter = sub($$) { $_[0] cmp $_[1] };
+if ($config{'hit_file'} and $config{'hit_file'} =~ m{^(f|ht)tps?://} and ! $udd_available) {
+    warn "Disabling fetching of hit data.\n";
+    $config{'hit_file'} = undef;
+}
+if ($config{'hit_file'}) {
+    if ($config{'hit_file'} =~ m{^(f|ht)tps?://}) {
+        printf("Retrieving hit data from [%s].\n", $config{'hit_file'}) if ($config{'verbose'});
+        my $json = LWP::Simple::get($config{'hit_file'});
+        if ($json) {
+            my $perl = JSON::from_json($json, {utf8 => 1});
+            foreach my $e (@{$perl->{'r'}}) {
+                my ($count, $url) = @$e;
+                last if $count < 3; # URLS with 2 or 1 hits are most likely mistakes; let's not waste RAM on them
+                $hits{substr($url, 1)} = $count;
+            }
+        } else {
+            warn "Retrieving hit data failed.\n";
+        }
+    } else {
+        open(HITS, $config{'hit_file'}) or die sprintf("Opening hit file [%s] failed: $!", $config{'hit_file'});
+        printf "Reading hit file [%s]\n", $config{'hit_file'} if ($config{'verbose'});
+        foreach my $hit_line (<HITS>) {
+    	chomp $hit_line;
+            $hit_line =~ /^\s*(\d+)\s+(.*)/ or warn sprintf("unrecognized hit file [%s] line [%s]", $config{'hit_file'}, $hit_line);
+    	my ($count, $url) = ($1, $2);
+            last if $count < 3; # URLS with 2 or 1 hits are most likely mistakes; let's not waste RAM on them
+            $hits{substr($url, 1)} = $count;
+        }
+        close(HITS) or die sprintf("Closing hit file [%s] failed: $!", $config{'hit_file'});
+    }
+    if (%hits) {
+        $file_sorter = sub($$) {
+            my ($a, $b) = @_;
+            $a =~ s/\.wml$//o;
+            $b =~ s/\.wml$//o;
+            $hits{$b} <=> $hits{$a}
+        };
+    } else {
+        print "Tables will be sorted alphabetically.\n" if ($config{'verbose'});
+    }
+} else {
+    print "No hit file specified. Tables will be sorted alphabetically.\n" if ($config{'verbose'});
+}
+
+my @filenames = sort $file_sorter keys %files;
 my $nfiles = scalar @filenames;
 $nsize += $sizes{$_} foreach (@filenames);
 
@@ -303,6 +366,8 @@ foreach $lang (@search_in) {
         # get stats about files
         foreach $file (@filenames) {
             next if ($file eq "");
+            (my $base = $file) =~ s/\.wml$//;
+            my $hits = exists $hits{$base} ? $hits{$base}.' hits' : 'hit count N/A';
             # Translated pages
             if (index ($wmlfiles{$lang}, " $file ") >= 0) {
                 $translated{$lang}++;
@@ -316,8 +381,7 @@ foreach $lang (@search_in) {
                         || ($file eq "devel/wnpp/wnpp.wml")) {
                         $o_body .= sprintf "<td>%s</td>", $file;
                     } else {
-                        (my $base = $file) =~ s/\.wml$//;
-                        $o_body .= sprintf "<td><a href=\"$opt_b/%s.%s.html\">%s</a></td>", $base, $l, $base;
+                        $o_body .= sprintf "<td><a title=\"%s\" href=\"$opt_b/%s.%s.html\">%s</a></td>", $hits, $base, $l, $base;
                     }
                     $o_body .= sprintf "<td>%s</td>", $transversion{"$lang/$file"};
                     $o_body .= sprintf "<td>%s</td>", $version{"$orig/$file"};
@@ -343,8 +407,7 @@ foreach $lang (@search_in) {
                         || ($file eq "devel/wnpp/wnpp.wml")) {
                         $t_body .= sprintf "<li>%s</li>\n", $file;
                     } else {
-                        (my $base = $file) =~ s/\.wml$//;
-                        $t_body .= sprintf "<li><a href=\"$opt_b/%s.%s.html\">%s</a></li>\n", $base, $l, $base;
+                        $t_body .= sprintf "<li><a title=\"%s\" href=\"$opt_b/%s.%s.html\">%s</a></li>\n", $hits, $base, $l, $base;
                     }
                 }
             }
@@ -355,8 +418,7 @@ foreach $lang (@search_in) {
                     || ($file eq "devel/wnpp/wnpp.wml")) {
                     $u_tmp = sprintf "<tr><td>%s</td><td>&nbsp;</td></tr>\n", $file;
                 } else {
-                    (my $base = $file) =~ s/\.wml$//;
-                    $u_tmp = sprintf "<tr><td><a href=\"$opt_b/%s\">%s&nbsp;&nbsp;(%s)</a></td><td align=\"right\">%d</td><td>(%.2f&nbsp;&permil;)</td></tr>\n", $base, $base, $version{"$orig/$file"}, $sizes{$file}, $sizes{$file}/$nsize * 1000;
+                    $u_tmp = sprintf "<tr><td><a title=\"%s\" href=\"$opt_b/%s\">%s&nbsp;&nbsp;(%s)</a></td><td align=\"right\">%d</td><td>(%.2f&nbsp;&permil;)</td></tr>\n", $hits, $base, $base, $version{"$orig/$file"}, $sizes{$file}, $sizes{$file}/$nsize * 1000;
                 }
 		if (($file =~ /international\//) &&
 		    (($file !~ /international\/index.wml$/) ||
@@ -455,14 +517,14 @@ foreach $lang (@search_in) {
                 if ($u_body) {
                     print HTML "<li><a href=\"#untranslated\">General pages</a></li>\n";
                 }
-                if ($ui_body) {
-                    print HTML "<li><a href=\"#untranslated-l10n\">International pages</a></li>\n";
-                }
                 if ($un_body) {
                     print HTML "<li><a href=\"#untranslated-news\">News items</a></li>\n";
                 }
 	        if ($uu_body) {
               	    print HTML "<li><a href=\"#untranslated-user\">Consultant/user pages</a></li>\n";
+                }
+                if ($ui_body) {
+                    print HTML "<li><a href=\"#untranslated-l10n\">International pages</a></li>\n";
                 }
                 print HTML "</ul></li>\n";
             }
@@ -473,6 +535,10 @@ foreach $lang (@search_in) {
                 print HTML "<li><a href=\"#gettext\">Translation of templates (gettext files)</a></li>\n";
             }
             print HTML "</ul>\n";
+
+            if (%hits) {
+                print HTML "<p>Note: The lists of pages are sorted by popularity. Hover over the page name to see the number of hits.</p>\n";
+            }
 
             # outputs the content
             if ($o_body) {
@@ -495,12 +561,6 @@ foreach $lang (@search_in) {
                 print HTML $u_body;
                 print HTML "</table>\n";
             }
-            if ($ui_body) {
-                print HTML "<h3 id='untranslated-l10n'>International pages not translated: <a href='#top'>(top)</a></h3>\n";
-                print HTML "<table summary=\"Untranslated international pages\">\n";
-                print HTML $ui_body;
-                print HTML "</table>\n";
-            }
             if ($un_body) {
                 print HTML "<h3 id='untranslated-news'>News items not translated: <a href='#top'>(top)</a></h3>\n";
                 print HTML "<table summary=\"Untranslated news items\">\n";
@@ -511,6 +571,12 @@ foreach $lang (@search_in) {
                 print HTML "<h3 id='untranslated-user'>Consultant/user pages not translated: <a href='#top'>(top)</a></h3>\n";
                 print HTML "<table summary=\"Untranslated consultant/user pages\">\n";
                 print HTML $uu_body;
+                print HTML "</table>\n";
+            }
+            if ($ui_body) {
+                print HTML "<h3 id='untranslated-l10n'>International pages not translated: <a href='#top'>(top)</a></h3>\n";
+                print HTML "<table summary=\"Untranslated international pages\">\n";
+                print HTML $ui_body;
                 print HTML "</table>\n";
             }
             if ($t_body) {
@@ -668,7 +734,7 @@ print HTMLI "</table>\n";
 print HTMLI "<h2>Translated templates (gettext files)</h2>\n";
 printf HTMLI "<p>There are %d strings to translate.</p>\n",$po_total{'total'};
 # print HTMLI $border_head;
-print HTMLI "<table summary=\"Gettext Translation Statistiks\"class=\"stattrans\">\n";
+print HTMLI "<table summary=\"Gettext Translation Statistics\"class=\"stattrans\">\n";
 # print HTMLI "<table width=\"100%\" border=0 bgcolor=\"#cdc9c9\">\n";
 print HTMLI "<colgroup span=\"1\"width=\"28%\">\n";
 print HTMLI "</colgroup>";
