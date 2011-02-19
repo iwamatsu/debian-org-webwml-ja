@@ -1,6 +1,6 @@
-<define-tag description>sql injection</define-tag>
+<define-tag description>SQL injection</define-tag>
 <define-tag moreinfo>
-<p>It was discovered that phpMyAdmin, a a tool to administer MySQL over
+<p>It was discovered that phpMyAdmin, a tool to administer MySQL over
 the web, when the bookmarks feature is enabled, allowed to create a
 bookmarked query which would be executed unintentionally by other users.</p>
 
@@ -18,4 +18,4 @@ this problem has been fixed in version 4:3.3.9.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2167.data"
-# $Id: dsa-2167.wml,v 1.1 2011-02-18 20:16:32 spaillard Exp $
+# $Id: dsa-2167.wml,v 1.2 2011-02-18 23:22:55 taffit-guest Exp $
