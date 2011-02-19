@@ -11,14 +11,14 @@ following problems:</p>
 
   <p>Use-after-free vulnerability in Google Chrome before 9.0.597.84 allows remote
   attackers to cause a denial of service or possibly have unspecified other
-  impact via vectors related to image loading</p></li>
+  impact via vectors related to image loading.</p></li>
 
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0778">CVE-2011-0778</a>
 
   <p>Google Chrome before 9.0.597.84 does not properly restrict drag and drop
   operations, which might allow remote attackers to bypass the Same Origin
-  Policy via unspecified vectors</p></li>
+  Policy via unspecified vectors.</p></li>
 
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0783">CVE-2011-0783</a>
@@ -47,7 +47,7 @@ following problems:</p>
 
   <p>Google Chrome before 9.0.597.94 does not properly handle plug-ins, which
   allows remote attackers to cause a denial of service (out-of-bounds read)
-  via unspecified vectors</p></li>
+  via unspecified vectors.</p></li>
 
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0985">CVE-2011-0985</a>
@@ -71,4 +71,4 @@ in version 9.0.597.98~r74359-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2166.data"
-# $Id: dsa-2166.wml,v 1.2 2011-02-18 23:22:53 taffit-guest Exp $
+# $Id: dsa-2166.wml,v 1.3 2011-02-19 02:46:09 madamezou-guest Exp $
