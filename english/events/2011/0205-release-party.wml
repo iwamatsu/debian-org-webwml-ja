@@ -34,8 +34,8 @@ account.</p>
 
 </define-tag>
 
-#use wml::debian::event
-# $Id: 0205-release-party.wml,v 1.2 2011-01-28 02:59:46 taffit-guest Exp $
+#use wml::debian::past_event
+# $Id: 0205-release-party.wml,v 1.3 2011-02-21 20:45:01 taffit-guest Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://wiki.debian.org/ReleasePartySqueeze'>Release Party Wiki Page</a></li>

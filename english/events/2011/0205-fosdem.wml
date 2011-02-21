@@ -46,8 +46,8 @@ in. People interested in holding talks during this miniconference, should read <
 
 </define-tag>
 
-#use wml::debian::event
-# $Id: 0205-fosdem.wml,v 1.5 2011-01-20 12:31:00 tolimar Exp $
+#use wml::debian::past_event
+# $Id: 0205-fosdem.wml,v 1.6 2011-02-21 20:45:00 taffit-guest Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://www.fosdem.org'>the FOSDEM official site</a></li>
