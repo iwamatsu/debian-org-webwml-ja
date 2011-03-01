@@ -18,4 +18,4 @@ Moodle 履修科目管理システムには phpCAS のコピーが含まれて�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2172.data"
-# $Id: dsa-2172.wml,v 1.1 2011-02-23 00:23:21 taffit-guest Exp $
+# $Id: dsa-2172.wml,v 1.1 2011-03-01 07:33:37 kmuto Exp $
