@@ -1,5 +1,5 @@
 #use wml::debian::cdimage title="Artwork for Debian CDs" BARETITLE=true
-# $Id: index.wml,v 1.38 2008-11-09 18:55:44 atterer Exp $
+# $Id: index.wml,v 1.39 2011-03-02 16:05:43 taffit-guest Exp $
 
 <p>If you have made your own images for CD covers and want to share
 them with us, <a
@@ -12,17 +12,17 @@ on offer. Follow the links to see all graphics.</p>
 
 <ul>
 # ============================================================
-
-  <li><a href="http://www.onkelchentobi.de/cover.html">\
-  http://www.onkelchentobi.de/cover.html</a><br />
-
-    <a href="http://www.onkelchentobi.de/cover/008.png.tar.gz"><img
-    src="onkelchentobi.de-dvdcase.jpeg" alt="[DVD case]" /></a> 
-
-    <a href="http://www.onkelchentobi.de/label/004.png.tar.gz"><img
-    src="onkelchentobi.de-dvd.jpeg" alt="[DVD label]" /></a> 
-
-  </li>
+#
+#  <li><a href="http://www.onkelchentobi.de/cover.html">\
+#  http://www.onkelchentobi.de/cover.html</a><br />
+#
+#    <a href="http://www.onkelchentobi.de/cover/008.png.tar.gz"><img
+#    src="onkelchentobi.de-dvdcase.jpeg" alt="[DVD case]" /></a> 
+#
+#    <a href="http://www.onkelchentobi.de/label/004.png.tar.gz"><img
+#    src="onkelchentobi.de-dvd.jpeg" alt="[DVD label]" /></a> 
+#
+#  </li>
 # ============================================================
 
   <li><a href="http://debian.semistable.com/cdcover.pl">\
