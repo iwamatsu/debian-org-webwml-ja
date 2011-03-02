@@ -1,6 +1,6 @@
 <define-tag description>SQL injection</define-tag>
 <define-tag moreinfo>
-<p>It was discovered that python-webdav, a WebDAV server implementation,
+<p>It was discovered that PyWebDAV, a WebDAV server implementation,
 contains several SQL injection vulnerabilities in the processing of
 user credentials.</p>
 
@@ -18,4 +18,4 @@ version 0.9.4-1+squeeze1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2177.data"
-# $Id: dsa-2177.wml,v 1.1 2011-03-02 20:24:03 kaare Exp $
+# $Id: dsa-2177.wml,v 1.2 2011-03-02 21:26:26 taffit-guest Exp $
