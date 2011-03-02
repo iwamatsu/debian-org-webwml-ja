@@ -39,14 +39,13 @@ Reichle-Schmehl.</p>
 <p>We would like to thank our sponsors, notably <a
 href="http://www.univention.de/en/">Univention GmbH</a> and <a
 href="http://messe.de">Deutsche Messe AG</a> for again sponsoring Debian's
-presence at this year's CeBIT, and the <a
-href="http://www.tib.uni-hannover.de/en.html">German National Library of
-Science and Technology</a> for lending the demonstration hardware.</p>
+presence at this year's CeBIT.
+</p>
 
 </define-tag>
 
 #use wml::debian::event
-# $Id: 0301-cebit.wml,v 1.8 2011-02-25 13:55:18 taffit-guest Exp $
+# $Id: 0301-cebit.wml,v 1.9 2011-03-02 20:05:56 tolimar Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.univention.de/univention/termine/cebit-2011/">Univention</a></li>
