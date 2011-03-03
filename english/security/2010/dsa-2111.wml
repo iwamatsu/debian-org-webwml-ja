@@ -1,6 +1,6 @@
 <define-tag description>denial of service</define-tag>
 <define-tag moreinfo>
-<p>Phil Oester discovered that squid3, a fully featured Web Proxy cache, is
+<p>Phil Oester discovered that Squid-3, a fully featured Web Proxy cache, is
 prone to a denial of service attack via a specially crafted request that
 includes empty strings.</p>
 
@@ -19,4 +19,4 @@ version 3.1.6-1.1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2111.data"
-# $Id: dsa-2111.wml,v 1.1 2010-09-19 16:26:10 spaillard Exp $
+# $Id: dsa-2111.wml,v 1.2 2011-03-03 17:27:43 taffit-guest Exp $
