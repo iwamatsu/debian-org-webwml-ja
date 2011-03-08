@@ -44,8 +44,8 @@ presence at this year's CeBIT.
 
 </define-tag>
 
-#use wml::debian::event
-# $Id: 0301-cebit.wml,v 1.9 2011-03-02 20:05:56 tolimar Exp $
+#use wml::debian::past_event
+# $Id: 0301-cebit.wml,v 1.10 2011-03-08 09:57:12 zobel Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.univention.de/univention/termine/cebit-2011/">Univention</a></li>
