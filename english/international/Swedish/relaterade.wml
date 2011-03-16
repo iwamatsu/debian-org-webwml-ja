@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian in Swedish -- related resources" NOHEADER="true" BARETITLE="true" NOHOMELINK="true"
 #use wml::debian::translation-check translation="1.16" original="swedish"
-# $Id: relaterade.wml,v 1.16 2011-02-05 21:41:31 kaare Exp $
+# $Id: relaterade.wml,v 1.17 2011-03-16 09:43:08 kreutzm-guest Exp $
 #
 # If you are translating these pages to a language not using iso-8859-1, you
 # may need to replace some of the characters with their corresponding SGML
@@ -73,7 +73,7 @@ Swedish speaking Debian users:
 
  <dt>Documentation
   <dd><a href="http://debianguiden.dk/wiki/Forside">The Debian Guide</a>
-      &mdash; a guide to installation and configur5ation in Danish.
+      &mdash; a guide to installation and configuration in Danish.
   <dd><a href="http://www.linuxbog.dk/?b=samling">Friheden til at skrive bÃ¸ger</a>
       &mdash; documentation from the Skåne-Sjællands Linux User Group in Danish.
 
