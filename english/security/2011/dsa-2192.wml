@@ -26,7 +26,7 @@ in version 6.0.472.63~r59945-5+squeeze4.</p>
 
 <p>For the testing distribution (wheezy), these problems will be fixed soon.</p>
 
-<p>For the unstable distribution (sid), these problems have been fixed
+<p>For the unstable distribution (sid), these problems have been fixed in
 version 10.0.648.133~r77742-1.</p>
 
 <p>We recommend that you upgrade your chromium-browser packages.</p>
@@ -34,4 +34,4 @@ version 10.0.648.133~r77742-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2192.data"
-# $Id: dsa-2192.wml,v 1.1 2011-03-15 17:54:14 kaare Exp $
+# $Id: dsa-2192.wml,v 1.2 2011-03-15 23:59:35 taffit-guest Exp $
