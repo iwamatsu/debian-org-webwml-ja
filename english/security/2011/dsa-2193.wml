@@ -19,7 +19,7 @@ and monitor control groups:</p>
 
 </ul>
 
-<p>The oldstable distribution (lenny) does not contain libgroup packages.</p>
+<p>The oldstable distribution (lenny) does not contain libcgroup packages.</p>
 
 <p>For the stable distribution (squeeze), this problem has been fixed in
 version 0.36.2-3+squeeze1.</p>
@@ -32,4 +32,4 @@ this problem will be fixed soon.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2193.data"
-# $Id: dsa-2193.wml,v 1.1 2011-03-16 22:15:14 kaare Exp $
+# $Id: dsa-2193.wml,v 1.2 2011-03-17 11:40:46 taffit-guest Exp $
