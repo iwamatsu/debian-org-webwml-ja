@@ -1,5 +1,5 @@
 # Status: sent
-# $Id: 20110318.wml,v 1.1 2011-03-18 18:54:25 tolimar Exp $
+# $Id: 20110318.wml,v 1.2 2011-03-21 13:22:49 taffit-guest Exp $
 # $Rev: 1849 $
 
 <define-tag pagetitle>Debian Derivatives Exchange project
@@ -27,7 +27,7 @@ changes into Debian. A first working group is the <a
 href="http://dex.alioth.debian.org/ubuntu/">DEX Ubuntu Team</a>, targeting
 to integrate packages and changes available in Ubuntu back into Debian,
 continuing the work of the already existing Utnubu Team on a more general
-level. A gNewSense DEX Team is also expected in the near future:
+level. A gNewSense DEX Team is also expected in the near future.
 <q>If you can't measure it, it doesn't exist, especially when you measure
 numbers of defects you want to fix. Arguably, most of the deltas between
 Debian and its derivatives need to be fixed, by merging them back into
