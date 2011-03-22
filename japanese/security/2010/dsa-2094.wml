@@ -19,7 +19,7 @@
     <p>Dan Rosenberg さんにより、xfs サブシステムにローカルユーザからの、
     他のユーザの書き込みだけを許可されたファイルの複製と読み出しを許す
     欠陥が報告されました。これは XFS_SWAPEXT ioctl にパーミッションチェ
-    ックが欠けているためです。<p></li>
+    ックが欠けているためです。</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2010-2240">CVE-2010-2240</a>
 
@@ -88,4 +88,4 @@ Debian bug ページをご覧ください。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2094.data"
-# $Id: dsa-2094.wml,v 1.4 2010-12-27 05:59:21 victory-guest Exp $
+# $Id: dsa-2094.wml,v 1.5 2011-03-22 17:06:35 victory-guest Exp $

@@ -4,7 +4,7 @@
 
 <p>Gtk+ 向けウェブコンテンツエンジン webkit に、複数の問題が発見されま
 した。The Common Vulnerabilities and Exposures project は以下の問題
-を認識しています。<p>
+を認識しています。</p>
 
 <ul>
 
@@ -132,4 +132,4 @@ length アトリビュートを指定した HTMLSelectElement オブジェクト
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1950.data"
-# $Id: dsa-1950.wml,v 1.2 2010-12-17 14:43:11 taffit-guest Exp $
+# $Id: dsa-1950.wml,v 1.3 2011-03-22 17:04:01 victory-guest Exp $
