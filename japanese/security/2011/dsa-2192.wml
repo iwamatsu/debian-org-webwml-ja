@@ -38,4 +38,4 @@ Ralf-Philipp Weinmann の各氏により実証デモが行われました。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2192.data"
-# $Id: dsa-2192.wml,v 1.2 2011-03-15 23:59:35 taffit-guest Exp $
+# $Id: dsa-2192.wml,v 1.1 2011-03-22 02:56:43 kmuto Exp $

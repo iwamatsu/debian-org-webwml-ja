@@ -98,4 +98,4 @@ Google Chrome の 9.0.597.107 以前の WebGL 実装に欠陥があり、リモ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2189.data"
-# $Id: dsa-2189.wml,v 1.1 2011-03-10 18:15:36 kaare Exp $
+# $Id: dsa-2189.wml,v 1.1 2011-03-22 02:52:59 kmuto Exp $

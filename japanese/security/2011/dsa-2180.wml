@@ -64,4 +64,4 @@ XPCOM コードのみを提供しています。</p></li>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2180.data"
-# $Id: dsa-2180.wml,v 1.1 2011-03-03 23:47:17 spaillard Exp $
+# $Id: dsa-2180.wml,v 1.1 2011-03-22 02:46:08 kmuto Exp $

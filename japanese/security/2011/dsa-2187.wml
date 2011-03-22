@@ -77,4 +77,4 @@ Peleus Uhley さんにより、プラグインコードにクロスサイトリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2187.data"
-# $Id: dsa-2187.wml,v 1.2 2011-03-10 12:57:34 kaare Exp $
+# $Id: dsa-2187.wml,v 1.1 2011-03-22 02:51:05 kmuto Exp $

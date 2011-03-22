@@ -110,4 +110,4 @@ WebKit がドラッグアンドドロップ操作を適切に制限していな�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2188.data"
-# $Id: dsa-2188.wml,v 1.2 2011-03-11 05:04:49 taffit-guest Exp $
+# $Id: dsa-2188.wml,v 1.1 2011-03-22 02:51:33 kmuto Exp $

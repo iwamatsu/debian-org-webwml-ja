@@ -22,4 +22,4 @@ NBD サーバに任意のコードの実行を行わせることができるこ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2183.data"
-# $Id: dsa-2183.wml,v 1.1 2011-03-05 12:38:08 taffit-guest Exp $
+# $Id: dsa-2183.wml,v 1.1 2011-03-22 02:49:27 kmuto Exp $

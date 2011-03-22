@@ -70,4 +70,4 @@ Mateusz Kocielski さんにより、imap 機能拡張がユーザ認証情報処
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2195.data"
-# $Id: dsa-2195.wml,v 1.1 2011-03-20 01:53:21 taffit-guest Exp $
+# $Id: dsa-2195.wml,v 1.1 2011-03-22 02:57:57 kmuto Exp $
