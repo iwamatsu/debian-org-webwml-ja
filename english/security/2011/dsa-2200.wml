@@ -1,7 +1,7 @@
 <define-tag description>ssl certificate blacklist update</define-tag>
 <define-tag moreinfo>
 <p>This update for Iceweasel, a web browser based on Firefox, updates the
-certificate blacklist for several fraudulent HTTPS certificates.</a>
+certificate blacklist for several fraudulent HTTPS certificates.</p>
 
 <p>More details can be found in a <a
 href="https://blog.torproject.org/category/tags/ssl-tls-ca-tor-certificates-torbrowser">\
@@ -25,4 +25,4 @@ version 4.0~rc2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2200.data"
-# $Id: dsa-2200.wml,v 1.1 2011-03-23 21:56:16 taffit-guest Exp $
+# $Id: dsa-2200.wml,v 1.2 2011-03-24 05:07:38 taffit-guest Exp $
