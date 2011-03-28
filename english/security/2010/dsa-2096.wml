@@ -1,6 +1,6 @@
 <define-tag description>missing input validation</define-tag>
 <define-tag moreinfo>
-<p>Jeremy James discovered that in zope-ldapuserfolder, a Zope extension
+<p>Jeremy James discovered that in LDAPUserFolder, a Zope extension
 used to authenticate against an LDAP server, the authentication code
 does not verify the password provided for the emergency user. Malicious
 users that manage to get the emergency user login can use this flaw to
@@ -18,4 +18,4 @@ version 2.9-1+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2096.data"
-# $Id: dsa-2096.wml,v 1.1 2010-08-26 13:42:29 spaillard Exp $
+# $Id: dsa-2096.wml,v 1.2 2011-03-28 22:41:16 taffit-guest Exp $

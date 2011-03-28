@@ -1,9 +1,9 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>入力の正当性チェック漏れ</define-tag>
 <define-tag moreinfo>
 
 <p>Jeremy James さんにより、LDAP サーバの認証に用いられる Zope 機能拡張
-zope-ldapuserfolder が、緊急ユーザで提供されたパスワードを検証していない
+LDAPUserFolder が、緊急ユーザで提供されたパスワードを検証していない
 ことが発見されました。悪意を持ったユーザがこの欠陥を悪用し、任意のパスワ
 ードを用いて緊急ユーザにログインすることにより、Zope インスタンスに対す
 る管理者権限を得ることが可能です。</p>
@@ -19,4 +19,4 @@ zope-ldapuserfolder が、緊急ユーザで提供されたパスワードを検
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2096.data"
-# $Id: dsa-2096.wml,v 1.1 2010-08-27 23:55:56 kmuto Exp $
+# $Id: dsa-2096.wml,v 1.2 2011-03-28 22:41:31 taffit-guest Exp $
