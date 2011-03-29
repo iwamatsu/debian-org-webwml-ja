@@ -28,4 +28,4 @@ root ユーザ及びグループで実行されてしまいます。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2202.data"
-# $Id: dsa-2202.wml,v 1.1 2011-03-23 23:09:17 taffit-guest Exp $
+# $Id: dsa-2202.wml,v 1.1 2011-03-29 13:59:49 kmuto Exp $

@@ -25,4 +25,4 @@ iceape の証明書のブラックリストに、幾つかの偽造 HTTPS 証明
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2199.data"
-# $Id: dsa-2199.wml,v 1.1 2011-03-23 21:55:39 taffit-guest Exp $
+# $Id: dsa-2199.wml,v 1.1 2011-03-29 13:58:29 kmuto Exp $
