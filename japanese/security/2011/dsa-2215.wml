@@ -27,4 +27,4 @@ Debian での標準設定ではありません。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2215.data"
-# $Id: dsa-2215.wml,v 1.1 2011-04-09 19:03:36 taffit-guest Exp $
+# $Id: dsa-2215.wml,v 1.1 2011-04-11 04:59:47 kmuto Exp $

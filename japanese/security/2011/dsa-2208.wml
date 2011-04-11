@@ -22,4 +22,4 @@ DNS ルートゾーンに 2011/3/31 以降に .COM 向けの DS レコードが�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2208.data"
-# $Id: dsa-2208.wml,v 1.2 2011-03-31 11:55:35 taffit-guest Exp $
+# $Id: dsa-2208.wml,v 1.1 2011-04-11 04:56:00 kmuto Exp $

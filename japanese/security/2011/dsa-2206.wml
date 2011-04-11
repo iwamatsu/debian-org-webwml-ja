@@ -38,4 +38,4 @@ Mahara がサニタイズしていない入力を処理しており、クロス�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2206.data"
-# $Id: dsa-2206.wml,v 1.1 2011-03-29 22:06:44 joey Exp $
+# $Id: dsa-2206.wml,v 1.1 2011-04-11 04:52:41 kmuto Exp $
