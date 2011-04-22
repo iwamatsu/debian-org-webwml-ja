@@ -69,4 +69,4 @@ Request Tracker は、正当なユーザから提供された認証情報を第�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2220.data"
-# $Id: dsa-2220.wml,v 1.1 2011-04-19 22:47:08 taffit-guest Exp $
+# $Id: dsa-2220.wml,v 1.1 2011-04-22 04:34:20 kmuto Exp $

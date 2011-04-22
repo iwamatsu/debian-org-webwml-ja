@@ -85,4 +85,4 @@ Hotspot の版 (hs14) への切替えなどの、安定性の修正が行われ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2224.data"
-# $Id: dsa-2224.wml,v 1.2 2011-04-20 21:37:40 taffit-guest Exp $
+# $Id: dsa-2224.wml,v 1.1 2011-04-22 04:37:29 kmuto Exp $
