@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project mourns the loss of Adrian von Bidder</define-tag>
-<define-tag release_date>2010-04-23</define-tag>
+<define-tag release_date>2011-04-23</define-tag>
 #use wml::debian::news
-# $Id: 20110423.wml,v 1.2 2011-04-25 20:14:45 taffit-guest Exp $
+# $Id: 20110423.wml,v 1.3 2011-04-25 22:08:15 eof-guest Exp $
 
 <p>The Debian Project has lost an active member of its community. Adrian
 von Bidder (cmot) died on April 17th.</p>
