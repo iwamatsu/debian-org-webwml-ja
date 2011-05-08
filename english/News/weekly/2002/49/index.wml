@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-17" SUMMARY="Project, Changelog, Glibc, PornView, SE Linux, Quality, Downgrading, Katie, Jigdo, SPI, 3.0r1"
-# $Id: index.wml,v 1.10 2010-11-03 21:29:05 taffit-guest Exp $
+# $Id: index.wml,v 1.11 2011-05-08 15:45:47 taffit-guest Exp $
 
 <p>Welcome to this year's 49th issue of DWN, the weekly newsletter for the
 Debian community.  David Graham, leader of the <a
@@ -120,7 +120,7 @@ href="http://lists.debian.org/debian-legal-0212/msg00161.html">wondered</a>
 how to treat scripts that were released under the GNU General Public License,
 but don't run on a sufficiently free interpreter.  The Free Software
 Foundation <a
-href="http://www.gnu.org/licenses/gpl-faq.html#InterpreterIncompat">states</a>
+href="http://www.gnu.org/licenses/gpl-faq#InterpreterIncompat">states</a>
 that there is no problem as long as the script is only interpreted but not
 linked to a non-free component.</p>
 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-01" SUMMARY="Events, LILO, ATM, Woody*3, Daily DVDs, Woody CDs, User-Agent, DPL"
-# $Id: index.wml,v 1.16 2010-11-03 21:29:18 taffit-guest Exp $
+# $Id: index.wml,v 1.17 2011-05-08 15:46:20 taffit-guest Exp $
 
 <p>Welcome to this year's eighteenth issue of DWN, the weekly newsletter for
 the Debian community.  It seems a week never goes by without a flamebait
@@ -77,7 +77,7 @@ some <a href="http://lists.debian.org/debian-legal-0204/msg00072.html">\
 confusion</a> whether it is allowed to link software that is released under
 the terms of the <a href="http://www.gnu.org/copyleft/gpl.html">GNU General
 Public License</a> (GPL), with the OpenSSL library.  The problematic item is
-the <a href="http://www.gnu.org/philosophy/bsd.html">advertising clause</a>,
+the <a href="http://www.gnu.org/philosophy/bsd">advertising clause</a>,
 which both of the OpenSSL licenses contain. Their presence imposes an
 additional restriction on licenses, which is forbidden by clause six of the
 GNU GPL.</p>

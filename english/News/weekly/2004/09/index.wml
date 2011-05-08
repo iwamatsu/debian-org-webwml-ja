@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-02" SUMMARY="Election, Distribution, RAID, multi-arch, non-free, Firefox, PPD, Apache, OPL"
-# $Id: index.wml,v 1.5 2004-03-15 19:31:41 nov Exp $
+# $Id: index.wml,v 1.6 2011-05-08 15:46:50 taffit-guest Exp $
 
 <p>Welcome to this year's ninth issue of DWN, the weekly newsletter for the
 Debian community.  On March 13th there's going to be a bug squish <a
@@ -9,7 +9,7 @@ by its local <a href="http://debian.slug.org.au/">user group</a>.  Isaac Jones
 href="http://blog.syntaxpolice.org/isaac/index.cgi/technology/contributingToFS.html">\
 described</a> that reporting and fixing bugs in software one uses frequently
 is one of the easiest ways to get involved in Free Software.  Bradley Kuhn
-reminded us of the <a href="http://www.gnu.org/philosophy/gif.html">GIF
+reminded us of the <a href="http://www.gnu.org/philosophy/gif">GIF
 patent</a> that IBM holds until 2006, even though the Unisys patent will
 expire soon.</p>
 

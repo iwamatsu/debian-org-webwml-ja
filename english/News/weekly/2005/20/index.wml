@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-05-17" SUMMARY="Admin, Licenses, Alioth, Upgrade, Testing, Free BIOS"
-# $Id: index.wml,v 1.4 2005-05-25 12:12:41 joey Exp $
+# $Id: index.wml,v 1.5 2011-05-08 15:44:13 taffit-guest Exp $
 
 <p>Welcome to this year's 20th issue of DWN, the weekly newsletter for the
 Debian community.  A <a
@@ -75,7 +75,7 @@ ran from read-only memory, but is stored in non-volatile writable memory these
 days.  He asked to purchase CPU chips from manufacturers that support a free
 BIOS.  In light of digital restriction management it becomes even more
 important to be able to <a
-href="http://www.gnu.org/philosophy/can-you-trust.html">trust</a> the
+href="http://www.gnu.org/philosophy/can-you-trust">trust</a> the
 computer.</p>
 
 <p><strong>Security Updates.</strong> You know the drill.  Please make sure

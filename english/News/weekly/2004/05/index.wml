@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-02-03" SUMMARY="Conferences, Userbase, XFree86, CDs, Installer, Music, TLS, GCC"
-# $Id: index.wml,v 1.9 2005-05-15 13:59:27 thuriaux Exp $
+# $Id: index.wml,v 1.10 2011-05-08 15:47:21 taffit-guest Exp $
 
 <p>Welcome to this year's fifth issue of DWN, the weekly newsletter for the
 Debian community.  Most true Unix geeks will recognise just how nice <a
@@ -51,7 +51,7 @@ href="http://www.xfree86.org/legal/licenses.html">license</a> starting with
 XFree86 v4.4.0-RC3.  There are some <a
 href="http://www.pro-linux.de/news/2004/6414.html">worries</a> (German) that
 these changes might be incompatible with the GPL due to a BSD-style
-advertising <a href="http://www.gnu.org/philosophy/bsd.html">clause</a>.
+advertising <a href="http://www.gnu.org/philosophy/bsd">clause</a>.
 Branden Robinson indicated that he will probably not be maintaining the
 system using the new license.</p>
 
