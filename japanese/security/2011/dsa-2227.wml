@@ -46,4 +46,4 @@ Mats Palmgren, Jesse Ruderman, Aki Kelin および Martin Barbella
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2227.data"
-# $Id: dsa-2227.wml,v 1.1 2011-04-30 15:35:10 taffit-guest Exp $
+# $Id: dsa-2227.wml,v 1.1 2011-05-10 12:46:15 kmuto Exp $
