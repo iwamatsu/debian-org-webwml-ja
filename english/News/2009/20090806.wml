@@ -1,7 +1,7 @@
 <define-tag pagetitle>2009 Annual International Debian Conference finished successfully</define-tag>
 <define-tag release_date>2009-08-06</define-tag>
 #use wml::debian::news
-# $Id: 20090806.wml,v 1.5 2009-10-25 16:55:29 victory-guest Exp $
+# $Id: 20090806.wml,v 1.6 2011-05-10 22:20:19 taffit-guest Exp $
 
 <p>About 250 people from over 35 countries attended this year's Debian
 conference, DebConf9, which took place from July 24th to 30th in
@@ -77,5 +77,5 @@ in person and work together more closely. It has taken place annually since
 
 <p>For further information, please visit the DebConf web pages at <a
 href="http://www.debconf.org/">http://www.debconf.org/</a> or send mail to &lt;<a
-href="mailto:press&#37;&#52;&#48;debconf&#46;org">press@debconf.org</a>.</p>
+href="mailto:press&#37;&#52;&#48;debconf&#46;org">press@debconf.org</a>&gt;.</p>
 
