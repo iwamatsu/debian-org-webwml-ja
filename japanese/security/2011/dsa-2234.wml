@@ -62,4 +62,4 @@ pickle を送ることでサーバ上で任意の python コードの実行が�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2234.data"
-# $Id: dsa-2234.wml,v 1.2 2011-05-11 01:16:28 taffit-guest Exp $
+# $Id: dsa-2234.wml,v 1.1 2011-05-13 02:09:47 kmuto Exp $

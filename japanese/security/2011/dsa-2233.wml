@@ -58,4 +58,4 @@ smtpd サーバをクラッシュ可能です。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2233.data"
-# $Id: dsa-2233.wml,v 1.1 2011-05-10 18:28:04 kaare Exp $
+# $Id: dsa-2233.wml,v 1.1 2011-05-13 02:09:09 kmuto Exp $
