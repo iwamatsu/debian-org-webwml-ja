@@ -1,6 +1,6 @@
 #use wml::debian::template title="German Debian pages" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.47" original="german"
-# $Id: index.wml,v 1.46 2011-03-10 01:54:40 taffit-guest Exp $
+#use wml::debian::translation-check translation="1.49" original="german"
+# $Id: index.wml,v 1.47 2011-05-15 19:02:44 holger-guest Exp $
 
 # This contents of this page is completely the responsibility of
 # the translation team
@@ -63,8 +63,7 @@ with english.</p>
 <p>The mailing list <email "debian-l10n-german@lists.debian.org">
 is intended for discussion and organisation of german translation 
 (<a href="http://lists.debian.org/debian-l10n-german">subscribe/archive</a>).
-There is also a <a href="http://wiki.debian.org/GermanL10N">\
-website for the list</a> with useful links.</p>
+</p>
 
 <hr />
 
