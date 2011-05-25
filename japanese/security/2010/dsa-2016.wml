@@ -42,4 +42,4 @@ Drupal サイトを任意のサイトに転送する攻撃が可能です。但�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2016.data"
-# $Id: dsa-2016.wml,v 1.1 2010-03-13 16:32:49 spaillard Exp $
+# $Id: dsa-2016.wml,v 1.1 2010-03-15 06:51:41 kmuto Exp $
