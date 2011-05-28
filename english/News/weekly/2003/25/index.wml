@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-24" SUMMARY="Security, Freeze, LinuxTag, Knoppix, LPPL, Hardware, Patents, Rsync, Descriptions, Haskell"
-# $Id: index.wml,v 1.15 2010-11-03 21:25:10 taffit-guest Exp $
+# $Id: index.wml,v 1.16 2011-05-26 10:04:48 rhonda Exp $
 
 <p>Welcome to this year's 25th issue of DWN, the weekly newsletter for the
 Debian community.  Debian 3.0 has been on the <a
@@ -167,8 +167,8 @@ explained</a> that this happens when a configuration file moves from one
 package to another, is renamed, or when a configuration file switches to being
 a configuration file when it was previously not.</p>
 
-<p><strong>Improper Package Description.</strong> Javier Fern·ndez-Sanguino
-PeÒa <a href="http://lists.debian.org/debian-devel-0306/msg01273.html">\
+<p><strong>Improper Package Description.</strong> Javier Fern√°ndez-Sanguino
+Pe√±a <a href="http://lists.debian.org/debian-devel-0306/msg01273.html">\
 complained</a> about wrongly used package descriptions.  The description
 should be written so that it gives the system administrator enough information
 to decide whether to install the package.  Several packages fail to meet this

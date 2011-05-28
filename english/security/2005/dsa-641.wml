@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Erik Sjölund discovered that playmidi, a MIDI player, contains a
+<p>Erik SjÃ¶lund discovered that playmidi, a MIDI player, contains a
 setuid root program with a buffer overflow that can be exploited by a
 local attacker.</p>
 
@@ -15,4 +15,4 @@ version 2.4debian-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-641.data"
-# $Id: dsa-641.wml,v 1.1 2005-01-17 11:50:59 joey Exp $
+# $Id: dsa-641.wml,v 1.2 2011-05-26 10:05:42 rhonda Exp $

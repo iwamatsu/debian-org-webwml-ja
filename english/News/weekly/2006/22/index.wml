@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-05-30" SUMMARY="Desktop, IRC, Summer of Code, Booting, Solaris, FrOSCon, CCv3, BSPs, Release"
-# $Id: index.wml,v 1.6 2006-06-01 12:59:43 joey Exp $
+# $Id: index.wml,v 1.7 2011-05-26 10:05:15 rhonda Exp $
 
 <p>Welcome to this year's 22nd issue of DWN, the weekly newsletter for the
 Debian community.  Joey Hess has produced a <a
@@ -206,4 +206,4 @@ href="$(HOME)/News/weekly/contributing">contributing page</a> to find out how
 to help.  We're looking forward to receiving your mail at <a
 href="mailto:dwn@debian.org">dwn@debian.org</a>.</p>
 
-#use wml::debian::weeklynews::footer editor="Luis Matos, Mohammed Adnène Trojette, Sebastian Feltel, Frederick Noronha, Martin 'Joey' Schulze"
+#use wml::debian::weeklynews::footer editor="Luis Matos, Mohammed AdnÃ¨ne Trojette, Sebastian Feltel, Frederick Noronha, Martin 'Joey' Schulze"

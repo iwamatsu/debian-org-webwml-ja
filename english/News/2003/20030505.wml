@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at Conferences in Italy and Austria</define-tag>
 <define-tag release_date>2003-05-05</define-tag>
 #use wml::debian::news
-# $Id: 20030505.wml,v 1.1 2003-05-05 19:10:07 joey Exp $
+# $Id: 20030505.wml,v 1.2 2011-05-26 10:04:15 rhonda Exp $
 
 <p>Two exhibitions and conferences that cover Free Software and GNU/Linux
 are taking place during the next couple of days.  The Debian project
@@ -18,7 +18,7 @@ Martin 'Joey' Schulze will also deliver two talks covering
 "community-based development using Debian as example" and "the
 future of free IT in the society".  Daniel 'con-fuse'
 K. Gebhart will also organise a keysigning party right after a
-talk about GnuPG given by Martin 'maxx' Würtele.</p>
+talk about GnuPG given by Martin 'maxx' WÃ¼rtele.</p>
 
 </dd>
 

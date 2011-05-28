@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-11-18" SUMMARY="Desktop, Caching, Impi, Merchandise, Installer, Release Progress, dpatch"
-# $Id: index.wml,v 1.12 2006-03-02 12:05:31 florian Exp $
+# $Id: index.wml,v 1.13 2011-05-26 10:04:51 rhonda Exp $
 
 <p>Welcome to this year's 46th issue of DWN, the weekly newsletter for the
 Debian community.  Daniel Silverstone <a
@@ -52,7 +52,7 @@ releasing a South African Linux operating system, the creators are
 demonstrating that Africans can be self determined in the digital world.</p>
 
 <p><strong>Cafepress Shops with Debian Merchandise.</strong> Javier
-Fernández-Sanguino Peña <a
+FernÃ¡ndez-Sanguino PeÃ±a <a
 href="http://lists.debian.org/debian-project-0311/msg00061.html">noticed</a>
 that several shops were set up at <a href="http://www.cafepress.com/">\
 Cafepress</a> that help selling Debian merchandise articles.  He was worried

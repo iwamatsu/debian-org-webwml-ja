@@ -1,5 +1,5 @@
 #use wml::debian::template title="Solutions Linux Paris 2004 -- Report"
-# $Id: 0203-solutionslinux-report.wml,v 1.5 2005-10-23 21:18:22 witch Exp $
+# $Id: 0203-solutionslinux-report.wml,v 1.6 2011-05-26 10:05:32 rhonda Exp $
 
 <p>Solutions Linux Paris was held from February 3rd to 5th. Debian has been
 offered a booth in the .Org Pavilion, as for the past few years. The .Org
@@ -9,7 +9,7 @@ floor rather than on the back.</p>
 
 <p>The people manning the booth this year were Thomas Seyrat, Benjamin Drieu,
 Samuel Hocevar, Christophe Le Bars, Bill Allombert, Jean-Michel Kelbert,
-Yann Dirson, Aurélien Gérôme (non-DD), Niv Altivanik (non-DD) and myself.</p>
+Yann Dirson, AurÃ©lien GÃ©rÃ´me (non-DD), Niv Altivanik (non-DD) and myself.</p>
 
 
 <h3>Tuesday, February 3rd, 2004</h3>
@@ -58,7 +58,7 @@ report</a>  of the event.</p>
 
 <p>Jean-Michel Kelbert spent the day with us. Quite a few French
 Debian developers were present
-at the exhibition, even if not for Debian. Rémi Perrot was here, too. He gave
+at the exhibition, even if not for Debian. RÃ©mi Perrot was here, too. He gave
 a talk in the same conference session as I did.</p>
 
 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-16" SUMMARY="Tcl, testing, woody, Banjos, FDL, PTS, DebConf, BTS, Installer, Subversion, Debmirror"
-# $Id: index.wml,v 1.8 2009-07-12 16:56:42 spaillar-guest Exp $
+# $Id: index.wml,v 1.9 2011-05-26 10:04:50 rhonda Exp $
 
 <p>Welcome to this year's 37th issue of DWN, the weekly newsletter for the
 Debian community.  Several readers told us that the first hardware audio
@@ -91,7 +91,7 @@ Florian Weimer
 it would depend upon whether the
 license was applied to a documentation format suitable for editing.</p>
 
-<p><strong>News from the Package Tracking System.</strong> Raphaël Hertzog <a
+<p><strong>News from the Package Tracking System.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel-announce-0309/msg00006.html">\
 reported</a> about a new <a
 href="$(HOME)/doc/manuals/developers-reference/resources#pts-web">\
@@ -112,7 +112,7 @@ Alegre</a>, Brazil.  This country has been extremely active in the Free
 Software movement but is very unrepresented at past Debian conferences.
 There are already plans planning to host the conference some days
 before or after the <a
-href="http://www.softwarelivre.org/forum2003/fotos_evento/">Fórum
+href="http://www.softwarelivre.org/forum2003/fotos_evento/">FÃ³rum
 Internacional de Software Livre</a> (International Free Software Forum), so
 that Debian developers can attend this event as well.</p>
 

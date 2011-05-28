@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit project
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit project
 discovered that a script in tuxpaint, a paint program for young
 children, creates a temporary file in an insecure fashion.</p>
 
@@ -17,4 +17,4 @@ version 0.9.15b-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-941.data"
-# $Id: dsa-941.wml,v 1.1 2006-01-16 07:46:17 joey Exp $
+# $Id: dsa-941.wml,v 1.2 2011-05-26 10:05:48 rhonda Exp $

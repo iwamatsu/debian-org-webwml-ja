@@ -16,14 +16,14 @@
 <define-tag involve>
 
     The Debian project will be present with a booth staffed with
-    Andreas Müller and Andreas Tille.  Andreas will also give a talk
+    Andreas MÃ¼ller and Andreas Tille.  Andreas will also give a talk
     about the Debian Med subproject, which will be demonstrated at the
     booth.
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0525-linuxtag-magdeburg.wml,v 1.7 2003-12-28 20:19:44 barbier Exp $
+# $Id: 0525-linuxtag-magdeburg.wml,v 1.8 2011-05-26 10:05:30 rhonda Exp $
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.mdlug.de/linuxtag2002/">3th Magdeburger Linuxtag</a><br>

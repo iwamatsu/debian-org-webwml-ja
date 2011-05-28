@@ -33,12 +33,12 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0606-linuxtag.wml,v 1.6 2002-07-06 07:40:49 joey Exp $
+# $Id: 0606-linuxtag.wml,v 1.7 2011-05-26 10:05:30 rhonda Exp $
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.linuxtag.org/">LinuxTag</a><br>
   <li><a href="http://www.infodrom.org/Debian/events/LinuxTag2002/">Debian Coordination</a>
-  <li><a href="http://www.d.kth.se/~d98-jas/karlsruhe/index.php?2002-06-12">Jon Åslund's diary</a>
+  <li><a href="http://www.d.kth.se/~d98-jas/karlsruhe/index.php?2002-06-12">Jon Ã…slund's diary</a>
   <li><a href="http://www.schmehl.info/linux/lt2002/index.html">Alexander Schmehl's report</a> (German)
   <li><a href="http://www.infodrom.org/Mail-Archive/debian-events-de/">Debian-events-eu mailing list</a>
 </ul>

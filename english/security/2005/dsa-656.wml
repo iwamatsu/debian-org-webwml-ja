@@ -1,6 +1,6 @@
 <define-tag description>insecure file access</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit Team has
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit Team has
 discovered that the vdr daemon which is used for video disk recorders
 for DVB cards can overwrite arbitrary files.</p>
 
@@ -15,4 +15,4 @@ version 1.2.6-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-656.data"
-# $Id: dsa-656.wml,v 1.1 2005-01-25 12:10:49 joey Exp $
+# $Id: dsa-656.wml,v 1.2 2011-05-26 10:05:43 rhonda Exp $

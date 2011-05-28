@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit team
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit team
 discovered that the syslogtocern script from thttpd, a tiny webserver,
 uses a temporary file insecurely, allowing a local attacker to craft a
 symlink attack to overwrite arbitrary files.</p>
@@ -19,4 +19,4 @@ version 2.23beta1-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-883.data"
-# $Id: dsa-883.wml,v 1.1 2005-11-04 16:53:19 joey Exp $
+# $Id: dsa-883.wml,v 1.2 2011-05-26 10:05:45 rhonda Exp $

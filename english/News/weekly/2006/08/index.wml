@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-02-22" SUMMARY="License, Etch, Device Driver, Debian Live, Maintenance"
-# $Id: index.wml,v 1.3 2006-04-24 09:38:43 joey Exp $
+# $Id: index.wml,v 1.4 2011-05-26 10:05:10 rhonda Exp $
 
 <p>Welcome to this year's 8th issue of DWN, the weekly newsletter for the
 Debian community.  Frederick Noronha <a
@@ -95,4 +95,4 @@ href="$(HOME)/News/weekly/contributing">contributing page</a> to find out how
 to help.  We're looking forward to receiving your mail at <a
 href="mailto:dwn@debian.org">dwn@debian.org</a>.</p>
 
-#use wml::debian::weeklynews::footer editor="Mohammed Adnène Trojette, Martin 'Joey' Schulze"
+#use wml::debian::weeklynews::footer editor="Mohammed AdnÃ¨ne Trojette, Martin 'Joey' Schulze"

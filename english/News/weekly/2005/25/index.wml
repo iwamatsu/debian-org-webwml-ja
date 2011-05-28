@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-21" SUMMARY="Upgrade, Legacy, SELinux, Menu, Embedded, Conferences, Etch, PostgreSQL"
-# $Id: index.wml,v 1.4 2005-06-27 15:05:06 fbothamy Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:02 rhonda Exp $
 
 
 <p>Welcome to this year's 25th issue of DWN, the weekly newsletter for the
@@ -65,7 +65,7 @@ of Debian related talks during <a href="http://www.linuxtag.org/">LinuxTag</a>
 contains archive descriptions, sub-projects, detailed use cases, porting and
 a lot more.</p>
 
-<p><strong>Javi's Etch Wishlist.</strong> Javier Fern·ndez-Sanguino PeÒa <a
+<p><strong>Javi's Etch Wishlist.</strong> Javier Fern√°ndez-Sanguino Pe√±a <a
 href="http://lists.debian.org/debian-devel/2005/06/msg00462.html">outlined</a>
 wishlist items for the next Debian release.  The list contains several
 improvements into a more security hardened system, rollback mechanism for

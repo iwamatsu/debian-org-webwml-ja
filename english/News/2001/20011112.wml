@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at Hispalinux Congress 2001</define-tag>
 <define-tag release_date>2001-11-12</define-tag>
 #use wml::debian::news
-# $Id: 20011112.wml,v 1.2 2001-11-12 08:55:58 joey Exp $
+# $Id: 20011112.wml,v 1.3 2011-05-26 10:04:15 rhonda Exp $
 
 <p>The Debian Project was invited to take part in the Hispalinux Congress
 2001 which takes place from November 15th to 17th.  This congress is a
@@ -10,7 +10,7 @@ and is held in Madrid, Spain.</p>
 
 <p><a href="$(HOME)/events/2001/1115-hispalinux">More information</a>.</p>
 
-<p>A presentation will be given by Javier Fern·ndez-Sanguino PeÒa in
+<p>A presentation will be given by Javier Fern√°ndez-Sanguino Pe√±a in
 which he will demonstrate the tools that are used by the Debian
 project, such as package pools, CVS servers and our web infrastructure
 with a special focus on internationalisation of web-published documents.</p>

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-02-10" SUMMARY="LILO, Filesystems, UserLinux, Packaging, GCC, Hurd, XFree86, UTF-8, NetBSD"
-# $Id: index.wml,v 1.9 2009-07-12 16:56:43 spaillar-guest Exp $
+# $Id: index.wml,v 1.10 2011-05-26 10:04:53 rhonda Exp $
 
 <p>Welcome to this year's sixth issue of DWN, the weekly newsletter for the
 Debian community.  Since supporting UTF-8 in Free Software takes quite some
@@ -13,7 +13,7 @@ href="http://www.ietf.org/mail-archive/ietf-announce/Current/msg28170.html">\
 proposed</a> as an <a href="http://www.ietf.org/">IETF</a> (Internet
 Engineering Task Force) standard.</p>
 
-<p><strong>LILO Support for Device Mapper.</strong> AndrÈs Rold·n <a
+<p><strong>LILO Support for Device Mapper.</strong> Andr√©s Rold√°n <a
 href="http://lists.debian.org/debian-devel-0401/msg02169.html">added</a>
 preliminary <a href="http://people.fluidsignal.com/~aroldan/debian">\
 support</a> for device mapper block devices to <a

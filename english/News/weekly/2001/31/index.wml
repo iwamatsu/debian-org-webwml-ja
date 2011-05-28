@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-11-21" SUMMARY="Bug Tracking System, Spellchecking, Freeze Update, Boot-Floppies"
-# $Id: index.wml,v 1.7 2001-11-27 14:14:36 alfie Exp $
+# $Id: index.wml,v 1.8 2011-05-26 10:04:25 rhonda Exp $
 
 <p><strong>Searching Bugs per Source Package.</strong> Adam Heath added the <a
 href="http://lists.debian.org/debian-devel-0111/msg01031.html">ability</a> to
@@ -49,7 +49,7 @@ href="http://lists.debian.org/debian-boot-0111/msg00583.html">Looking</a> at
 the date of one translated file, several translations may be out-dated.
 Translators should check their status.</p>
 
-<p><strong>Debian and the Euro.</strong> Javier Fern·ndez-Sanguino PeÒa <a
+<p><strong>Debian and the Euro.</strong> Javier Fern√°ndez-Sanguino Pe√±a <a
 href="http://lists.debian.org/debian-i18n-0111/msg00003.html">contributed</a>
 another document to the <a href="http://www.debian.org/doc/ddp">Debian
 Documentation Project</a> (DDP). From January 1st, 2002, several European

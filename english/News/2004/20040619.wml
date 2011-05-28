@@ -2,7 +2,7 @@
 <define-tag release_date>2004-06-19</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20040619.wml,v 1.5 2006-11-17 08:46:09 joey Exp $
+# $Id: 20040619.wml,v 1.6 2011-05-26 10:04:16 rhonda Exp $
 
 
 <p>This year's LinuxTag will take place from June 23rd to June 26th at
@@ -60,7 +60,7 @@ part of the regular conference schedule.</p>
 <talk   13:00  "Hauke Goos-Habermann"  "Softwareverteilung m23: Talk" 2.05>
 <talk   13:30  "Ian Murdock"           "Debian: Anatomy of an Open Source Project" EG>
 <talk   14:00  "Hauke Goos-Habermann"  "Softwareverteilung m23: Workshop" 2.05>
-<talk   15:00  "Jörg Jaspert"          "Introduction into network monitoring" UG3>
+<talk   15:00  "JÃ¶rg Jaspert"          "Introduction into network monitoring" UG3>
 
 <headline "Saturday, June 26th, 2004">
 

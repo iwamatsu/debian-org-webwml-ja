@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar and an anonymous researcher from Germany discovered a
+<p>Ulf HÃ¤rnhammar and an anonymous researcher from Germany discovered a
 vulnerability in the protocol code of freshclam, a command line
 utility responsible for downloading and installing virus signature
 updates for ClamAV, the antivirus scanner for Unix.  This could lead
@@ -19,4 +19,4 @@ version 0.88.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1050.data"
-# $Id: dsa-1050.wml,v 1.1 2006-05-03 15:25:48 joey Exp $
+# $Id: dsa-1050.wml,v 1.2 2011-05-26 10:05:47 rhonda Exp $

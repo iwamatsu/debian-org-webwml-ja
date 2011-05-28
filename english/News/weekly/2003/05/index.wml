@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-02-04" SUMMARY="Init, Archive Key, Games, Election, OpenOffice.org, SPI, Nicaragua, Exim, DPL Candidates"
-# $Id: index.wml,v 1.13 2010-11-03 21:25:25 taffit-guest Exp $
+# $Id: index.wml,v 1.14 2011-05-26 10:04:44 rhonda Exp $
 
 <p>Welcome to this year's fifth issue of DWN, the weekly newsletter for the
 Debian community.  Martin Michlmayr was <a
@@ -85,7 +85,7 @@ members automatically.</p>
 href="mail#mail1">reported</a> that Debian is
 spreading in Central America.  Three universities use Debian for routers and
 servers.  A Debian workshop for system administrators from the biggest
-university, Nacional Autónoma de Nicaragua-Managua, just finished.
+university, Nacional AutÃ³noma de Nicaragua-Managua, just finished.
 The national engineering university <a href="http://www.uni.edu.ni/">UNI</a>
 maintains a Debian <a href="http://debian.uni.edu.ni/">mirror</a> (i386) and
 also recently has joined the <a href="http://www.linex.org/">LinEX</a>

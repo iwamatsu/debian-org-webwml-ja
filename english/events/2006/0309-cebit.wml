@@ -43,14 +43,14 @@ booth.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0309-cebit.wml,v 1.12 2006-03-16 08:50:11 toddy Exp $
+# $Id: 0309-cebit.wml,v 1.13 2011-05-26 10:05:33 rhonda Exp $
 #Related Links here (free form)
 <define-tag ub>http://www.linux-events.de/LinuxPark_2006/LinuxForum/</define-tag>
 <ul>
  <li><a href="<ub>Abstracts/KNOPPIX_Abstract.html">Klaus Knopper: THE NEXT 100 YEARS OF GNU/LINUX</a>
  <li><a href="<ub>">Klaus Knopper: Knoppix</a>
  <li><a href="<ub>">Frank Ronneburg: Debian: CoreBiz Client im operativen Einsatz</a>
- <li><a href="<ub>Abstracts/OSF_Abstract.html">Alexander Schmehl and Christian Siegert: OPEN/OS Corporate Linux - Debian für den Mittelstand</a>
- <li><a href="<ub>Abstracts/AA_Abstract.html">Dr. Rolf Theodor Schuster and Torsten Werner: Open Source im Auswärtigen Amt - Bilanz einer Success Story</a>
+ <li><a href="<ub>Abstracts/OSF_Abstract.html">Alexander Schmehl and Christian Siegert: OPEN/OS Corporate Linux - Debian fÃ¼r den Mittelstand</a>
+ <li><a href="<ub>Abstracts/AA_Abstract.html">Dr. Rolf Theodor Schuster and Torsten Werner: Open Source im AuswÃ¤rtigen Amt - Bilanz einer Success Story</a>
  <li><a href="<ub>Abstracts/DEBIAN_TL_Abstract.html">Thomas Lange: Linux Rollout mit <acronym lang="en" title="Fully Automatic Installation">FAI</acronym></a>
 </ul>

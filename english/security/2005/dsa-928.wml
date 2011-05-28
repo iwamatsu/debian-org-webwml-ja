@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit project
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit project
 discovered that two scripts in the dhis-tools-dns package, DNS
 configuration utilities for a dynamic host information System, which
 are usually executed by root, create temporary files in an insecure
@@ -20,4 +20,4 @@ version 5.0-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-928.data"
-# $Id: dsa-928.wml,v 1.1 2005-12-27 13:31:03 joey Exp $
+# $Id: dsa-928.wml,v 1.2 2011-05-26 10:05:45 rhonda Exp $

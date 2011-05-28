@@ -1,6 +1,6 @@
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
-<p>Erik Sjölund discovered that abcmidi-yaps, a translator for ABC music
+<p>Erik SjÃ¶lund discovered that abcmidi-yaps, a translator for ABC music
 description files into PostScript, does not check the boundaries when
 reading in ABC music files resulting in buffer overflows.</p>
 
@@ -18,4 +18,4 @@ version 20060422-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1043.data"
-# $Id: dsa-1043.wml,v 1.2 2006-05-11 05:03:15 joey Exp $
+# $Id: dsa-1043.wml,v 1.3 2011-05-26 10:05:46 rhonda Exp $

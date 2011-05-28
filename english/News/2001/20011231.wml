@@ -1,7 +1,7 @@
 <define-tag pagetitle>Euro Support in Debian</define-tag>
 <define-tag release_date>2001-12-31</define-tag>
 #use wml::debian::news
-# $Id: 20011231.wml,v 1.7 2004-10-03 14:59:47 jseidel Exp $
+# $Id: 20011231.wml,v 1.8 2011-05-26 10:04:15 rhonda Exp $
 
 <p>On January 1, 2002, twelve of the countries in the European Economic
 and Monetary Union (EMU) will start to use 
@@ -14,7 +14,7 @@ forty countries which will share the common currency.</p>
 
 <p>Since the Euro currency is represented by a symbol of its own,
 supporting this requires some adjustments in operating systems.
-Javier Fern·ndez-Sanguino PeÒa wrote the
+Javier Fern√°ndez-Sanguino Pe√±a wrote the
 <a href="$(DOC)/manuals/debian-euro-support/">Debian Euro HOWTO</a> which
 explains how to set this up on a Debian system.</p>
 

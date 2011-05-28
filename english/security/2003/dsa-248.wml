@@ -1,6 +1,6 @@
 <define-tag description>buffer overflows</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar discovered two problems in hypermail, a program to
+<p>Ulf HÃ¤rnhammar discovered two problems in hypermail, a program to
 create HTML archives of mailing lists.</p>
 
 <p>An attacker could craft a long filename for an attachment that would
@@ -29,4 +29,4 @@ in version 2.1.6-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-248.data"
-# $Id: dsa-248.wml,v 1.2 2003-01-31 15:08:05 peterk Exp $
+# $Id: dsa-248.wml,v 1.3 2011-05-26 10:05:41 rhonda Exp $

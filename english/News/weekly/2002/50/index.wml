@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-12-24" SUMMARY="Mono, GFDD, Hurd, Desktop, IEEE, CD, Installation, Cooperation, Search, Libraries, GNOME"
-# $Id: index.wml,v 1.13 2010-11-03 21:27:57 taffit-guest Exp $
+# $Id: index.wml,v 1.14 2011-05-26 10:04:42 rhonda Exp $
 
 <p>Welcome to this year's 50th issue of DWN, the weekly newsletter for the
 Debian community.  If you are living in Australia and want to know more about
@@ -103,7 +103,7 @@ href="http://lists.debian.org/debian-boot-0212/msg00785.html">wonders</a> if
 anybody is interested.</p>
 
 <p><strong>Cooperation with Debian based Distributions?</strong> Javier
-Fernández-Sanguino Peña <a
+FernÃ¡ndez-Sanguino PeÃ±a <a
 href="http://lists.debian.org/debian-devel-0212/msg01220.html">wondered</a> if
 GNU/Linux distributions which are based on Debian were being as cooperative as
 they could be.  While distributions like Progeny contribute back into the

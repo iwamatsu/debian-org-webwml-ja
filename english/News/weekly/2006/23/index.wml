@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-06-06" SUMMARY="Web of Trust, Woody, Publicity, DebConf, Install, IRC, Release, Menu, Desktop"
-# $Id: index.wml,v 1.4 2006-06-13 18:26:24 joey Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:15 rhonda Exp $
 
 <p>Welcome to this year's 23rd issue of DWN, the weekly newsletter for the
 Debian community.  Enrico Zini <a
@@ -100,7 +100,7 @@ Stephen Samuel <a
 href="http://lists.debian.org/debian-devel/2006/04/msg00209.html">\
 confirmed</a> that this would cause problems in a hybrid environment.</p>
 
-<p><strong>Debian Light Desktop.</strong> André Luiz Rodrigues Ferreira <a
+<p><strong>Debian Light Desktop.</strong> AndrÃ© Luiz Rodrigues Ferreira <a
 href="http://lists.debian.org/debian-devel/2006/04/msg00236.html">started</a>
 working on a desktop meta package for desktop machines running old hardware.
 He <a href="http://lists.debian.org/debian-devel/2006/04/msg00334.html">\

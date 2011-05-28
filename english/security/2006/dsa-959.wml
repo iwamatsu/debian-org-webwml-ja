@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar from the Debian Security Audit Project discovered that unalz, a
+<p>Ulf HÃ¤rnhammar from the Debian Security Audit Project discovered that unalz, a
 decompressor for ALZ archives, performs insufficient bounds checking
 when parsing file names.  This can lead to arbitrary code execution if
 an attacker provides a crafted ALZ archive.</p>
@@ -17,4 +17,4 @@ version 0.30.1</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-959.data"
-# $Id: dsa-959.wml,v 1.3 2006-03-02 12:05:33 florian Exp $
+# $Id: dsa-959.wml,v 1.4 2011-05-26 10:05:48 rhonda Exp $

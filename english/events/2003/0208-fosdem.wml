@@ -20,7 +20,7 @@
 <define-tag involve>
 
     <p>The DebianEdu subproject will be featured in the "education
-    session".  Raphaël Hertzog will present the goals of the
+    session".  RaphaÃ«l Hertzog will present the goals of the
     subproject and its current status.  Furthermore, Martin Michlmayr
     will give a talk about adapting Debian to embedded use in the
     embedded session.  Debian will also maintain a booth in the
@@ -30,7 +30,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0208-fosdem.wml,v 1.12 2005-10-08 23:25:56 jfs Exp $
+# $Id: 0208-fosdem.wml,v 1.13 2011-05-26 10:05:31 rhonda Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0208-fosdem-report">Report</a><br>

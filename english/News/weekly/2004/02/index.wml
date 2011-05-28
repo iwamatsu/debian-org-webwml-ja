@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-01-13" SUMMARY="Kernel, CD, Vision, non-free, Perl, EU, Mail, License, XFree86, Sarge, Translation"
-# $Id: index.wml,v 1.8 2004-01-19 00:08:55 fbothamy Exp $
+# $Id: index.wml,v 1.9 2011-05-26 10:04:52 rhonda Exp $
 
 <p>Welcome to this year's second issue of DWN, the weekly newsletter for the
 Debian community.  Taran Rampersad <a
@@ -34,7 +34,7 @@ href="http://kerneltrap.org/node/view/1964">not</a> affected.
 mremap(2) provides functionality of resizing and moving across
 process's addressable space of existing virtual memory areas.</p>
 
-<p><strong>Future of Debian CD Creation.</strong> Raphaël Hertzog <a
+<p><strong>Future of Debian CD Creation.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-cd-0401/msg00025.html">asserted</a> that
 building CDs with <a href="http://packages.debian.org/debian-cd">debian-cd</a>
 isn't as easy as it was with potato

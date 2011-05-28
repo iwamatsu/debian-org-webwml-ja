@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit Project
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit Project
 discovered that the DBI library, the Perl5 database interface, creates
 a temporary PID file in an insecure manner.  This can be exploited by a
 malicious user to overwrite arbitrary files owned by the person
@@ -17,4 +17,4 @@ version 1.46-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-658.data"
-# $Id: dsa-658.wml,v 1.2 2005-01-25 16:50:34 peterk Exp $
+# $Id: dsa-658.wml,v 1.3 2011-05-26 10:05:43 rhonda Exp $

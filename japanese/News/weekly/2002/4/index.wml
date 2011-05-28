@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-23" SUMMARY="ブートフロッピー, スポンサー, フリーズの進展, APT, カンファレンス, VAX への移植, モバイル Debian"
-# $Id: index.wml,v 1.8 2009-08-22 10:59:58 osamu Exp $
-#use wml::debian::translation-check translation="1.9"
+# $Id: index.wml,v 1.9 2011-05-26 10:08:07 rhonda Exp $
+#use wml::debian::translation-check translation="1.10"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 週刊ニュースへようこそ。先週号がリリースされて以来、<a

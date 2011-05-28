@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-30" SUMMARY="Social Contract, GNOME, DPL, UUCP, Kernel, Installer, Release"
-# $Id: index.wml,v 1.6 2010-11-03 21:29:38 taffit-guest Exp $
+# $Id: index.wml,v 1.7 2011-05-26 10:04:54 rhonda Exp $
 
 <p>Welcome to this year's 13th issue of DWN, the weekly newsletter for the
 Debian community.  The next update to Debian GNU/Linux 3.0 is being <a
@@ -147,7 +147,7 @@ important updates.</p>
 <li><a href="http://packages.debian.org/unstable/web/mathopd">mathopd</a>
     -- Very small, yet very fast HTTP server.
 <li><a href="http://packages.debian.org/unstable/utils/movixmaker-2">movixmaker-2</a>
-    -- Simple interface to create customized eMoviX/MoviX/MoviX² CD images.
+    -- Simple interface to create customized eMoviX/MoviX/MoviXÂ² CD images.
 <li><a href="http://packages.debian.org/unstable/comm/picocom">picocom</a>
     -- Minimal dumb-terminal emulation program.
 <li><a href="http://packages.debian.org/unstable/admin/pkgsync">pkgsync</a>

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-01-24" SUMMARY="GNOME, Installation, Kaffe, Forums, Copyright, GPLv3, Archive, Copies, Non-code"
-# $Id: index.wml,v 1.2 2006-01-25 06:10:58 joey Exp $
+# $Id: index.wml,v 1.3 2011-05-26 10:05:09 rhonda Exp $
 
 <p>Welcome to this year's 4th issue of DWN, the weekly newsletter for the
 Debian community.  The Debian listmasters have decided to <a
@@ -80,7 +80,7 @@ href="http://wiki.debian.org/IRC/debian-tech/Logs/20051230-archivequalification"
 log</a> of the IRC conference with regards to architecture qualification for
 the Debian <a href="http://ftp.debian.org/">archive</a>.</p>
 
-<p><strong>Treating Paper Copies.</strong> Frank Küster <a
+<p><strong>Treating Paper Copies.</strong> Frank KÃ¼ster <a
 href="http://lists.debian.org/debian-legal/2006/01/msg00308.html">wondered</a>
 whether a printed version of a document released under the <a
 href="http://www.gnu.org/copyleft/gpl.html">GPL</a> would be "object code" as

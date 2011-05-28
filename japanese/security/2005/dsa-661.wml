@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>安全でない一時ファイルの作成</define-tag>
 <define-tag moreinfo>
 <p>Dan McMahill さんが、DSA 661-1 では複数の安全でないファイルの問題が修正されていないのに気づきました。
@@ -33,4 +33,4 @@ The Common Vulnerabilities and Exposures project では以下の脆弱性を認�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-661.data"
-# $Id: dsa-661.wml,v 1.4 2009-08-22 11:08:16 osamu Exp $
+# $Id: dsa-661.wml,v 1.5 2011-05-26 10:08:18 rhonda Exp $

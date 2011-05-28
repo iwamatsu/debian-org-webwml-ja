@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-08" SUMMARY="Election, Distribution, APT, Packaging, Buildds, Manpages"
-# $Id: index.wml,v 1.4 2005-03-09 06:52:59 joey Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:00 rhonda Exp $
 
 <p>Welcome to this year's 10th issue of DWN, the weekly newsletter for the
 Debian community.  Several developers use the campaigning period of this
@@ -100,7 +100,7 @@ that single quotes and hyphens in manual pages don't always look like they
 should.  In a response, Clint Adams <a
 href="http://lists.debian.org/debian-devel/2005/02/msg01321.html">explained</a>
 which characters to use for a hyphen and for a minus sign.  Additionally,
-Adeodato Simó <a
+Adeodato SimÃ³ <a
 href="http://lists.debian.org/debian-devel/2005/02/msg01322.html">pointed
 out</a> a workaround described in the <a
 href="http://packages.debian.org/groff">groff</a> package.</p>

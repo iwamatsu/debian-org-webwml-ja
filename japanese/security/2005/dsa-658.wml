@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>安全でない一時ファイルの作成</define-tag>
 <define-tag moreinfo>
 <p>Debian セキュリティ監査プロジェクトの一員である Javier Fern&aacute;ndez-Sanguino
@@ -18,4 +18,4 @@ Pe&ntilde;a さんは、Perl5 のデータベースインターフェイスで�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-658.data"
-# $Id: dsa-658.wml,v 1.2 2009-08-22 11:08:16 osamu Exp $
+# $Id: dsa-658.wml,v 1.3 2011-05-26 10:08:18 rhonda Exp $

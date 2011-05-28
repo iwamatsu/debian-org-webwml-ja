@@ -26,12 +26,12 @@
     will also organise a <a
     href="http://dkg.con-fuse.org/ksp/">keysigning party</a> right
     after a talk about GnuPG given by <a href="mailto:maxx@debian.org">Martin
-    'maxx' Würtele</a>.</p>
+    'maxx' WÃ¼rtele</a>.</p>
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0509-ifit.wml,v 1.8 2003-05-21 07:29:51 joey Exp $
+# $Id: 0509-ifit.wml,v 1.9 2011-05-26 10:05:31 rhonda Exp $
 <ul>
  <li><a href="http://wuv.uibk.ac.at/programm/sose03/2003-10-05_ifit_2003.html">IFIT</a>
  <li><a href="http://wuv.uibk.ac.at/programm/sose03/2003-10-05_ifit_Workshops.html">Program</a>

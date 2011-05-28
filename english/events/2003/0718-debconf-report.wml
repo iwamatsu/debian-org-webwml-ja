@@ -1,5 +1,5 @@
 #use wml::debian::template title="DebConf 2003 -- Report"
-# $Id: 0718-debconf-report.wml,v 1.8 2005-10-23 21:15:19 witch Exp $
+# $Id: 0718-debconf-report.wml,v 1.9 2011-05-26 10:05:31 rhonda Exp $
 
 <h3>Thursday, 17th of July: Arrival</h3>
 
@@ -166,7 +166,7 @@ maintainer, but mainly a user and translator).</p>
 
 <p>More interesting (and funnier as well) were the talks about FTP master's work (with
 nice background images on the slides) and &quot;Security in Debian&quot;
-by Javier Fern·ndez-Sanguino 'JFS' PeÒa. He
+by Javier Fern√°ndez-Sanguino 'JFS' Pe√±a. He
 started with some slides, but soon a discussion started, which made this
 talk really interesting. Unfortunately we didn't had the time to draw
 bigger conclusions about that, since it took to long.</p>

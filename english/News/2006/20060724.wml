@@ -1,7 +1,7 @@
 <define-tag pagetitle>Upcoming Release of Debian GNU/Linux 4.0</define-tag>
 <define-tag release_date>2006-07-24</define-tag>
 #use wml::debian::news
-# $Id: 20060724.wml,v 1.3 2006-08-08 19:10:08 kreutzm Exp $
+# $Id: 20060724.wml,v 1.4 2011-05-26 10:04:17 rhonda Exp $
 
 <p>The Debian project confirms December 2006 as the date for the next
 release of its distribution which will be named Debian GNU/Linux 4.0
@@ -37,7 +37,7 @@ and participate online.</p>
 
 <dt><strong>August 11th &mdash; 13th</strong></dt>
 
-<dd><p>Skolelinux Testcenter, Gütersloh, Germany</p></dd>
+<dd><p>Skolelinux Testcenter, GÃ¼tersloh, Germany</p></dd>
 
 <dt><strong>September 8th &mdash; 10th</strong></dt>
 
@@ -45,7 +45,7 @@ and participate online.</p>
 
 <dt><strong>October 6th &mdash; 8th</strong></dt>
 
-<dd><p>Espace Autogéré des Tanneries, Dijon, France</p></dd>
+<dd><p>Espace AutogÃ©rÃ© des Tanneries, Dijon, France</p></dd>
 
 </dl>
 

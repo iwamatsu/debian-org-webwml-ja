@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at several Events in Europe</define-tag>
 <define-tag release_date>2003-02-24</define-tag>
 #use wml::debian::news
-# $Id: 20030224.wml,v 1.2 2003-02-24 18:24:05 joey Exp $
+# $Id: 20030224.wml,v 1.3 2011-05-26 10:04:15 rhonda Exp $
 
 <p>Several exhibitions and conferences covering Free Software and
 GNU/Linux will take place during the next couple of days.  The Debian
@@ -32,7 +32,7 @@ Debian GNU/Linux.  Some talks will be digitally shared with the
 
 <dd>
 <p>The Debian project will run a booth staffed with Michael
-Bramer, Andreas Tille and Andreas Müller.  Michael
+Bramer, Andreas Tille and Andreas MÃ¼ller.  Michael
 Bramer will also give a workshop about the Debian package
 management and a talk about the Debian Description Translation
 Project.  Additionally Andreas Tille will give a presentation

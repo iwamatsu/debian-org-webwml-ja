@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-02-28" SUMMARY="GFDL, Mirror, DPL Election, AMD64, Polls, NMU, Python"
-# $Id: index.wml,v 1.2 2006-03-01 17:18:41 joey Exp $
+# $Id: index.wml,v 1.3 2011-05-26 10:05:11 rhonda Exp $
 
 <p>Welcome to this year's 9th issue of DWN, the weekly newsletter for the
 Debian community.  Lars Wirzenius <a
@@ -45,7 +45,7 @@ weeks when the mirror split transition is over, the <a
 href="$(HOME)/ports/amd64/">amd64</a> autobuilder will get all packages
 rebuilt.</p>
 
-<p><strong>Weekly Polls and Social Pressure.</strong> Raphaël Hertzog <a
+<p><strong>Weekly Polls and Social Pressure.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-project/2006/02/msg00065.html">proposed</a>
 to run weekly polls on various issues, including social problems, which could
 be used as a basis for listmasters.  Those polls should give a pretty good

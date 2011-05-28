@@ -1,6 +1,6 @@
 <define-tag description>format string vulnerability</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar from the Debian Security Audit Project discovered a
+<p>Ulf HÃ¤rnhammar from the Debian Security Audit Project discovered a
 format string vulnerability in weex, a non-interactive FTP client for
 updating web pages, that could be exploited to execute arbitrary code
 on the clients machine.</p>
@@ -19,4 +19,4 @@ version 2.6.1-6sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-855.data"
-# $Id: dsa-855.wml,v 1.1 2005-10-10 04:24:30 joey Exp $
+# $Id: dsa-855.wml,v 1.2 2011-05-26 10:05:45 rhonda Exp $

@@ -57,8 +57,8 @@ PHP4 については 4.2.3-3 で修正されています。</p>
 <p>PHP パッケージをアップグレードすることをお勧めします。</p>
 </define-tag>
 
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1.5"
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-168.data"
-# $Id: dsa-168.wml,v 1.5 2009-08-22 11:08:14 osamu Exp $
+# $Id: dsa-168.wml,v 1.6 2011-05-26 10:08:16 rhonda Exp $
 

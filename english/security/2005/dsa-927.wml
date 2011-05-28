@@ -1,11 +1,11 @@
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
 <p>The last update of tkdiff contained a programming error which is
-fixed by this version.  For completeness we're adding the original
+fixed by this version. Â For completeness we're adding the original
 advisory text:</p>
 
 <blockquote>
-<p>Javier Fernández-Sanguino Peña from the Debian Security Audit project
+<p>Javier FernÃ¡ndez-Sanguino PeÃ±a from the Debian Security Audit project
 discovered that tkdiff, a graphical side by side "diff" utility,
 creates temporary files in an insecure fashion.</p>
 </blockquote>
@@ -24,4 +24,4 @@ version 4.0.2-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-927.data"
-# $Id: dsa-927.wml,v 1.2 2005-12-29 14:04:21 toddy Exp $
+# $Id: dsa-927.wml,v 1.3 2011-05-26 10:05:45 rhonda Exp $

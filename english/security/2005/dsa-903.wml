@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>The unzip update in DSA 903 contained a regression so that symbolic
 links that are resolved later in a zip archive aren't supported
-anymore.  This update corrects this behaviour.  For completeness,
+anymore. Â This update corrects this behaviour. Â For completeness,
 below please find the original advisory text:</p>
 
 <blockquote>
@@ -26,4 +26,4 @@ version 5.52-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-903.data"
-# $Id: dsa-903.wml,v 1.2 2006-01-13 16:13:18 toddy Exp $
+# $Id: dsa-903.wml,v 1.3 2011-05-26 10:05:45 rhonda Exp $

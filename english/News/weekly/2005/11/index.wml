@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-15" SUMMARY="DebConf, Logo, USB, Documentation, Election, Release, NEW Queue"
-# $Id: index.wml,v 1.3 2005-03-15 20:11:42 peterk Exp $
+# $Id: index.wml,v 1.4 2011-05-26 10:05:00 rhonda Exp $
 
 <p>Welcome to this year's 11th issue of DWN, the weekly newsletter for the
 Debian community.  Sean Finney <a
@@ -193,4 +193,4 @@ href="$(HOME)/News/weekly/contributing">contributing page</a> to find out how
 to help.  We're looking forward to receiving your mail at <a
 href="mailto:dwn@debian.org">dwn@debian.org</a>.</p>
 
-#use wml::debian::weeklynews::footer editor="Manuel Romero Vel·zquez, Carlos Z.F. Liu, Martin 'Joey' Schulze"
+#use wml::debian::weeklynews::footer editor="Manuel Romero Vel√°zquez, Carlos Z.F. Liu, Martin 'Joey' Schulze"

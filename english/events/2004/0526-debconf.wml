@@ -14,7 +14,7 @@ Developers. Non-developers are quite welcome to attend, but are not
 the conference's primary audience.  DebCamp will be mixed with DebConf, 
 from May 26th to June 2nd. This is a chance for developers to work together
 in a less formal setting.  Debconf will also be participating in the 
-<a href="http://www.softwarelivre.org/">V Fórum Internacional do Software
+<a href="http://www.softwarelivre.org/">V FÃ³rum Internacional do Software
 Livre</a>, one of the biggest Free Software events in the world, from 
 June 3rd to 5th.</p>
 </define-tag>
@@ -29,7 +29,7 @@ novel architectures.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0526-debconf.wml,v 1.9 2004-12-12 21:09:39 jseidel Exp $
+# $Id: 0526-debconf.wml,v 1.10 2011-05-26 10:05:32 rhonda Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.debconf.org/debconf4/">website</a>

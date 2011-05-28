@@ -1,6 +1,6 @@
 <define-tag description>missing input sanitising</define-tag>
 <define-tag moreinfo>
-<p>Henryk Plötz discovered a vulnerability in bluez-utils, tools and
+<p>Henryk PlÃ¶tz discovered a vulnerability in bluez-utils, tools and
 daemons for Bluetooth.  Due to missing input sanitising it is possible
 for an attacker to execute arbitrary commands supplied as device name
 from the remote device.</p>
@@ -19,4 +19,4 @@ version 2.19-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-782.data"
-# $Id: dsa-782.wml,v 1.2 2005-08-23 10:12:29 thuriaux Exp $
+# $Id: dsa-782.wml,v 1.3 2011-05-26 10:05:44 rhonda Exp $

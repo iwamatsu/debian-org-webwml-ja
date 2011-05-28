@@ -5,7 +5,7 @@ the multiple insecure files problem, hence, this update. For
 completeness below is the original advisory text:</p>
 
 <blockquote>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit project
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit project
 discovered that f2c and fc, which are both part of the f2c package, a
 fortran 77 to C/C++ translator, open temporary files insecurely and
 are hence vulnerable to a symlink attack.  The Common
@@ -33,4 +33,4 @@ this problem has been fixed in version 20010821-3.2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-661.data"
-# $Id: dsa-661.wml,v 1.3 2005-04-20 15:03:58 toddy Exp $
+# $Id: dsa-661.wml,v 1.4 2011-05-26 10:05:43 rhonda Exp $

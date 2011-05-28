@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar discovered a buffer overflow in metamail, an
+<p>Ulf HÃ¤rnhammar discovered a buffer overflow in metamail, an
 implementation of MIME (Multi-purpose Internet Mail Extensions), that
 could lead to a denial of service or potentially execute arbitrary
 code when processing messages.</p>
@@ -19,4 +19,4 @@ version 2.7-51.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-995.data"
-# $Id: dsa-995.wml,v 1.2 2006-03-13 10:17:02 florian Exp $
+# $Id: dsa-995.wml,v 1.3 2011-05-26 10:05:48 rhonda Exp $

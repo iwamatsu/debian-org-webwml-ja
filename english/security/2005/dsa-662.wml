@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>Andrew Archibald discovered that the last update to squirrelmail which
 was intended to fix several problems caused a regression which got
-exposed when the user hits a session timeout.  For completeness below
+exposed when the user hits a session timeout. Â For completeness below
 is the original advisory text:</p>
 
 <blockquote>
@@ -38,4 +38,4 @@ has been fixed in version 1.4.4-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-662.data"
-# $Id: dsa-662.wml,v 1.2 2005-03-16 17:03:26 toddy Exp $
+# $Id: dsa-662.wml,v 1.3 2011-05-26 10:05:43 rhonda Exp $

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-14" SUMMARY="Release, C++, DebConf, AMD64, Sarge, dpkg, Packaging, Customisation, SELinux"
-# $Id: index.wml,v 1.3 2005-06-27 17:33:41 peterk Exp $
+# $Id: index.wml,v 1.4 2011-05-26 10:05:01 rhonda Exp $
 
 <p>Welcome to this year's 24th issue of DWN, the weekly newsletter for the
 Debian community.  Last week has seen a lot of discussion on release goals and
@@ -34,7 +34,7 @@ Finland. In order to reduce the likelihood that two talks that people really
 wish to attend are scheduled for the exact same time, the scheduler will
 attempt to minimise the conflicts between talks according to the vote.</p>
 
-<p><strong>Sarge for AMD64 released.</strong> Jörg Jaspert <a
+<p><strong>Sarge for AMD64 released.</strong> JÃ¶rg Jaspert <a
 href="http://lists.debian.org/debian-devel-announce/2005/06/msg00005.html">\
 announced</a> that the AMD64 archive is declared stable as well.  In general
 this release is the same as for the official <a href="$(HOME)/ports/">\

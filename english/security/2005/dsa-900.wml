@@ -2,8 +2,8 @@
 <define-tag moreinfo>
 <p>Due to restrictive dependency definition for fetchmail-ssl the updated fetchmailconf
 package couldn't be installed on the old stable distribution (woody)
-together with fetchmail-ssl.  Hence, this update loosens it, so that
-the update can be pulled in.  For completeness we're including the
+together with fetchmail-ssl. Â Hence, this update loosens it, so that
+the update can be pulled in. Â For completeness we're including the
 original advisory text:</p>
 
 <blockquote>
@@ -32,4 +32,4 @@ version 6.2.5.4-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-900.data"
-# $Id: dsa-900.wml,v 1.4 2005-11-22 17:14:03 toddy Exp $
+# $Id: dsa-900.wml,v 1.5 2011-05-26 10:05:45 rhonda Exp $

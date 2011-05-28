@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar from the Debian Security Audit Project discovered a
+<p>Ulf HÃ¤rnhammar from the Debian Security Audit Project discovered a
 buffer overflow in axel, a light download accelerator.  When reading
 remote input the program did not check if a part of the input can
 overflow a buffer and maybe trigger the execution of arbitrary code.</p>
@@ -16,4 +16,4 @@ version 1.0b-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-706.data"
-# $Id: dsa-706.wml,v 1.2 2005-04-14 05:38:31 peterk Exp $
+# $Id: dsa-706.wml,v 1.3 2011-05-26 10:05:44 rhonda Exp $

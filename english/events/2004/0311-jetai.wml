@@ -20,10 +20,10 @@ workshops.  The entrance is free.
 
 This year Free Software is represented by a talk by Jesus M. Gonzalez
 Barahona about "Software as a service" and another talk by Isaac
-Clerencia Pérez covering "Debian: development through the Internet"
+Clerencia PÃ©rez covering "Debian: development through the Internet"
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0311-jetai.wml,v 1.3 2004-03-15 10:08:28 joey Exp $
+# $Id: 0311-jetai.wml,v 1.4 2011-05-26 10:05:32 rhonda Exp $
 #Related Links here (free form)

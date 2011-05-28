@@ -1,6 +1,6 @@
 <define-tag description>format string</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar and Max Vozeler from the Debian Security Audit Project
+<p>Ulf HÃ¤rnhammar and Max Vozeler from the Debian Security Audit Project
 have found several format string security bugs in osiris, a
 network-wide system integrity monitor control interface.  A remote
 attacker could exploit them and cause a denial of service or execute
@@ -17,4 +17,4 @@ version 4.2.0-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1129.data"
-# $Id: dsa-1129.wml,v 1.2 2006-08-06 18:56:08 peterk Exp $
+# $Id: dsa-1129.wml,v 1.3 2011-05-26 10:05:47 rhonda Exp $

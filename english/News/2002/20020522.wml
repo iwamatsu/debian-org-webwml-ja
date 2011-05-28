@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Woody in less than two minutes</define-tag>
 <define-tag release_date>2002-05-22</define-tag>
 #use wml::debian::news
-# $Id: 20020522.wml,v 1.3 2002-05-22 19:11:24 peterk Exp $
+# $Id: 20020522.wml,v 1.4 2011-05-26 10:04:15 rhonda Exp $
 
 <p>New Intercontinental Internet Performance Records Set in Internet2
 Land Speed Record Competition
@@ -29,7 +29,7 @@ University of Alaska team. "Using standard equipment and
 infrastructure developed in the Internet2 community, we've pushed the
 boundaries to the edges."
 
-<p>About Internet2®:
+<p>About Internet2Â®:
 
 <p>Led by over 190 U.S. universities, working with industry and
 government, Internet2 is developing and deploying advanced network

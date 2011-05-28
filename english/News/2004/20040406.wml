@@ -1,7 +1,7 @@
 <define-tag pagetitle>Joint Statement about GNU/Linux Security</define-tag>
 <define-tag release_date>2004-04-04</define-tag>
 #use wml::debian::news
-# $Id: 20040406.wml,v 1.5 2005-11-20 12:40:24 jfs Exp $
+# $Id: 20040406.wml,v 1.6 2011-05-26 10:04:16 rhonda Exp $
 
 # Joint Statement about GNU/Linux Security
 
@@ -90,11 +90,11 @@ closer investigation of the conclusions the report presents.</p>
 <br>Noah Meyerhans, Debian
 <br>Vincent Danen, Mandrakesoft
 <br>Mark J Cox, Red Hat
-<br>Roman Drahtmüller, SUSE</p>
+<br>Roman DrahtmÃ¼ller, SUSE</p>
 
 <h3>Additional Information:</h3>
 
-<p>Javier Fernández-Sanguino Peña <a
+<p>Javier FernÃ¡ndez-Sanguino PeÃ±a <a
 href="http://people.debian.org/~jfs/debconf3/security/data/">composed</a>
 a <a href="http://lists.debian.org/debian-security-0112/msg00257.html">\
 survey</a> in 2001 and discovered that it has taken the Debian security

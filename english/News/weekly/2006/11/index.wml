@@ -1,8 +1,8 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-14" SUMMARY="QA, Backup, Kernel, Stable Updates, GFDL, DPL Role, Haskell"
-# $Id: index.wml,v 1.12 2006-06-27 20:29:33 joey Exp $
+# $Id: index.wml,v 1.13 2011-05-26 10:05:12 rhonda Exp $
 
 <p>Welcome to this year's 11th issue of DWN, the weekly newsletter for the
-Debian community.  Raphaël Hertzog <a
+Debian community.  RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel/2006/01/msg01826.html">started</a>
 to write down the design of a <a
 href="http://wiki.debian.org/CollaborativeMaintenance">collaborative

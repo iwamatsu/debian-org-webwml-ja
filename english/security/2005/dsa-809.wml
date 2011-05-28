@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>Certain aborted requests that trigger an assertion in squid, the
 popular WWW proxy cache, may allow remote attackers to cause a denial
-of service.  This update also fixes a regression caused by
+of service. Â This update also fixes a regression caused by
 <a href="dsa-751">DSA 751</a>.
 For completeness below is the original advisory text:</p>
 
@@ -39,4 +39,4 @@ version 2.5.10-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-809.data"
-# $Id: dsa-809.wml,v 1.2 2005-10-04 08:44:44 toddy Exp $
+# $Id: dsa-809.wml,v 1.3 2011-05-26 10:05:44 rhonda Exp $

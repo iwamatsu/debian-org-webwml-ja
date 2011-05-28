@@ -1,12 +1,12 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-06-25" SUMMARY="XFree86 4.2, Prettyprinting, Flyer, Woody Installer, Documentation, Supercomputer"
-# $Id: index.wml,v 1.11 2004-02-16 21:29:25 jseidel Exp $
+# $Id: index.wml,v 1.12 2011-05-26 10:04:36 rhonda Exp $
 
 <p>Welcome to this year's twentyfourth issue of DWN, the weekly newsletter for
 the Debian community.  In order to improve the quality of DWN and to let new
 contributors know how we put together each issue, we updated the <a
 href="$(HOME)/News/weekly/contributing">contributing page</a>.  Here's a nice
 <a href="http://lists.debian.org/debian-devel-0206/msg01234.html">quote</a>
-from Jérôme Marant: The good work Debian folks are doing on their packages is
+from JÃ©rÃ´me Marant: The good work Debian folks are doing on their packages is
 the real secret for APT's magic.</p>
 
 <p><strong>Preliminary XFree86 4.2.0 Packages.</strong> Branden Robinson
@@ -33,7 +33,7 @@ minutes. There is more <a
 href="http://logiciels-libres-cndp.ac-versailles.fr/annonce.html">information</a>
 with links pointing to French documents.</p>
 
-<p><strong>Developer's Reference Updated.</strong> Raphaël Hertzog <a
+<p><strong>Developer's Reference Updated.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel-announce-0206/msg00007.html">\
 announced</a> that a new version of the <a
 href="$(HOME)/doc/manuals/developers-reference/">Developer's

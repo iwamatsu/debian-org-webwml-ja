@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-16" SUMMARY="Sponsors, LibPNG, Documentation, OpenPKG, Debian NetBSD, Quality Assurance, 2.2r5"
-# $Id: index.wml,v 1.8 2004-02-16 20:37:58 jseidel Exp $
+# $Id: index.wml,v 1.9 2011-05-26 10:04:37 rhonda Exp $
 
 <p>Welcome to this year's third issue of Debian Weekly News, the weekly
 newsletter for the Debian community.  We hope you enjoyed the last week.
@@ -7,7 +7,7 @@ A lot of things happened.
 This week we proudly include two items by a new voluntary writer: Yooseong
 Yang.</p>
 
-<p><strong>Sponsors Needed.</strong> Raphaël Hertzog <a
+<p><strong>Sponsors Needed.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel-announce-0201/msg00003.html">\
 reminded</a> us that Debian needs more sponsors to look after packages
 from prospective future maintainers.  The sponsorship system offers

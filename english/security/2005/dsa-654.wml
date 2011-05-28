@@ -1,6 +1,6 @@
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
-<p>Erik Sjölund has discovered several security relevant problems in
+<p>Erik SjÃ¶lund has discovered several security relevant problems in
 enscript, a program to convert ASCII text into Postscript and other
 formats.  The Common Vulnerabilities and Exposures project identifies
 the following vulnerabilities:</p>
@@ -39,4 +39,4 @@ version 1.6.4-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-654.data"
-# $Id: dsa-654.wml,v 1.4 2005-02-18 19:12:15 toddy Exp $
+# $Id: dsa-654.wml,v 1.5 2011-05-26 10:05:42 rhonda Exp $

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-01" SUMMARY="FOSDEM, Dependencies, Libraries, MySQL, Upgrade, Gettext, Archive, BSP, DebConf, Release"
-# $Id: index.wml,v 1.5 2005-02-03 12:11:29 fbothamy Exp $
+# $Id: index.wml,v 1.6 2011-05-26 10:04:59 rhonda Exp $
 
 <p>Welcome to this year's 5th issue of DWN, the weekly newsletter for the
 Debian community.  Andreas Schuldei <a
@@ -20,7 +20,7 @@ the end of February.  The talks will cover the release process, embedded
 Debian, the Debian Women project, the Hurd, porting, quality assurance and
 more.</p>
 
-<p><strong>Dealing with missing Dependencies.</strong> Frank Küster <a
+<p><strong>Dealing with missing Dependencies.</strong> Frank KÃ¼ster <a
 href="http://lists.debian.org/debian-devel/2005/01/msg01644.html">wondered</a>
 why the <a href="$(HOME)/doc/debian-policy/">Debian policy manual</a> uses the
 word "should" and not "must" when it comes to the requirement to add

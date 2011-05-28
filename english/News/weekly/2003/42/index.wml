@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-21" SUMMARY="LPI, Retrospective, News, Policy, Source Uploads, Wikipedia, Freeze, Ballot, Testing, Images"
-# $Id: index.wml,v 1.7 2004-02-16 20:38:02 jseidel Exp $
+# $Id: index.wml,v 1.8 2011-05-26 10:04:51 rhonda Exp $
 
 <p>Welcome to this year's 42nd issue of DWN, the weekly newsletter for the
 Debian community.  According to <a
@@ -41,7 +41,7 @@ href="http://news.netcraft.com/archives/2003/08/16/debian_linux_distribution_10_
 survey</a>, the <a href="http://www.sage-ie.org/slides/case_study/">case
 study</a> in best practice for operating system management and others.</p>
 
-<p><strong>Package Policy Checker.</strong> Magos·nyi Arp·d <a
+<p><strong>Package Policy Checker.</strong> Magos√°nyi Arp√°d <a
 href="http://lists.debian.org/debian-devel-0310/msg01132.html">wondered</a>
 which policy checker should be used since the versions in testing don't
 implement the most recent <a href="$(HOME)/doc/debian-policy/">policy</a>.

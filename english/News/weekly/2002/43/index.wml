@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-11-05" SUMMARY="Security, ALSA, Woody, TWAIN, Logserver, XTerminal, Source CD, LZW Algorithm, Wordlist, GNOME 1"
-# $Id: index.wml,v 1.15 2004-09-03 13:44:04 florian Exp $
+# $Id: index.wml,v 1.16 2011-05-26 10:04:40 rhonda Exp $
 
 <p>Welcome to this year's 43rd issue of DWN, the weekly newsletter for the
 Debian community.  This week we are pleased to include items by Matt Black and
@@ -108,7 +108,7 @@ that source code.  Blars Blarson <a
 href="http://lists.debian.org/debian-cd-0210/msg00144.html">wondered</a>
 whether the entire source code for woody's first binary CD could be found on
 the first source CD, or whether he would need to grab all the source CDs in
-order to distribute the first binary CD.  Raphaël Hertzog <a
+order to distribute the first binary CD.  RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-cd-0211/msg00001.html">advised</a> that
 although source packages are generally added to CDs in a similar order as the
 binary packages, there are several reasons why the CDs will not exactly

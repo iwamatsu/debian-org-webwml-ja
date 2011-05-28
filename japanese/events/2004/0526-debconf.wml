@@ -6,7 +6,7 @@
 <define-tag enddate>2004-06-05</define-tag>
 <define-tag infolink>http://www.debconf.org/debconf4/</define-tag>
 <define-tag coord><a href="mailto:debconf4@listas.cipsga.org.br">Debian-BR Team</a></define-tag>
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="1.10"
 
 <define-tag intro>
 
@@ -31,7 +31,7 @@ Debian/BSD、Hurd、新アーキテクチャへの移植に関する
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0526-debconf.wml,v 1.6 2009-08-22 11:08:07 osamu Exp $
+# $Id: 0526-debconf.wml,v 1.7 2011-05-26 10:08:15 rhonda Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.debconf.org/debconf4/">ウェブサイト</a>

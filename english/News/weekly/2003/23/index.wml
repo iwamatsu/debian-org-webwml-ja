@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-10" SUMMARY="XSF, Menu, Sarge, OpenSSL, Birthday, Knoppix, Votes, FreeBSD, Kerberos, Rocket, I18n, Licenses, UTF8"
-# $Id: index.wml,v 1.14 2004-02-16 21:29:26 jseidel Exp $
+# $Id: index.wml,v 1.15 2011-05-26 10:04:48 rhonda Exp $
 
 <p>Welcome to this year's 23rd issue of DWN, the weekly newsletter for the
 Debian community.  There is a nice little <a
@@ -183,7 +183,7 @@ the license to be not compliant with the <a
 href="$(HOME)/social_contract#guidelines">Debian Free Software
 Guidelines</a>.</p>
 
-<p><strong>Status of UTF-8 Debian Changelogs.</strong> Jérôme Marant <a
+<p><strong>Status of UTF-8 Debian Changelogs.</strong> JÃ©rÃ´me Marant <a
 href="http://lists.debian.org/debian-policy-0306/msg00021.html">asked</a>
 about the status of using UTF-8 in Debian changelog files, since he's seen
 some UTF-8-encoded debian/changelog files.  However, he hasn't seen anything

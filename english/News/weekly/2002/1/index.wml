@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-01" SUMMARY="Netinstall, GRSecurity, Counting Source, SuperH, CD, Bug Reporting"
-# $Id: index.wml,v 1.12 2005-12-04 14:56:57 witch Exp $
+# $Id: index.wml,v 1.13 2011-05-26 10:04:26 rhonda Exp $
 
 <p><strong>Happy New Year!</strong> Welcome to the new year 2002 and the first
 issue of Debian Weekly News for this term.  We hope that you have survived all
@@ -104,7 +104,7 @@ proposal</a> modifying the upload policy for new packages.  His concerns refer
 to the bloat in Debian, since he believes that there are so many unneeded,
 unused and unmaintained packages.  He would like to make it more complicated
 for developers to upload new packages.  While he didn't make many people
-happy, Raphaël Hertzog <a
+happy, RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel-0112/msg02192.html">finetuned</a>
 the proposal.</p>
 

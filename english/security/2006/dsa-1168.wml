@@ -9,7 +9,7 @@ identifies the following problems:</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2006-2440">CVE-2006-2440</a>
 
-    <p>Eero Häkkinen discovered that the display tool allocates insufficient
+    <p>Eero HÃ¤kkinen discovered that the display tool allocates insufficient
     memory for globbing patterns, which might lead to a buffer overflow.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2006-3743">CVE-2006-3743</a>
@@ -36,4 +36,4 @@ version 6:6.0.6.2-2.7.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1168.data"
-# $Id: dsa-1168.wml,v 1.4 2010-12-17 15:39:46 taffit-guest Exp $
+# $Id: dsa-1168.wml,v 1.5 2011-05-26 10:05:47 rhonda Exp $

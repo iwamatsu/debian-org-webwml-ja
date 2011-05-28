@@ -1,6 +1,6 @@
 <define-tag description>format string vulnerabilities</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar discovered several format string vulnerabilities in
+<p>Ulf HÃ¤rnhammar discovered several format string vulnerabilities in
 Evolution, a free groupware suite, that could lead to crashes of the
 application or the execution of arbitrary code.</p>
 
@@ -18,4 +18,4 @@ version 2.2.3-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1016.data"
-# $Id: dsa-1016.wml,v 1.1 2006-03-23 13:43:13 joey Exp $
+# $Id: dsa-1016.wml,v 1.2 2011-05-26 10:05:46 rhonda Exp $

@@ -26,11 +26,11 @@ packages in addition to a talk covering software management with Debian.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1022-berlinux.wml,v 1.3 2004-10-24 19:13:55 alfie Exp $
+# $Id: 1022-berlinux.wml,v 1.4 2011-05-26 10:05:32 rhonda Exp $
 #Related Links here (free form)
 <ul>
   <li>Frank Ronneburg: <a href="http://www.berlinux.de/vortraege.htm?20">Softwaremanagement mit Debian GNU/Linux</a></li>
-  <li>Alexander Schmehl: <a href="http://www.berlinux.de/vortraege.htm?45">Neuer, schöner, bunter: Debian GNU/Linux 3.1 &quot;Sarge&quot;</a></li>
+  <li>Alexander Schmehl: <a href="http://www.berlinux.de/vortraege.htm?45">Neuer, schÃ¶ner, bunter: Debian GNU/Linux 3.1 &quot;Sarge&quot;</a></li>
   <li>Nico Golde: <a href="http://www.berlinux.de/vortraege.htm?55">Erstellung von Debian-GNU/Linux-Paketen</a></li>
 </ul>
 

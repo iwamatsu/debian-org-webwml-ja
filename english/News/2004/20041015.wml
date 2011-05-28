@@ -2,7 +2,7 @@
 <define-tag release_date>2004-10-15</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20041015.wml,v 1.7 2005-02-20 01:34:15 jseidel Exp $
+# $Id: 20041015.wml,v 1.8 2011-05-26 10:04:16 rhonda Exp $
 
 <p>Seven exhibitions and conferences that will cover Free Software and
 GNU/Linux will take place within the following weeks in several cities
@@ -93,7 +93,7 @@ There will be additional talks with Debian related topics:</p>
 <table width=100%>
 
 <headline "Tuesday, October 26th">
-<talk 18:00   "Jens Kühnel"        "XBox-Linux">
+<talk 18:00   "Jens KÃ¼hnel"        "XBox-Linux">
 
 <headline "Wednesday, October 27th">
 <talk 18:00   "Alexander Schmehl"  "Debian Sarge - before and beyond">
@@ -139,7 +139,7 @@ additional talks with Debian related topics:</p>
 
 <talk 13:30   "Wilhelm Dolle"      "Government Desktop ERPOSS">
 <talk 14:30   "Martin Herwig"      "EduKnoppix">
-<talk 16:30   "Jens Kühnel"        "Linux for the Xbox">
+<talk 16:30   "Jens KÃ¼hnel"        "Linux for the Xbox">
 
 </table>
 

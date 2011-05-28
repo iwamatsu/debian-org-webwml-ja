@@ -12,7 +12,7 @@ characters may be injected into string arguments of the mail() function.
 If mail() arguments are taken from user's input it may give the user
 ability to alter message content including mail headers.</p>
 
-<p>Ulf Härnhammar discovered that file() and fopen() are vulnerable to
+<p>Ulf HÃ¤rnhammar discovered that file() and fopen() are vulnerable to
 CRLF injection.  An attacker could use it to escape certain
 restrictions and add arbitrary text to alleged HTTP requests that are
 passed through.</p>
@@ -51,4 +51,4 @@ PHP3 and 4.2.3-3 for PHP4 for the unstable distribution (sid).</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2002/dsa-168.data"
-# $Id: dsa-168.wml,v 1.4 2004-12-13 00:20:30 jseidel Exp $
+# $Id: dsa-168.wml,v 1.5 2011-05-26 10:05:40 rhonda Exp $

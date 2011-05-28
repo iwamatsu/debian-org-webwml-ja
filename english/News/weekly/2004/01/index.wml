@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-01-06" SUMMARY="History, Kernel, Blogs, R, License, APT-Howto, Installer, XFS, Distributions, GNOME"
-# $Id: index.wml,v 1.5 2004-01-08 20:08:27 peterk Exp $
+# $Id: index.wml,v 1.6 2011-05-26 10:04:52 rhonda Exp $
 
 <p>Welcome to this year's first issue of DWN, the weekly newsletter for the
 Debian community.  Debian Weekly News enters its fifth year, since on January
@@ -47,7 +47,7 @@ another proposal to remove non-free software from Debian archives with the
 sarge release.  This time a rationale is prepended and helps understanding the
 issue.</p>
 
-<p><strong>Debian R Policy.</strong> Dirk Eddelbüttel <a
+<p><strong>Debian R Policy.</strong> Dirk EddelbÃ¼ttel <a
 href="http://lists.debian.org/debian-devel-0312/msg02332.html">released</a> a
 draft for a suggested policy for R packages within Debian.  In the six years
 that Debian members have been maintaining R for Debian, the total number of R

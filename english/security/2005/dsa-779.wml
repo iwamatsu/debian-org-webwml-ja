@@ -1,10 +1,10 @@
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
 <p>We experienced that the update for Mozilla Firefox from DSA 779-1
-unfortunately was a regression in several cases.  Since the usual
+unfortunately was a regression in several cases. Â Since the usual
 praxis of backporting apparently does not work, this update is
 basically version 1.0.6 with the version number rolled back, and hence
-still named 1.0.4-*.  For completeness below is the original advisory
+still named 1.0.4-*. Â For completeness below is the original advisory
 text:</p>
 
 <blockquote>
@@ -87,4 +87,4 @@ version 1.0.6-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-779.data"
-# $Id: dsa-779.wml,v 1.3 2005-09-01 14:48:01 toddy Exp $
+# $Id: dsa-779.wml,v 1.4 2011-05-26 10:05:44 rhonda Exp $

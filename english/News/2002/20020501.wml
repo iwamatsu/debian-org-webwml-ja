@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian at upcoming events in May</define-tag>
 <define-tag release_date>2002-05-01</define-tag>
 #use wml::debian::news
-# $Id: 20020501.wml,v 1.2 2004-09-03 13:25:45 florian Exp $
+# $Id: 20020501.wml,v 1.3 2011-05-26 10:04:15 rhonda Exp $
 
 <p>Several exhibitions and conferences covering Free Software and GNU/Linux
 will take place this month.  The Debian project has been offered to
@@ -21,7 +21,7 @@ promote Debian through a course and a talk.</p>
 <tr>
   <td valign="top">May 16th - 19th:</td>
   <td>
-<a href="$(HOME)/events/2002/0516-dsl">Días de Software Libre</a>, Guadalajara, Jalisco, Mexico
+<a href="$(HOME)/events/2002/0516-dsl">DÃ­as de Software Libre</a>, Guadalajara, Jalisco, Mexico
 
 <p>People from the Free Software Foundation, Ximian, the Debian
 project and others will meet at this event and promote Free Software.

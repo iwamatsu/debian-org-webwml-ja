@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-07-02" SUMMARY="Package Count, Security, Perl, Pilot, Snapshots, dpkg, Debconf, 2.2r7"
-# $Id: index.wml,v 1.15 2010-11-03 21:27:21 taffit-guest Exp $
+# $Id: index.wml,v 1.16 2011-05-26 10:04:36 rhonda Exp $
 
 <p>Welcome to this year's twentyfifth issue of DWN, the weekly newsletter for
 the Debian community.  We are happy to <a
@@ -62,7 +62,7 @@ system provided one, so both modules can coexist.</p>
 <p><strong>Pilot Sync Software Recommendation.</strong> A <a
 href="http://lists.debian.org/debian-pilot-0205/msg00007.html">question</a>
 came up asking which software for synchronizing data on the handheld with the
-main machine should be used, if one depends on data integrity.  Karl Jørgensen
+main machine should be used, if one depends on data integrity.  Karl JÃ¸rgensen
 <a href="http://lists.debian.org/debian-pilot-0205/msg00013.html">\
 summarized</a> his experience with <a
 href="http://packages.debian.org/pilot-manager">pilot-manager</a>, <a

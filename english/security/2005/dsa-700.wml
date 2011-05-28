@@ -1,6 +1,6 @@
 <define-tag description>missing input sanitising</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar from the Debian Security Audit Project discovered a
+<p>Ulf HÃ¤rnhammar from the Debian Security Audit Project discovered a
 cross-site scripting problem in mailreader, a simple, but powerful WWW
 mail reader system, when displaying messages of the MIME types
 text/enriched or text/richtext.</p>
@@ -16,4 +16,4 @@ version 2.3.29-11.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-700.data"
-# $Id: dsa-700.wml,v 1.1 2005-03-30 11:05:27 joey Exp $
+# $Id: dsa-700.wml,v 1.2 2011-05-26 10:05:44 rhonda Exp $

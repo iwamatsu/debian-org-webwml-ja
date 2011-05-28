@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Ulf Härnhammar discovered a buffer overflow in lynx, a text-mode
+<p>Ulf HÃ¤rnhammar discovered a buffer overflow in lynx, a text-mode
 browser for the WWW that can be remotely exploited.  During the
 handling of Asian characters when connecting to an NNTP server lynx
 can be tricked to write past the boundary of a buffer which can lead
@@ -19,4 +19,4 @@ version 2.8.5-2sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-874.data"
-# $Id: dsa-874.wml,v 1.1 2005-10-27 07:59:00 joey Exp $
+# $Id: dsa-874.wml,v 1.2 2011-05-26 10:05:45 rhonda Exp $

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-04-19" SUMMARY="Deployment, DPL, Stable, non-free, Meetings, Licenses, Firmware, Ichtux"
-# $Id: index.wml,v 1.7 2005-04-19 19:08:25 joey Exp $
+# $Id: index.wml,v 1.8 2011-05-26 10:05:01 rhonda Exp $
 
 <p>Welcome to this year's 16th issue of DWN, the weekly newsletter for the
 Debian community.  Micah Anderson <a
@@ -78,7 +78,7 @@ copyright notice.  Allegedly, these blobs are considered a mere aggregation of
 bits and bytes that aren't linked into the kernel and hence don't infringe the
 kernel license.</p>
 
-<p><strong>Christian Debian Distribution.</strong> Raphaël Pinson <a
+<p><strong>Christian Debian Distribution.</strong> RaphaÃ«l Pinson <a
 href="http://lists.debian.org/debian-devel/2005/04/msg00514.html">reported</a>
 about the start of <a href="http://ichthux.free.fr/">Ichtux</a>, a custom
 Debian distribution (CDD) focusing on Christianity and free Christian

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-01-03" SUMMARY="Archive, BitTorrent, FOSS.IN, Ports, VIM, Packaging, Quality, Licenses"
-# $Id: index.wml,v 1.4 2006-01-04 15:20:43 florian Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:09 rhonda Exp $
 
 <p>Welcome to this year's 1st issue of DWN, the weekly newsletter for the
 Debian community.  Mohammed Adn&egrave;ne Trojette summarised all major Debian events
@@ -17,7 +17,7 @@ procedure</a> has passed.</p>
 <p><strong>Reducing the Archive Size.</strong> G&uuml;rkan Seng&uuml;n <a
 href="http://lists.debian.org/debian-devel/2005/12/msg00759.html">\
 summarised</a> the effect of different compression
-algorithms on the total size of the archive.  Raphaël Hertzog <a
+algorithms on the total size of the archive.  RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel/2005/12/msg00809.html">\
 noticed</a> that the support of <a
 href="http://packages.debian.org/unstable/utils/p7zip">7-zip</a>
@@ -193,4 +193,4 @@ href="$(HOME)/News/weekly/contributing">contributing page</a> to find out how
 to help.  We're looking forward to receiving your mail at <a
 href="mailto:dwn@debian.org">dwn@debian.org</a>.</p>
 
-#use wml::debian::weeklynews::footer editor="Mohammed Adnène Trojette, Martin 'Joey' Schulze"
+#use wml::debian::weeklynews::footer editor="Mohammed AdnÃ¨ne Trojette, Martin 'Joey' Schulze"

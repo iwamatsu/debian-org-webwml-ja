@@ -8,7 +8,7 @@
 
 <define-tag intro>
 
-  The program of the "Días de Software Libre" includes speeches and
+  The program of the "DÃ­as de Software Libre" includes speeches and
   workshops about Free Software. It aims to make known its philosophy
   and technical knowledge in a university environment. Famous
   speakers like Bob Chassel from the FSF and Arturo Espinosa from
@@ -26,5 +26,5 @@ the Debian package format.
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0516-dsl.wml,v 1.8 2004-12-12 21:09:32 jseidel Exp $
+# $Id: 0516-dsl.wml,v 1.9 2011-05-26 10:05:30 rhonda Exp $
 #Related Links here (free form)

@@ -24,7 +24,7 @@ this conference.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0305-linuxtag-chemnitz.wml,v 1.5 2005-03-06 15:46:31 toddy Exp $
+# $Id: 0305-linuxtag-chemnitz.wml,v 1.6 2011-05-26 10:05:33 rhonda Exp $
 #Related Links here (free form)
 <define-tag ub>http://chemnitzer.linux-tage.de/2005/vortraege/detail.html?idx=</define-tag>
 <ul>
@@ -34,7 +34,7 @@ this conference.</p>
  <li><a href="<ub>148">Free Software in schools and the results of the PISA study</a>
  <li><a href="<ub>19">Technical aspects of Custom Debian Distributions</a>
  <li><a href="<ub>20">Debian-Med reloaded</a>
- <li><a href="<ub>59">Debian-GIS: Gute Karten für Debian</a>
+ <li><a href="<ub>59">Debian-GIS: Gute Karten fÃ¼r Debian</a>
  <li><a href="<ub>85">Live-Demo: Edu-Knoppix</a>
  <li><a href="<ub>69">New features in Debian GNU/Linux 3.1 "Sarge"</a>
  <li><a href="<ub>34">Installing and administering Debian GNU/Linux</a>

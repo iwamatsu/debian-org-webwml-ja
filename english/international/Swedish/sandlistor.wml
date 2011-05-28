@@ -1,16 +1,16 @@
 #use wml::debian::template title="Debian in Swedish -- mailing lists and other support" NOHEADER="true" BARETITLE="true" NOHOMELINK="true"
 #use wml::debian::translation-check translation="1.9" original="swedish"
 #
-# $Id: sandlistor.wml,v 1.12 2011-03-16 22:11:13 kaare Exp $
+# $Id: sandlistor.wml,v 1.13 2011-05-26 10:05:39 rhonda Exp $
 #
 # If you are translating these pages to a language not using iso-8859-1, you
 # may need to replace some of the characters with their corresponding SGML
 # entity references. Since the English pages are declared to use iso-8859-1,
 # I take full use of that when writing this page.
 #
-#  å => &aring;  Å => &Aring;  æ => &aelig;
-#  ä => &auml;   Ä => &Auml;
-#  ö => &ouml;   Ö => &Ouml;
+#  Ã¥ => &aring;  Ã… => &Aring;  Ã¦ => &aelig;
+#  Ã¤ => &auml;   Ã„ => &Auml;
+#  Ã¶ => &ouml;   Ã– => &Ouml;
 #
 # Please also note that most references to "Swedish" refer to the language,
 # not to the country. Swedish is an official language in both Sweden and

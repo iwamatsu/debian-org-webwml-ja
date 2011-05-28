@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-15" SUMMARY="Packaging, Release, Python, Birthday, DPL Report, Installer"
-# $Id: index.wml,v 1.5 2006-08-21 10:40:03 thuriaux Exp $
+# $Id: index.wml,v 1.6 2011-05-26 10:05:19 rhonda Exp $
 
 <p>Welcome to this year's 33rd issue of DWN, the weekly newsletter for the
 Debian community.  Debian turns 13 this week, so make sure you find a <a
@@ -290,4 +290,4 @@ href="$(HOME)/News/weekly/contributing">contributing page</a> to find out how
 to help.  We're looking forward to receiving your mail at <a
 href="mailto:dwn@debian.org">dwn@debian.org</a>.</p>
 
-#use wml::debian::weeklynews::footer editor="Mohammed Adnène Trojette, Martin 'Joey' Schulze"
+#use wml::debian::weeklynews::footer editor="Mohammed AdnÃ¨ne Trojette, Martin 'Joey' Schulze"

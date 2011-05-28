@@ -1,6 +1,6 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-11-21" SUMMARY="バグ追跡システム, スペルチェック, フリーズの更新, ブートフロッピー"
-# $Id: index.wml,v 1.4 2009-08-22 10:59:55 osamu Exp $
-#use wml::debian::translation-check translation="1.7"
+# $Id: index.wml,v 1.5 2011-05-26 10:08:06 rhonda Exp $
+#use wml::debian::translation-check translation="1.8"
 
 
 <p><strong>バグをソースパッケージごとに検索</strong>。

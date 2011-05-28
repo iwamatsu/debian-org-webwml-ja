@@ -15,7 +15,7 @@ the following problems.</p>
 
 <li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-1228">CAN-2005-1228</a>
 
-    <p>Ulf Härnhammar discovered a path traversal vulnerability in
+    <p>Ulf HÃ¤rnhammar discovered a path traversal vulnerability in
     gunzip.  When gunzip is used with the -N option an attacker could
     use
     this vulnerability to create files in an arbitrary directory with
@@ -37,4 +37,4 @@ version 1.3.5-10.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-752.data"
-# $Id: dsa-752.wml,v 1.2 2005-07-11 16:42:34 peterk Exp $
+# $Id: dsa-752.wml,v 1.3 2011-05-26 10:05:44 rhonda Exp $

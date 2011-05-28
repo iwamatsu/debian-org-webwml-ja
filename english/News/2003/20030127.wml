@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian at Solutions Linux and FOSDEM</define-tag>
 <define-tag release_date>2003-01-27</define-tag>
 #use wml::debian::news
-# $Id: 20030127.wml,v 1.1 2003-01-27 12:01:59 joey Exp $
+# $Id: 20030127.wml,v 1.2 2011-05-26 10:04:15 rhonda Exp $
 
 <p>Two exhibitions and conferences covering Free Software and GNU/Linux
 will take place during the next couple of days.  The Debian project
@@ -24,7 +24,7 @@ has been offered to participate in them.</p>
 <dd>
         FOSDEM is a non-commercial meeting for Free Software developers
         organised by members of the community. Famous speakers from
-        around the world are expected.  Raphaël Hertzog will present
+        around the world are expected.  RaphaÃ«l Hertzog will present
         the goals and the current status of Debian-Edu.  Furthermore,
         Martin Michlmayr will give a talk about adapting Debian to
         embedded use.

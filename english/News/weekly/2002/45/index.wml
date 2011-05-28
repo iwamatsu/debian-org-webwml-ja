@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-11-19" SUMMARY="W3C Patent, Removed Packages, OpenOffice, Voting, LSB, MAME, URLs, Phoenix, Accessibility, Knoppix-Med"
-# $Id: index.wml,v 1.13 2004-09-26 22:50:05 jseidel Exp $
+# $Id: index.wml,v 1.14 2011-05-26 10:04:40 rhonda Exp $
 
 <p>Welcome to this year's 45th issue of DWN, the weekly newsletter for the
 Debian community.  If you don't know yet what to give for Christmas,
@@ -100,7 +100,7 @@ Guidelines</a>.  MAME adopting the GPL would be a positive addition to Free
 Software, although most of the game ROMs that MAME uses remain very
 non-free.</p>
 
-<p><strong>Help with Signed Packages.</strong> Javier Fernández-Sanguino Peña
+<p><strong>Help with Signed Packages.</strong> Javier FernÃ¡ndez-Sanguino PeÃ±a
 <a href="http://lists.debian.org/debian-devel-0211/msg00714.html">asked</a>
 for help with integrating signature checks in the Debian user infrastructure.
 Ian Jackson raised additional <a
@@ -120,7 +120,7 @@ bug and should be reported to the Bug Tracking System.</p>
 example for others) <a
 href="http://lists.debian.org/debian-devel-0211/msg00839.html">asked</a> whether
 upstream URLs could be added to the package description on our <a
-href="$(HOME)/distrib/packages">packages pages</a>.  Raphaël Hertzog <a
+href="$(HOME)/distrib/packages">packages pages</a>.  RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel-0211/msg00864.html">noted</a> that
 it's already documented in the best packaging practice to add an upstream URL
 to the description.  Joey Hess, however, <a

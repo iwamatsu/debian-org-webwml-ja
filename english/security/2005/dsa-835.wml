@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary files</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa discovered several insecure temporary
+<p>Javier Fern√°ndez-Sanguino Pe√±a discovered several insecure temporary
 file uses in cfengine, a tool for configuring and maintaining
 networked machines, that can be exploited by a symlink attack to
 overwrite arbitrary files owned by the user executing cfengine, which
@@ -19,4 +19,4 @@ version 1.6.5-1sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-835.data"
-# $Id: dsa-835.wml,v 1.2 2005-10-03 05:02:47 kaare Exp $
+# $Id: dsa-835.wml,v 1.3 2011-05-26 10:05:45 rhonda Exp $

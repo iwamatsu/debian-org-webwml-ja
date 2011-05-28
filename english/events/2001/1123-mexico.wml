@@ -8,7 +8,7 @@
 
 <define-tag intro>
 
-    The "Congreso Nacional de Telecomunicaciones e Inform·tica" will
+    The "Congreso Nacional de Telecomunicaciones e Inform√°tica" will
     take place for the first time on the west coast of Mexico.
 
 </define-tag>
@@ -24,5 +24,5 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1123-mexico.wml,v 1.3 2003-01-18 05:00:56 kubota Exp $
+# $Id: 1123-mexico.wml,v 1.4 2011-05-26 10:05:30 rhonda Exp $
 #Related Links here (free form)

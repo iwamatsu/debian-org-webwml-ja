@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-01-17" SUMMARY="m68k, Mirror Split, GPL, neglected Packages, Software Distribution, Maintenance"
-# $Id: index.wml,v 1.4 2006-01-19 14:44:45 joey Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:09 rhonda Exp $
 
 <p>Welcome to this year's 3rd issue of DWN, the weekly newsletter for the
 Debian community.  Simon Josefsson <a
@@ -67,7 +67,7 @@ that the easiest way is to prepare copies of the source and give them to
 anybody who asks for them.</p>
 
 <p><strong>Collaborative Maintenance of Packages.</strong> Following the last
-discussion at the Debian-QA meeting in Darmstadt, Raphaël Hertzog <a
+discussion at the Debian-QA meeting in Darmstadt, RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-qa/2005/12/msg00026.html">described</a>
 the <a href="http://wiki.debian.org/CollaborativeMaintenance">basics</a> for
 maintaining packages by a team using a version control system.  The goal is to

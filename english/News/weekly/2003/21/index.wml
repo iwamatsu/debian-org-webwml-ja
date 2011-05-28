@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-27" SUMMARY="Donations, I18n, GCC, Kernel, DebConf, Multimedia, Wiki, CDs, Robots, Patents, Tags, Keysigning, BTS"
-# $Id: index.wml,v 1.15 2010-11-03 21:26:17 taffit-guest Exp $
+# $Id: index.wml,v 1.16 2011-05-26 10:04:47 rhonda Exp $
 
 <p>Welcome to this year's 21st issue of DWN, the weekly newsletter for the
 Debian community.  The GNOME project <a
@@ -194,7 +194,7 @@ href="http://cvs.debian.org/?cvsroot=debbugs">CVS</a> repository.</p>
 <p><strong>Debian Sub-Projects.</strong> Gustavo Franco <a
 href="http://lists.debian.org/debian-devel-0305/msg01664.html">wondered</a>
 why some Debian sub-projects are listed on the official <a
-href="$(HOME)/devel/">website</a> while others aren't.  Raphaël Hertzog <a
+href="$(HOME)/devel/">website</a> while others aren't.  RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-devel-0305/msg01736.html">explained</a>
 that this merely depends on somebody dedicating time to write web pages.  Ben
 Armstrong <a href="http://lists.debian.org/debian-devel-0305/msg01670.html">\

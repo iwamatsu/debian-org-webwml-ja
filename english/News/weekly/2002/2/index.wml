@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-09" SUMMARY="Web Pages, KDE, Debian Development, Quality Assurance, Debian-Med, 2.2r5"
-# $Id: index.wml,v 1.11 2004-12-11 22:07:52 jseidel Exp $
+# $Id: index.wml,v 1.12 2011-05-26 10:04:35 rhonda Exp $
 
 <p>Welcome to the second issue of Debian Weekly News, the weekly newsletter
 for the Debian community.</p>
@@ -51,7 +51,7 @@ forming teams and tasks for QA such as fixing release critical (RC) bugs,
 discovering  packages that cannot be installed, <a
 href="http://ftp-master.debian.org/testing/testing_probs.html">problems with
 testing</a> and determining maintainers that are missing in action (MIA).
-Raphaël Hertzog <a
+RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-qa-0201/msg00062.html">announced</a> a
 new service for people who would like to help with package maintenance by
 subscribing to a packages' bug reports.  Additionally, the QA team already

@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>Erik Sjölund discovered a buffer overflow in pcdsvgaview, an SVGA
+<p>Erik SjÃ¶lund discovered a buffer overflow in pcdsvgaview, an SVGA
 PhotoCD viewer.  xpcd-svga is part of xpcd and uses svgalib to display
 graphics on the Linux console for which root permissions are required.
 A malicious user could overflow a fixed-size buffer and may cause the
@@ -16,4 +16,4 @@ version 2.08-8woody3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-676.data"
-# $Id: dsa-676.wml,v 1.1 2005-02-11 10:29:35 joey Exp $
+# $Id: dsa-676.wml,v 1.2 2011-05-26 10:05:43 rhonda Exp $

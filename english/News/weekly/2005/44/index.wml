@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-11-01" SUMMARY="Dependencies, OpenSSL, Berlinux, RFCs, Kernel, Packaging, GTK, GNOME"
-# $Id: index.wml,v 1.4 2006-03-02 12:05:32 florian Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:07 rhonda Exp $
 
 <p>Welcome to this year's 44th issue of DWN, the weekly newsletter for the
 Debian community.  Nathanael Nerode <a
@@ -79,7 +79,7 @@ input on handling icons caches in the GTK+ library since traversing the entire
 directory tree is time consuming.  When the cache is not rebuilt for recently
 added icons, the corresponding programs can't start as usual.</p>
 
-<p><strong>Postinst Check for Package Status.</strong> Frank Küster <a
+<p><strong>Postinst Check for Package Status.</strong> Frank KÃ¼ster <a
 href="http://lists.debian.org/debian-devel/2005/10/msg00463.html">wondered</a>
 if there is an established method for the <code>postinst</code> script to
 determine the status of another package in order to prevent a second

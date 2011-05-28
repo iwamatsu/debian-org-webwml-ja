@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-06-20" SUMMARY="Packaging, Community Conference, PDF, Mentors, Init, Orphans, Debian Day"
-# $Id: index.wml,v 1.8 2009-07-12 16:56:45 spaillar-guest Exp $
+# $Id: index.wml,v 1.9 2011-05-26 10:05:16 rhonda Exp $
 
 <p>Welcome to this year's 25th issue of DWN, the weekly newsletter for the
 Debian community.  Matt Brown <a
@@ -19,7 +19,7 @@ href="$(HOME)/doc/developers-reference/best-pkging-practices#bpp-upstream-info">
 reference</a>.  Margarita Manterola <a
 href="http://lists.debian.org/debian-policy/2006/06/msg00038.html">suggested</a>
 to first patch dpkg with a Homepage field in order to address this problem in
-policy.  Raphaël Hertzog finally recommended this meta field should be
+policy.  RaphaÃ«l Hertzog finally recommended this meta field should be
 incorporated in a Web application of a <a
 href="http://wiki.debian.org/CRMI">collaborative repository of
 meta information</a> for packages.</p>

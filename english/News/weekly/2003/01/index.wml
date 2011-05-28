@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-01-07" SUMMARY="Events, RSS Feed, Business Cards, DebConf3, egrep, aspell, UTF-8, Configuration, LyX, GCC 3.2"
-# $Id: index.wml,v 1.10 2004-02-16 21:29:26 jseidel Exp $
+# $Id: index.wml,v 1.11 2011-05-26 10:04:43 rhonda Exp $
 
 <p>Welcome to this year's first issue of DWN, the weekly newsletter for the
 Debian community.  Pretty much all of us are tired of the amount of spam
@@ -105,7 +105,7 @@ list that were <a
 href="http://lists.debian.org/debian-legal-0210/msg00204.html">discussed</a>
 last year.</p>
 
-<p><strong>Debian Privacy Notice?</strong> Raphaël Hertzog <a
+<p><strong>Debian Privacy Notice?</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-www-0301/msg00007.html">wondered</a>
 whether Debian should have a privacy notice displayed on the website.
 Currently, there is no statement assuring people that the mailing list

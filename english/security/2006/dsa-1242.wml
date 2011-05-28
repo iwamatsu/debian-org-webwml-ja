@@ -14,13 +14,13 @@ problems:</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2006-5790">CVE-2006-5790</a>
 
-    <p>Ulf Härnhammar of the Debian Security Audit Project discovered several
+    <p>Ulf HÃ¤rnhammar of the Debian Security Audit Project discovered several
     format string vulnerabilities in elog, which may lead to execution of
     arbitrary code.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2006-5791">CVE-2006-5791</a>
 
-    <p>Ulf Härnhammar of the Debian Security Audit Project discovered 
+    <p>Ulf HÃ¤rnhammar of the Debian Security Audit Project discovered 
     cross-site scripting vulnerabilities in the creation of new logbook
     entries.</p></li>
 
@@ -45,4 +45,4 @@ version 2.6.2+r1754-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1242.data"
-# $Id: dsa-1242.wml,v 1.3 2010-12-17 15:40:04 taffit-guest Exp $
+# $Id: dsa-1242.wml,v 1.4 2011-05-26 10:05:47 rhonda Exp $

@@ -14,7 +14,7 @@ vulnerabilities:</p>
 
 <li><a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2005-0814">CAN-2005-0814</a>
 
-    <p>Niels Möller discovered a denial of service condition in lshd.</p>
+    <p>Niels MÃ¶ller discovered a denial of service condition in lshd.</p>
 
 </ul>
 
@@ -29,4 +29,4 @@ version 2.0.1-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-717.data"
-# $Id: dsa-717.wml,v 1.2 2005-04-27 10:02:06 joey Exp $
+# $Id: dsa-717.wml,v 1.3 2011-05-26 10:05:44 rhonda Exp $

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-04-12" SUMMARY="Election, PHP3, Licenses, Firmware, Testing, Openswan, GNOME, SELinux, SPI"
-# $Id: index.wml,v 1.4 2005-04-12 19:06:14 joey Exp $
+# $Id: index.wml,v 1.5 2011-05-26 10:05:01 rhonda Exp $
 
 <p>Welcome to this year's 15th issue of DWN, the weekly newsletter for the
 Debian community.  After an unscheduled downtime of one major host in the
@@ -48,7 +48,7 @@ thinking</a> about somebody reading the existing firmware sources, writing a
 specification and a second person or group implementing the new free firmware
 based on the specs.</p>
 
-<p><strong>Automatic Testing of Debian Packages.</strong> Mads Lindstrøm <a
+<p><strong>Automatic Testing of Debian Packages.</strong> Mads LindstrÃ¸m <a
 href="http://lists.debian.org/debian-devel/2005/04/msg00377.html">wondered</a>
 if there are any tests that are or could be applied to Debian packages
 automatically.  Petter Reinholdtsen <a

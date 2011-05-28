@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary files</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa discovered that several scripts of the
+<p>Javier Fern√°ndez-Sanguino Pe√±a discovered that several scripts of the
 hylafax suite, a flexible client/server fax software, create temporary
 files and directories in an insecure fashion, leaving them vulnerable
 to symlink exploits.</p>
@@ -19,4 +19,4 @@ version 4.2.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-865.data"
-# $Id: dsa-865.wml,v 1.1 2005-10-13 09:46:11 joey Exp $
+# $Id: dsa-865.wml,v 1.2 2011-05-26 10:05:45 rhonda Exp $

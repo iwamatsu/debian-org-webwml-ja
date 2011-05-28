@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-07-30" SUMMARY="Woody r1 and retrospective, Gnome 2, libpng, debian-installer, glibc, Perl 5.8, SuperH"
-# $Id: index.wml,v 1.9 2005-12-04 15:10:35 witch Exp $
+# $Id: index.wml,v 1.10 2011-05-26 10:04:37 rhonda Exp $
 
 <p>Welcome to this year's 29th issue of DWN, the weekly newsletter for the
 Debian community.  If you ever wanted to know how you could fund Free Software
@@ -94,7 +94,7 @@ go with it.  Log messages of code commits are forwarded to the <a
 href="http://lists.debian.org/debian-glibc/">debian-glibc</a> list so people
 stay updated.</p>
 
-<p><strong>Perl 5.8.0.</strong> Raphaël Hertzog <a
+<p><strong>Perl 5.8.0.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-perl-0207/msg00016.html">reports</a> that
 Perl 5.8.0 is released and once again we have a binary incompatibility for
 binary modules.  With Debian growing, this affects more packages than last

@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>A. Alejandro Hern·ndez discovered a vulnerability in mpg123, a
+<p>A. Alejandro Hern√°ndez discovered a vulnerability in mpg123, a
 command-line player for MPEG audio files. Insufficient validation of
 MPEG 2.0 layer 3 files results in several buffer overflows.</p>
 
@@ -15,4 +15,4 @@ version 0.59r-22.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1074.data"
-# $Id: dsa-1074.wml,v 1.1 2006-05-24 15:47:38 joey Exp $
+# $Id: dsa-1074.wml,v 1.2 2011-05-26 10:05:47 rhonda Exp $

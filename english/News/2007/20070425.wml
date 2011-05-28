@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian participates in Google's Summer of Code</define-tag>
 <define-tag release_date>2007-04-25</define-tag>
 #use wml::debian::news
-# $Id: 20070425.wml,v 1.1 2007-04-25 11:06:57 joey Exp $
+# $Id: 20070425.wml,v 1.2 2011-05-26 10:04:17 rhonda Exp $
 
 <p>The Debian project is proud that it has been accepted by Google as a
 mentor organisation for this year's Summer of Code program, with nine
@@ -31,7 +31,7 @@ new tools that help maintain Debian systems.</p>
   to re-install a real machine.  This will help automatically track
   down possible bugs in upgrade cycles.</p>
 
-  <p>Ana Beatriz Guerrero LÛpez will improve piuparts, a tool that helps
+  <p>Ana Beatriz Guerrero L√≥pez will improve piuparts, a tool that helps
   testing and improving the quality of package installation, upgrade
   and removal scripts.</p>
 
@@ -54,7 +54,7 @@ new tools that help maintain Debian systems.</p>
   to the Debian bug tracking system which will make it easier for
   users to report, check and manipulate bugs.</p>
 
-  <p>MartÌn Hern·n Ferrari will implement a modular CD and DVD image
+  <p>Mart√≠n Hern√°n Ferrari will implement a modular CD and DVD image
   testing tool that will allow automated testing of Debian CD and DVD
   images as they are produced.</p>
 

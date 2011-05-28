@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-11-28" SUMMARY="GNOME, DebConf, Installer, Etch, FAQ, Sparc, Key"
-# $Id: index.wml,v 1.6 2006-12-18 10:33:53 florian Exp $
+# $Id: index.wml,v 1.7 2011-05-26 10:05:21 rhonda Exp $
 
 <p>Welcome to this year's 41st issue of DWN, the newsletter for the
 Debian community.  Due to unfortunate <a href="http://www.dunc-tank.org/">\
@@ -67,7 +67,7 @@ process of being met and the number of release critical <a
 href="http://bugs.debian.org/release-critical">bugs</a>
 is continuously going down.</p>
 
-<p><strong>Help with the Debian FAQ.</strong> Javier Fern·ndez-Sanguino PeÒa <a
+<p><strong>Help with the Debian FAQ.</strong> Javier Fern√°ndez-Sanguino Pe√±a <a
 href="http://lists.debian.org/debian-devel-announce/2006/11/msg00007.html">\
 called</a> for help with the release by improving our documentation by
 helping to update the Debian GNU/Linux <a

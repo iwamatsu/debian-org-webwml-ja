@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-10-29" SUMMARY="Desktop, PGI, Expo, Removals, GNOME 2, VESA fb, MPlayer, LSB, OpenBSD, NetBSD, DebianEDU"
-# $Id: index.wml,v 1.12 2005-10-08 23:25:53 jfs Exp $
+# $Id: index.wml,v 1.13 2011-05-26 10:04:39 rhonda Exp $
 
 <p>Welcome to this year's 42nd issue of DWN, the weekly newsletter for the
 Debian community.  This week we are pleased to include items by Matt Black and
@@ -164,7 +164,7 @@ resistance to requests to move from an old BSD license to a revised one
 without the advertising clause.  Such code is not compatible with the GNU
 GPL.</p>
 
-<p><strong>News from Debian/EDU.</strong> Raphaël Hertzog <a
+<p><strong>News from Debian/EDU.</strong> RaphaÃ«l Hertzog <a
 href="http://lists.debian.org/debian-edu-0210/msg00005.html">announced</a>
 that debian-edu metapackages were added to the Debian archive.  He's looking
 for volunteers for various tasks like <a

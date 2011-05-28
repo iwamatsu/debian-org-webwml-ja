@@ -1,6 +1,6 @@
 <define-tag description>insecure temporary file</define-tag>
 <define-tag moreinfo>
-<p>Javier Fern·ndez-Sanguino PeÒa from the Debian Security Audit project
+<p>Javier Fern√°ndez-Sanguino Pe√±a from the Debian Security Audit project
 discovered that two scripts in antiword, utilities to convert Word
 files to text and Postscript, create a temporary file in an insecure
 fashion.</p>
@@ -19,4 +19,4 @@ version 0.35-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-945.data"
-# $Id: dsa-945.wml,v 1.1 2006-01-17 15:34:30 joey Exp $
+# $Id: dsa-945.wml,v 1.2 2011-05-26 10:05:48 rhonda Exp $

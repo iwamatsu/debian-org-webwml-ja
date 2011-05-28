@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>入力に対する不十分なサニタイジング</define-tag>
 <define-tag moreinfo>
 <p>Ulf H&auml;rnhammar さんは、聖書についてのウェブサイトを作成／閲覧するための CGI
@@ -16,4 +16,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-650.data"
-# $Id: dsa-650.wml,v 1.2 2009-08-22 11:08:16 osamu Exp $
+# $Id: dsa-650.wml,v 1.3 2011-05-26 10:08:17 rhonda Exp $
