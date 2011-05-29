@@ -20,4 +20,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2239.data"
-# $Id: dsa-2239.wml,v 1.2 2011-05-24 23:00:10 taffit-guest Exp $
+# $Id: dsa-2239.wml,v 1.1 2011-05-28 07:55:04 kmuto Exp $

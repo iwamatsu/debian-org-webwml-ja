@@ -305,4 +305,4 @@ Vasiliy Kulikov さんにより、AGP デバイスの Linux サポートに欠�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2240.data"
-# $Id: dsa-2240.wml,v 1.1 2011-05-25 18:06:35 spaillard Exp $
+# $Id: dsa-2240.wml,v 1.1 2011-05-28 07:55:31 kmuto Exp $
