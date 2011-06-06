@@ -17,4 +17,4 @@ KVM で、ISA バスデバイスを削除する際に誤ったメモリの処理
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2241.data"
-# $Id: dsa-2241.wml,v 1.1 2011-05-24 23:29:09 taffit-guest Exp $
+# $Id: dsa-2241.wml,v 1.1 2011-05-30 00:36:55 kmuto Exp $
