@@ -81,4 +81,4 @@ Google Chrome が WebKit エンジンとのやりとりで変数を適切にキ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2245.data"
-# $Id: dsa-2245.wml,v 1.1 2011-05-29 12:23:06 taffit Exp $
+# $Id: dsa-2245.wml,v 1.1 2011-06-06 00:08:49 kmuto Exp $
