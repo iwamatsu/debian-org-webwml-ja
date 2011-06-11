@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian のリリース"
 #include "$(ENGLISHDIR)/releases/info"
-#use wml::debian::translation-check translation="1.57"
+#use wml::debian::translation-check translation="1.58"
 
 <p>Debian は少なくとも<q>安定版 (stable)</q>、<q>テスト版 (testing)</q>、
 <q>不安定版 (unstable)</q> の 3 つのリリースを常に活発に保守管理しています。</p>
@@ -17,15 +17,15 @@
 </p>
 <p>
   Debian の現在の<q>安定版</q>ディストリビューションは
-  バージョン <current_release>
+  バージョン <:=substr '<current_initial_release>', 0, 3:>
   (コードネーム <em><current_release_name></em>) です。
 <ifeq "<current_initial_release>" "<current_release>"
   "これは、<current_release_date> にリリースされました。"
 />
 <ifneq "<current_initial_release>" "<current_release>"
-  "<em><:=ucfirst '<current_release_name>':></em> (<current_initial_release>)
-  <current_initial_release_date> に初版がリリースされ、最新の更新版
-  (<current_release>) は <current_release_date> にリリースされました。"
+  "<current_initial_release_date> に初版 <current_initial_release>
+  がリリースされ、最新の更新版 <current_release> は <current_release_date>
+  にリリースされました。"
 />
 
 </p>
@@ -77,7 +77,7 @@
       &mdash; 現在の安定版リリース
   </li>
   <li><a href="lenny/">Debian GNU/Linux 5.0 (<q>lenny</q>)</a>
-      &mdash; 以前の旧安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
  </if-stable-release>
  
@@ -88,22 +88,22 @@
  </if-stable-release>
 
   <li><a href="etch/">Debian GNU/Linux 4.0 (<q>etch</q>)</a> 
-      &mdash; 以前の安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
   <li><a href="sarge/">Debian GNU/Linux 3.1 (<q>sarge</q>)</a>
-      &mdash; 以前の安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
   <li><a href="woody/">Debian GNU/Linux 3.0 (<q>woody</q>)</a>
-      &mdash; 以前の安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
   <li><a href="potato/">Debian GNU/Linux 2.2 (<q>potato</q>)</a>
-      &mdash; 以前の安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
   <li><a href="slink/">Debian GNU/Linux 2.1 (<q>slink</q>)</a> 
-      &mdash; 以前の安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
   <li><a href="hamm/">Debian GNU/Linux 2.0 (<q>hamm</q>)</a>
-      &mdash; 以前の安定版リリース
+      &mdash; 過去の安定版リリース
   </li>
 </ul>
 
