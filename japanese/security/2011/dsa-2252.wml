@@ -30,4 +30,4 @@ Dovecot メールサーバのメッセージヘッダパーザの NUL 文字の�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2252.data"
-# $Id: dsa-2252.wml,v 1.1 2011-06-02 20:57:27 taffit Exp $
+# $Id: dsa-2252.wml,v 1.1 2011-06-13 04:50:45 kmuto Exp $

@@ -58,4 +58,4 @@ mod_dav_svn Apache HTTPD サーバモジュールをもちいて、リモート�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2251.data"
-# $Id: dsa-2251.wml,v 1.1 2011-06-02 12:29:08 taffit Exp $
+# $Id: dsa-2251.wml,v 1.1 2011-06-13 04:50:25 kmuto Exp $

@@ -51,4 +51,4 @@ Rails が X-Requested-With ヘッダを含む HTTP リクエストを適切に�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2247.data"
-# $Id: dsa-2247.wml,v 1.1 2011-05-31 19:38:17 kaare Exp $
+# $Id: dsa-2247.wml,v 1.1 2011-06-13 04:47:27 kmuto Exp $

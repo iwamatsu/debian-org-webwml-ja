@@ -33,4 +33,4 @@ Wouter Coekaerts さんにより、多機能で一式パッケージとなって
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2250.data"
-# $Id: dsa-2250.wml,v 1.1 2011-06-01 00:02:39 taffit Exp $
+# $Id: dsa-2250.wml,v 1.1 2011-06-13 04:49:45 kmuto Exp $
