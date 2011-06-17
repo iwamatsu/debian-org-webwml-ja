@@ -57,4 +57,4 @@ MSA-11-0013 Group/Quiz パーミッションの問題
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2262.data"
-# $Id: dsa-2262.wml,v 1.1 2011-06-16 01:02:39 taffit Exp $
+# $Id: dsa-2262.wml,v 1.1 2011-06-17 12:08:36 kmuto Exp $

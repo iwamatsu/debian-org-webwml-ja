@@ -46,4 +46,4 @@ The Bazaar リポジトリアダプタにより、リモートから Redmine を
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2261.data"
-# $Id: dsa-2261.wml,v 1.1 2011-06-15 18:27:28 spaillard Exp $
+# $Id: dsa-2261.wml,v 1.1 2011-06-17 12:08:18 kmuto Exp $
