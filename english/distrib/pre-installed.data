@@ -209,6 +209,7 @@ ADSiS<br/>
 
 <vendorentry>
  <vendor Novatux>
+ <URL "http://novatux.com/">
  <email debian@novatux.com>
  <phone +33 3 23 97 09 87>
  <ship europe>
@@ -561,6 +562,18 @@ Ausi&agrave;s Marc, 56<br/>
 </vendorentry>
 
 <vendorentry>
+ <vendor GPOC>
+ <URL "http://www.gpoc.es">
+ <email gpoc@iies.es>
+ <phone 934 497 755>
+ <ship no>
+ <smail
+ C/ Juventud, 106, 4<br />
+ 08904 Hospitalet de Llobregat<br />
+ Barcelona (Spain) />
+</vendorentry>
+
+<vendorentry>
    <vendor CTI TEGNIX, S.L.>
    <URL "http://www.tegnix.com">
    <email info@tegnix.com>
@@ -572,9 +585,24 @@ Ausi&agrave;s Marc, 56<br/>
    Calle Uruguay 8, planta 5&ordf;, Oficina 8<br />
    36201 Vigo - Pontevedra />
 </vendorentry>
+
 <hrline/>
 
-# <h2><a name="ch"><CHc></a></h2>
+
+<h2><a name="ch"><CHc></a></h2>
+
+<vendorentry>
+  <vendor revamp-it!>
+  <URL "http://www.revamp-it.ch">
+  <email empfang@revamp-it.ch>
+  <phone +41 43 960 32 64>
+  <ship yes>
+  <smail
+  revamp-it!<br />
+  Zeughausstrasse 60<br />
+  8004 Zurich<br />
+  SWITZERLAND />
+</vendorentry>
 # 
 # <vendorentry>
 #   <vendor Panthera Systems>
@@ -589,7 +617,7 @@ Ausi&agrave;s Marc, 56<br/>
 # CH-4562 Biberist />
 # </vendorentry>
 # 
-# <hrline/>
+<hrline/>
 
 <h2><a name="us"><USc></a></h2>
 
