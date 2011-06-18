@@ -208,6 +208,20 @@ ADSiS<br/>
 </vendorentry>
 
 <vendorentry>
+ <vendor Micr-OS.com>
+ <URL "http://www.micr-os.com">
+ <email technique@micr-os.com>
+ <phone +33 4 91 47 89 84>
+ <fax +33 4 91 47 21 77>
+ <ship no>
+ <smail 
+ Micr-OS.com<br />
+ 29, 31 Boulevard Eug&egrave;ne Pierre<br />
+ 13005 Marseille<br />
+ France />
+</vendorentry>
+
+<vendorentry>
  <vendor Novatux>
  <URL "http://novatux.com/">
  <email debian@novatux.com>
@@ -617,6 +631,27 @@ Ausi&agrave;s Marc, 56<br/>
 # CH-4562 Biberist />
 # </vendorentry>
 # 
+<hrline/>
+
+<h2><a name="uk"><UKc></a></h2>
+
+<vendorentry>
+  <vendor Digital Networks UK Ltd>
+  <URL "http://www.dnuk.com">
+  <email sales@dnuk.com>
+  <phone 0161 366 6600>
+  <fax 0161 366 6602>
+  <ship no>
+  <smail
+  Digital Networks UK Ltd<br />
+  Unit 1, Kingston Mills<br />
+  Manchester Road<br />
+  Hyde<br />
+  Cheshire<br />
+  SK14 2BZ<br />
+  United Kingdom />
+</vendorentry>
+
 <hrline/>
 
 <h2><a name="us"><USc></a></h2>
