@@ -178,6 +178,17 @@ ADSiS<br/>
 74960 MEYTHET />
 </vendorentry>
 
+<vendorentry>
+ <vendor Novatux>
+ <email debian@novatux.com>
+ <phone +33 3 23 97 09 87>
+ <ship europe>
+ <smail
+ Novatux<br />
+ 1, impasse du Moulin<br />
+ 02140 ROGNY />
+</vendorentry>
+
 <hrline/>
 
 <h2><a name="de"><DEc></a></h2>
@@ -651,6 +662,19 @@ Iron Systems, Inc<br />
 2330 Kruse Drive<br />
 San Jose CA 95131<br />
 United States>
+</vendorentry>
+
+<vendorentry>
+  <vendor Island Computers US Corporation>
+  <URL "http://www.islandco.com/">
+  <email sales@islandco.com>
+  <phone 912 786 8501>
+  <fax   912 786 8505>
+  <ship yes>
+  <smail
+  Island Computers US Corporation<br />
+  PO BOX 86<br />
+  Tybee GA 31328/>
 </vendorentry>
 
 <vendorentry>
