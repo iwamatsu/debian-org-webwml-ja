@@ -47,7 +47,7 @@ Vulnerabilities and Exposures project identifies the following problems:</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0726">CVE-2011-0726</a>
 
-    <p>Kees Cook reported an issue in the /proc/pid/stat implementation. Local
+    <p>Kees Cook reported an issue in the /proc/&lt;pid&gt;/stat implementation. Local
     users could learn the text location of a process, defeating protections
     provided by address space layout randomization (ASLR).</p></li>
 
@@ -264,4 +264,4 @@ released in a staggered or <q>leap-frog</q> fashion.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2264.data"
-# $Id: dsa-2264.wml,v 1.3 2011-06-19 20:29:51 taffit Exp $
+# $Id: dsa-2264.wml,v 1.4 2011-06-19 22:56:09 taffit Exp $
