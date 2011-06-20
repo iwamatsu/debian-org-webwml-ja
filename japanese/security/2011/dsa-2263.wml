@@ -31,6 +31,7 @@
 は、これらの問題はバージョン 4.3.6.1+dfsg-1 で修正されています。
 </p>
 
+<p>
 直ぐに movabletype-opensource パッケージをアップグレードすることを勧
 めます。
 </p>
@@ -39,4 +40,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2263.data"
-# $Id: dsa-2263.wml,v 1.1 2011-06-18 01:12:40 kmuto Exp $
+# $Id: dsa-2263.wml,v 1.2 2011-06-20 11:38:59 dj3mb3-guest Exp $

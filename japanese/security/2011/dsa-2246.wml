@@ -56,7 +56,7 @@ Mahara が (wwwroot 変数により) HTTPS を使うように設定されてい�
 Mahara では wwwroot が HTTPS URL を指していた場合、HTTP で実行されて
 いることを検出した場合 HTTPS サイトの方にリダイレクトするようになって
 います。
-</p></li>
+</p>
 
 <p>
 Mahara を HTTPS 経由で使用したいと考えているサイトは、ウェブサーバが
@@ -97,4 +97,4 @@ HTTP を使ったコンテンツ提供を許さない設定になっており、
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2246.data"
-# $Id: dsa-2246.wml,v 1.1 2011-06-06 00:09:20 kmuto Exp $
+# $Id: dsa-2246.wml,v 1.2 2011-06-20 11:34:52 dj3mb3-guest Exp $
