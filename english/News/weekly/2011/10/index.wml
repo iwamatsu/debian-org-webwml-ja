@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Upcoming Debian update: 6.0.2, New IRC Training Sessions, Planet Debian Derivatives, Graphical installer for Debian GNU/kFreeBSD"
 
-# $Id: index.wml,v 1.1 2011-06-24 19:07:26 tolimar Exp $
+# $Id: index.wml,v 1.2 2011-06-24 19:21:29 tolimar Exp $
 # $Rev: 2331 $
 # Status: [frozen]
 
@@ -201,19 +201,6 @@ Blywis, and Wences Arana into our project!</p>
 <a href="$(HOME)/security/2011/dsa-2264">linux-2.6</a>,
 <a href="$(HOME)/security/2011/dsa-2265">perl</a>,
 	Please read them carefully and take the proper measures.</p>
-
-        <p>Debian's Backports Team released advisories for these packages:
-<a href="http://lists.debian.org/"></a>,
-        Please read them carefully and take the proper measures.</p>
-
-        <p>Debian's Stable Release Team released an update announcement for the package:
-<a href="http://lists.debian.org/"></a>.
-        Please read it carefully and take the proper measures.</p>
-
-        <p>Debian's Volatile Team released an update announcement for the package:
-<a href="http://lists.debian.org/"></a>.
-        Please read it carefully and take the proper measures.</p>
-
 
 <p>Please note that these are a selection of the more important security
 advisories of the last weeks. If you need to be kept up to date about
