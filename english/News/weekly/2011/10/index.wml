@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Upcoming Debian update: 6.0.2, New IRC Training Sessions, Planet Debian Derivatives, Graphical installer for Debian GNU/kFreeBSD"
 
-# $Id: index.wml,v 1.2 2011-06-24 19:21:29 tolimar Exp $
+# $Id: index.wml,v 1.3 2011-06-24 22:33:20 eof-guest Exp $
 # $Rev: 2331 $
 # Status: [frozen]
 
@@ -144,6 +144,9 @@ Kern</a>, Stable Release Manager and member of the wanna-build team; and with
 <a href="http://raphaelhertzog.com/2011/06/24/people-behin-debian-sam-hartman-kerberos-package-maintainer/">Sam
 Hartman</a>, Kerberos package maintainer explains how he uses Debian despite his blindness.
 </p>
+
+
+<toc-add-entry name="other">Other news</toc-add-entry>
 
 <p>
 Christian Perrier noticed that the <a
