@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Upcoming Debian update: 6.0.2, New IRC Training Sessions, Planet Debian Derivatives, Graphical installer for Debian GNU/kFreeBSD"
 
-# $Id: index.wml,v 1.3 2011-06-24 22:33:20 eof-guest Exp $
+# $Id: index.wml,v 1.4 2011-06-25 15:09:58 taffit Exp $
 # $Rev: 2331 $
 # Status: [frozen]
 
@@ -88,7 +88,7 @@ infrastructure and thanks Jörg Jaspert <q>for doing the necessary setup procedu
 
 <p>
 Kenshi Muto announced the <a href="http://kmuto.jp/b.cgi/debian/d-i-2638-squeeze.htm">release
-of backported amd64 debian-installer for Debian GNU/Linux 6.0 <q>Squeeze</q>, which is available on <a
+of backported amd64 debian-installer for Debian GNU/Linux 6.0 <q>Squeeze</q></a>, which is available on <a
 href="http://kmuto.jp/debian/d-i/">his images archive page</a>. This image is based on Debian 6.0.1 and
 contain firmwares. Also Kenshi added in the image a new DHCP client which fixes an interacting
 problem with some DHCP servers. Please note that this is an unofficial image and you should
