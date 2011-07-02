@@ -129,9 +129,25 @@ Grenadierslaan 65<br/>
 B-9890 Gavere />
 </vendorentry>
 
-#<hrline/>
+<hrline/>
 
-#<h2><a name="br"><BRc></a></h2>
+<h2><a name="br"><BRc></a></h2>
+
+<vendorentry>
+  <vendor Simão & Bühler Ltda>
+  <URL "http://www.simaoebuhler.com.br/loja">
+  <email simaoebuhler@simaoebuhler.com.br>
+  <phone (41) 3039-5428>
+  <ship no>
+  <smail
+Simão & Bühler Ltda<br />
+Rua Arthur Manoel Iwersen, 983. Sobrado 05<br />
+Bairro: Boqueirão<br />
+Curitiba - Paraná<br />
+CEP: 81750-240<br />
+Brazil />
+</vendorentry>
+
 #
 #<vendorentry>
 #  <vendor Nautilus ISP (Pelc Serv. de Com. Ltda)>
@@ -158,9 +174,34 @@ Ottawa ON<br />
 Canada K2H 1B9 />
 </vendorentry>
 
+<vendorentry>
+ <vendor STPInformation>
+ <URL "http://www.stpinformation.com/">
+ <email info@stpinformation.com>
+ <phone 819-918-0310>
+ <ship no>
+ <smail
+STPInformation<br />
+Gatineau, Québec<br />
+Ottawa, Ontario<br />
+Canada />
+</vendorentry>
+
 <hrline/>
 
 <h2><a name="cz"><CZc></a></h2>
+
+<vendorentry>
+  <vendor FinalTek.com>
+  <URL "http://www.finaltek.com">
+  <email admin@finaltek.com>
+  <phone +42 0603167825>
+  <smail
+FinalTek.com - Zdeněk Klauda<br />
+Nová 225/1<br />
+250 64 Měšice<br />
+Czech Republic />
+</vendorentry>
 
 <vendorentry>
   <vendor opensource company>
@@ -758,6 +799,19 @@ Switzerland />
 <hrline/>
 
 <h2><a name="us"><USc></a></h2>
+
+<vendorentry>
+ <vendor AVADirect Custom Computers>
+ <URL "http://www.avadirect.com">
+ <email sales@avadirect.com>
+ <phone 1-866-766-4629>
+ <ship no>
+ <smail
+AVADirect Custom Computers<br />
+1750 Highland Rd. Suite #4<br />
+Twinsburg, OH 44087<br />
+United States />
+</vendorentry>
 
 <vendorentry>
   <vendor Future CIS, Corp.>
