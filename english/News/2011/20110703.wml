@@ -1,10 +1,10 @@
 # Status: [content-frozen]
-# $Id: 20110703.wml,v 1.1 2011-07-02 23:08:53 madamezou Exp $
+# $Id: 20110703.wml,v 1.2 2011-07-03 06:45:37 zobel Exp $
 # $Rev: 2356 $
 
 <define-tag pagetitle>Debian at several conferences</define-tag>
 
-<define-tag release_date>2011-07-02</define-tag>
+<define-tag release_date>2011-07-03</define-tag>
 #use wml::debian::news
 
 
