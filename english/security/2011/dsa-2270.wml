@@ -3,7 +3,7 @@
 
 <p>It was discovered that incorrect sanitising of virtio queue commands in
 KVM, a solution for full virtualization on x86 hardware, could lead to
-denial of service of the execution of arbitrary code.</p>
+denial of service or the execution of arbitrary code.</p>
 
 <p>The oldstable distribution (lenny) is not affected by this problem.</p>
 
@@ -18,4 +18,4 @@ version 0.14.1+dfsg-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2270.data"
-# $Id: dsa-2270.wml,v 1.1 2011-07-01 21:23:07 kaare Exp $
+# $Id: dsa-2270.wml,v 1.2 2011-07-03 22:09:01 taffit Exp $

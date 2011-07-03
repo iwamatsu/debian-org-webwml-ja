@@ -24,7 +24,7 @@ based on Firefox:</p>
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2371">CVE-2011-2371</a>
 
    <p>Chris Rohlf and Yan Ivnitskiy discovered an integer overflow in the
-   Javascript engine, which could lead to the execution of arbitrary
+   JavaScript engine, which could lead to the execution of arbitrary
    code.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2373">CVE-2011-2373</a>
@@ -62,4 +62,4 @@ version 5.0-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2268.data"
-# $Id: dsa-2268.wml,v 1.1 2011-07-01 20:47:59 kaare Exp $
+# $Id: dsa-2268.wml,v 1.2 2011-07-03 22:05:44 taffit Exp $
