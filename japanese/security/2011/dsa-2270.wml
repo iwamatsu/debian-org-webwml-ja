@@ -30,4 +30,4 @@ x86 ハードウェアでの完全仮想化機構 KVM の仮想キューコマ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2270.data"
-# $Id: dsa-2270.wml,v 1.2 2011-07-03 22:09:01 taffit Exp $
+# $Id: dsa-2270.wml,v 1.1 2011-07-04 06:28:06 kmuto Exp $
