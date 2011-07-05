@@ -40,4 +40,4 @@ GSSAPI メカニズムを使った処理でのなりすましを行うことが�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2271.data"
-# $Id: dsa-2271.wml,v 1.1 2011-07-03 22:26:43 taffit Exp $
+# $Id: dsa-2271.wml,v 1.1 2011-07-05 11:11:57 kmuto Exp $
