@@ -39,4 +39,4 @@ Libreoffice のバージョン 1:3.3.3-1 で修正されています。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2275.data"
-# $Id: dsa-2275.wml,v 1.1 2011-07-08 04:03:38 taffit Exp $
+# $Id: dsa-2275.wml,v 1.1 2011-07-08 23:25:28 kmuto Exp $

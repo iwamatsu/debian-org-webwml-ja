@@ -32,4 +32,4 @@ DICOM ディスセクタ、様々なキャプチャ結果と辞書ファイル�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2274.data"
-# $Id: dsa-2274.wml,v 1.1 2011-07-08 03:56:06 taffit Exp $
+# $Id: dsa-2274.wml,v 1.1 2011-07-08 23:25:08 kmuto Exp $

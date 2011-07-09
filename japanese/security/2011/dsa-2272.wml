@@ -32,4 +32,4 @@ DNS サーバ BIND に、特定の UPDATE リクエストを正しく処理で�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2272.data"
-# $Id: dsa-2272.wml,v 1.1 2011-07-05 19:10:12 taffit Exp $
+# $Id: dsa-2272.wml,v 1.1 2011-07-08 23:24:14 kmuto Exp $
