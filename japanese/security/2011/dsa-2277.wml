@@ -35,4 +35,4 @@ XML デジタル署名/暗号化仕様の実装 xml-security-c が 8192 ビッ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2277.data"
-# $Id: dsa-2277.wml,v 1.1 2011-07-10 17:40:50 taffit Exp $
+# $Id: dsa-2277.wml,v 1.1 2011-07-14 11:20:50 kmuto Exp $
