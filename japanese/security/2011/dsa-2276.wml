@@ -59,4 +59,4 @@ Asterisk に欠陥
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2276.data"
-# $Id: dsa-2276.wml,v 1.1 2011-07-10 16:02:08 taffit Exp $
+# $Id: dsa-2276.wml,v 1.1 2011-07-14 11:20:17 kmuto Exp $
