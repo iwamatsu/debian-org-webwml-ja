@@ -1,5 +1,5 @@
 # Status: [open-for-edit]
-# $Id: 20110712.wml,v 1.1 2011-07-12 16:57:17 madamezou Exp $
+# $Id: 20110712.wml,v 1.2 2011-07-18 15:39:46 tolimar Exp $
 # $Rev: 2392 $
 
 <define-tag pagetitle>Debian invites you to Debian Day</define-tag>
@@ -25,8 +25,6 @@ Adnan Hodzic
 will welcome attendees, the talks that follow will include:</p>
 
 <ul>
- <li><q>Ubuntu and Debian in education, business and government</q>, by
- Mark Shuttleworth</li>
  <li><q>Understanding Debian</q>, by Bdale Garbee</li>
  <li><q>My life with Free Software</q>, by Enrico Zini</li>
  <li><q>How to contribute and get involved</q>, by Alexander
