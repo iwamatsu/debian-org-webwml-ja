@@ -31,4 +31,4 @@ Horde ウェブアプリケーションフレームワーク Horde3 に、クロ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2278.data"
-# $Id: dsa-2278.wml,v 1.1 2011-07-18 07:19:17 kaare Exp $
+# $Id: dsa-2278.wml,v 1.1 2011-07-19 11:16:54 kmuto Exp $
