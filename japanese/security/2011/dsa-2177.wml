@@ -1,8 +1,8 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>SQL インジェクション</define-tag>
 <define-tag moreinfo>
 
-<p>WebDAV サーバ実装 python-webdav に、ユーザのク
+<p>WebDAV サーバ実装 PyWebDAV に、ユーザのク
 レデンシャル処理での複数の SQL インジェクションを許す欠陥が発見されま
 した。</p>
 
@@ -20,4 +20,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2177.data"
-# $Id: dsa-2177.wml,v 1.2 2011-03-09 17:59:45 victory-guest Exp $
+# $Id: dsa-2177.wml,v 1.3 2011-07-22 22:45:09 victory-guest Exp $

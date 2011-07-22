@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -21,7 +21,7 @@
 
 </ul>
 
-<p>旧安定版 (lenny) には libgroup パッケージは収録されていません。</p>
+<p>旧安定版 (lenny) には libcgroup パッケージは収録されていません。</p>
 
 <p>安定版 (stable) ディストリビューション (squeeze) では、この問題はバー
 ジョン 0.36.2-3+squeeze1 で修正されています。</p>
@@ -34,4 +34,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2193.data"
-# $Id: dsa-2193.wml,v 1.1 2011-03-22 02:57:33 kmuto Exp $
+# $Id: dsa-2193.wml,v 1.2 2011-07-22 22:58:47 victory-guest Exp $

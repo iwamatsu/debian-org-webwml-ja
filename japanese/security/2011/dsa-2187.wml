@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -40,7 +40,7 @@ Christian Holler さんにより、JavaScript エンジンのバッファオー�
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0055">CVE-2011-0055</a>
 
 <p>
-"regenrecht" さんと Igor Bukanov さんにより、JSON 実装にメモリの解放後
+<q>regenrecht</q> さんと Igor Bukanov さんにより、JSON 実装にメモリの解放後
 の使用箇所があり、任意のコードの実行を許すことが発見されました。
 </p></li>
 
@@ -77,4 +77,4 @@ Peleus Uhley さんにより、プラグインコードにクロスサイトリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2187.data"
-# $Id: dsa-2187.wml,v 1.1 2011-03-22 02:51:05 kmuto Exp $
+# $Id: dsa-2187.wml,v 1.2 2011-07-22 22:51:25 victory-guest Exp $
