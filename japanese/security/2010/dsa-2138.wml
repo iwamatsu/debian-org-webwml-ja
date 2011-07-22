@@ -1,8 +1,8 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>SQL インジェクション</define-tag>
 <define-tag moreinfo>
 
-<p>Vladimir Kolesnikov さんにより、ウェブログ管理ソフト Wordpress
+<p>Vladimir Kolesnikov さんにより、ウェブログ管理ソフト WordPress
 に SQL インジェクション脆弱性が発見されました。
 認証済みのユーザにより、Send Trackback フィールド経由で任意
 のコードの実行が可能です。</p>
@@ -24,4 +24,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2138.data"
-# $Id: dsa-2138.wml,v 1.1 2011-01-11 12:45:37 kmuto Exp $
+# $Id: dsa-2138.wml,v 1.2 2011-07-22 16:54:01 victory-guest Exp $
