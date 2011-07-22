@@ -5,7 +5,7 @@
 <define-tag startdate>2011-07-20</define-tag>
 <define-tag enddate>2011-07-23</define-tag>
 <define-tag infolink>http://www.ensol.org.br</define-tag>
-#<define-tag coord></define-tag>
+<define-tag coord>none</define-tag>
 
 <define-tag intro>
 ENSOL, Encontro de Software Livre da Para&iacute;ba (Libre Software Meeting
@@ -18,7 +18,7 @@ Para&iacute;ba (G/LUG-PB) and Free Software Project of Para&iacute;ba
 Marcelo Santana, long time Debian contributor and translator, will
 deliver a talk titled <q>Debian, 18 anos de um project genuinamente
 comunit&aacute;rio</q> (Debian, 18 years of a genuine community project),
-on Friday 22th at 14:00, at the Linux Auditorium.
+on Friday July 22th at 14:00, at the Linux Auditorium.
 </define-tag>
 
 #use wml::debian::event
