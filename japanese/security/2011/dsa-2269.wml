@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -34,7 +34,7 @@ David Chan さんにより、クッキーの分離が不十分であることが
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2371">CVE-2011-2371</a>
 
 <p>
-Chris Rohlf さんと Yan Ivnitskiy さんにより、Javascript エンジンに
+Chris Rohlf さんと Yan Ivnitskiy さんにより、JavaScript エンジンに
 整数オーバフローがあり、任意のコードの実行が可能であることが発見さ
 れました。
 </p></li>
@@ -85,4 +85,4 @@ Luke Wagner さんと Gary Kwong さんにより、任意のコードの実行�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2269.data"
-# $Id: dsa-2269.wml,v 1.1 2011-07-04 06:27:45 kmuto Exp $
+# $Id: dsa-2269.wml,v 1.2 2011-07-22 23:34:06 victory-guest Exp $
