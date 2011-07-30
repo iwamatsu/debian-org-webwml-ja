@@ -29,4 +29,4 @@ Tim Zingelmann さんにより、Kerberos 対応の FTP サーバの configure �
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2283.data"
-# $Id: dsa-2283.wml,v 1.1 2011-07-25 12:31:21 kaare Exp $
+# $Id: dsa-2283.wml,v 1.1 2011-07-30 06:38:06 kmuto Exp $

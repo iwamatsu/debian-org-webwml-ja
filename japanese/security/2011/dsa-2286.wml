@@ -103,4 +103,4 @@ these problems have been fixed in version 3.4.3.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2286.data"
-# $Id: dsa-2286.wml,v 1.1 2011-07-27 07:34:04 kaare Exp $
+# $Id: dsa-2286.wml,v 1.1 2011-07-30 06:39:53 kmuto Exp $
