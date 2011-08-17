@@ -29,4 +29,4 @@ Freetype の Type1 フォントパーザコードが入力の検証を十分に�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2294.data"
-# $Id: dsa-2294.wml,v 1.1 2011-08-15 09:13:59 kaare Exp $
+# $Id: dsa-2294.wml,v 1.1 2011-08-17 09:42:48 kmuto Exp $

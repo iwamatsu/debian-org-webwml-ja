@@ -30,4 +30,4 @@ David Zych さんにより、ISC DHCP がある種のパケット処理でクラ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2292.data"
-# $Id: dsa-2292.wml,v 1.1 2011-08-11 09:09:26 kaare Exp $
+# $Id: dsa-2292.wml,v 1.1 2011-08-17 09:41:48 kmuto Exp $
