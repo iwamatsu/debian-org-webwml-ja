@@ -76,4 +76,4 @@ Gary Kwong, Igor Bukanov, Nils および Bob Clary の各氏により、任意
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2296.data"
-# $Id: dsa-2296.wml,v 1.1 2011-08-17 19:49:22 kaare Exp $
+# $Id: dsa-2296.wml,v 1.1 2011-08-20 04:05:02 kmuto Exp $
