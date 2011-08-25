@@ -78,4 +78,4 @@ Lenny (旧安定版) リリースノート記載の通り、旧安定版の iced
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2297.data"
-# $Id: dsa-2297.wml,v 1.1 2011-08-22 06:49:23 kaare Exp $
+# $Id: dsa-2297.wml,v 1.1 2011-08-25 05:10:22 kmuto Exp $
