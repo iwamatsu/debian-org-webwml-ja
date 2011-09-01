@@ -1,6 +1,6 @@
-<define-tag description>missing input sanisiting</define-tag>
+<define-tag description>missing input sanitising</define-tag>
 <define-tag moreinfo>
-<p>It was discovered that insufficient input saniting in Freetype's code to
+<p>It was discovered that insufficient input sanitising in Freetype's code to
 parse Type1 could lead to the execution of arbitrary code.</p>
 
 <p>For the oldstable distribution (lenny), this problem has been fixed in
@@ -17,4 +17,4 @@ version 2.4.6-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2294.data"
-# $Id: dsa-2294.wml,v 1.1 2011-08-15 09:13:59 kaare Exp $
+# $Id: dsa-2294.wml,v 1.2 2011-08-31 23:33:00 taffit Exp $
