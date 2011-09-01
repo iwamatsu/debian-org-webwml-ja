@@ -41,4 +41,4 @@ ca-certificates パッケージのバージョン 20110502+nmu1 以降無効化�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2299.data"
-# $Id: dsa-2299.wml,v 1.2 2011-08-31 19:51:04 taffit Exp $
+# $Id: dsa-2299.wml,v 1.1 2011-09-01 23:08:00 kmuto Exp $
