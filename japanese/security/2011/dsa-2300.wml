@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>証明書発行機関からの不正なデジタル証明書</define-tag>
 <define-tag moreinfo>
 
@@ -12,12 +12,12 @@ Diginotar Root CA を念のため削除することとしています。
 
 <p>
 旧安定版 (oldstable) ディストリビューション (lenny) では、この問題は
-バージョン 3.12.3.1-0lenny5 で修正されています。
+バージョン 3.12.3.1-0lenny6 で修正されています。
 </p>
 
 <p>
 安定版 (stable) ディストリビューション (squeeze) では、この問題はバー
-ジョン 3.12.8-1+squeeze2 で修正されています。
+ジョン 3.12.8-1+squeeze3 で修正されています。
 </p>
 
 <p>
@@ -33,4 +33,4 @@ Diginotar Root CA を念のため削除することとしています。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2300.data"
-# $Id: dsa-2300.wml,v 1.1 2011-09-01 23:08:26 kmuto Exp $
+# $Id: dsa-2300.wml,v 1.2 2011-09-05 20:35:01 taffit Exp $
