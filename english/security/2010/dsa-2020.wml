@@ -1,6 +1,6 @@
 <define-tag description>insufficient input sanitization</define-tag>
 <define-tag moreinfo>
-<p>Ivan Shmakov discovered that the htmlscrubber component of ikwiki, a wiki
+<p>Ivan Shmakov discovered that the htmlscrubber component of ikiwiki, a wiki
 compiler, performs insufficient input sanitization on data:image/svg+xml
 URIs.  As these can contain script code this can be used by an attacker
 to conduct cross-site scripting attacks.</p>
@@ -18,4 +18,4 @@ version 3.20100312.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2020.data"
-# $Id: dsa-2020.wml,v 1.1 2010-03-22 09:16:23 rhonda-guest Exp $
+# $Id: dsa-2020.wml,v 1.2 2011-09-07 22:47:36 taffit Exp $
