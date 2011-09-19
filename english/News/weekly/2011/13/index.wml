@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-09-19" SUMMARY="Debian's 18th birthday, bits from the DPL, Debian BSP at MIT, Squeeze backports for X"
 
-# $Id: index.wml,v 1.2 2011-09-19 13:16:53 taffit Exp $
+# $Id: index.wml,v 1.3 2011-09-19 17:18:13 taffit Exp $
 # $Rev: 2665 $
 # Status: [content-frozen]
 
@@ -54,7 +54,7 @@ services administration initiative, started by Enrico Zini</a>, and
 reports on his participation at the GNU Hackers Meeting.
 </p>
 
-<toc-add-entry name="BSP">Debian Bug Squashing Party at MIT</a></toc-add-entry>
+<toc-add-entry name="BSP">Debian Bug Squashing Party at MIT</toc-add-entry>
 
 <p>
 Asheesh Laroia blogged about <a
