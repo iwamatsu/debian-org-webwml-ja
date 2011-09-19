@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-09-19" SUMMARY="Debian's 18th birthday, bits from the DPL, Debian BSP at MIT, Squeeze backports for X"
 
-# $Id: index.wml,v 1.1 2011-09-19 12:06:35 madamezou Exp $
+# $Id: index.wml,v 1.2 2011-09-19 13:16:53 taffit Exp $
 # $Rev: 2665 $
 # Status: [content-frozen]
 
@@ -219,8 +219,7 @@ architecture-specific overrides, and test coverage of over 75% of tags.
 <a href="$(HOME)/security/2011/dsa-2306">ffmpeg</a>,
 <a href="$(HOME)/security/2011/dsa-2307">chromium-browser</a>,
 <a href="$(HOME)/security/2011/dsa-2308">mantis</a>, and
-<a href="$(HOME)/security/2011/dsa-2309">openssl</a>
-.
+<a href="$(HOME)/security/2011/dsa-2309">openssl</a>.
 	Please read them carefully and take the proper measures.</p>
 
         <p>Debian's Backports Team released advisories for these packages:
