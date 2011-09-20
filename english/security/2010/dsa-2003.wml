@@ -75,7 +75,7 @@ problems:</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2010-0622">CVE-2010-0622</a>
 
-    <p>Jermome Marchand reported an issue in the futex subsystem that
+    <p>Jerome Marchand reported an issue in the futex subsystem that
     allows a local user to force an invalid futex state which results
     in a denial of service (oops).</p></li>
 
@@ -103,4 +103,4 @@ compatibility with or to take advantage of this update:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2003.data"
-# $Id: dsa-2003.wml,v 1.2 2010-12-17 14:26:37 taffit-guest Exp $
+# $Id: dsa-2003.wml,v 1.3 2011-09-20 15:49:02 taffit Exp $
