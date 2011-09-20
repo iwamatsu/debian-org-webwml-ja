@@ -62,4 +62,4 @@ Maksymilian Arciemowicz さんにより、vsftpd が STAT コマンド処理で
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2305.data"
-# $Id: dsa-2305.wml,v 1.1 2011-09-20 02:55:09 kmuto Exp $
+# $Id: dsa-2305.wml,v 1.2 2011-09-20 14:57:50 kmuto Exp $
