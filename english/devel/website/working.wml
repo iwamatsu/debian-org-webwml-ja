@@ -58,11 +58,16 @@ Makefile in it &mdash; otherwise <tt>make</tt> will give an error message.</p>
 
 <p>Since the Debian web pages are read by non-native speakers of English
 and are translated into other languages, it is best to write in clear and
-simple English and avoid the use of slang, obscure idioms and old English
-words.</p>
+simple English and avoid the use of slang, emoticons and obscure idioms.
+</p>
 
 <p>If you do use any of this, add a comment to the file explaining the
 meaning.</p>
+
+<p>
+If any doubt, or in order to proofread your proposal, please contact the <a
+href="mailto:debian-l10n-english@lists.debian.org">English localization team</a>.
+</p>
 
 <h3>Look for READMEs</h3>
 
@@ -170,7 +175,7 @@ please tell debian-www about it.</p>
 <p>If you find a broken link (404, 403, or a page that's not what the link
 says it is), please fix it and tell debian-www about it so translators are
 aware. Even better, fix the link in all the other translations, and update
-translation-check headers if possible. :-)</p>
+translation-check headers if possible.</p>
 
 <toc-add-entry name="special">Separation of text from data</toc-add-entry>
 
@@ -202,7 +207,7 @@ new vendor, they add it to <code>debiancd.db</code>, convert it into WML
 format as <code>vendors.CD</code> (using <code>getvendors.pl</code>),
 and then let WML and the makefiles do their magic. All the translations
 get rebuilt using the existing translated text but with the new vendor
-data. (An updated translation for free! :-)</p>
+data. (An updated translation for free!)</p>
 
 <toc-add-entry name="newpage">Adding a new page</toc-add-entry>
 
