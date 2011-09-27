@@ -1,14 +1,14 @@
 #use wml::debian::template title="German Debian pages" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.6" original="german"
-# $Id: credits_website.wml,v 1.5 2009-10-14 09:03:01 toddy Exp $
+#use wml::debian::translation-check translation="1.7" original="german"
+# $Id: credits_website.wml,v 1.6 2011-09-27 22:54:37 taffit Exp $
 #include "$(ENGLISHDIR)/../german/international/German/credits.tags"
 
 <h3>Translating www.debian.org</h3>
 
 <p>A lot of people have helped to translate www.debian.org into
 German.  This is an important and time-consuming task.  However, once
-the german translation is in sync it will be a lot easier since only a
-few pages need to be re-synced after somebody has edited the english
+the German translation is in sync it will be a lot easier since only a
+few pages need to be re-synced after somebody has edited the English
 original.
 
 <h3>Credits</h3>
