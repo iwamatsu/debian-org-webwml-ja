@@ -65,4 +65,4 @@ DigiNotar 証明書発行機関への攻撃により、同機関から発行さ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2307.data"
-# $Id: dsa-2307.wml,v 1.1 2011-09-11 22:08:01 taffit Exp $
+# $Id: dsa-2307.wml,v 1.1 2011-09-30 00:09:22 kmuto Exp $

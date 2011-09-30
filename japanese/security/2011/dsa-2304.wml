@@ -38,4 +38,4 @@ squid3 に、gopher サーバ応答処理でバッファオーバフローを起
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2304.data"
-# $Id: dsa-2304.wml,v 1.1 2011-09-11 21:14:59 taffit Exp $
+# $Id: dsa-2304.wml,v 1.1 2011-09-30 00:09:22 kmuto Exp $

@@ -188,4 +188,4 @@ Darren Lavender さんにより、Common Internet File System (CIFS ファイ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2303.data"
-# $Id: dsa-2303.wml,v 1.3 2011-09-11 03:16:03 taffit Exp $
+# $Id: dsa-2303.wml,v 1.1 2011-09-30 00:09:21 kmuto Exp $
