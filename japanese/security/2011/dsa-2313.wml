@@ -70,4 +70,4 @@ DigiNotar のルート証明書を信用できないものではなく、無効�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2313.data"
-# $Id: dsa-2313.wml,v 1.1 2011-09-29 21:09:46 taffit Exp $
+# $Id: dsa-2313.wml,v 1.1 2011-10-03 09:17:39 kmuto Exp $
