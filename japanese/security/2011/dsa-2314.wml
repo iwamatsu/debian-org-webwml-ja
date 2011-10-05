@@ -78,4 +78,4 @@ K5login タイプで予測可能なファイル名が用いられているため
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2314.data"
-# $Id: dsa-2314.wml,v 1.2 2011-10-03 19:00:10 taffit Exp $
+# $Id: dsa-2314.wml,v 1.1 2011-10-05 11:10:43 kmuto Exp $
