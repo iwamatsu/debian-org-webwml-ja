@@ -32,4 +32,4 @@ Word のバイナリファイルフォーマット (doc) インポータに複�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2315.data"
-# $Id: dsa-2315.wml,v 1.1 2011-10-05 15:02:46 taffit Exp $
+# $Id: dsa-2315.wml,v 1.1 2011-10-07 22:13:40 kmuto Exp $
