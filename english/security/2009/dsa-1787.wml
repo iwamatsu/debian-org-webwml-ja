@@ -24,7 +24,7 @@ problems:</p>
 
     <p>Helge Deller discovered a denial of service condition that allows
     local users on PA-RISC systems to crash a system by attempting to
-    unwind a stack contiaining userspace addresses.</p></li>
+    unwind a stack containing userspace addresses.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2008-5700">CVE-2008-5700</a>
 
@@ -171,4 +171,4 @@ updates will typically release in a staggered or "leap-frog" fashion.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1787.data"
-# $Id: dsa-1787.wml,v 1.4 2010-12-17 14:39:41 taffit-guest Exp $
+# $Id: dsa-1787.wml,v 1.5 2011-10-09 11:11:00 florian Exp $

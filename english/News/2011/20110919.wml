@@ -1,11 +1,11 @@
 # Status: [sent]
-# $Id: 20110919.wml,v 1.1 2011-09-19 12:19:39 madamezou Exp $
+# $Id: 20110919.wml,v 1.2 2011-10-09 11:10:44 florian Exp $
 # $Rev: 2663 $
 
 ##
 ## Template for upcoming announcements;  please copy it to the YYYY folder, and
 ## try to name it YYYY-MM-DD-whats-it-about.wml ; that helps a lot keeping
-## an overwiew
+## an overview
 ##
 
 <define-tag pagetitle>Upcoming point releases and call for test</define-tag>

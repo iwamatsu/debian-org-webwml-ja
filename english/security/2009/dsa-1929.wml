@@ -88,7 +88,7 @@ requirements of doing an update, lower severity 2.6.18 and 2.6.24
 updates will typically release in a staggered or "leap-frog" fashion.</p>
 
 <p>The following matrix lists additional source packages that were rebuilt for
-compatability with or to take advantage of this update:</p>
+compatibility with or to take advantage of this update:</p>
 
 <div class="centerdiv"><table cellspacing="0" cellpadding="2">
 <tr><th>&nbsp;</th>                     <th>Debian 4.0 (etch)</th></tr>
@@ -100,4 +100,4 @@ compatability with or to take advantage of this update:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1929.data"
-# $Id: dsa-1929.wml,v 1.3 2010-12-17 14:40:35 taffit-guest Exp $
+# $Id: dsa-1929.wml,v 1.4 2011-10-09 11:11:00 florian Exp $

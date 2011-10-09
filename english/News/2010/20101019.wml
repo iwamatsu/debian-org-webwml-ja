@@ -1,11 +1,11 @@
 <define-tag pagetitle>Debian to officially welcome non-packaging contributors</define-tag>
 <define-tag release_date>2010-10-19</define-tag>
 #use wml::debian::news
-# $Id: 20101019.wml,v 1.4 2010-10-19 12:01:45 madamezou-guest Exp $
+# $Id: 20101019.wml,v 1.5 2011-10-09 11:10:43 florian Exp $
 
 <p>Today, the Debian Project has overwhelmingly decided in a <a
 href="$(HOME)/vote/2010/vote_002">General Resolution</a> to
-formally acknowlege the contribution made by many people who help Debian in
+formally acknowledge the contribution made by many people who help Debian in
 ways other than maintaining packages - by opening up the process of
 becoming an officially recognised Debian Developer.</p>
 

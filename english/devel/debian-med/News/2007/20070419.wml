@@ -1,10 +1,10 @@
 <define-tag pagetitle>What is new for Debian Med in etch?</define-tag>
 <define-tag release_date>2007-04-19</define-tag>
 #use wml::debian::news
-# $Id: 20070419.wml,v 1.4 2008-11-21 21:32:38 tille Exp $
+# $Id: 20070419.wml,v 1.5 2011-10-09 11:10:54 florian Exp $
 
 <p>
-The Debian Med project strenghtened its current three main areas of
+The Debian Med project strengthened its current three main areas of
 activity: imaging, bioinformatics, and medical practice. But of course,
 it also benefits of all the other improvements of Debian etch, such as
 increased security with signed packages, a new way of exploring the
