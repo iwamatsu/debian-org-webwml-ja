@@ -1,7 +1,7 @@
 <define-tag pagetitle>Mar del Plata to host 8th Debian conference</define-tag>
 <define-tag release_date>2008-08-08</define-tag>
 #use wml::debian::news
-# $Id: 20080808.wml,v 1.5 2011-05-26 10:04:19 rhonda Exp $
+# $Id: 20080808.wml,v 1.6 2011-10-09 11:10:42 florian Exp $
 
 
 <ul>
@@ -22,7 +22,7 @@ the world, such as Debian Project leader Steve McIntyre and Hewlett
 Packard's Open Source &amp; Linux Chief Technologist, Bdale Garbee. The
 topics include global team organisation, internationalisation,
 development internals and policy, virtualisation, and systems
-&amp; network adminisatration. In tutorial sessions, attendants can gain
+&amp; network administration. In tutorial sessions, attendants can gain
 hands-on experience in various subjects. Development and
 brainstorming takes place in the two "hack labs", and peripheral
 events, such as a world cheese party, allow for extensive

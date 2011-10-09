@@ -1,7 +1,7 @@
 <define-tag pagetitle>Backports service becoming official</define-tag>
 <define-tag release_date>2010-09-05</define-tag>
 #use wml::debian::news
-# $Id: 20100905.wml,v 1.3 2011-05-26 10:04:20 rhonda Exp $
+# $Id: 20100905.wml,v 1.4 2011-10-09 11:10:43 florian Exp $
 
 
 <p>The Debian Project is proud to announce that the backports service,
@@ -40,7 +40,7 @@ key.</p>
 <h2>About www.backports.org</h2>
 
 <p>The backports service at
-<a href="http://www.backports.org/">www.backports.org</a> was orginially
+<a href="http://www.backports.org/">www.backports.org</a> was originally
 started by Debian Developer Norbert Tretkowski with much support from
 <a href="http://www.teamix.net/">team(ix)</a>.  It was later continued and
 improved by Debian Developers Alexander Wirt (organisation) and Jörg

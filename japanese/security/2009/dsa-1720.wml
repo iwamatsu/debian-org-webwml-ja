@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>TYPO3 ウェブコンテンツ管理フレームワークに複数のリモートから攻撃可能な
@@ -30,4 +30,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1720.data"
-# $Id: dsa-1720.wml,v 1.2 2009-08-22 11:08:19 osamu Exp $
+# $Id: dsa-1720.wml,v 1.3 2011-10-09 11:11:45 florian Exp $
