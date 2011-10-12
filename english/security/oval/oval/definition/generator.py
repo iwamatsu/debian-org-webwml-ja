@@ -67,7 +67,7 @@ testsCurId = 1
 objectsCurId = 1
 statesCurId = 1
 
-releaseArchHash = {"2.0" : 2, "2.1" : 4, "2.2":  6, "3.0" : 11, "3.1" : 12, "4.0" : 11, "5.0": 12}
+releaseArchHash = {"2.0" : 2, "2.1" : 4, "2.2":  6, "3.0" : 11, "3.1" : 12, "4.0" : 11, "5.0": 12, "6.0": 11}
 testsHash = {"arch" : {}, "release": {}, "obj": {}, "fileSte": {}, "unameSte" : {}, "dpkgSte": {}} 
 #We need more info about alpha, arm, hppa, bmips, lmips
 unameArchTable = {'i386' : 'i686', 'amd64' : 'x86-64', 'ia64' : 'ia64', 'powerpc' : 'ppc', 's390' : 's390x', 'm86k' : 'm86k'} 
@@ -316,9 +316,9 @@ def createPlatformDefinition (release, data, dsa):
 		
 		return Generated XML fragment
 	"""
-	#Raise excetion if we receive too small data
+	#Raise exception if we receive too small data
 	if len(data) == 0:
-		raise DSAFormatException
+		logging.log(logging.WARNING, "DSA %s: Information of affected platforms is not available." % dsa)
 	
 	softwareCriteria = __createXMLElement ("criteria", attrs = {"comment" : "Release section", "operator" : "AND"})
 	softwareCriteria.appendChild ( __createXMLElement ("criterion", attrs={"test_ref" : __createTest("release", release), "comment" : "Debian %s is installed" % release}))
@@ -415,8 +415,8 @@ def createDefinition (dsa, dsaref):
 		raise DSAFormatException
 		
 	if not dsaref.has_key("packages"):
-		logging.log(logging.ERROR, "DSA %s: Package information missed. Ignore this DSA." % dsa)
-		raise DSAFormatException
+		logging.log(logging.WARNING, "DSA %s: Package information missed. Ignore this DSA." % dsa)
+		dsaref["packages"] = ""
 
 	if not dsaref.has_key("description"):
 		logging.log(logging.WARNING, "DSA %s: Description information missed." % dsa)
