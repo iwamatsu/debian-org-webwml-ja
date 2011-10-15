@@ -30,4 +30,4 @@ Python で記述された WikiWiki クローンの rst パーザにクロスサ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2321.data"
-# $Id: dsa-2321.wml,v 1.1 2011-10-10 16:51:42 taffit Exp $
+# $Id: dsa-2321.wml,v 1.1 2011-10-15 09:21:08 kmuto Exp $

@@ -113,4 +113,4 @@ bugzilla 利用者には squeeze ディストリビューションへのアッ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2322.data"
-# $Id: dsa-2322.wml,v 1.2 2011-10-11 02:35:48 taffit Exp $
+# $Id: dsa-2322.wml,v 1.1 2011-10-15 09:21:30 kmuto Exp $
