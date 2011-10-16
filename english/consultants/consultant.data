@@ -31,6 +31,7 @@
 <li><a href="#CostaRica"><CRc></a> (<CostaRica_count>)</li>
 <li><a href="#Croatia"><HRc></a> (<Croatia_count>)</li>
 <li><a href="#Denmark"><DKc></a> (<Denmark_count>)</li>
+<li><a href="#DominicanRepublic"><DOc></a> (<Dominican Republic_count>)</li>
 <li><a href="#Egypt"><EGc></a> (<Egypt_count>)</li>
 <li><a href="#Finland"><FIc></a> (<Finland_count>)</li>
 <li><a href="#France"><FRc></a> (<France_count>)</li>
@@ -2153,6 +2154,19 @@
 <URL     "http://sikkerhed.org/">
 <rates   Please contact.>
 </p>
+
+<h1><a name="DominicanRepublic"><DOc>:</a></h1>
+
+# Consultant: Dominican Republic
+<p>
+<name    Jochen Plumeyer>
+<address Calle Canela 54A, Santo Domingo, <DOc>>
+<phone   +1.809.861.4189>
+<email   jochen@plumeyer.org>
+<URL     "http://www.plumeyer.org/en/debian.html">
+<rates   US$ 35/ hour>
+</p>
+
 
 <h1><a name="Egypt"><EGc>:</a></h1>
 
@@ -5199,6 +5213,17 @@ Chennai-600020, <INc>>
 <additional_info smcp_technology>
 </p>
 
+# Consultant: Italy
+<p>
+<name	 Marco Bellumori>
+<address via Teresa Bandettini, 42 55100 Lucca, <ITc>>
+<phone	 338.2907182>
+<email	 marco.bellumori@altertux.org>
+<URL	 "http://www.altertux.org/">
+<rates	 Negotiable. Please contact.>
+<additional_info marco_bellumori>
+</p>
+
 
 <h1><a name="Japan"><JPc>:</a></h1>
 
@@ -7920,6 +7945,27 @@ non-profit.>
 <email	 info@laposa.co.uk>
 <URL	 "http://laposa.co.uk">
 <rates	 Bespoke work from $pound;400 per day. Debian based server ongoing management from &pound;200 per year.>
+</p>
+
+# Consultant: UK
+<p>
+<name	 Mike Karp>
+<company Secured IT Ltd>
+<address 199 Histon Road, Cambridge, CB4 3HL, <UKc>>
+<phone	 +44 (0)1223 690622>
+<email	 debian@securedit.net>
+<URL	 "http://www.securedit.net/">
+<rates	 On request>
+</p>
+
+# Consultant: UK
+<p>
+<name	 Paul Martin>
+<company Nowster Consulting>
+<address Manchester/North Wales, <UKc>>
+<phone	 +44 161 660 3040>
+<email	 pm@nowster.info>
+<rates	 On request>
 </p>
 
 
