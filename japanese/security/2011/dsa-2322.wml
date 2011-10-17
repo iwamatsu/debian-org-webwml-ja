@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -76,7 +76,7 @@ Bugzilla は、クロスサイトスクリプティング攻撃を防ぐため�
 れる可能性があります。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2380">CVE-2011-2380</a>, <a href="http://security-tracker.debian.org/tracker/CVE-201-2979">CVE-201-2979</a>
+<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2380">CVE-2011-2380</a>, <a href="http://security-tracker.debian.org/tracker/CVE-2011-2979">CVE-2011-2979</a>
 
 <p>
 グループ名は秘密情報であり、通常はグループのメンバからのみ、または
@@ -113,4 +113,4 @@ bugzilla 利用者には squeeze ディストリビューションへのアッ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2322.data"
-# $Id: dsa-2322.wml,v 1.1 2011-10-15 09:21:30 kmuto Exp $
+# $Id: dsa-2322.wml,v 1.3 2011-10-17 07:38:19 kaare Exp $
