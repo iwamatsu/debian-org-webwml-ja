@@ -27,6 +27,7 @@
 <li><a href="#Canada"><CAc></a> (<Canada_count>)</li>
 <li><a href="#Chile"><CLc></a> (<Chile_count>)</li>
 <li><a href="#China"><CNc></a> (<China_count>)</li>
+<li><a href="#Czech"><CZc></a> (<Czech Republic_count>)</li>
 <li><a href="#Colombia"><COc></a> (<Colombia_count>)</li>
 <li><a href="#CostaRica"><CRc></a> (<CostaRica_count>)</li>
 <li><a href="#Croatia"><HRc></a> (<Croatia_count>)</li>
@@ -1894,7 +1895,7 @@
 <rates	 $50 - $120 / hour>
 </p>
 
-# Consultant: canada
+# Consultant: Canada
 <p>
 <name    Maxime Chambreuil>
 <company Savoir-faire Linux Inc.>
@@ -2002,6 +2003,19 @@
 <URL     "http://www.gplhost.com/hosting-server-management-and-dtc-support.html">
 <rates   Negotiable, depending on the project. Discounts for: non-profit, educational, or open-source projects. Free help always available on instant messengers.>
 <additional_info gplhost>
+</p>
+
+
+<h1><a name="Czech"><CZc>:</a></h1>
+
+# Consultant: Czech Republic
+# email checked on 2011-10-19
+<p>
+<name	 Ond&rcaron;ej Sur&yacute;>
+<address Praha, <CZc>>
+<email	 ondrej@sury.org>
+<rates	 Please contact for rates.>
+<additional_info ondrej_sury>
 </p>
 
 
@@ -5042,19 +5056,6 @@ Chennai-600020, <INc>>
 <email	 nextime@nexlab.it>
 <URL	 "http://www.nexlab.it/">
 <rates	 Please call for rate.>
-</p>
-
-# Consultant: Italy
-<p>
-<name	 Enzo Camuto>
-<company Alt-f4>
-<address Strada Provinciale 88, 10 - Catania, <ITc>>
-<email	 info@alt-f4.it>
-<URL	 "http://www.alt-f4.it/">
-<phone	 +39-3400901950>
-<rates	 40-100 negoziable. Special rates for no-profit and edu. 40-100&euro;
-	 negoziabili. Tariffe speciali per associazioni no-profit e a scopo
-	 educativo.>
 </p>
 
 # Consultant: Italy
@@ -9312,6 +9313,17 @@ discount for students, educations and non-profits.>
 <rates   Call for rates.>
 <additional_info credativ>
 </p>
+
+# Consultant: US
+<p>
+<name	 Giovanni Torres>
+<company Etat Consulting>
+<address Arlington, VA, <USc>>
+<email	 etat.consulting@gmail.com>
+<rates   Varies by project>
+<additional_info etat_consulting>
+</p>
+
 
 <h1><a name="Emirates"><AEc>:</a></h1>
 
