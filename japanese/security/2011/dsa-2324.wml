@@ -31,4 +31,4 @@ Microsoft Vulnerability Research group により、安全でないロードパ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2324.data"
-# $Id: dsa-2324.wml,v 1.1 2011-10-20 20:54:31 taffit Exp $
+# $Id: dsa-2324.wml,v 1.1 2011-10-24 11:44:55 kmuto Exp $
