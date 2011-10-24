@@ -414,7 +414,7 @@ Archive-upstream: ftp.de.debian.org
 Security-ftp: /pub/linux/debian-security/
 CDImage-ftp: /pub/linux/debian-cd/
 CDImage-architecture: amd64 i386 multi-arch powerpc sparc
-Maintainer: Christian Asam <Christian.Asam@tu-clausthal.de>, ftpadm@rz.tu-clausthal.de
+Maintainer: Christian Asam <Christian.Asam@tu-clausthal.de>, ftpadm@rz.tu-clausthal.de, support@rz.tu-clausthal.de
 Country: DE Germany
 Location: Clausthal-Zellerfeld, Niedersachsen
 Sponsor: Rechenzentrum der TU-Clausthal http://www.rz.tu-clausthal.de/
@@ -5082,6 +5082,9 @@ Archive-architecture: amd64 i386 ia64 kfreebsd-amd64 kfreebsd-i386 powerpc
 Archive-http: /debian/
 Archive-ftp: /debian/
 Archive-upstream: ftp.es.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-upstream: ftp.de.debian.org
 Security-architecture: amd64 i386 ia64 powerpc
 Security-ftp: /debian-security/
 Security-http: /debian-security/
@@ -5091,7 +5094,7 @@ Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-upstream: ftp.de.debian.org
 Updates: twice
-Maintainer: GRN <info@grn.cat>, admin@grn.es
+Maintainer: GRN <info@grn.cat>, admin@grn.es, Joan Juvanteny <admin@grn.cat>
 Country: ES Spain
 Sponsor: GRN Serveis Telematics S.L. http://www.grn.cat/
 Bandwidth: 100Mbps
