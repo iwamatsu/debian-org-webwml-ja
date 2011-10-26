@@ -36,4 +36,4 @@ Perl モジュール libfcgi-perl が、後続の要求を処理する前に環�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2327.data"
-# $Id: dsa-2327.wml,v 1.1 2011-10-24 18:59:16 taffit Exp $
+# $Id: dsa-2327.wml,v 1.1 2011-10-26 08:56:17 kmuto Exp $

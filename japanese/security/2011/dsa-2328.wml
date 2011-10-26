@@ -30,4 +30,4 @@ Freetype のグリフ処理に入力のサニタイズ漏れがあり、メモ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2328.data"
-# $Id: dsa-2328.wml,v 1.1 2011-10-24 20:50:49 taffit Exp $
+# $Id: dsa-2328.wml,v 1.1 2011-10-26 08:56:57 kmuto Exp $

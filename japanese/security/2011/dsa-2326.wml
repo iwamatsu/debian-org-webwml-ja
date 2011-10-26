@@ -32,4 +32,4 @@ ChromeOS security team の Kees Cook さんにより、PAM スタック経由で
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2326.data"
-# $Id: dsa-2326.wml,v 1.1 2011-10-24 17:21:16 taffit Exp $
+# $Id: dsa-2326.wml,v 1.1 2011-10-26 08:55:54 kmuto Exp $
