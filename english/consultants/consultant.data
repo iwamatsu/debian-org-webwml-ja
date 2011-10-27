@@ -123,18 +123,6 @@
 # Consultant: Argentina
 # email checked on 2010-11-13
 <p>
-<name	 Ricardo Frydman>
-<company Eureka!>
-<address Monte Buey 9258, <ARc>>
-<phone	 +54 3543 496726>
-<email	 ricardoeureka@gmail.com>
-<URL	 "http://eureka-linux.com.ar/">
-<rates	 Acorde a la envergadura del proyecto.>
-</p>
-
-# Consultant: Argentina
-# email checked on 2010-11-13
-<p>
 <name	 Rodrigo Alvado Diaz Leven>
 <company CodersCorp>
 <address 25 de Mayo 66 2do piso Oficina 10, Cordoba, <ARc>>
@@ -1986,18 +1974,6 @@
 
 # Consultant: Chile
 <p>
-<name    Rodrigo Henriquez M.>
-<company Corporacion Linux S.A.>
-<address Avda. Bulnes 79, Of 40, Santiago, <CLc>>
-<phone   +56-2-6573300>
-<fax     +56-2-2442988>
-<email   info@corporacionlinux.cl>
-<URL     "http://www.corporacionlinux.cl">
-<rates   Depends on country and task>
-</p>
-
-# Consultant: Chile
-<p>
 <name    Luis Vivero P.>
 <phone   +56-2-8815259>
 <email   morenisco@noc-root.net scramble="yes">
@@ -2295,19 +2271,6 @@
 <URL     "http://www.jibsystems.fi/">
 <rates   40-150 EUR + expences, details by email.>
 <additional_info jibsystems>
-</p>
-
-# Consultant: Finland
-<p>
-<name	 Kaarlo Maula>
-<company Arvanet>
-<address Kirkkonummi, <FIc>>
-<phone	 050 521 9715>
-<fax	 09 295 3112>
-<email   myynti@arvanet.org>
-<URL	 "http://www.arvanet.org">
-<rates	 Contact myynti@arvanet.org>
-<additional_info kaarlo_m>
 </p>
 
 # Consultant: Finland
@@ -6667,18 +6630,6 @@ non-profit.>
 
 # Consultant: Spain
 <p>
-<name    Sergio Arnal>
-<company Barnatech, SCCL>
-<address c/Arag&oacute;n, 186 Pral 2a, ESc>>
-<phone   +34-93-454-82-89>
-<fax     +34-93-454-58-69>
-<email   sergio.arnal@barnatech.com>
-<URL     "http://www.barnatech.com">
-<rates   Upon request>
-</p>
-
-# Consultant: Spain
-<p>
 <name    Javier Gonzalez>
 <company Novochip Soluciones Informaticas>
 <address Huertas 34, <ESc>>
@@ -6734,18 +6685,6 @@ non-profit.>
 <URL     "http://www.datalay.com">
 <rates   Depends on task>
 <additional_info datalay>
-</p>
-
-# Consultant: Spain
-<p>
-<name    Javier Linares>
-<company Interactors, S. Coop. (a cooperative)>
-<address P Castellana 123, Esc. Dcha. 7B Madrid, <ESc>>
-<phone   +34-654-906-129>
-<fax     +34-91-141-35-38>
-<email   info@interactors.coop>
-<URL     "http://www.interactors.coop">
-<rates   Fair prices upon request.>
 </p>
 
 # Consultant: Spain
@@ -6826,17 +6765,6 @@ non-profit.>
 <URL	 "http://www.ultreia.es/">
 <rates	 Please contact.>
 <additional_info ultreia>
-</p>
-
-# Consultant: Spain
-<p>
-<name	 David Aycart>
-<company ESware Linux S.A.>
-<address Sangenjo 10, 28034 Madrid, <ESc>>
-<phone	 +34-913780506>
-<fax	 +34-913784633>
-<email	 daycart@esware.com>
-<URL	 "http://www.esware.com/">
 </p>
 
 # Consultant: Spain
@@ -6953,18 +6881,6 @@ non-profit.>
 <URL     "http://www.rejas.se/">
 <rates   Negotiable.>
 <additional_info rejas>
-</p>
-
-# Consultant: Sweden
-<p>
-<name    Christian Johnsson>
-<company NexGen IT>
-<address R&ouml;nnviksg 13, Malm&ouml;, Sverige, <SEc>>
-<phone   +46-0-75-4466957>
-<fax     +46-0-75-4466958>
-<email   info@nxg.se>
-<URL     "http://www.nxg.se/">
-<rates   Negotiable.>
 </p>
 
 # Consultant: Sweden
@@ -7531,17 +7447,6 @@ non-profit.>
 <email   matthew.king@monnsta.net>
 <URL     "http://monnsta.net/">
 <rates   Negotiable at 500 GBP / day (75 GBP / hour)>
-</p>
-
-# Consultant: UK
-<p>
-<name    Nathan Howard>
-<company mootech>
-<address Midlands and North of England, <UKc>>
-<phone   +44-7811-197-816>
-<email   info@mootech.co.uk>
-<URL     "http://www.mootech.co.uk/">
-<rates   Depends on project.>
 </p>
 
 # Consultant: UK
