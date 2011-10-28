@@ -33,4 +33,4 @@ Bartlomiej Balcerek さんにより、PBS 由来のバッチ処理サーバ torq
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2329.data"
-# $Id: dsa-2329.wml,v 1.1 2011-10-27 12:14:16 taffit Exp $
+# $Id: dsa-2329.wml,v 1.1 2011-10-28 03:19:58 kmuto Exp $
