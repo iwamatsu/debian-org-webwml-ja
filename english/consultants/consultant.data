@@ -578,6 +578,17 @@
 <rates	 Please contact me for rates>
 </p>
 
+# Consultant: Austria
+<p>
+<name	 Daniel Knabl>
+<company tirolinux.net>
+<address Rettlsteinerweg 50c/32, 6112 Wattens, <ATc>>
+<phone   +43 676 9373 676>
+<email	 office@tirolinux.net>
+<URL	 "http://www.tirolinux.net/">
+<rates	 Please contact for individual offer. 10% go to the Debian project.>
+</p>
+
 
 <h1><a name="Bahamas"><BSc>:</a></h1>
 
@@ -4125,6 +4136,19 @@
 <rates	 See webpage for detailed information>
 </p>
 
+# Consultant: Germany
+<p>
+<name	 David Pietratus>
+<company IT-Schulungen.com>
+<address Thurn-und-Taxis-Strasse 10, 90411 Nuremberg, <DEc>>
+<phone	 +49 1805 120 222>
+<fax     +49 911 650083 99>
+<email	 info@it-schulungen.com>
+<URL     "http://www.it-schulungen.com/">
+<rates	 depending on project>
+<additional_info it-schulungen>
+</p>
+
 
 <h1><a name="Greece"><GRc>:</a></h1>
 
@@ -5021,12 +5045,13 @@ Chennai-600020, <INc>>
 # Consultant: Italy
 <p>
 <name	 Mauro Chiarugi>
-<company Advanced Service Provider Srl>
+<company Dogma Systems>
 <address Ancona, <ITc>>
-<phone	 +39-328-9276954>
-<email	 mauro@aessepi.it>
-<URL	 "http://www.aessepi.it/">
-<rates	 Varies.>
+<phone	 +39-071-9090188>
+<phone	 +39-331-4786225>
+<email	 info@dogmasystems.it >
+#<URL	 "http://www.dogmasystems.it/">
+<rates	 Please call for rates.>
 </p>
 
 # Consultant: Italy
