@@ -211,9 +211,9 @@
 <p>
 <name    Dave Hall>
 <company Dave Hall Consulting>
-<address Tecoma, Victoria, 3160, <AUc>>
+<address PO Box 106, Newstead VIC 3462, <AUc>>
 <phone   +61-410-47-42-55>
-<email   debian@skwashd.com>
+<email   info@davehall.com.au>
 <url     "http://davehall.com.au/">
 <rates   Available on request.>
 </p>
@@ -4111,6 +4111,18 @@
 <email	 khoffmann@adventos.de>
 <URL     "http://www.adventos.de/">
 <rates	 Please contact for fixed price quotation>
+</p>
+
+# Consultant: Germany
+<p>
+<name	 Christian Schneiker>
+<company GFU Cyrus AG>
+<address Am Grauen Stein 27, 51105 K&ouml;ln, <DEc>>
+<phone	 +49 221 828090>
+<fax     +49 221 8280950>
+<email	 info@gfu.net>
+<URL     "http://linux-schulung.gfu.net/">
+<rates	 See webpage for detailed information>
 </p>
 
 
