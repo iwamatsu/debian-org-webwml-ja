@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.3 2011-04-16 23:49:54 taffit-guest Exp $
+$Id: index.wml,v 1.4 2011-10-30 02:13:49 taffit Exp $
 $Rev: 1362 $
 Status: content-freeze 
   -->
@@ -301,7 +301,7 @@ to contribute to Debian?</a></q>, and pointed to the <a
 href="http://www.debian.org/intro/help">official contribution
 page of the website</a>, and its equivalent on the <a
 href="http://wiki.debian.org/HelpDebian">wiki</a> and in the <a
-href="http://www.debian.org/doc/FAQ/ch-contributing.en.html">FAQ</a>.
+href="http://www.debian.org/doc/manuals/debian-faq/ch-contributing.en.html">FAQ</a>.
 He also highlighted less documented <q>cultural</q> aspects
 of Debian technical life such as coordination over IRC
 or interacting with package maintainers via the BTS.
