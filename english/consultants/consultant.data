@@ -1564,6 +1564,16 @@
 <rates	 Negociable>
 </p>
 
+# Consultant: Brazil
+# email checked on 2011-10-30
+<p>
+<name	 Adonney Allan de O. Veras>
+<address Bel&eacute;m-PA, <BRc>>
+<phone   (91) 8826-0678>
+<email	 allanverasce@gmail.com>
+<rates	 a combinar>
+</p>
+
 
 <h1><a name="Bulgaria"><BGc>:</a></h1>
 
@@ -4399,9 +4409,8 @@
 <p>
 <name	 Ritesh Raj Sarraf>
 <company RESEARCHUT>
-<address C/o Sarraf Jewellers, Main Road, Opposite Krishna Talkies, Raxaul, Bihar, <INc>. Pin - 845305>
-<phone	 +91-6255-221098>
-<phone   +91-9880847080>
+<address C/o Sarraf Jewellers, Main Road, Raxaul, BR, <INc>>
+<phone	 +91-9972506333>
 <email	 contact@researchut.com>
 <URL	 "http://www.researchut.com/">
 <rates	 Please contact for rates.>
@@ -6916,6 +6925,18 @@ non-profit.>
 <rates	 aprox 200 EUR/day>
 </p>
 
+# Consultant: Spain
+<p>
+<name	 Andrew Nimmo>
+<company Illumas Limited>
+<address Barcelona, <ESc>>
+<phone   +34 690 920 986>
+<email	 debian.consultancy@illumas.eu>
+<URL	 "http://web.illumas.eu/debian-gnu-linux-consultant/">
+<rates	 Negotiable according to service and location. Time and resources-based or project-based rates.>
+</p>
+
+
 <h1><a name="Sweden"><SEc>:</a></h1>
 
 # Consultant: Sweden
@@ -9255,6 +9276,18 @@ discount for students, educations and non-profits.>
 <URL     "http://zedsbrain.com/">
 <rates   Negotiable>
 <additional_info zedsbrain>
+</p>
+
+# Consultant: US
+<p>
+<name	 Tim Maher>
+<company Consultix>
+<address PO Box 70563, Seattle WA 98127, <USc>>
+<phone   (206) 781-8649>
+<email	 sales@TeachMeLinux.com>
+<URL     "http://TeachMeLinux.com/contract_programming.html">
+<rates   Competitive and negotiable>
+<additional_info consultix>
 </p>
 
 
