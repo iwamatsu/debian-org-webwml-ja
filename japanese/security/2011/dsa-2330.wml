@@ -45,4 +45,4 @@ SP に対して 300000-2000000 クエリを送ることで、SP から送られ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2330.data"
-# $Id: dsa-2330.wml,v 1.1 2011-10-27 17:19:25 taffit Exp $
+# $Id: dsa-2330.wml,v 1.1 2011-10-31 10:31:03 kmuto Exp $

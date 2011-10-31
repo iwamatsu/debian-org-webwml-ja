@@ -69,4 +69,4 @@ mdeley() 読み出しが終了するまで処理が止まるため、攻撃者�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2323.data"
-# $Id: dsa-2323.wml,v 1.1 2011-10-28 17:08:17 taffit Exp $
+# $Id: dsa-2323.wml,v 1.1 2011-10-31 10:29:54 kmuto Exp $

@@ -57,4 +57,4 @@ lib/functions.php 内で適切にサニタイズされていません。この�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2333.data"
-# $Id: dsa-2333.wml,v 1.1 2011-10-30 13:34:01 taffit Exp $
+# $Id: dsa-2333.wml,v 1.1 2011-10-31 10:33:49 kmuto Exp $

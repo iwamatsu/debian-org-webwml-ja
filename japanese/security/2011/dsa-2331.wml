@@ -53,4 +53,4 @@ posting from the Tor blog</a>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2331.data"
-# $Id: dsa-2331.wml,v 1.1 2011-10-28 17:48:58 taffit Exp $
+# $Id: dsa-2331.wml,v 1.1 2011-10-31 10:31:39 kmuto Exp $
