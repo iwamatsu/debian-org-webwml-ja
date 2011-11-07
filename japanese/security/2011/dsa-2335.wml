@@ -38,4 +38,4 @@ Tim Starling さんにより、UNIX の man ページを HTML に変換するプ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2335.data"
-# $Id: dsa-2335.wml,v 1.1 2011-11-05 21:03:21 taffit Exp $
+# $Id: dsa-2335.wml,v 1.1 2011-11-07 12:30:53 kmuto Exp $
