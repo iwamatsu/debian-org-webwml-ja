@@ -1,6 +1,6 @@
 <define-tag description>several vulnerabilities</define-tag>
 <define-tag moreinfo>
-<p>Multiple vulnerabilities were found in the ffmpeg, a multimedia player,
+<p>Multiple vulnerabilities were found in FFmpeg, a multimedia player,
 server and encoder:</p>
 
 <ul>
@@ -43,4 +43,4 @@ drop our security support for the version in oldstable.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2336.data"
-# $Id: dsa-2336.wml,v 1.1 2011-11-07 19:34:02 spaillard Exp $
+# $Id: dsa-2336.wml,v 1.2 2011-11-07 21:17:51 taffit Exp $
