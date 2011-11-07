@@ -19,7 +19,7 @@ hypervisor.</p>
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1898">CVE-2011-1898</a>
 
   <p>When using PCI passthrough on Intel VT-d chipsets that do not
-  have interrupt remapping, guest OS can users to gain host OS
+  have interrupt remapping, guest OS users can gain host OS
   privileges by writing to the interrupt injection registers.</p></li>
 
 </ul>
@@ -38,4 +38,4 @@ has been fixed in version 4.1.1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2337.data"
-# $Id: dsa-2337.wml,v 1.1 2011-11-06 12:22:32 spaillard Exp $
+# $Id: dsa-2337.wml,v 1.2 2011-11-07 18:20:18 kaare Exp $
