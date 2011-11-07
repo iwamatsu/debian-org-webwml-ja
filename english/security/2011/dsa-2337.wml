@@ -7,7 +7,7 @@ hypervisor.</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1166">CVE-2011-1166</a>
 
-  <p>A 64-bit guest can get one of its vCPU'ss into non-kernel
+  <p>A 64-bit guest can get one of its vCPUs into non-kernel
   mode without first providing a valid non-kernel pagetable,
   thereby locking up the host system.</p></li>
 
@@ -38,4 +38,4 @@ has been fixed in version 4.1.1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2337.data"
-# $Id: dsa-2337.wml,v 1.2 2011-11-07 18:20:18 kaare Exp $
+# $Id: dsa-2337.wml,v 1.3 2011-11-07 20:15:27 taffit Exp $
