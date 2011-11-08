@@ -4996,9 +4996,9 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: syncproxy.wna.debian.org
-Backports-ftp: /backports.org/
-Backports-http: /backports.org/
-Backports-rsync: backports.org/
+X-Backports-ftp: /backports.org/
+X-Backports-http: /backports.org/
+X-Backports-rsync: backports.org/
 Backports-upstream: syncproxy.backports.org
 IPv6: no
 Maintainer: Linux Australia Mirror Admins <admin@mirror.linux.org.au>
@@ -7451,4 +7451,31 @@ Archive-upstream: debian.osuosl.org
 Updates: twice
 Maintainer: Alex <debian-m@as6453.net>
 Country: US United States
+Bandwidth: 1Gbps
+
+Site: mirrors.tecnoera.com
+Type: leaf
+Archive-architecture: amd64 i386
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: rocky-mountain.csail.mit.edu
+Updates: twice
+Maintainer: Juan Pablo Abuyeres <jpabuyer@tecnoera.com>
+Country: CL Chile
+Location: VINA DEL MAR
+Sponsor: TECNOERA http://www.tecnoera.com/
+Bandwidth: 1Gbps
+
+Site: ftp.tsukuba.wide.ad.jp
+Type: leaf
+Archive-architecture: amd64 arm armel hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
+Archive-http: /debian/
+X-Archive-rsync: debian/
+IPv6: yes
+Archive-upstream: ftp2.jp.debian.org
+Updates: lessoften
+Maintainer: Kohei Takahashi <tsukuba-ftp-servers@tsukuba.wide.ad.jp>
+Country: JP Japan
+Location: Tsukuba
+Comment: Update frequency: 4 times a day
 Bandwidth: 1Gbps
