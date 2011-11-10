@@ -39,4 +39,4 @@ postgresql-9.1 の 9.1~rc1-1 で修正されています。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2340.data"
-# $Id: dsa-2340.wml,v 1.1 2011-11-07 20:02:45 kaare Exp $
+# $Id: dsa-2340.wml,v 1.1 2011-11-10 15:51:19 kmuto Exp $
