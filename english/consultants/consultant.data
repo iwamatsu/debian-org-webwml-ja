@@ -2335,17 +2335,6 @@
 
 # Consultant: France
 <p>
-<company FreesKop>
-<address Avenue Robert Schuman, Campus de Ker Lann, 35170 Bruz, <FRc>>
-<phone   +33-2-99-05-04-56>
-<phone   +33-2-99-05-96-40>
-<email   contact@freeskop.com>
-<url     "http://www.freeskop.com">
-<rates   Please contact for rates.>
-</p>
-
-# Consultant: France
-<p>
 <name    Jean-Marc Chaton>
 <company FIABILUX>
 <address 17 all&eacute;e Louis Daquin, 44600 Saint-Nazaire, <FRc>>
@@ -2554,17 +2543,6 @@
 
 # Consultant: France
 <p>
-<name    Le Borgne Ga&euml;l>
-<company Solution Open Source Group>
-<address 39/41 rue Malherbe 76100 Rouen <FRc>>
-<phone   +33-235-73-22-39>
-<email   gael@sosg.Fr>
-<URL     "http://sosg.fr">
-<rates   Please contact us or check our website.>
-</p>
-
-# Consultant: France
-<p>
 <company Oxalide>
 <address 13 rue Greneta 75003 Paris <FRc>>
 <phone   +33-1-44-78-63-66>
@@ -2749,18 +2727,6 @@
 
 # Consultant: France
 <p>
-<name	 PESANT Sylvain>
-<company OPEN VIA>
-<address Lille, <FRc>>
-<phone	 06.60.14.81.27>
-<fax	 03.20.88.44.62>
-<email	 infos@ovia.fr>
-<URL	 "http://www.ovia.fr/">
-<rates	 Please contact for rates>
-</p>
-
-# Consultant: France
-<p>
 <company LOGILAB>
 <phone	 +33-1-45-32-03-12>
 <email	 commercial@logilab.fr>
@@ -2895,6 +2861,16 @@
 <email	 contact@posiweb.fr>
 <URL     "http://www.posiweb.fr/informatique.html">
 <rates   90 &euro; / Hour , please contact for a quote.>
+</p>
+
+# Consultant: France
+<p>
+<name	 S&eacute;bastien Delafond>
+<company 415 Conseil>
+<address Poitiers, <FRc>>
+<phone	 +33 6 48 38 16 56>
+<email	 sdelafond@gmail.com>
+<rates   Please contact for rates.>
 </p>
 
 
@@ -6891,6 +6867,15 @@ non-profit.>
 <rates	 Negotiable according to service and location. Time and resources-based or project-based rates.>
 </p>
 
+# Consultant: Spain
+<p>
+<name	 Rub&eacute;n Tato>
+<address Francisco Navacerrada, 9. 28028 Madrid, <ESc>>
+<phone   +34 644 213 007>
+<email	 rtmoran@gmail.com>
+<URL	 "http://bentamor.wordpress.com/">
+</p>
+
 
 <h1><a name="Sweden"><SEc>:</a></h1>
 
@@ -8323,18 +8308,6 @@ open-source projects.>
 
 # Consultant: US
 <p>
-<name    John Miche>
-<company Bento Solutions>
-<address 8468 Cortadera Dr. Orangevale, CA 95662, <USc>>
-<phone   +1-916-802-1813>
-<email   jmiche@bentosolutions.com>
-<URL     "http://www.bentosolutions.com">
-<rates   $150/Hr Negotiable>
-<additional_info bentosolutions>
-</p>
-
-# Consultant: US
-<p>
 <name    Doug Maxwell>
 <company Turing Labs, LLC>
 <address 74 Stebbins Road, Somers, CT 06071, <USc>>
@@ -8699,16 +8672,6 @@ open-source projects.>
 
 # Consultant: US
 <p>
-<name	 Karl Gustave Pe&ntilde;a>
-<company GNU/Linux Consultant (multilingual)>
-<address Maryland, serving MD / VA / DC-METRO / NY, <USc>>
-<email	 karl@tux.org>
-<URL	 "http://www.tux.org/~karl/techresume.html">
-<rates	 $80 US per hour, negotiable to $60/hr for NGOs, nonprofits, schools.>
-</p>
-
-# Consultant: US
-<p>
 <name	 Michaeljohn Clement>
 <address 2351 Jet Wing Dr., Colorado Springs, CO, 80916, <USc>>
 <phone	 (719) 964-7991>
@@ -8800,17 +8763,6 @@ open-source projects.>
 <phone	 864/486-9755>
 <email	 jas@eckard.com scramble="yes">
 <rates	 $30/hr>
-</p>
-
-# Consultant: US
-<p>
-<name	 James LewisMoss>
-<company LewisMoss Consulting>
-<address SC, <USc>>
-<phone	 +1-803-771-9890>
-<email	 james@lewismoss.com>
-<URL	 "http://www.lewismoss.org/~dres/resume.html">
-<rates	 Negotiable.  Standard $75/hour.>
 </p>
 
 # Consultant: US
@@ -9220,6 +9172,30 @@ discount for students, educations and non-profits.>
 <URL     "http://TeachMeLinux.com/contract_programming.html">
 <rates   Competitive and negotiable>
 <additional_info consultix>
+</p>
+
+# Consultant: US
+<p>
+<name	 Greg Hamamjian>
+<company Computer Repair>
+<address 15319 Wyandotte Street, Van Nuys, California 91406, <USc>>
+<phone   (818) 590-2552>
+<email	 contact@hamen.us.com>
+<URL     "http://www.hamen.us.com/">
+<rates   $50/hr>
+</p>
+
+# Consultant: US
+<p>
+<name	 Syd Alsobrook>
+<company IT Tag Team, Inc.>
+<address 111 2nd Ave NE, Suite 900, Saint Petersburg, FL 33701, <USc>>
+<phone   (866) 967-8104>
+<fax     (518) 375-3643>
+<email	 sales@ittagteam.com>
+<URL     "http://www.ittagteam.com/">
+<rates   Based on project>
+<additional_info alsobrook>
 </p>
 
 
