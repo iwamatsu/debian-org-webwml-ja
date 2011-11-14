@@ -35,4 +35,4 @@ Piston フレームワークに、信用できない YAML や Pickle データ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2344.data"
-# $Id: dsa-2344.wml,v 1.1 2011-11-11 20:48:49 taffit Exp $
+# $Id: dsa-2344.wml,v 1.1 2011-11-14 10:33:03 kmuto Exp $

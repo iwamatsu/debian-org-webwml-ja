@@ -39,4 +39,4 @@ Verizon Cybertrust はこの CA がクロス署名した証明書を無効化す
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2343.data"
-# $Id: dsa-2343.wml,v 1.1 2011-11-09 20:28:12 kaare Exp $
+# $Id: dsa-2343.wml,v 1.1 2011-11-14 10:32:13 kmuto Exp $

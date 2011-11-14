@@ -55,4 +55,4 @@ Marc Schoenefeld さんにより、Javascript コードのプロファイリン�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2342.data"
-# $Id: dsa-2342.wml,v 1.1 2011-11-09 20:21:40 kaare Exp $
+# $Id: dsa-2342.wml,v 1.1 2011-11-14 10:30:59 kmuto Exp $
