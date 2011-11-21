@@ -27,4 +27,4 @@ DNS サーバ BIND に、欠陥が発見されました。ある種の再帰的 
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2347.data"
-# $Id: dsa-2347.wml,v 1.1 2011-11-16 23:32:24 taffit Exp $
+# $Id: dsa-2347.wml,v 1.1 2011-11-21 05:50:23 kmuto Exp $
