@@ -44,7 +44,7 @@ my %Status = (
 	);
 
 sub usage {
-        print "Usage:  gen-files.pl [--dist=DIST] [--l10ndir=DIR] [--sort=FILE] [--po] [--templates] [--podebconf] [--langs] [--po4a]\n";
+        print "Usage:  gen-files.pl [--dist=DIST] [--l10ndir=DIR] [--sort=FILE] [--po] [--podebconf] [--langs] [--po4a]\n";
         exit($_[0]);
 }
 
@@ -61,7 +61,6 @@ if (not Getopt::Long::GetOptions(qw(
         s|sort=s
         D|podebconf
         P|po
-        T|templates
         L|langs
         M|po4a
         ))) {
@@ -71,11 +70,7 @@ usage(0) if $opt_h;
 
 my $data = Debian::L10n::Db->new();
 $data->read("$opt_l/data/$opt_d.gluck");
-my $date1 = $data->get_date();
-#$data->read("$opt_l/data/$opt_d.non-US");
-#my $date2 = $data->get_date();
-my $date = $date1; #   Ignore non-US for now
-# my $date = ($date1 lt $date2 ? $date1 : $date2);
+my $date = $data->get_date();
 my %popcon = ();
 if ($opt_s ne '' && -r $opt_s && open (POPCON, "< $opt_s")) {
         #  This file is in the same format as
@@ -99,10 +94,7 @@ sub pkgsort ($$) {
         }
 }
 
-#my $root = 'http://merkel.debian.org/~barbier/l10n/material/';
-#my $rootnonus = 'http://merkel.debian.org/~barbier/l10n/material/';
 my $root = 'http://i18n.debian.net/material/';
-my $rootnonus = $root;
 
 my $langfile = $opt_l.'/data/langs';
 #   These packages use a RFC1766 naming convention for language codes
@@ -143,9 +135,9 @@ foreach my $pkg ($data->list_packages()) {
                 warn "Package without section: $pkg\n";
                 next;
         }
-        if ($section =~ m#^(non-us/)?contrib/#) {
+        if ($section =~ m#^contrib/#) {
                 push (@contrib, $pkg);
-        } elsif ($section =~ m#^(non-us/)?non-free/#) {
+        } elsif ($section =~ m#^non-free/#) {
                 push (@nonfree, $pkg);
         } else {
                 push (@main, $pkg);
@@ -173,8 +165,8 @@ sub transform_team {
         return $name;
 }
 
-sub get_stats_po4a {
-        my ($section, $packages) = @_;
+sub get_stats {
+        my ($type, $section, $packages) = @_;
         my ($pkg, $line, $lang, %list);
 
         my %done  = ();
@@ -184,23 +176,29 @@ sub get_stats_po4a {
         my $none  = '';
         my $orig  = '';
 
+	my @langs;
+	@langs = @p4_langs if ($type eq 'po4a');
+	@langs = @po_langs if ($type eq 'po');
+
         $total{$section} = 0;
         foreach $pkg (sort pkgsort @{$packages}) {
                 if ($data->upstream($pkg) eq 'dbs') {
                         $none .= "<li>".$pkg." (*)</li>\n";
                         next;
                 }
-                unless ($data->has_po4a($pkg)) {
+                unless (($type eq 'po4a' and $data->has_po4a($pkg)) or
+			($type eq 'po' and $data->has_po($pkg))) {
                         $none .= "<li>".$pkg."</li>\n";
                         next;
                 }
+		next if ($type eq 'po' and defined $skip_po{$pkg});
                 my $list = {};
-                foreach (@p4_langs) {
+                foreach (@langs) {
                         $list{uc $_}  = 0;
                 }
                 my $addorig = '';
-                foreach $line (@{$data->po4a($pkg)}) {
-                        my ($po4afile, $lang, $stat, $link,$translator,$team) = @{$line};
+                foreach $line (@{$data->$type($pkg)}) {
+                        my ($file, $lang, $stat, $link, $translator, $team) = @{$line};
                         $link =~ s/:/\%3a/g;
                         $link =~ s/#/\%23/g;
                         $translator = transform_translator($translator);
@@ -209,10 +207,9 @@ sub get_stats_po4a {
                                 if ($stat =~ m/(\d+)u/) {
                                         $total{$section} += $1;
                                 }
-                                $addorig .= " [<a href=\"".
-                                        ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root).
+                                $addorig .= " [<a href=\"".$root.
                                         "po/$opt_d/".$data->pooldir($pkg).
-                                        "/$link.gz\">$po4afile</a>]";
+                                        "/$link.gz\">$file</a>]";
                                 next;
                         }
                         $lang = uc($lang) || 'UNKNOWN';
@@ -228,8 +225,8 @@ sub get_stats_po4a {
 				$ref{"$lang:$pkg"} = 1;
 			}
 		       	$str .= "href=\"";
-                        $str .= ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root) . "po/$opt_d/";
-                        $str .= $data->pooldir($pkg)."/$link.gz\">$po4afile</a></td>";
+                        $str .= $root . "po/$opt_d/";
+                        $str .= $data->pooldir($pkg)."/$link.gz\">$file</a></td>";
 		        $str .= "<td>$translator</td><td>$team</td>".
                               "</tr>\n";
                         if ($stat =~ m/(\d+)t/) {
@@ -243,223 +240,88 @@ sub get_stats_po4a {
                 }
                 $orig .= "<li><a name=\"$pkg\" href=\"http://bugs.debian.org/cgi-bin/pkgreport.cgi?which=src&amp;data=$pkg\">$pkg</a>$addorig</li>\n"
                         if $addorig;
-                foreach $lang (@p4_langs) {
+                foreach $lang (@langs) {
                         my $l = uc($lang) || 'UNKNOWN';
                         next if $list{$l};
                         $excl{$l}  = '' unless defined($excl{$l});
                         $excl{$l} .= $pkg.", ";
                 }
         }
-        foreach $lang (@p4_langs) {
+        foreach $lang (@langs) {
                 next unless defined $done{uc $lang};
-                open (GEN, "> $opt_l/po4a/gen/$section-$lang.ok")
-                        || die "Unable to write into $opt_l/po4a/gen/$section-$lang.ok";
+                open (GEN, "> $opt_l/$type/gen/$section-$lang.ok")
+                        || die "Unable to write into $opt_l/$type/gen/$section-$lang.ok";
                 print GEN $done{uc $lang};
                 close (GEN);
         }
-        foreach $lang (@p4_langs) {
+        foreach $lang (@langs) {
                 next unless defined $todo{uc $lang};
-                open (GEN, "> $opt_l/po4a/gen/$section-$lang.todo")
-                        || die "Unable to write into $opt_l/po4a/gen/$section-$lang.todo";
+                open (GEN, "> $opt_l/$type/gen/$section-$lang.todo")
+                        || die "Unable to write into $opt_l/$type/gen/$section-$lang.todo";
                 print GEN $todo{uc $lang};
                 close (GEN);
         }
-        foreach $lang (@p4_langs) {
+        foreach $lang (@langs) {
                 next unless defined $excl{uc $lang};
                 $excl{uc $lang} =~ s/, $//s;
-                open (GEN, "> $opt_l/po4a/gen/$section-$lang.exc")
-                        || die "Unable to write into $opt_l/po4a/gen/$section-$lang.exc";
+                open (GEN, "> $opt_l/$type/gen/$section-$lang.exc")
+                        || die "Unable to write into $opt_l/$type/gen/$section-$lang.exc";
                 print GEN "<p>\n".$excl{uc $lang}."</p>\n";
                 close (GEN);
         }
-        open (GEN, "> $opt_l/po4a/gen/$section.exc")
-                || die "Unable to write into $opt_l/po4a/gen/$section.exc";
+        open (GEN, "> $opt_l/$type/gen/$section.exc")
+                || die "Unable to write into $opt_l/$type/gen/$section.exc";
         print GEN "<ul>\n".$none."</ul>\n" if $none ne '';
         close (GEN);
-        open (GEN, "> $opt_l/po4a/gen/$section.orig")
-                || die "Unable to write into $opt_l/po4a/gen/$section.orig";
+        open (GEN, "> $opt_l/$type/gen/$section.orig")
+                || die "Unable to write into $opt_l/$type/gen/$section.orig";
         print GEN "<ul>\n".$orig."</ul>\n" if $orig ne '';
         close (GEN);
 }
 
-sub process_po4a {
-        -d "$opt_l/po/gen" || File::Path::mkpath("$opt_l/po4a/gen", 0, 0775);
+sub process {
+	my ($type) = @_;
+        -d "$opt_l/$type/gen" || File::Path::mkpath("$opt_l/$type/gen", 0, 0775);
 
-        foreach (@p4_langs) {
+	my @langs;                      
+	@langs = @p4_langs if ($type eq 'po4a');
+	@langs = @po_langs if ($type eq 'po');
+
+        foreach (@langs) {
                 $score{uc $_} = 0;
         }
 
-        get_stats_po4a('main', \@main);
-        get_stats_po4a('contrib', \@contrib);
-        get_stats_po4a('non-free', \@nonfree);
-
-        open (GEN, "> $opt_l/po4a/gen/rank.inc")
-                || die "Unable to write into $opt_l/po4a/gen/rank.inc";
-        print GEN "<ul>\n";
-	my $str_total = $total{main}+$total{contrib}+$total{'non-free'};
-        foreach my $lang (sort {$score{uc $b} <=> $score{uc $a}} @p4_langs) {
-                print GEN "<li><strong><a href=\"$lang\">$lang</a> ".$score{uc $lang}.
-                        " (".podebconf_stats_ranking($score{uc $lang}, $str_total),
-                        "\%)</strong> &ndash;\n";
-                print GEN "<language-name $lang /></li>\n";
-        }
-        print GEN "</ul>\n";
-        close (GEN);
-        open (GEN, "> $opt_l/po4a/gen/total")
-                || die "Unable to write into $opt_l/po4a/gen/total";
-        print GEN "<define-tag po4a-total-strings>$str_total</define-tag>\n";
-        close (GEN);
-        open (GEN, "> $opt_l/po4a/gen/stats")
-                || die "Unable to write into $opt_l/templates/gen/stats";
-        foreach my $lang (@p4_langs) {
-	            print GEN "$lang:".$score{uc $lang}."\n" if defined ($score{uc $lang});
-	        }
-        close (GEN);
-}
-
-sub get_stats_po {
-        my ($section, $packages) = @_;
-        my ($pkg, $line, $lang, %list);
-
-        my %done  = ();
-        my %todo  = ();
-        my %excl  = ();
-	my %ref   = ();
-        my $none  = '';
-        my $orig  = '';
-
-        $total{$section} = 0;
-        foreach $pkg (sort pkgsort @{$packages}) {
-                if ($data->upstream($pkg) eq 'dbs') {
-                        $none .= "<li>".$pkg." (*)</li>\n";
-                        next;
-                }
-                unless ($data->has_po($pkg)) {
-                        $none .= "<li>".$pkg."</li>\n";
-                        next;
-                }
-                next if defined $skip_po{$pkg};
-                my $list = {};
-                foreach (@po_langs) {
-                        $list{uc $_}  = 0;
-                }
-                my $addorig = '';
-                foreach $line (@{$data->po($pkg)}) {
-                        my ($pofile, $lang, $stat, $link,$translator,$team) = @{$line};
-                        $link =~ s/:/\%3a/g;
-                        $link =~ s/#/\%23/g;
-                        $translator = transform_translator($translator);
-                        $team = transform_team($team);
-                        if ($lang eq '_') {
-                                if ($stat =~ m/(\d+)u/) {
-                                        $total{$section} += $1;
-                                }
-                                $addorig .= " [<a href=\"".
-                                        ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root).
-                                        "po/$opt_d/".$data->pooldir($pkg).
-                                        "/$link.gz\">$pofile</a>]";
-                                next;
-                        }
-                        $lang = uc($lang) || 'UNKNOWN';
-                        $list{$lang} = 1;
-		        my $str= '';
-                        $str .= "<tr style=\"background-color: ".
-                              get_color(percent_stat($stat)).
-                              "\"><td>";
-		        $str .= (percent_stat($stat) eq "100%" ? $pkg : "<a href=\"http://bugs.debian.org/cgi-bin/pkgreport.cgi?which=src&amp;data=$pkg\">$pkg</a>");
-		        $str .= "</td><td>".show_stat($stat)."</td><td><a ";
-			if (! defined $ref{"$lang:$pkg"}){
-				$str .= "name=\"$pkg\" ";
-				$ref{"$lang:$pkg"} = 1;
-			}
-			$str .= " href=\"";
-                        $str .= ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root) . "po/$opt_d/";
-                        $str .= $data->pooldir($pkg)."/$link.gz\">$pofile</a></td>";
-		        $str .= "<td>$translator</td><td>$team</td>".
-                              "</tr>\n";
-                        if ($stat =~ m/(\d+)t/) {
-                                $score{$lang} += $1;
-                        }
-                        if (percent_stat($stat) eq "100%") {
-                                $done{$lang} = ($done{$lang} || '') . $str; # avoid warning when concatening
-                        } else {
-                                $todo{$lang} = ($todo{$lang} || '') . $str;
-                        }
-                }
-                $orig .= "<li><a name=\"$pkg\" href=\"http://bugs.debian.org/cgi-bin/pkgreport.cgi?which=src&amp;data=$pkg\">$pkg</a>$addorig</li>\n"
-                        if $addorig;
-                foreach $lang (@po_langs) {
-                        my $l = uc($lang) || 'UNKNOWN';
-                        next if $list{$l};
-                        $excl{$l}  = '' unless defined($excl{$l});
-                        $excl{$l} .= $pkg.", ";
-                }
-        }
-        foreach $lang (@po_langs) {
-                next unless defined $done{uc $lang};
-                open (GEN, "> $opt_l/po/gen/$section-$lang.ok")
-                        || die "Unable to write into $opt_l/po/gen/$section-$lang.ok";
-                print GEN $done{uc $lang};
-                close (GEN);
-        }
-        foreach $lang (@po_langs) {
-                next unless defined $todo{uc $lang};
-                open (GEN, "> $opt_l/po/gen/$section-$lang.todo")
-                        || die "Unable to write into $opt_l/po/gen/$section-$lang.todo";
-                print GEN $todo{uc $lang};
-                close (GEN);
-        }
-        foreach $lang (@po_langs) {
-                next unless defined $excl{uc $lang};
-                $excl{uc $lang} =~ s/, $//s;
-                open (GEN, "> $opt_l/po/gen/$section-$lang.exc")
-                        || die "Unable to write into $opt_l/po/gen/$section-$lang.exc";
-                print GEN "<p>\n".$excl{uc $lang}."</p>\n";
-                close (GEN);
-        }
-        open (GEN, "> $opt_l/po/gen/$section.exc")
-                || die "Unable to write into $opt_l/po/gen/$section.exc";
-        print GEN "<ul>\n".$none."</ul>\n" if $none ne '';
-        close (GEN);
-        open (GEN, "> $opt_l/po/gen/$section.orig")
-                || die "Unable to write into $opt_l/po/gen/$section.orig";
-        print GEN "<ul>\n".$orig."</ul>\n" if $orig ne '';
-        close (GEN);
-}
-
-sub process_po {
-        -d "$opt_l/po/gen" || File::Path::mkpath("$opt_l/po/gen", 0, 0775);
-
-        foreach (@po_langs) {
-                $score{uc $_} = 0;
-        }
-
-        get_stats_po('main', \@main);
-        get_stats_po('contrib', \@contrib);
-        get_stats_po('non-free', \@nonfree);
+        get_stats($type, 'main', \@main);
+        get_stats($type, 'contrib', \@contrib);
+        get_stats($type, 'non-free', \@nonfree);
 
 	# Rule out languages with no string translated
-	my @po_langs_notempty;
-	foreach (@po_langs) {
+	# Only useful for po: lots of empty files there
+	if ($type eq 'po'){
+	my @langs_notempty;
+	foreach (@langs) {
 		if ($score{uc $_} != 0) {
-			push @po_langs_notempty,$_;
+			push @langs_notempty,$_;
 		}
 		else {
-			unlink("$opt_l/po/gen/main-$_.exc")
+			unlink("$opt_l/$type/gen/main-$_.exc")
 				|| die ("Unable to delete main-$_.exc\n");
-			unlink("$opt_l/po/gen/contrib-$_.exc")
+			unlink("$opt_l/$type/gen/contrib-$_.exc")
 				|| die ("Unable to delete contrib-$_.exc\n");
-			unlink("$opt_l/po/gen/non-free-$_.exc")
+			unlink("$opt_l/$type/gen/non-free-$_.exc")
 				|| die ("Unable to delete non-free-$_.exc\n");
 		}
 	}
-	@po_langs = @po_langs_notempty;
+	# @po_langs must be updated since it's used in write_langs
+	@po_langs = @langs_notempty;
+	@langs = @langs_notempty;
+	}
 
-        open (GEN, "> $opt_l/po/gen/rank.inc")
-                || die "Unable to write into $opt_l/po/gen/rank.inc";
+        open (GEN, "> $opt_l/$type/gen/rank.inc")
+                || die "Unable to write into $opt_l/$type/gen/rank.inc";
         print GEN "<ul>\n";
 	my $str_total = $total{main}+$total{contrib}+$total{'non-free'};
-        foreach my $lang (sort {$score{uc $b} <=> $score{uc $a}} @po_langs) {
+        foreach my $lang (sort {$score{uc $b} <=> $score{uc $a}} @langs) {
                 print GEN "<li><strong><a href=\"$lang\">$lang</a> ".$score{uc $lang}.
                           " (".podebconf_stats_ranking($score{uc $lang}, $str_total),
                           "\%)</strong> &ndash;\n";
@@ -467,248 +329,15 @@ sub process_po {
         }
         print GEN "</ul>\n";
         close (GEN);
-        open (GEN, "> $opt_l/po/gen/total")
-                || die "Unable to write into $opt_l/po/gen/total";
-        print GEN "<define-tag po-total-strings>$str_total</define-tag>\n";
+        open (GEN, "> $opt_l/$type/gen/total")
+                || die "Unable to write into $opt_l/$type/gen/total";
+        print GEN "<define-tag $type-total-strings>$str_total</define-tag>\n";
         close (GEN);
-        open (GEN, "> $opt_l/po/gen/stats")
-                || die "Unable to write into $opt_l/templates/gen/stats";
-        foreach my $lang (@po_langs) {
+        open (GEN, "> $opt_l/$type/gen/stats")
+                || die "Unable to write into $opt_l/$type/gen/stats";
+        foreach my $lang (@langs) {
 	            print GEN "$lang:".$score{uc $lang}."\n" if defined ($score{uc $lang});
 	        }
-        close (GEN);
-}
-
-sub get_stats_templates {
-        my ($section, $packages) = @_;
-        my ($pkg, $line, $lang, $maint, %list);
-
-        my %done  = ();
-        my %todo  = ();
-        my %error  = ();
-        my %excl = ();
-        my $none = '';
-        my $tmpl_errors = {};
-	$total{$section}=0;
-        foreach $pkg (sort pkgsort @{$packages}) {
-                unless ($data->has_templates($pkg)) {
-                        $none .= "<li>".$pkg."</li>\n";
-                        next;
-                }
-                $tmpl_errors->{$pkg} = { podebconf => [], noorig => [], master => [], fuzzy => [], mismatch => [], };
-                if ($data->has_errors($pkg)) {
-                        foreach (@{$data->errors($pkg)}) {
-                                next unless s/debconf: //;
-                                if (m/([^:]+):(\d+): original-fields-removed-in-translated-templates/) {
-                                        push(@{$tmpl_errors->{$pkg}->{noorig}}, "$1:$2");
-                                } elsif (m/([^:]+):(\d+): translated-fields-in-master-templates/) {
-                                        push(@{$tmpl_errors->{$pkg}->{master}}, "$1:$2");
-                                } elsif (m/([^:]+):(\d+): fuzzy-fields-in-templates/) {
-                                        push(@{$tmpl_errors->{$pkg}->{fuzzy}}, "$1:$2");
-                                } elsif (m/([^:]+):(\d+): lang-mismatch-in-translated-templates/) {
-                                        push(@{$tmpl_errors->{$pkg}->{mismatch}}, "$1:$2");
-                                }
-                        }
-                }
-                push(@{$tmpl_errors->{$pkg}->{podebconf}}, "not-using-po-debconf");
-                my $list = {};
-                foreach (@td_langs) {
-                        $list{uc $_} = 0;
-                }
-                my ($template, $lang, $stat, $link_trans, $link_orig) = ();
-                my @untranslated = ();
-                foreach $line (@{$data->templates($pkg)}) {
-                        ($template, $lang, $stat, $link_trans, $link_orig) = @{$line};
-                        $link_orig ||= '';
-                        $link_trans =~ s/:/\%3a/g;
-                        $link_trans =~ s/#/\%23/g;
-                        $link_orig  =~ s/:/\%3a/g;
-                        $link_orig  =~ s/#/\%23/g;
-                        if ($lang eq '_') {
-                                push(@untranslated, $link_trans);
-			        if ($stat =~ m/(\d+)t/) {
-                                        $total{$section} += $1;
-                                }
-                                next;
-                        }
-
-                        $lang = uc($lang) || 'UNKNOWN';
-                        $list{$lang} = 1;
-		        my $str = '';
-                        $str .= "<tr style=\"background-color: ".
-                              get_color(percent_stat($stat)).
-                              "\"><td>";
-		        if (defined $tmpl_errors->{$pkg}) {
-			    $str .= "<a href=\"errors-by-pkg#P$pkg\">!</a>&nbsp;";
-			} else {
-			    $str .= "&nbsp;&nbsp;";
-			}
-		        $str .= (percent_stat($stat) eq "100%" ? $pkg : "<a href=\"http://bugs.debian.org/cgi-bin/pkgreport.cgi?which=src&amp;data=$pkg\">$pkg</a>");
-                        $str .= "</td><td>".show_stat($stat)."</td><td><a href=\"";
-                        $str .= ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root) . "templates/$opt_d/";
-                        $str .= $data->pooldir($pkg)."/$link_trans.gz\">$template</a></td><td>";
-                        if ($link_orig ne '') {
-                                $str .= "<a href=\"";
-                                $str .= ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root) . "templates/$opt_d/";
-                                $str .= $data->pooldir($pkg)."/$link_orig.gz\">templates</a>";
-                        }
-                        $str .= "</td></tr>\n";
-                        if ($stat =~ m/(\d+)t/) {
-                                $score{$lang} += $1;
-                        }
-		    	if (percent_stat($stat) eq "100%") {
-			  if (defined $tmpl_errors->{$pkg}) {
-                           $error{$lang}  = '' unless defined($error{$lang});
-			   $error{$lang} .= $str;
-			  } else {
-                           $done{$lang}  = '' unless defined($done{$lang});
-			   $done{$lang} .= $str;
-			  }
- 			} else {
-                           $todo{$lang}  = '' unless defined($todo{$lang});
-			   $todo{$lang} .= $str;
-			}
-                }
-                #   Ensure $ftemp is defined
-                my $ftemp = shift @untranslated || $link_trans;
-                foreach $lang (@td_langs) {
-                        my $l = uc($lang);
-                        next if $list{$l};
-                        $excl{$l}  = '' unless defined($excl{$l});
-                        $excl{$l} .= "<a href=\"".($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root)."templates/$opt_d/".$data->pooldir($pkg)."/".$ftemp.".gz\">".$pkg."</a>";
-                        my $count = 1;
-                        foreach (@untranslated) {
-                                $count ++;
-                                $excl{$l} .= "[<a href=\"".($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root)."templates/$opt_d/".$data->pooldir($pkg)."/".$_.".gz\">".$count."</a>]";
-                        }
-		        if (defined $tmpl_errors->{$pkg}) {
-			    $excl{$l} .= " (<a href=\"errors-by-pkg#P$pkg\">!</a>)";
-			}
-                        $excl{$l} .= ", ";
-                }
-        }
-        foreach $lang (@td_langs) {
-                next unless defined $done{uc $lang};
-                open (GEN, "> $opt_l/templates/gen/$section-$lang.ok")
-                        || die "Unable to write into $opt_l/templates/gen/$section-$lang.ok";
-                print GEN $done{uc $lang};
-                close (GEN);
-        }
-        foreach $lang (@td_langs) {
-                next unless defined $error{uc $lang};
-                open (GEN, ">> $opt_l/templates/gen/$section-$lang.ok")
-                        || die "Unable to write into $opt_l/templates/gen/$section-$lang.ok";
-                print GEN "<tr><td colspan=3>PO files with errors</td></tr>\n";
-                print GEN $error{uc $lang};
-                close (GEN);
-        }
-        foreach $lang (@td_langs) {
-                next unless defined $todo{uc $lang};
-                open (GEN, "> $opt_l/templates/gen/$section-$lang.todo")
-                        || die "Unable to write into $opt_l/templates/gen/$section-$lang.todo";
-                print GEN $todo{uc $lang};
-                close (GEN);
-        }
-        foreach $lang (@td_langs) {
-                next unless defined $excl{uc $lang};
-                $excl{uc $lang} =~ s/, $//s;
-                open (GEN, "> $opt_l/templates/gen/$section-$lang.exc")
-                        || die "Unable to write into $opt_l/templates/gen/$section-$lang.exc";
-                print GEN "<p>\n".$excl{uc $lang}."</p>\n";
-                close (GEN);
-        }
-        open (GEN, "> $opt_l/templates/gen/$section.exc")
-                || die "Unable to write into $opt_l/templates/gen/$section.exc";
-        print GEN "<ul>\n".$none."</ul>\n" if $none ne '';
-        close (GEN);
-        open (GEN, "> $opt_l/templates/gen/errors-by-pkg.$section.inc");
-        foreach $pkg (sort keys %$tmpl_errors) {
-                $maint = $data->maintainer($pkg);
-                $maint =~ s/\s*<.*>//;
-                $maint =~ s/&/&amp;/g;
-	        my $anchor_maint = lc $maint;
-                $anchor_maint =~ s/[^a-z0-9]/_/g;
-
-                print GEN "<li><a name=\"P$pkg\">$pkg</a> ".$data->version($pkg)." [<a href=\"errors-by-maint#M$anchor_maint\">$maint</a>]\n";
-                my $errors_pkg = "<ul>\n";
-                if (@{$tmpl_errors->{$pkg}->{podebconf}}) {
-                        $errors_pkg .= "<li><a href=\"errors#podebconf\">not-using-po-debconf</a></li>\n";
-                }
-                if (@{$tmpl_errors->{$pkg}->{master}}) {
-                        $errors_pkg .= "<li><a href=\"errors#master\">translated-fields-in-master-templates</a><br>\n".${$tmpl_errors->{$pkg}->{master}}[0]."</li>\n";
-                }
-                if (@{$tmpl_errors->{$pkg}->{noorig}}) {
-                        $errors_pkg .= "<li><a href=\"errors#noorig\">original-fields-removed-in-translated-templates</a><br>\n";
-                        foreach (@{$tmpl_errors->{$pkg}->{noorig}}) {
-                                $errors_pkg .= "$_<br>\n";
-                        }
-                        $errors_pkg .= "</li>\n";
-                }
-                if (@{$tmpl_errors->{$pkg}->{fuzzy}}) {
-                        $errors_pkg .= "<li><a href=\"errors#fuzzy\">fuzzy-fields-in-templates</a><br>\n";
-                        foreach (@{$tmpl_errors->{$pkg}->{fuzzy}}) {
-                                $errors_pkg .= "$_<br>\n";
-                        }
-                        $errors_pkg .= "</li>\n";
-                }
-                if (@{$tmpl_errors->{$pkg}->{mismatch}}) {
-                        $errors_pkg .= "<li><a href=\"errors#mismatch\">lang-mismatch-in-translated-templates</a><br>\n";
-                        foreach (@{$tmpl_errors->{$pkg}->{mismatch}}) {
-                                $errors_pkg .= "$_<br>\n";
-                        }
-                        $errors_pkg .= "</li>\n";
-                }
-                $errors_pkg .= "</ul>\n";
-                print GEN $errors_pkg;
-                $tmpl_errors_maint->{$maint} = {} unless defined($tmpl_errors_maint->{$maint});
-                $tmpl_errors_maint->{$maint}->{$pkg} = "$pkg ".$data->version($pkg)."\n".$errors_pkg;
-        }
-        close (GEN);
-}
-
-sub process_templates {
-        -d "$opt_l/templates/gen" || File::Path::mkpath("$opt_l/templates/gen", 0, 0775);
-
-        foreach (@td_langs) {
-                $score{uc $_} = 0;
-        }
-
-        get_stats_templates('main', \@main);
-        get_stats_templates('contrib', \@contrib);
-        get_stats_templates('non-free', \@nonfree);
-
-        open (GEN, "> $opt_l/templates/gen/rank.inc")
-                || die "Unable to write into $opt_l/templates/gen/rank.inc";
-        print GEN "<dl>\n";
-        foreach my $lang (sort {$score{uc $b} <=> $score{uc $a}} @td_langs) {
-                print GEN "<dt><a href=\"$lang\">$lang</a> ".$score{uc $lang}."</dt>\n";
-                print GEN "<dd><language-name $lang /></dd>\n";
-        }
-        print GEN "</dl>\n";
-        close (GEN);
-        open (GEN, "> $opt_l/templates/gen/errors-by-maint.inc");
-        foreach my $maint (sort keys %$tmpl_errors_maint) {
-                my $anchor_maint = lc $maint;
-                $anchor_maint =~ s/[^a-z0-9]/_/g;
-                $anchor_maint =~ s/&/&amp;/g;
-                print GEN "<li><a name=\"M$anchor_maint\">$maint</a>\n<ul>";
-                foreach my $pkg (sort keys %{$tmpl_errors_maint->{$maint}}) {
-                        print GEN "<li>".$tmpl_errors_maint->{$maint}->{$pkg}."</li>\n";
-                }
-                print GEN "</ul></li>\n";
-        }
-        close (GEN);
-        open (GEN, "> $opt_l/templates/gen/total")
-                || die "Unable to write into $opt_l/templates/gen/total";
-        print GEN "<define-tag templates-total-strings>".
-                ($total{main}+$total{contrib}+$total{'non-free'}).
-                "</define-tag>\n";
-        close (GEN);
-        open (GEN, "> $opt_l/templates/gen/stats")
-                || die "Unable to write into $opt_l/templates/gen/stats";
-        foreach my $lang (@td_langs) {
-	    print GEN "$lang:".$score{uc $lang}."\n";
-	}
         close (GEN);
 }
 
@@ -804,8 +433,7 @@ sub get_stats_podebconf {
                         $pofile =~ s#^debian/(po/)?##;
                         $link =~ s/:/\%3a/g;
                         $link =~ s/#/\%23/g;
-                        $addorig .= " [<a href=\"".
-                                ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root).
+                        $addorig .= " [<a href=\"".$root.
                                 ($pofile eq 'templates.pot' ? 'po' : 'templates').
                                 "/$opt_d/".$data->pooldir($pkg).
                                 "/$link.gz\">$pofile</a>]";
@@ -852,7 +480,7 @@ sub get_stats_podebconf {
                                 $ref{"$lang:$pkg"} = 1;
                         }
                         $str .= "href=\"";
-                        $str .= ($data->section($pkg) =~ m/non-US/ ? $rootnonus : $root) . "po/$opt_d/";
+                        $str .= $root . "po/$opt_d/";
                         $str .= $data->pooldir($pkg)."/$link.gz\">$pofile</a></td>";
 		        $str .= "<td>$translator</td>";
 		    	if (percent_stat($stat) eq "100%") {
@@ -1092,7 +720,6 @@ sub process_langs {
         my $langs = {
                 po              => {},
                 po4a            => {},
-                templates       => {},
                 podebconf       => {},
                 all             => {},
         };
@@ -1115,14 +742,6 @@ sub process_langs {
                                 $langs->{all}->{$lang} = 1;
                         }
                 }
-                if ($data->has_templates($pkg)) {
-                        foreach $line (@{$data->templates($pkg)}) {
-                                ($file, $lang) = @{$line};
-                                next unless $lang ne '' && $lang ne '_';
-                                $langs->{templates}->{$lang} = 1;
-                                $langs->{all}->{$lang} = 1;
-                        }
-                }
                 if ($data->has_podebconf($pkg)) {
                         foreach $line (@{$data->podebconf($pkg)}) {
                                 ($file, $lang) = @{$line};
@@ -1134,19 +753,17 @@ sub process_langs {
         }
         @p4_langs = keys %{$langs->{po4a}};
         @po_langs = keys %{$langs->{po}};
-        @td_langs = keys %{$langs->{templates}};
         @pd_langs = keys %{$langs->{podebconf}};
 	@al_langs = keys %{$langs->{all}};
 }
 
 sub write_langs {
-        open (GEN, "> $opt_l/data/langs")
-                || die "Unable to write into $opt_l/data/langs";
+        open (GEN, "> $langfile")
+                || die "Unable to write into $langfile";
 	print GEN 'all: '	. join(' ', sort @al_langs) . "\n";
 	print GEN 'po: '	. join(' ', sort @po_langs) . "\n";
 	print GEN 'po4a: '	. join(' ', sort @p4_langs) . "\n";
 	print GEN 'podebconf: '	. join(' ', sort @pd_langs) . "\n";
-	print GEN 'templates: '	. join(' ', sort @td_langs) . "\n";
         close (GEN);
 }
 
@@ -1198,9 +815,8 @@ EOT
 close (GEN);
 
 process_langs();
-process_po4a()      if $opt_M;
-process_po()        if $opt_P;
-process_templates() if $opt_T;
+process('po4a')     if $opt_M;
+process('po')       if $opt_P;
 process_podebconf() if $opt_D;
 write_langs()       if $opt_L;
 1;
