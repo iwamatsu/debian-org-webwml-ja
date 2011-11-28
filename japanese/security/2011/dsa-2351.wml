@@ -29,4 +29,4 @@ Huzaifa Sidhpurwala さんにより、Wireshark の ERF ディスセクタにバ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2351.data"
-# $Id: dsa-2351.wml,v 1.2 2011-11-21 20:27:36 taffit Exp $
+# $Id: dsa-2351.wml,v 1.1 2011-11-28 14:04:18 kmuto Exp $

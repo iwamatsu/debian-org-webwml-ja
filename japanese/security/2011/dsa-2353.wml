@@ -30,4 +30,4 @@ David Wheeler さんにより、ldns の RR レコードパーザにバッファ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2353.data"
-# $Id: dsa-2353.wml,v 1.1 2011-11-24 22:11:29 taffit Exp $
+# $Id: dsa-2353.wml,v 1.1 2011-11-28 14:07:42 kmuto Exp $
