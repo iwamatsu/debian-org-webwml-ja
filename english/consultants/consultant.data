@@ -204,6 +204,15 @@
 <rates	 Please contact for rates>
 </p>
 
+# Consultant: Argentina
+<p>
+<name	 Diego Gomez>
+<address Buenos Aires, <ARc>>
+<phone   +54 11 47915634>
+<email	 diego@dgomez.com.ar>
+<rates	 Please contact for rates.>
+</p>
+
 
 <h1><a name="Australia"><AUc>:</a></h1>
 
@@ -410,6 +419,19 @@
 <email	 info@toba.com.au>
 <URL	 "http://toba.com.au/content/recoverablemedia/hdd/">
 <rates	 Available on website or contact for rates>
+</p>
+
+# Consultant: Australia
+# email checked on 2011-12-02
+<p>
+<name	 Joe Matthew, Reza &amp; Eugen.>
+<company Powerful CMS>
+<address 102/278 Church Street, Richmond, VIC 3121, <AUc>>
+<phone	 +61 2 9220 1784>
+<email	 debian@powerfulcms.com>
+<URL	 "http://www.powerfulcms.com.au/unix-amazon-consulting-services">
+<rates	 from $45/hr>
+<additional_info powerfulcms>
 </p>
 
 
@@ -2977,7 +2999,7 @@
 <p>
 <name    Andreas Godzina>
 <company axxeo GmbH>
-<address Tiestestr. 16, D-30171 Hannover, <DEc>>
+<address Gustav-Adolf-Straße 8, D-30167 Hannover, <DEc>>
 <phone   +49-511-4753706>
 <fax     +49-511-4753716>
 <email   debian@axxeo.de>
