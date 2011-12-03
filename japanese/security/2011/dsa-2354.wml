@@ -28,4 +28,4 @@ Petr Sklenar さんと Tomas Hoger さんにより、Cups プリンティング�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2354.data"
-# $Id: dsa-2354.wml,v 1.2 2011-11-30 21:39:50 taffit Exp $
+# $Id: dsa-2354.wml,v 1.1 2011-12-03 09:31:44 kmuto Exp $
