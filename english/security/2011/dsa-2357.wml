@@ -38,14 +38,14 @@ and <a href="http://security-tracker.debian.org/tracker/CVE-2010-2643">CVE-2010-
 2.30.3-2+squeeze1.</p>
 
 <p>For the testing distribution (wheezy), this problem has been fixed in
-version 3.0.2.</p>
+version 3.0.2-1.</p>
 
 <p>For the unstable distribution (sid), this problem has been fixed in
-version 3.0.2.</p>
+version 3.0.2-1.</p>
 
 <p>We recommend that you upgrade your evince packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2357.data"
-# $Id: dsa-2357.wml,v 1.2 2011-12-04 13:57:51 taffit Exp $
+# $Id: dsa-2357.wml,v 1.3 2011-12-04 18:46:47 taffit Exp $
