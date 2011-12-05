@@ -107,4 +107,4 @@ setSSLSocketFactory() メソッドで適切なセキュリティマネージャ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2356.data"
-# $Id: dsa-2356.wml,v 1.1 2011-12-01 21:42:51 taffit Exp $
+# $Id: dsa-2356.wml,v 1.1 2011-12-05 14:49:22 kmuto Exp $
