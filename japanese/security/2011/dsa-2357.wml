@@ -76,4 +76,4 @@ AFM フォントパーザで、ヒープに取ったメモリバッファへの�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2357.data"
-# $Id: dsa-2357.wml,v 1.3 2011-12-04 18:46:47 taffit Exp $
+# $Id: dsa-2357.wml,v 1.1 2011-12-06 07:48:59 kmuto Exp $
