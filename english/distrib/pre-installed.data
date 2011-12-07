@@ -632,18 +632,18 @@ Rzesz&oacute;w<br />
 Poland" />
 </country>
 
-<country code="ro" name="<ROc>">
-
-<vendor name="SC NECSYS SRL"
-  URL="http://www.necsys.ro"
-  email="office@necsys.ro"
-  phone="+40 742 639 109"
-  ship="no"
-  smail="SC NECSYS SRL<br />
-  Str. poligonului BI. B11 Ap.15<br />
-  Alba Iulia<br />
-  Romania" />
-</country>
+#<country code="ro" name="<ROc>">
+#
+#<vendor name="SC NECSYS SRL"
+#  URL="http://www.necsys.ro"
+#  email="office@necsys.ro"
+#  phone="+40 742 639 109"
+#  ship="no"
+#  smail="SC NECSYS SRL<br />
+#  Str. poligonului BI. B11 Ap.15<br />
+#  Alba Iulia<br />
+#  Romania" />
+#</country>
 
 <country code="sk" name="<SKc>">
 
@@ -799,6 +799,12 @@ United States" />
 47071 Bayside Parkway<br />
 Fremont, CA 94538<br />
 United States" />
+
+<vendor name="CT Quantum CCSvc"
+  URL="http://www.ctquantum.com"
+  email="support@ctquantum.com"
+  phone="+1 (401) 244-5855"
+  ship="yes" />
 
 <vendor name="EmperorLinux"
   URL="http://www.EmperorLinux.com/"
