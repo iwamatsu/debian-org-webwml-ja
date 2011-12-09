@@ -26,4 +26,4 @@ EL 式として評価してしまいます。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2359.data"
-# $Id: dsa-2359.wml,v 1.1 2011-12-06 21:04:21 taffit Exp $
+# $Id: dsa-2359.wml,v 1.1 2011-12-09 12:48:35 kmuto Exp $
