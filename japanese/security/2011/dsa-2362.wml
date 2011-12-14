@@ -60,4 +60,4 @@ Helmut Grohne さんと Michael Biebl さんにより、acpid がスクリプト
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2362.data"
-# $Id: dsa-2362.wml,v 1.1 2011-12-10 15:50:52 taffit Exp $
+# $Id: dsa-2362.wml,v 1.1 2011-12-14 02:52:35 kmuto Exp $
