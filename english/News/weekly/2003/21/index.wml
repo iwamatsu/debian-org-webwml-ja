@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-27" SUMMARY="Donations, I18n, GCC, Kernel, DebConf, Multimedia, Wiki, CDs, Robots, Patents, Tags, Keysigning, BTS"
-# $Id: index.wml,v 1.16 2011-05-26 10:04:47 rhonda Exp $
+# $Id: index.wml,v 1.17 2011-12-14 19:50:29 taffit Exp $
 
 <p>Welcome to this year's 21st issue of DWN, the weekly newsletter for the
 Debian community.  The GNOME project <a
@@ -37,7 +37,7 @@ href="http://www.osnews.com/story.php?news_id=3589">reported</a> that Debian
 GNU/Linux comes preinstalled on <a href="http://www.pegasosppc.com/">\
 Pegasos</a> machines which are based on the IBM/Motorola PowerPC G3 and G4
 CPUs.  Through the use of Mac-On-Linux the Debian systems allows you to run
-MacOS or OSX without requiring Apple hardware or a BIOS.</p>
+Mac OS or OS X without requiring Apple hardware or a BIOS.</p>
 
 <p><strong>Interview with Andrew Tridgell.</strong> Alexander Antoniades was
 lucky and <a href="http://www.newsforge.com/article.pl?sid=03/05/02/1316220">\

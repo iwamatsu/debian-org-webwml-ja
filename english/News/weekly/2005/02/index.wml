@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-01-11" SUMMARY="KDE, Archive, Java, Firmware, Packaging, Documentation, Security"
-# $Id: index.wml,v 1.4 2005-10-08 23:25:55 jfs Exp $
+# $Id: index.wml,v 1.5 2011-12-14 19:50:54 taffit Exp $
 
 <p>Welcome to this year's 2nd issue of DWN, the weekly newsletter for the
 Debian community.  <a
@@ -137,7 +137,7 @@ important updates.</p>
 <li><a href="http://packages.debian.org/unstable/text/itagalog">itagalog</a>
     -- Tagalog dictionary for Ispell.
 <li><a href="http://packages.debian.org/unstable/x11/kxdocker">kxdocker</a>
-    -- Innovative docker for KDE that is like Mac OSX Docker.
+    -- Innovative docker for KDE that is like Mac OS X Docker.
 <li><a href="http://packages.debian.org/unstable/sound/mpegdemux">mpegdemux</a>
     -- MPEG1/2 system stream demultiplexer.
 <li><a href="http://packages.debian.org/unstable/utils/mypasswordsafe">mypasswordsafe</a>
