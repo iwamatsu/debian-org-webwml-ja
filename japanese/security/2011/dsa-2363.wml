@@ -49,4 +49,4 @@ Tor が localhost 以外の SocksPort をリスンする設定、または Tor �
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2363.data"
-# $Id: dsa-2363.wml,v 1.1 2011-12-16 19:07:25 taffit Exp $
+# $Id: dsa-2363.wml,v 1.1 2011-12-17 11:05:46 kmuto Exp $
