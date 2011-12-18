@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-12-14" SUMMARY="sun-java6 removed, bits from the DPL, India mini-DebConf report, new mirror in El Salvador, bug squashing party marathon"
 
-# $Id: index.wml,v 1.1 2011-12-14 09:15:47 tolimar Exp $
+# $Id: index.wml,v 1.2 2011-12-18 13:44:23 madamezou Exp $
 # $Rev: 2837 $
 # Status: [content-frozen]
 
@@ -202,7 +202,7 @@ about organising a BSP</a>, should you consider organising your own.</p>
 
 <p>Debian would like to thank <a
 href="http://pengutronix.com/index_en.html">Pengutronix</a> (in Hildesheim) and
-<a href="http://puppetlabs.com/">PuppetsLabs</a> (in Portland) for their support
+<a href="http://puppetlabs.com/">Puppet Labs</a> (in Portland) for their support
 in organising these two events.</p>
 
 
