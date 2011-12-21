@@ -30,4 +30,4 @@ Debian の X ラッパは、X サーバがコンソールからのみ開始で�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2364.data"
-# $Id: dsa-2364.wml,v 1.1 2011-12-18 20:19:07 taffit Exp $
+# $Id: dsa-2364.wml,v 1.1 2011-12-21 04:16:15 kmuto Exp $

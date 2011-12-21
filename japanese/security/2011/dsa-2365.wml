@@ -96,4 +96,4 @@ draw_user_admin.php に欠陥があり、悪意を持ったユーザが細工し
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2365.data"
-# $Id: dsa-2365.wml,v 1.1 2011-12-18 21:21:17 taffit Exp $
+# $Id: dsa-2365.wml,v 1.1 2011-12-21 04:16:37 kmuto Exp $
