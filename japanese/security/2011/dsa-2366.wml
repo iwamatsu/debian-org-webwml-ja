@@ -87,4 +87,4 @@ Tim Starling さんにより、action=ajax リクエストにより、読み出�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2366.data"
-# $Id: dsa-2366.wml,v 1.1 2011-12-19 18:31:02 taffit Exp $
+# $Id: dsa-2366.wml,v 1.1 2011-12-26 01:51:40 kmuto Exp $

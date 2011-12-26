@@ -33,4 +33,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2371.data"
-# $Id: dsa-2371.wml,v 1.1 2011-12-24 17:26:30 taffit Exp $
+# $Id: dsa-2371.wml,v 1.1 2011-12-26 01:55:30 kmuto Exp $

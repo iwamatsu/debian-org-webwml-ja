@@ -49,4 +49,4 @@ Unbound は、想定する NSEC3 レコードを欠く不正な形式のレス�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2370.data"
-# $Id: dsa-2370.wml,v 1.1 2011-12-22 19:27:46 taffit Exp $
+# $Id: dsa-2370.wml,v 1.1 2011-12-26 01:54:21 kmuto Exp $
