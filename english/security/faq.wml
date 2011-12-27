@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian security FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-# $Id: faq.wml,v 1.76 2011-04-05 13:58:33 taffit-guest Exp $
+# $Id: faq.wml,v 1.77 2011-12-27 18:39:52 thijs Exp $
 
 <p>We receive the following questions a bit too often these days, so
 their answers are summarized here.</p>
@@ -189,7 +189,7 @@ updates available as quickly and easily as possible.</p>
 
 <p>If desired, email can be encrypted with the Debian Security
    Contact key (key ID <a
-   href="http://pgpkeys.pca.dfn.de/pks/lookup?search=0x68B64E0D&amp;op=vindex">\
+   href="http://pgp.surfnet.nl/pks/lookup?search=0x68B64E0D&amp;op=vindex">\
    0x68B64E0D</a>). For the PGP/GPG keys of individual team members, please
    refer to the <a href="http://keyring.debian.org/">keyring.debian.org</a>
    keyserver.</p>
