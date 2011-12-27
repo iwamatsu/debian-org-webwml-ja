@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-11-28" SUMMARY="GNOME, DebConf, Installer, Etch, FAQ, Sparc, Key"
-# $Id: index.wml,v 1.7 2011-05-26 10:05:21 rhonda Exp $
+# $Id: index.wml,v 1.8 2011-12-27 21:24:00 taffit Exp $
 
 <p>Welcome to this year's 41st issue of DWN, the newsletter for the
 Debian community.  Due to unfortunate <a href="http://www.dunc-tank.org/">\
@@ -90,7 +90,7 @@ would like to take the opportunity to thank Sun for the donation.</p>
 
 <p><strong>New Debian Archive Signing Key.</strong> For the upcoming release
 of <a href="$(HOME)/releases/etch/">etch</a> a new GnuPG <a
-href="http://pgpkeys.pca.dfn.de/pks/lookup?search=0x6070D3A1&amp;op=vindex">\
+href="http://pgp.surfnet.nl/pks/lookup?search=0x6070D3A1&amp;op=vindex">\
 key</a> has been created.  This is the first Debian release supporting <a
 href="http://wiki.debian.org/SecureApt">Secure APT</a> so that users will be able
 to verify the authenticity of Debian packages prior to installing them
