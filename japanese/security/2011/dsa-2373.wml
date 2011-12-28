@@ -31,4 +31,4 @@ telnetd の Kerberos サポートに、認証前のバッファオーバフロ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2373.data"
-# $Id: dsa-2373.wml,v 1.1 2011-12-25 17:36:58 taffit Exp $
+# $Id: dsa-2373.wml,v 1.1 2011-12-28 14:40:16 kmuto Exp $
