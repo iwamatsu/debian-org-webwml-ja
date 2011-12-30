@@ -9,8 +9,8 @@ web browser.</p>
 <p>A remote attacker could read or modify the contents in the system
 under certain circumstances.</p>
 
-<p>For the oldstable distribution (lenny), no update is available at this
-time.</p>
+<p>For the oldstable distribution (lenny), these problems have been fixed in
+version 4.2.3-1+lenny3.</p>
 
 <p>For the stable distribution (squeeze), these problems have been fixed in
 version 4.3.5+dfsg-2+squeeze2.</p>
@@ -24,4 +24,4 @@ distribution (sid), these problems have been fixed in version
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2263.data"
-# $Id: dsa-2263.wml,v 1.1 2011-06-17 04:04:58 taffit Exp $
+# $Id: dsa-2263.wml,v 1.2 2011-12-30 14:05:26 taffit Exp $
