@@ -79,7 +79,7 @@ implementation of the Java platform:</p>
 </ul>
 
 <p>For the stable distribution (squeeze), this problem has been fixed in
-version 6b18-1.8.10-0+squeeze1.</p>
+version 6b18-1.8.10-0+squeeze2.</p>
 
 <p>For the testing distribution (wheezy) and the unstable distribution
 (sid), this problem has been fixed in version 6b23~pre11-1.</p>
@@ -89,4 +89,4 @@ version 6b18-1.8.10-0+squeeze1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2356.data"
-# $Id: dsa-2356.wml,v 1.1 2011-12-01 21:42:51 taffit Exp $
+# $Id: dsa-2356.wml,v 1.2 2011-12-31 12:17:52 thijs Exp $
