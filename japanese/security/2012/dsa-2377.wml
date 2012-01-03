@@ -35,4 +35,4 @@ cyrus-imapd-2.4 のバージョン 2.4.11-1 で修正されています。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2377.data"
-# $Id: dsa-2377.wml,v 1.1 2012-01-02 00:48:44 taffit Exp $
+# $Id: dsa-2377.wml,v 1.1 2012-01-03 09:27:49 kmuto Exp $
