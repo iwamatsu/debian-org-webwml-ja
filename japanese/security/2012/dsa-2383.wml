@@ -35,4 +35,4 @@ Debian アーカイブ管理スクリプトの技術的制約により、旧安�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2383.data"
-# $Id: dsa-2383.wml,v 1.1 2012-01-08 22:29:41 taffit Exp $
+# $Id: dsa-2383.wml,v 1.1 2012-01-11 00:02:29 kmuto Exp $

@@ -30,4 +30,4 @@ Squid の IPv6 コードに、特定の DNS 応答を正しく扱っておらず
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2381.data"
-# $Id: dsa-2381.wml,v 1.1 2012-01-06 18:38:05 taffit Exp $
+# $Id: dsa-2381.wml,v 1.1 2012-01-11 00:01:36 kmuto Exp $

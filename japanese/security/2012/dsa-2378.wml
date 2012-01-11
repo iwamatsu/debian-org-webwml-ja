@@ -26,4 +26,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2378.data"
-# $Id: dsa-2378.wml,v 1.1 2012-01-03 21:40:48 taffit Exp $
+# $Id: dsa-2378.wml,v 1.1 2012-01-11 00:00:23 kmuto Exp $

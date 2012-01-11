@@ -44,4 +44,4 @@ LDAP バックエンド または Berkeley DB を用いた構成では、リモ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2379.data"
-# $Id: dsa-2379.wml,v 1.1 2012-01-04 19:13:07 taffit Exp $
+# $Id: dsa-2379.wml,v 1.1 2012-01-11 00:00:46 kmuto Exp $

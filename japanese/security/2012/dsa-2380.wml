@@ -39,4 +39,4 @@ lenny ではこの欠陥の部位は Perl で実装されており、
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2380.data"
-# $Id: dsa-2380.wml,v 1.1 2012-01-04 21:01:39 taffit Exp $
+# $Id: dsa-2380.wml,v 1.1 2012-01-11 00:01:14 kmuto Exp $
