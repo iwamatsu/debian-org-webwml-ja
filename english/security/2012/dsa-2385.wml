@@ -1,6 +1,6 @@
 <define-tag description>packet loop</define-tag>
 <define-tag moreinfo>
-<p>Ray Morris discovered that the PowerDNS authoritative sever responds
+<p>Ray Morris discovered that the PowerDNS authoritative server responds
 to response packets.  An attacker who can spoof the source address of
 IP packets can cause an endless packet loop between a PowerDNS
 authoritative server and another DNS server, leading to a denial of
@@ -20,4 +20,4 @@ version 2.9.22-8+squeeze1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2385.data"
-# $Id: dsa-2385.wml,v 1.1 2012-01-10 19:36:01 taffit Exp $
+# $Id: dsa-2385.wml,v 1.2 2012-01-11 06:53:06 kaare Exp $
