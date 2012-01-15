@@ -46,14 +46,14 @@ version 5.1.2-3+lenny1.</p>
 version 5.1.2-3+squeeze1.</p>
 
 <p>For the testing distribution (wheezy), this problem has been fixed in
-version 5.1.2-3.3.</p>
+version 5.1.2-3.4.</p>
 
 <p>For the unstable distribution (sid), this problem has been fixed in
-version 5.1.2-3.3.</p>
+version 5.1.2-3.4.</p>
 
 <p>We recommend that you upgrade your t1lib packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2388.data"
-# $Id: dsa-2388.wml,v 1.1 2012-01-15 12:46:06 taffit Exp $
+# $Id: dsa-2388.wml,v 1.2 2012-01-15 15:17:07 fw Exp $
