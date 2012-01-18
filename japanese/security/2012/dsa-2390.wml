@@ -72,4 +72,4 @@ OpenSSL の Server Gated Cryptography (SGC) 実装は適切にハンド
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2390.data"
-# $Id: dsa-2390.wml,v 1.1 2012-01-15 21:41:40 taffit Exp $
+# $Id: dsa-2390.wml,v 1.1 2012-01-18 11:17:47 kmuto Exp $

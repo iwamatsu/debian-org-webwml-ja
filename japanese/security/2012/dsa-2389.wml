@@ -129,4 +129,4 @@ Ben Hutchings さんにより、カーネル内の ROSE プロトコルサポー
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2389.data"
-# $Id: dsa-2389.wml,v 1.2 2012-01-16 08:07:42 kaare Exp $
+# $Id: dsa-2389.wml,v 1.1 2012-01-18 11:18:22 kmuto Exp $
