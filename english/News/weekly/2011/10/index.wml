@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Upcoming Debian update: 6.0.2, New IRC Training Sessions, Planet Debian Derivatives, Graphical installer for Debian GNU/kFreeBSD"
 
-# $Id: index.wml,v 1.4 2011-06-25 15:09:58 taffit Exp $
+# $Id: index.wml,v 1.5 2012-01-18 22:52:48 scottmir-guest Exp $
 # $Rev: 2331 $
 # Status: [frozen]
 
@@ -202,7 +202,7 @@ Blywis, and Wences Arana into our project!</p>
 <a href="$(HOME)/security/2011/dsa-2262">moodle</a>,
 <a href="$(HOME)/security/2011/dsa-2263">movabletype-opensource</a>,
 <a href="$(HOME)/security/2011/dsa-2264">linux-2.6</a>,
-<a href="$(HOME)/security/2011/dsa-2265">perl</a>,
+<a href="$(HOME)/security/2011/dsa-2265">perl</a>.
 	Please read them carefully and take the proper measures.</p>
 
 <p>Please note that these are a selection of the more important security
