@@ -36,10 +36,10 @@ identifies the following problems:</p>
 </ul>
 
 <p>For the oldstable distribution (lenny), this problem has been fixed in
-version 2.1.0-7+lenny1.</p>
+version 2.1.0-7+lenny2.</p>
 
 <p>For the stable distribution (squeeze), this problem has been fixed in
-version 2.3.5-1.2+squeeze1.</p>
+version 2.3.5-1.2+squeeze2.</p>
 
 <p>For the unstable distribution (sid), this problem has been fixed in
 version 2.3.14.</p>
@@ -49,4 +49,4 @@ version 2.3.14.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2301.data"
-# $Id: dsa-2301.wml,v 1.1 2011-09-05 22:21:27 taffit Exp $
+# $Id: dsa-2301.wml,v 1.2 2012-01-23 18:58:38 taffit Exp $
