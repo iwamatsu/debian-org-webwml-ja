@@ -38,4 +38,4 @@ href="http://security-tracker.debian.org/tracker/CVE-2011-3483">CVE-2011-3483</a
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2395.data"
-# $Id: dsa-2395.wml,v 1.1 2012-01-27 19:49:52 taffit Exp $
+# $Id: dsa-2395.wml,v 1.1 2012-01-31 14:25:40 kmuto Exp $

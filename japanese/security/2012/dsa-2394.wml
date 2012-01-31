@@ -77,4 +77,4 @@ Yang Dingning さんにより、XPath 処理に絡んだメモリの二重解放
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2394.data"
-# $Id: dsa-2394.wml,v 1.2 2012-01-27 01:36:33 taffit Exp $
+# $Id: dsa-2394.wml,v 1.1 2012-01-31 14:25:10 kmuto Exp $

@@ -32,4 +32,4 @@ Nicolae Mogoraenu さんにより、x86 ハードウェアの完全仮想化ソ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2396.data"
-# $Id: dsa-2396.wml,v 1.1 2012-01-27 19:57:43 taffit Exp $
+# $Id: dsa-2396.wml,v 1.1 2012-01-31 14:26:11 kmuto Exp $

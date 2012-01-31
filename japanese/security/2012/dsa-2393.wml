@@ -30,4 +30,4 @@ Julien Tinnes さんにより、マルチユーザ irc プロキシ bip にリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2393.data"
-# $Id: dsa-2393.wml,v 1.1 2012-01-25 16:26:17 taffit Exp $
+# $Id: dsa-2393.wml,v 1.1 2012-01-31 14:24:42 kmuto Exp $
