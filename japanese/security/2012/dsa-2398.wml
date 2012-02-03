@@ -51,4 +51,4 @@ Dan Fandrich さんにより、Curl が URL のファイルパスを抽出する
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2398.data"
-# $Id: dsa-2398.wml,v 1.1 2012-01-30 20:33:35 taffit Exp $
+# $Id: dsa-2398.wml,v 1.1 2012-02-03 00:54:50 kmuto Exp $

@@ -81,4 +81,4 @@ exif_process_IFD_TAG function 内で整数オーバフローを発生させる�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2399.data"
-# $Id: dsa-2399.wml,v 1.2 2012-01-31 15:50:13 taffit Exp $
+# $Id: dsa-2399.wml,v 1.1 2012-02-03 00:55:46 kmuto Exp $
