@@ -77,15 +77,15 @@ Glen Waverley, Vic, 3150<br />
   av. de la Verrerie 136<br />
   1190 Brussels" />
 
-#<vendor name="Linux-service.be"
-#  country="be"
-#  URL="http://www.linux-service.be/"
-#  email="info@linux-service.be"
-#  phone="+32 9 3908078"
-#  ship="yes"
-#  smail="Linux-service.be<br/>
-#Grenadierslaan 65<br/>
-#B-9890 Gavere" />
+<vendor name="Linux-service.be"
+  country="be"
+  URL="http://www.debianshop.be"
+  email="info@linux-service.be"
+  phone="+32 9 3908078"
+  fax="+32 93846765"
+  smail="Linux-service.be<br/>
+Grenadierslaan 65<br/>
+B-9890 Gavere" />
 </country>
 
 <country code="br" name="<country-name BR>">
@@ -798,6 +798,16 @@ Ausi&agrave;s Marc, 56<br/>
  50710 Maella<br />
  Zaragoza, <country-name ES>" />
 
+<vendor name="InsMas"
+  country="es"
+  URL="http://www.insmas.com"
+  email="insmas@insmas.com"
+  phone="937 727 031"
+  ship="no"
+  smail="InsMas<br />
+  C/Major, 113, 2o<br />
+  08783 Masquefa<br />
+  Barcelona, <country-name ES>" />
 </country>
 
 <country code="ch" name="<country-name CH>">
