@@ -1,6 +1,6 @@
 <define-tag description>buffer underflow</define-tag>
 <define-tag moreinfo>
-<p>Nicolae Mogoraenu discovered a heap overflow in the emulated e1000e
+<p>Nicolae Mogoreanu discovered a heap overflow in the emulated e1000e
 network interface card of KVM, a solution for full virtualization on 
 x86 hardware, which could result in denial of service or privilege
 escalation.</p>
@@ -19,4 +19,4 @@ version 1.0+dfsg-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2396.data"
-# $Id: dsa-2396.wml,v 1.1 2012-01-27 19:57:43 taffit Exp $
+# $Id: dsa-2396.wml,v 1.2 2012-02-06 15:27:06 taffit Exp $
