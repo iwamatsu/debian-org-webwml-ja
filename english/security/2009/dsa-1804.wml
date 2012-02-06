@@ -1,8 +1,8 @@
 <define-tag description>null pointer dereference, memory leaks</define-tag>
 <define-tag moreinfo>
 <p>Several remote vulnerabilities have been discovered in racoon, the Internet Key
-Exchange daemon of ipsec-tools.  The The Common Vulnerabilities and Exposures
-project identified the following problems:</p>
+Exchange daemon of ipsec-tools.  The Common Vulnerabilities and Exposures
+project identifies the following problems:</p>
 
 <ul>
 
@@ -35,4 +35,4 @@ version 1:0.7.1-1.5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1804.data"
-# $Id: dsa-1804.wml,v 1.3 2010-12-17 14:39:54 taffit-guest Exp $
+# $Id: dsa-1804.wml,v 1.4 2012-02-05 23:21:20 taffit Exp $
