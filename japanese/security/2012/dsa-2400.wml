@@ -65,4 +65,4 @@ Nicolas Gregoire さんと Aki Helin さんにより、XSLT 処理の際に入�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2400.data"
-# $Id: dsa-2400.wml,v 1.1 2012-02-02 20:25:24 taffit Exp $
+# $Id: dsa-2400.wml,v 1.1 2012-02-08 22:19:28 kmuto Exp $

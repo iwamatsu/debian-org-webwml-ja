@@ -106,4 +106,4 @@ apache2-mpm-itk パッケージも収録しています。旧安定版ディス�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2405.data"
-# $Id: dsa-2405.wml,v 1.1 2012-02-06 16:39:54 taffit Exp $
+# $Id: dsa-2405.wml,v 1.1 2012-02-08 22:22:12 kmuto Exp $

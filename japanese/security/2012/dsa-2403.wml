@@ -32,4 +32,4 @@ max_input_vars 設定編集の実装に欠陥があり、リモートの攻撃�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2403.data"
-# $Id: dsa-2403.wml,v 1.1 2012-02-02 21:59:46 taffit Exp $
+# $Id: dsa-2403.wml,v 1.1 2012-02-08 22:21:20 kmuto Exp $

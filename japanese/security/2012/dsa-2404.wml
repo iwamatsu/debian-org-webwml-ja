@@ -27,4 +27,4 @@ e1000e ネットワークインターフェースカードのエミュレーシ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2404.data"
-# $Id: dsa-2404.wml,v 1.1 2012-02-05 13:35:25 taffit Exp $
+# $Id: dsa-2404.wml,v 1.1 2012-02-08 22:21:43 kmuto Exp $
