@@ -57,4 +57,4 @@ Icedove は、文書に埋め込まれた不正な XSLT スタイルシートに
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2406.data"
-# $Id: dsa-2406.wml,v 1.2 2012-02-09 18:00:30 kaare Exp $
+# $Id: dsa-2406.wml,v 1.1 2012-02-13 13:33:20 kmuto Exp $
