@@ -83,4 +83,4 @@ magic_quotes_gpc 設定がリモートから無効化できることが発見さ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2408.data"
-# $Id: dsa-2408.wml,v 1.1 2012-02-13 19:53:36 taffit Exp $
+# $Id: dsa-2408.wml,v 1.1 2012-02-16 08:46:40 kmuto Exp $
