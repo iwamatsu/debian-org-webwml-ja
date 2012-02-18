@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-06" SUMMARY="Update for Debian 6.0: 6.0.4 released, bits from the Release Team, bits from the piuparts maintainers, report from Debian Med sprint"
 
-# $Id: index.wml,v 1.1 2012-02-06 13:18:35 madamezou Exp $
+# $Id: index.wml,v 1.2 2012-02-18 17:08:28 taffit Exp $
 # $Rev: 3093 $
 # Status: [content frozen]
 
@@ -101,7 +101,7 @@ to answer the questions of Debian users</a> and, in general, how to support
 new users. There are many places for helping users (<a
 href="http://lists.debian.org/users.html#debian-user">mailing lists</a>,
 <a href="http://wiki.debian.org/IRC">IRC channels</a>, <a
-href="ask.debian.net">questions &amp; answers websites</a>, etc.) each
+href="http://ask.debian.net">questions &amp; answers websites</a>, etc.) each
 with different characteristics, but the golden rule for every support channel is to
 be respectful and courteous (as stated in the <a
 href="http://people.debian.org/~enrico/dcg/">Debian Community
