@@ -969,7 +969,7 @@ Archive-upstream: ftp.se.debian.org
 Archive-method: push
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
-CX-DImage-rsync: debian-cd/
+X-CDImage-rsync: debian-cd/
 CDImage-upstream: cdimage.debian.org
 Maintainer: Morten Werner Forsbring <ftp-drift@uio.no>
 Country: NO Norway
@@ -7460,7 +7460,7 @@ Volatile-upstream: ftp2.de.debian.org
 IPv6: yes
 Updates: push
 Maintainer: Jeffrey Kriegsman <mirror@leaseweb.com>
-Country: NL Netherlands
+Country: DE Germany
 Location: Databurg, Franfurt, Germany
 Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
 Bandwidth: 4Gbps
