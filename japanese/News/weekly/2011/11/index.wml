@@ -25,7 +25,7 @@ FAQ</toc-add-entry>
 
 <p>Debian プロジェクトは、<a
 href="$(HOME)/reports/patent-faq">コミュニティディストリビューション特許ポリシー
-FAQ</a>という、ソフトウェア特許のリスクについて、フリーソフトウェア開発者や、
+FAQ</a> という、ソフトウェア特許のリスクについて、フリーソフトウェア開発者や、
 特にディストリビューションを作っている人を啓蒙するための文書を<a
 href="$(HOME)/News/2011/20110709">公開しました</a>。この文書は <a
 href="http://www.softwarefreedom.org">Software Freedom Law Center</a> (SFLC)
@@ -38,7 +38,7 @@ href="http://lists.debian.org/debian-debbugs/2011/07/msg00000.html">\
 デバッグチームからのヘルプリクエスト</a>、<a
 href="http://lists.debian.org/debian-derivatives/2011/06/msg00010.html">最初の
 DEX イニシアティブの完成</a>、スプリント開催の許可
-(ひとつはリリースチーム、もうひとつは Debian Edu に関するもの)、
+(一つはリリースチーム、もう一つは Debian Edu に関するもの)、
 彼が受けたインタビューなどの、興味のある話題を含む <a
 href="http://lists.debian.org/debian-devel-announce/2011/07/msg00001.html">\
 DPL からの一言</a>を発表しました。Stefano
