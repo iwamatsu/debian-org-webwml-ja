@@ -26,4 +26,4 @@ VoIP クライアント mumble はユーザ毎の設定ファイルのパーミ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2411.data"
-# $Id: dsa-2411.wml,v 1.3 2012-02-19 15:36:35 taffit Exp $
+# $Id: dsa-2411.wml,v 1.1 2012-02-21 03:14:31 kmuto Exp $
