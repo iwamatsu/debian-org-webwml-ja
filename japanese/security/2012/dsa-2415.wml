@@ -84,4 +84,4 @@ AMS 形式のファイルを開くようし向けることにより任意のコ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2415.data"
-# $Id: dsa-2415.wml,v 1.1 2012-02-22 03:40:00 taffit Exp $
+# $Id: dsa-2415.wml,v 1.1 2012-02-26 04:05:18 kmuto Exp $
