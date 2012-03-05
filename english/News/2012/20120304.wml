@@ -1,5 +1,5 @@
 # Status: [open-for-edit]
-# $Id: 20120304.wml,v 1.1 2012-03-04 19:42:04 madamezou Exp $
+# $Id: 20120304.wml,v 1.2 2012-03-05 21:18:59 kaare Exp $
 # $Rev: 3320 $
 
 <define-tag pagetitle>Make DebConf12 a success: donate or become a sponsor</define-tag>
@@ -59,7 +59,7 @@ opportunity for developers, contributors and other interested people to
 meet in person and work together more closely. It has taken place
 annually since 2000 in locations as varied as Scotland, Argentina, and
 Bosnia and Herzegovina. More information about DebConf is available from
-http://debconf.org/.</p>
+<url http://debconf.org/>.</p>
 
 
 <h2>Contact Information</h2>
