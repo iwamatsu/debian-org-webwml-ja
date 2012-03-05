@@ -105,4 +105,4 @@ Java 仮想マシンのクラッシュや、Java サンドボックスの制限�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2420.data"
-# $Id: dsa-2420.wml,v 1.1 2012-02-28 21:35:28 taffit Exp $
+# $Id: dsa-2420.wml,v 1.1 2012-03-05 01:29:37 kmuto Exp $
