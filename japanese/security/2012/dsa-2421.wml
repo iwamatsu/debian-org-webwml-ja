@@ -102,4 +102,4 @@ Eloy Lafuente さんにより、プロファイル画像の保護が不十分で
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2421.data"
-# $Id: dsa-2421.wml,v 1.1 2012-02-29 21:35:22 taffit Exp $
+# $Id: dsa-2421.wml,v 1.1 2012-03-05 02:12:57 kmuto Exp $
