@@ -29,4 +29,4 @@ XML::Atom Perl モジュールに、信頼できない可能性のあるソー�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2424.data"
-# $Id: dsa-2424.wml,v 1.1 2012-03-04 16:54:34 taffit Exp $
+# $Id: dsa-2424.wml,v 1.1 2012-03-07 02:38:02 kmuto Exp $
