@@ -27,4 +27,4 @@ Perl インターフェース TAML::libYAML に二つのフォーマット文字
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2432.data"
-# $Id: dsa-2432.wml,v 1.1 2012-03-12 18:28:35 kaare Exp $
+# $Id: dsa-2432.wml,v 1.1 2012-03-14 09:17:58 kmuto Exp $

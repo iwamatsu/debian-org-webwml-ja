@@ -26,4 +26,4 @@ Markus Vervier さんにより、PAM ライブラリの Python インターフ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2430.data"
-# $Id: dsa-2430.wml,v 1.1 2012-03-10 16:24:34 taffit Exp $
+# $Id: dsa-2430.wml,v 1.1 2012-03-14 09:16:39 kmuto Exp $
