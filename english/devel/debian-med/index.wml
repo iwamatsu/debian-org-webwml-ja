@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.50 2011-01-30 23:15:09 tille Exp $
+# $Id: index.wml,v 1.52 2012-03-15 18:56:42 tille Exp $
 
 <h2>Project description</h2>
 
@@ -10,8 +10,10 @@
    develop Debian into an operating
    system that is particularly well fit for the requirements for medical
    practice and biomedical research.
-   The goal of Debian Med is a complete system for all
-   tasks in medical care which is built completely on free software.
+   The goal of Debian Med is a complete free and open system for all tasks in medical
+   care and research. To achieve this goal Debian Med integrates related
+   free and open source software for medical imaging, bioinformatics,
+   clinic IT infrastructure, and others within Debian OS.
 </p>
 
 
@@ -123,6 +125,11 @@ are on our todo list for inclusion into Debian.
     <a href="http://gchelpdesk.ualberta.ca/news/03mar05/cbhd_news_03mar05.php#GearingUp">overview
     of projects which are related to Bioinformatics</a>. It was published
     in the Canadian Bioinformatics Help Desk Newsletter on March 3, 2005.</li>
+  <li>Debian Med is working closely together with
+      <a href="http://nebc.nerc.ac.uk/tools/bio-linux/bio-linux-6.0">Bio-Linux</a>.
+      While Bio-Linux is based on Ubuntu LTS releases the packages of biologic
+      scope are maintained inside Debian by the Debian Med team.
+  </li>
   <li>
     <a href="http://wikiomics.org/">Wikiomics</a> is a bioinformatics
     wiki where all kinds of questions can be asked, answered and
