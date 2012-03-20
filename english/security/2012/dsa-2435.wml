@@ -15,16 +15,16 @@ player.</p>
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-4328">CVE-2011-4328</a>
 
   <p>Alexander Kurtz discovered an unsafe management of HTTP cookies. Cookie
-  files are stored under /tmp and have predictable names, vulnerability
-  that allows a local attacker to overwrite arbitrary files the users has
+  files are stored under /tmp and have predictable names, and the vulnerability
+  allows a local attacker to overwrite arbitrary files the users has
   write permissions for, and are also world-readable which may cause
   information leak.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2010-4337">CVE-2010-4337</a>
 
   <p>Jakub Wilk discovered an unsafe management of temporary files during the
-  build process. Files are stored under /tmp and have predictable names,
-  vulnerability that allows a local attacker to overwrite arbitrary files
+  build process. Files are stored under /tmp and have predictable names, and the
+  vulnerability allows a local attacker to overwrite arbitrary files
   the users has write permissions for.</p></li>
 
 </ul>
@@ -40,4 +40,4 @@ version 0.8.10-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2435.data"
-# $Id: dsa-2435.wml,v 1.1 2012-03-20 01:31:53 taffit Exp $
+# $Id: dsa-2435.wml,v 1.2 2012-03-20 07:37:38 kaare Exp $
