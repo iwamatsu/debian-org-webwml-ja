@@ -41,4 +41,4 @@ IFD 形式で、全てのタグの値オフセットが IFD 自身の最初を�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2427.data"
-# $Id: dsa-2427.wml,v 1.1 2012-03-06 19:27:54 spaillard Exp $
+# $Id: dsa-2427.wml,v 1.1 2012-03-21 02:07:48 kmuto Exp $
