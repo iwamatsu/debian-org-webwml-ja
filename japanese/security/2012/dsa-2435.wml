@@ -56,4 +56,4 @@ Jakub Wilk さんにより、build の際の一時ファイルの管理が安全
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2435.data"
-# $Id: dsa-2435.wml,v 1.2 2012-03-20 07:37:38 kaare Exp $
+# $Id: dsa-2435.wml,v 1.1 2012-03-21 02:15:43 kmuto Exp $

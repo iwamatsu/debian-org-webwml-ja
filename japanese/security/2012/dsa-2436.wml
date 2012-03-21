@@ -32,4 +32,4 @@ FastCGI 実装の Apache FCGID に、FcgidMaxProcessesPerClass リソース制
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2436.data"
-# $Id: dsa-2436.wml,v 1.1 2012-03-19 19:48:17 kaare Exp $
+# $Id: dsa-2436.wml,v 1.1 2012-03-21 02:16:40 kmuto Exp $
