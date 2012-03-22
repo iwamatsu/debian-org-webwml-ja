@@ -511,7 +511,7 @@ Archive-ftp: /mirror/debian/
 Archive-http: /ftp/mirror/debian/
 Archive-upstream: ftp.ch.debian.org
 Backports-ftp: /debian-backports/
-Backports-http: /debian-backports/
+Backports-http: /ftp/mirror/debian-backports/
 Backports-upstream: ftp.ch.debian.org
 Backports-method: push
 CDImage-ftp: /mirror/debian-cd/
@@ -4064,7 +4064,6 @@ Maintainer: Roberto Bosticardo <staff@fastbull.org>
 Country: IT Italy
 Location: Torino
 Sponsor: top-ix http://www.top-ix.org/
-Comment: cdimage doesn't include sources
 Bandwidth: 1Gbps
 IPv6: no
 
@@ -4168,7 +4167,6 @@ Country: BR Brazil
 Location: Florian&oacute;polis
 Sponsor: PoP-SC/RNP http://www.pop-sc.rnp.br/
 Comment: 2.5Gbps with RNP academic backbone at 2,5Gbps. 136Mps with BrasilTelcom ISP by RCT.
- cdimage doesn't include sources
 Bandwidth: 136Mbps
 IPv6: yes
 
@@ -4471,14 +4469,13 @@ Maintainer: Dmitry Sherman <dmitry@conft.org>, archive@debian.co.il, admin@inter
 Country: IL Israel
 Location: Rishon Leziyon
 Sponsor: Interhost http://www.interhost.co.il/
-Comment: cdimage doesn't include sources
 Bandwidth: 100Mbps
 IPv6: no
 
 Site: debian.thaios.net
 Type: leaf
-Archive-http: /debian/
-Archive-rsync: debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
 Archive-upstream: ftp.tw.debian.org
 Archive-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 Maintainer: kijakarn junda <admin@thaihealth.net>
@@ -4487,6 +4484,7 @@ Location: Bangkok
 Sponsor: Thai health network http://www.thaihealth.net
 Sponsor: Thai opensource network http://www.thaios.net
 Comment: at Internet backbone (CAT IDC), T1
+ missing many files, excludes project/, etc
 IPv6: no
 
 Site: debian.bsnet.se
@@ -5781,8 +5779,8 @@ Type: leaf
 Archive-architecture: amd64 armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
 Archive-ftp: /debian/
 Archive-http: /debian/
-Security-ftp: /debian-security/
-Security-http: /debian-security/
+X-Security-ftp: /debian-security/
+X-Security-http: /debian-security/
 IPv6: no
 Archive-upstream: mirrors.kernel.org
 Security-upstream: security.debian.org
@@ -7391,7 +7389,6 @@ Updates: once
 Maintainer: netease <mirror@service.netease.com>
 Country: CN China
 Sponsor: Netease http://www.163.com/
-Comment: cdimage doesn't include sources
 Bandwidth: 1Gbps
 
 Site: mirror.datacenter.by
