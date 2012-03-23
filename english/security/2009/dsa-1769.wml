@@ -32,7 +32,7 @@ implementation of the Java SE platform.</p>
     <p>The LDAP client implementation (in com.sun.jdni.ldap) allowed
     malicious LDAP servers to execute arbitrary code on the client.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-5153">CVE-2008-5153</a>
+<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1101">CVE-2009-1101</a>
 
     <p>The HTTP server implementation (sun.net.httpserver) contained an
     unspecified denial of service vulnerability.</p></li>
@@ -54,4 +54,4 @@ version 9.1+lenny2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1769.data"
-# $Id: dsa-1769.wml,v 1.2 2010-12-17 14:39:34 taffit-guest Exp $
+# $Id: dsa-1769.wml,v 1.3 2012-03-23 21:26:39 taffit Exp $
