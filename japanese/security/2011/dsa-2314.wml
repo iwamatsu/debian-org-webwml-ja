@@ -1,8 +1,8 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
-<p>集中設定管理システム puppet に複数のセキュリティに関連する欠陥が発見さ
+<p>集中設定管理システム Puppet に複数のセキュリティに関連する欠陥が発見さ
 れました。The Common Vulnerabilities and Exposures project は以下の問
 題を認識しています。</p>
 
@@ -78,4 +78,4 @@ K5login タイプで予測可能なファイル名が用いられているため
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2314.data"
-# $Id: dsa-2314.wml,v 1.1 2011-10-05 11:10:43 kmuto Exp $
+# $Id: dsa-2314.wml,v 1.2 2012-03-23 20:37:29 victory-guest Exp $

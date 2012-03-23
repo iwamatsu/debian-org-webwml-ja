@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -17,7 +17,7 @@
 
 <li><a href="moodle.org/mod/forum/discuss.php?d=182741">MSA-11-0024</a>
 <p>
-Recaptcha 画像が古いサーバから認証可能でした。
+reCAPTCHA 画像が古いサーバから認証可能でした。
 </p></li>
 
 <li><a href="moodle.org/mod/forum/discuss.php?d=182742">MSA-11-0025</a>
@@ -83,4 +83,4 @@ Debian Security Advisories に関する説明、これらの更新をシステ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2338.data"
-# $Id: dsa-2338.wml,v 1.1 2011-11-10 15:50:21 kmuto Exp $
+# $Id: dsa-2338.wml,v 1.2 2012-03-23 20:33:51 victory-guest Exp $

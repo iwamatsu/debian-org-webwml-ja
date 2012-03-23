@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -27,7 +27,7 @@ Firefox ベースのウェブブラウザ iceweasel に、複数の問題が発�
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3650">CVE-2011-3650</a>
 
 <p>
-Marc Schoenefeld さんにより、Javascript コードのプロファイリングが
+Marc Schoenefeld さんにより、JavaScript コードのプロファイリングが
 メモリ破壊に繋がることが発見されました。
 </p></li>
 
@@ -57,4 +57,4 @@ Marc Schoenefeld さんにより、Javascript コードのプロファイリン�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2341.data"
-# $Id: dsa-2341.wml,v 1.1 2011-11-14 10:30:22 kmuto Exp $
+# $Id: dsa-2341.wml,v 1.2 2012-03-23 20:32:10 victory-guest Exp $
