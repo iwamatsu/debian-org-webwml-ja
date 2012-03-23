@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>コードインジェクション</define-tag>
 <define-tag moreinfo>
 
@@ -10,8 +10,8 @@ max_input_vars 設定編集の実装に欠陥があり、リモートの攻撃�
 </p>
 
 <p>
-旧安定版ディストリビューション (lenny) では、修正は現時点では提供され
-ません。
+旧安定版ディストリビューション (lenny) では、この問題はバージョン
+5.2.6.dfsg.1-1+lenny16 で修正されています。
 </p>
 
 <p>
@@ -21,7 +21,7 @@ max_input_vars 設定編集の実装に欠陥があり、リモートの攻撃�
 
 <p>
 テスト版 (wheezy) および不安定版 (unstable) ディストリビューションで
-は、この問題は近く修正予定です。
+は、この問題はバージョン 5.3.10-1 で修正されています。
 </p>
 
 <p>
@@ -32,4 +32,4 @@ max_input_vars 設定編集の実装に欠陥があり、リモートの攻撃�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2403.data"
-# $Id: dsa-2403.wml,v 1.1 2012-02-08 22:21:20 kmuto Exp $
+# $Id: dsa-2403.wml,v 1.2 2012-03-23 20:10:18 victory-guest Exp $
