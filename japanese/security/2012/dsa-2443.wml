@@ -97,4 +97,4 @@ H. Peter Anvin さんにより、regset インフラストラクチャに欠陥�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2443.data"
-# $Id: dsa-2443.wml,v 1.1 2012-03-27 01:56:44 taffit Exp $
+# $Id: dsa-2443.wml,v 1.1 2012-03-28 00:42:09 kmuto Exp $

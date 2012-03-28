@@ -28,4 +28,4 @@ Matthew Hall さんにより、asn1_get_length_der 関数の呼び出し元の�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2440.data"
-# $Id: dsa-2440.wml,v 1.1 2012-03-25 12:25:13 taffit Exp $
+# $Id: dsa-2440.wml,v 1.1 2012-03-28 00:37:50 kmuto Exp $

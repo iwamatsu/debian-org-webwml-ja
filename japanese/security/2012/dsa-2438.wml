@@ -26,4 +26,4 @@ RDF パーザおよびシリアライザライブラリ Raptor に、XML エン�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2438.data"
-# $Id: dsa-2438.wml,v 1.1 2012-03-22 18:54:40 taffit Exp $
+# $Id: dsa-2438.wml,v 1.1 2012-03-28 00:36:57 kmuto Exp $
