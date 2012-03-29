@@ -19,7 +19,6 @@ s_log_groups_per_flex 値に 31 を超える値を設定することで、サー
 拒否攻撃 (BUG) が可能です。
 </p></li>
 
-CVE-2011-1833
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1833">CVE-2011-1833</a>
 
 <p>
@@ -97,4 +96,4 @@ H. Peter Anvin さんにより、regset インフラストラクチャに欠陥�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2443.data"
-# $Id: dsa-2443.wml,v 1.1 2012-03-28 00:42:09 kmuto Exp $
+# $Id: dsa-2443.wml,v 1.2 2012-03-29 19:19:03 victory-guest Exp $
