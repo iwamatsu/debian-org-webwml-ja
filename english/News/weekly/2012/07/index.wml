@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-02" SUMMARY="Bits from Debian Med team, report from DSA team sprint, so long and thanks for all the news"
 
-# $Id: index.wml,v 1.2 2012-04-02 12:40:02 taffit Exp $
+# $Id: index.wml,v 1.3 2012-04-02 13:56:50 boutil-guest Exp $
 # $Rev: 3517 $
 # Status: [content-frozen]
 
@@ -241,7 +241,7 @@ Weller into our project!</p>
 <a href="$(HOME)/security/2012/dsa-2443">linux-2.6</a>,
 <a href="$(HOME)/security/2012/dsa-2444">tryton-server</a>,
 <a href="$(HOME)/security/2012/dsa-2445">typo3-src</a> and
-<a href="$(HOME)/security/2012/dsa-2398"></a> (updated announce).
+<a href="$(HOME)/security/2012/dsa-2398">curl</a> (updated announce).
 	Please read them carefully and take the proper measures.</p>
 
         <p>Debian's Backports Team released advisories for these packages:
