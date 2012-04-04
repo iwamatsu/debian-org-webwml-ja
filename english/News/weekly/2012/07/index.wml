@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-02" SUMMARY="Bits from Debian Med team, report from DSA team sprint, so long and thanks for all the news"
 
-# $Id: index.wml,v 1.3 2012-04-02 13:56:50 boutil-guest Exp $
+# $Id: index.wml,v 1.4 2012-04-04 21:51:55 madamezou Exp $
 # $Rev: 3517 $
 # Status: [content-frozen]
 
@@ -89,7 +89,7 @@ Peter Jansen, a cognitive science researcher,
 <a href="http://arstechnica.com/gadgets/news/2012/03/researcher-publishes-specs-for-real-linux-powered-star-trek-tricorder">brought
 to life Spock's tricorder</a> from the popular Star Trek television series. 
 Peter, in fact, developed a handheld device able — thanks to its
-embedded sensors — to measure various environmental parameters (link
+embedded sensors — to measure various environmental parameters (like
 temperature, humidity, magnetic fields, etc.). The device runs Debian
 GNU/Linux on an ARM920T-based Atmel microcontroller: the hardware
 specifications and schematics, and the software are licensed respectively 
