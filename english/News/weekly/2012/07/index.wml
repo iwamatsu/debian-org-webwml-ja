@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-02" SUMMARY="Bits from Debian Med team, report from DSA team sprint, so long and thanks for all the news"
 
-# $Id: index.wml,v 1.4 2012-04-04 21:51:55 madamezou Exp $
+# $Id: index.wml,v 1.5 2012-04-05 22:01:52 scottmir-guest Exp $
 # $Rev: 3517 $
 # Status: [content-frozen]
 
@@ -162,7 +162,7 @@ the Aptitude team</a>.
 Kurt Roeckx announced that 
 <a href="https://lists.debian.org/debian-devel-announce/2012/03/msg00010.html">the DPL
 candidates' rebuttals have been published</a> and are now available as
-part of <a href="$(VOTE)/2012/vote_001/">their platforms</a>, and also sent out the
+part of <a href="$(VOTE)/2012/vote_001">their platforms</a>, and also sent out the
 <a href="https://lists.debian.org/debian-devel-announce/2012/03/msg00015.html">call
 for votes</a>. Voting closes on Saturday 14 April.
 </p>
