@@ -1,5 +1,5 @@
 # Status: [open-for-edit]
-# $Id: 20120415.wml,v 1.1 2012-04-15 17:31:55 madamezou Exp $
+# $Id: 20120415.wml,v 1.2 2012-04-15 18:40:26 taffit Exp $
 # $Rev: 3589 $
 
 <define-tag pagetitle>Debian Project reelects Stefano Zacchiroli as Project Leader</define-tag>
@@ -33,7 +33,7 @@ announced he won't be seeking reelection again next year.
 
 Wouter Verhelst and Gergely Nagy also gained a lot of support from
 Debian project members, both coming hundreds of votes ahead of the
-"None of the above" ballot choice.
+<q>None of the above</q> ballot choice.
 </p>
 
 <p>
