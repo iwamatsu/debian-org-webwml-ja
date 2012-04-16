@@ -1,5 +1,5 @@
 # Status: [open-for-edit|content-frozen|sent]
-# $Id: 20120412.wml,v 1.1 2012-04-11 23:15:31 madamezou Exp $
+# $Id: 20120412.wml,v 1.2 2012-04-16 10:56:03 kaare Exp $
 # $Rev: 3537 $
 
 <define-tag pagetitle>Registration open for DebConf12</define-tag>
@@ -48,7 +48,7 @@ and enter Event ID 2254S.
 <p>
 Debian invites submissions of proposals for papers, presentations,
 discussion sessions and tutorials for its DebConf12 conference. 
-Submissions are not limited to raditional talks: you could propose a
+Submissions are not limited to traditional talks: you could propose a
 performance, art installation, debate, or anything else. Official
 submissions will be accepted until 1 June 2012, 23:59 UTC.
 <br />
