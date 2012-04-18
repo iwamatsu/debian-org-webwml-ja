@@ -29,7 +29,7 @@ files /etc/apache2/sites-available/default and .../default-ssl. When
 upgrading, you should not blindly allow dpkg to replace those files,
 though. Rather you should merge the changes, namely the removal of the
 <q>Alias /doc "/usr/share/doc"</q> line and the related <q>&lt;Directory
-"/usr/share/doc/"$gt;</q> block, into your versions of these config files.
+"/usr/share/doc/"&gt;</q> block, into your versions of these config files.
 You may also want to check if you have copied these sections to any
 additional virtual host configurations.</p>
 
@@ -51,4 +51,4 @@ configuration.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2452.data"
-# $Id: dsa-2452.wml,v 1.1 2012-04-15 23:16:30 taffit Exp $
+# $Id: dsa-2452.wml,v 1.2 2012-04-18 12:48:45 taffit Exp $
