@@ -1,12 +1,10 @@
-# Status: [open-for-edit|content-frozen|sent]
-# $Id: 20120412.wml,v 1.2 2012-04-16 10:56:03 kaare Exp $
-# $Rev: 3537 $
+# $Id: 20120412.wml,v 1.3 2012-04-20 19:03:22 holger-guest Exp $
 
 <define-tag pagetitle>Registration open for DebConf12</define-tag>
 
 <define-tag release_date>2012-04-12</define-tag>
 #use wml::debian::news
-# #use wml::debian::translation-check translation="1.1" maintainer=""
+
 <p>
 The Debian Project is pleased to announce that registration is now open
 for DebConf12, which will take place in Managua, Nicaragua, from Sunday 8
