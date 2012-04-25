@@ -25,4 +25,4 @@ PNG ライブラリの png_set_text2() 関数に誤ったメモリ処理があ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2446.data"
-# $Id: dsa-2446.wml,v 1.1 2012-04-04 19:45:11 taffit Exp $
+# $Id: dsa-2446.wml,v 1.1 2012-04-25 03:11:31 kmuto Exp $
