@@ -63,4 +63,4 @@ Google Security Team の Tavis Ormandy さんにより、DER 符号化さ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2454.data"
-# $Id: dsa-2454.wml,v 1.1 2012-04-19 22:03:59 taffit Exp $
+# $Id: dsa-2454.wml,v 1.1 2012-04-25 03:52:47 kmuto Exp $

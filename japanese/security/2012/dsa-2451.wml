@@ -72,4 +72,4 @@ Puppet はファイルバケットへの要求を適切に処理していませ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2451.data"
-# $Id: dsa-2451.wml,v 1.1 2012-04-13 12:40:29 taffit Exp $
+# $Id: dsa-2451.wml,v 1.1 2012-04-25 03:39:37 kmuto Exp $

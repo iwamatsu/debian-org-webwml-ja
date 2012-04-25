@@ -28,4 +28,4 @@ SMB/CIFS ファイル/プリント/ログインサーバ Samba に、リモー�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2450.data"
-# $Id: dsa-2450.wml,v 1.1 2012-04-12 20:41:27 taffit Exp $
+# $Id: dsa-2450.wml,v 1.1 2012-04-25 03:38:23 kmuto Exp $

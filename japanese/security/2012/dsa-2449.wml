@@ -35,4 +35,4 @@ select.limit()/offset() に渡される値を適切にサニタイズしてい�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2449.data"
-# $Id: dsa-2449.wml,v 1.1 2012-04-12 12:26:11 taffit Exp $
+# $Id: dsa-2449.wml,v 1.1 2012-04-25 03:37:29 kmuto Exp $

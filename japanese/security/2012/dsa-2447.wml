@@ -26,4 +26,4 @@ Alexander Gavrun さんにより、TIFF ライブラリの TileSize エントリ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2447.data"
-# $Id: dsa-2447.wml,v 1.1 2012-04-05 13:22:02 taffit Exp $
+# $Id: dsa-2447.wml,v 1.1 2012-04-25 03:36:20 kmuto Exp $
