@@ -96,4 +96,4 @@ Seamonkey の商標非使用版 Iceape インターネットプログラム群�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2458.data"
-# $Id: dsa-2458.wml,v 1.1 2012-04-24 21:34:53 taffit Exp $
+# $Id: dsa-2458.wml,v 1.1 2012-04-27 02:37:53 kmuto Exp $

@@ -32,4 +32,4 @@ Danny Fullerton さんにより、Dropbear SSH デーモンにメモリの解放
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2456.data"
-# $Id: dsa-2456.wml,v 1.1 2012-04-24 20:39:38 taffit Exp $
+# $Id: dsa-2456.wml,v 1.1 2012-04-27 02:37:00 kmuto Exp $
