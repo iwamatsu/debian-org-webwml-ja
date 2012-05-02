@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-30" SUMMARY="Debian <q>clouds</q>, tour in Nicaragua, and European Synchrotron"
 
-# $Id: index.wml,v 1.1 2012-04-30 11:18:50 madamezou Exp $
+# $Id: index.wml,v 1.2 2012-05-02 17:15:29 kaare Exp $
 # $Rev: 3677 $
 # Status: [frozen]
 
@@ -164,8 +164,8 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 	<p>
 One applicant has been
 <a href="https://nm.debian.org/nmlist.php#newmaint">accepted</a>
-as Debian Developers and
-Nine people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+as Debian Developer and
+nine people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Eduardo Trápani, Norman Messtorff, Frank Neuber, Daniel Pocock,
