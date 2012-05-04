@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20120425.wml,v 1.2 2012-05-04 16:37:35 taffit Exp $
+# $Id: 20120425.wml,v 1.3 2012-05-04 17:22:26 taffit Exp $
 # $Rev: 3631 $
 
 <define-tag pagetitle>Deploy your own <q>cloud</q> with Debian <q>Wheezy</q></define-tag>
@@ -37,7 +37,7 @@ ultimate way to retain all the freedoms that Debian stands for.
 To help our users with these tasks, we are proud to announce the availability
 of several new technologies that would ease the deployment of Debian-based
 clouds. Starting with the forthcoming release of Debian 7.0
-<q>Wheezy</q>, users will find ready-to-use packages for OpenStack© and
+<q>Wheezy</q>, users will find ready-to-use packages for OpenStack® and
 Xen Cloud Platform (XCP).
 <br />
 OpenStack, the open source cloud OS, has been created to drive industry
