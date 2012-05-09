@@ -26,4 +26,4 @@ Ivano Cristofolini さんにより、Samba の LSA RPC コールのセキュリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2463.data"
-# $Id: dsa-2463.wml,v 1.1 2012-05-02 15:45:06 taffit Exp $
+# $Id: dsa-2463.wml,v 1.1 2012-05-09 00:42:49 kmuto Exp $
