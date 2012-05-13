@@ -36,4 +36,4 @@ De Eindbazen さんにより、PHP を mod_cgi と組み合わせて使ってい
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2465.data"
-# $Id: dsa-2465.wml,v 1.1 2012-05-09 19:09:29 taffit Exp $
+# $Id: dsa-2465.wml,v 1.1 2012-05-13 02:48:15 kmuto Exp $

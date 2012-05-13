@@ -27,4 +27,4 @@ Sergey Nartimov さんにより、ウェブ開発向け Ruby ベースのフレ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2466.data"
-# $Id: dsa-2466.wml,v 1.1 2012-05-09 19:23:49 taffit Exp $
+# $Id: dsa-2466.wml,v 1.1 2012-05-13 02:48:44 kmuto Exp $
