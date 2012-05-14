@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-05-14" SUMMARY="Update for Debian 6.0: 6.0.5 released, deadlines for DebConf12, General Resolution about diversity statement"
 
-# $Id: index.wml,v 1.1 2012-05-14 13:04:17 madamezou Exp $
+# $Id: index.wml,v 1.2 2012-05-14 14:40:32 taffit Exp $
 # $Rev: 3771 $
 # Status: [frozen]
 
@@ -69,7 +69,7 @@ further improving the installer by trying it out.
 everything else</a> you will need are available.
 </p>
 
-<toc-add-entry name="adminhandbook"><q>The Debian Administrator's Handbook</q> freed!</toc-add-entry>
+<toc-add-entry name="adminhandbook"><q>The Debian Administrator's Handbook</q> freed</toc-add-entry>
 
 <p>
 Raphaël Hertzog announced <a
