@@ -41,4 +41,4 @@ intrigeri さんにより、Pidgin 向けのオフレコメッセージング (�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2476.data"
-# $Id: dsa-2476.wml,v 1.2 2012-05-21 07:27:59 kaare Exp $
+# $Id: dsa-2476.wml,v 1.1 2012-05-28 02:32:10 kmuto Exp $

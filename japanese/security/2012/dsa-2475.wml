@@ -27,4 +27,4 @@ OpenSSL が、TLS 1.1, 1.2, DTLS 等で用いられる CBC 暗号化で、明示
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2475.data"
-# $Id: dsa-2475.wml,v 1.1 2012-05-17 23:14:10 geissert Exp $
+# $Id: dsa-2475.wml,v 1.1 2012-05-28 02:31:26 kmuto Exp $

@@ -32,4 +32,4 @@ Ra&uacute;l Benencia さんにより、wiki コンパイラ ikiwiki が、コメ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2474.data"
-# $Id: dsa-2474.wml,v 1.1 2012-05-17 11:51:52 taffit Exp $
+# $Id: dsa-2474.wml,v 1.1 2012-05-28 02:30:50 kmuto Exp $

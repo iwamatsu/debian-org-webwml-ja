@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-16" SUMMARY="Debian Project leader elected, registration open for DebConf12, personal BSP initiatives"
 
-# $Id: index.wml,v 1.1 2012-04-16 10:20:07 madamezou Exp $
+# $Id: index.wml,v 1.2 2012-05-28 15:44:36 ayanokouzi-guest Exp $
 # $Rev: 3591 $
 # Status: [frozen]
 
@@ -84,7 +84,6 @@ bugs</a> and to make Iceweasel build successfully.
 
 <toc-add-entry name="interviews">Interviews</toc-add-entry>
 
-<p>
 <p>Raphaël Hertzog published a <q>People behind Debian</q> interview with
 <a href="http://raphaelhertzog.com/2012/04/06/people-behind-debian-francesca-ciceri-member-of-debian-press-publicity-teams/">Francesca
 Ciceri</a>, a member of the Debian press and publicity teams, while

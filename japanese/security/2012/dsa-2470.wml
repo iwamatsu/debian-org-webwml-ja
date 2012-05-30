@@ -34,4 +34,4 @@ WordPress への更新を行うことになりました。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2470.data"
-# $Id: dsa-2470.wml,v 1.2 2012-05-11 21:57:20 taffit Exp $
+# $Id: dsa-2470.wml,v 1.1 2012-05-28 02:28:50 kmuto Exp $
