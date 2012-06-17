@@ -35,4 +35,4 @@ Mark Martinec さんにより、Perl が <q>lc</q> などの大文字小文字�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2265.data"
-# $Id: dsa-2265.wml,v 1.1 2011-06-20 19:26:52 kaare Exp $
+# $Id: dsa-2265.wml,v 1.1 2011-06-21 23:56:21 kmuto Exp $

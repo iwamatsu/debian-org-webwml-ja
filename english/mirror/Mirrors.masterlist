@@ -626,19 +626,29 @@ Sponsor: Purdue University Computer Society http://cssociety.purdue.edu/
 IPv6: no
 
 Site: ftp.ru.debian.org
-Alias: ftp.chg.ru
+Includes: ftp.chg.ru
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.se.debian.org
-CDImage-ftp: /pub/Linux/debian-cd/
-CDImage-http: /pub/Linux/debian-cd/
-CDImage-rsync: debian-iso/
-Volatile-http: /debian-volatile/
-Volatile-ftp: /debian-volatile/
-Volatile-rsync: debian-volatile/
+Country: RU Russia
+IPv6: no
+
+Site: ftp.chg.ru
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
+Archive-upstream: ftp.se.debian.org
+X-CDImage-ftp: /pub/Linux/debian-cd/
+X-CDImage-http: /pub/Linux/debian-cd/
+X-CDImage-rsync: debian-iso/
+X-Volatile-http: /debian-volatile/
+X-Volatile-ftp: /debian-volatile/
+X-Volatile-rsync: debian-volatile/
 Maintainer: Serge Krashakov <sakr@Chg.RU>, ftp@Chg.RU
 Country: RU Russia
 Location: Chernogolovka, Moscow
@@ -1994,13 +2004,16 @@ Type: leaf
 Archive-architecture: amd64 i386
 Archive-ftp: /debian/
 Archive-http: /debian/
-Archive-rsync: debian/
-Archive-upstream: ftp.fi.debian.org
-Maintainer: Evaldas Darcianovas <evaldas@balt.net>
+Archive-upstream: ftp.nl.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-upstream: ftp.nl.debian.org
+Maintainer: Evaldas Darcianovas <evaldas@balt.net>, Baltnetos Komunikacijos <hostmaster@balt.net>
 Country: LT Lithuania
 Location: Vilnius
 Sponsor: JSC Baltnetos Komunikacijos http://www.balt.net/
-Updates: once (1:00AM GMT+2)
+Bandwidth: 1Gbps
+Updates: four
 Comment: will add some more architectures on demand
 IPv6: no
 
@@ -3890,18 +3903,20 @@ IPv6: no
 Site: ftp.jaist.ac.jp
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-ftp: /pub/Linux/Debian/
-Archive-http: /pub/Linux/Debian/
-Archive-rsync: pub/Linux/Debian/
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-upstream: ftp.jp.debian.org
+Archive-method: push
 Backports-ftp: /debian-backports/
 Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
-Backports-upstream: hanzubon.jp
+Backports-upstream: ftp.jp.debian.org
 Backports-method: push
-CDImage-ftp: /pub/Linux/Debian-CD/
-CDImage-http: /pub/Linux/Debian-CD/
-CDImage-rsync: pub/Linux/Debian-CD/
-Archive-upstream: ftp.jp.debian.org
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+CDImage-upstream: cdimage.debian.org
 Maintainer: FTP admins <ftp-admin@jaist.ac.jp>
 Country: JP Japan
 Location: Ishikawa
@@ -4375,9 +4390,10 @@ IPv6: no
 
 Site: mmc.geofisica.unam.mx
 Type: leaf
-Archive-architecture: amd64 hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
+Archive-rsync: debian/
 Archive-upstream: ftp.mx.debian.org
 Maintainer: Antonio Carrillo Ledesma <antonio@mmc.geofisica.unam.mx>
 Country: MX Mexico
@@ -4616,7 +4632,7 @@ IPv6: no
 
 Site: ftp.jp.debian.org
 Alias: cdn.debian.or.jp
-Includes: dennou-q.gfd-dennou.org dennou-k.gfd-dennou.org dennou-h.gfd-dennou.org debian.topstudio.co.jp www.oyu-net.jp hanzubon.jp ftp.nara.wide.ad.jp ftp2.jp.debian.org
+Includes: dennou-q.gfd-dennou.org dennou-k.gfd-dennou.org dennou-h.gfd-dennou.org www.oyu-net.jp hanzubon.jp ftp.nara.wide.ad.jp ftp2.jp.debian.org
 Type: Push-Primary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-ftp: /debian/
@@ -5408,23 +5424,6 @@ Maintainer: Per Foreby <perf@ddg.lth.se>
 Country: SE Sweden
 Updates: once
 Bandwidth: 1 Gbps
-
-Site: debian.topstudio.co.jp
-Type: Push-Secondary
-X-Archive-architecture: alpha amd64 arm hppa hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
-Archive-upstream: hanzubon.jp
-Backports-ftp: /debian-backports/
-Backports-http: /debian-backports/
-Backports-rsync: debian-backports/
-Backports-upstream: hanzubon.jp
-Backports-method: push
-IPv6: no
-Maintainer: Kenshi Muto <kmuto@debian.org>
-Country: JP Japan
-Sponsor: Topstudio Corporation http://www.topstudio.co.jp/
-Comment: One of the cdn.debian.or.jp backends. Please access via cdn.debian.or.jp.
 
 Site: hanzubon.jp
 Alias: air.hanzubon.jp
@@ -7534,11 +7533,15 @@ Bandwidth: 100Mbps
 
 Site: mirror.pregi.net
 Type: leaf
+Archive-architecture: amd64 i386
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-upstream: ftp.jaist.ac.jp
 CDImage-architecture: alpha amd64 arm armel hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
-IPv6: yes
 CDImage-upstream: ftp.jaist.ac.jp
+IPv6: yes
 Updates: twice
 Maintainer: PREGINET-OPS <rod@asti.dost.gov.ph>
 Country: PH Philippines
@@ -8138,4 +8141,78 @@ Maintainer: Vladimir Nikolic <vladimir.nikolic@amis.si>, debian-mirrors@amis.si
 Country: SI Slovenia
 Location: Maribor
 Sponsor: Amis http://www.amis.net
+Bandwidth: 1Gbps
+
+Site: mirror.debian.vn
+Type: leaf
+Archive-architecture: amd64 i386
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: ftp.jp.debian.org
+Updates: four
+Maintainer: Debian.VN <contact@debian.vn>
+Country: VN Viet Nam
+Location: Can Tho, Viet Nam
+Sponsor: MAYCHU.NET http://www.maychu.net/
+
+Site: mirrors.liquidweb.com
+Type: leaf
+Archive-architecture: amd64 i386
+Archive-http: /debian/
+Archive-rsync: debian/
+IPv6: no
+Archive-upstream: ftp.egr.msu.edu
+Updates: four
+Maintainer: Mirror Admin <mirror-admin@liquidweb.com>
+Country: US United States
+Location: Lansing, Michigan
+Sponsor: LiquidWeb http://www.liquidweb.com
+Bandwidth: 1Gbps
+
+Site: suro.ubaya.ac.id
+Type: leaf
+Archive-architecture: amd64 armel armhf i386
+Archive-http: /debian/
+Archive-rsync: debian/
+IPv6: no
+Archive-upstream: ftp1.us.debian.org
+Updates: four
+Maintainer: Budiwijaya <budiw_1@yahoo.com>
+Country: ID Indonesia
+Location: Surabaya, Indonesia
+Sponsor: Universitas Surabaya http://www.ubaya.ac.id
+Comment: Connected to IIX/OIXP/SIX with 50Mbps and 10Mbps for International Bandwidth.
+
+Site: debian.mirror.uber.com.au
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc 
+Archive-http: /debian/
+Archive-rsync: debian/
+IPv6: yes
+Archive-upstream: ftp.au.debian.org
+Updates: four
+Maintainer: Seamus Ryan <mirrors@uber.com.au>
+Country: AU Australia
+Location: Sydney, Australia
+Sponsor: UberGlobal http://www.uber.com.au
+Comment: Site is connected to several upstream providers with several gigabit of potential capacity.
+Bandwidth: 1Gbps
+
+Site: mirror.cogentco.com
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc 
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+IPv6: no
+Archive-upstream: mirrors.kernel.org
+CDImage-upstream: mirrors.kernel.org
+Updates: four
+Maintainer: Brad Belanger <mirror-admin@cogentco.com>
+Country: US United States
+Location: Herndon, VA
+Sponsor: Cogent Communications http://www.cogentco.com/
 Bandwidth: 1Gbps

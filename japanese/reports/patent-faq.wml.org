@@ -1,0 +1,597 @@
+#% #use wml::debian::template title="Community Distribution Patent Policy FAQ" BARETITLE="true"
+#use wml::debian::template title="コミュニティディストリビューション特許ポリシー FAQ" BARETITLE="true"
+#use wml::debian::translation-check translation="1.1"
+
+#% <pre><code>Version: 1.0
+#% Published: 8 July 2011
+<pre><code>バージョン: 1.0
+発行: 2011年7月8日
+</code></pre>
+
+#% <h1>Introduction</h1>
+<h1>はじめに</h1>
+
+#% <h2>For whom is this document intended?</h2>
+<h2>この文書は誰に向けたものか?</h2>
+
+#% <p>This document presents information about patents and patent liability useful
+#% for developers working on community distributions of Free and Open Source
+#% Software (FOSS).  By community distributions, we mean collections of free
+#% software packages maintained and distributed by organizations composed of
+#% volunteers, where neither the organization nor the volunteers seek to make a
+#% profit from the activity.  Such community-based distributions may sell as well
+#% as give away their work product, possibly on CDs or USB storage media or by
+#% paid-for downloads as well as by gratis distribution.</p>
+<p>この文書は、特許および特許に関連する法的責務についての有用な情報を、フリーまたはオープンソースソフトウェア (FOSS) のコミュニティディストリビューションに従事する開発者のために提供します。
+この文脈でのコミュニティディストリビューションとは、ボランティアで構成された組織 (いずれも営利目的では活動していない) によって保守・配布される、フリーソフトウェアのパッケージのコレクションを指します。
+そのようなコミュニティベースのディストリビューションは、その成果物を販売ないし寄贈できます。手段としては CD、USB ストレージメディア、課金ダウンロードなどや、無償での配布などによります。
+</p>
+
+#% <p>This document has been prepared by lawyers at the <a href="http://www.softwarefreedom.org">Software Freedom Law
+#% Center</a> (SFLC) at the request of the <a href="http://www.debian.org/">Debian
+#% project</a>, and may be helpful to similar community FOSS
+#% distributions.  Its statements about legal matters are accurate as of the date
+#% of composition regarding US law, and may be applicable to other legal systems.
+#% But this document does not constitute legal advice.  It has not been based on
+#% analysis of any particular factual situation, and any lawyer providing an
+#% opinion on the questions presented below would need to ascertain the particular
+#% facts and circumstances that might vary this information in a particular
+#% setting.  You should not rely upon this document to make decisions affecting
+#% your project's legal rights or responsibilities in a real-life situation
+#% without consulting SFLC or other lawyers.</p>
+<p>この文書は、<a href="http://www.debian.org/">Debian プロジェクト</a>の要請に基づいて <a href="http://www.softwarefreedom.org">Software Freedom Law Center</a> (SFLC) の法律家によって準備がなされてきましたが、類似のコミュニティ FOSS ディストリビューションにとっても役立つことでしょう。
+法的な事項についての記述は、執筆時点における米国法に対しては正確ですが、その他の法制度にも適用できるでしょう。
+ただし、この文書は法的な助言を構成するわけではありません。
+これは特定の事実関係の分析に基づいたものではありません。よって、以降に示すような質問に回答を求められた法律家は、その特定の状況における事実と背後関係を確認する必要があるでしょう。場合によってはここで与えられている情報に変更を要するかもしれません。
+実社会の状況において、あなたのプロジェクトの法的権利や責任に作用する決定を行うに際し、SFLC やその他の法律家に相談することなくこの文書を無条件に頼るべきではありません。</p>
+
+#% <h1>Background on Patents</h1>
+<h1>特許の背景</h1>
+
+#% <h2>What is a patent?</h2>
+<h2>特許とは何か?</h2>
+
+#% <p>A patent is a state-granted monopoly granting an inventor exclusive rights to
+#% make, sell, offer for sale, have made, or import the claimed invention for the
+#% limited term of the patent.  The patent holder may then license, on an
+#% exclusive or non-exclusive basis, one or more of the rights granted.</p>
+<p>特許 (patent) とは、その特許に対して限定された期間、主張される発明の製造・販売・販売権・製造委託・輸入についての独占的な権利を発明家に与える、国家によって許可された独占権です。
+特許保有者は、排他的あるいは非排他的な条件で、上記の権利の 1つないし複数の権利を行使するライセンスを与えることができます。
+</p>
+
+#% <h2>How long is a patent's term?</h2>
+<h2>特許の期間はどのくらいですか?</h2>
+
+#% <p>Generally, patents issued in the last 15 years by most governments expire 20
+#% years from the filing date of the patent application.  US patents with a filing
+#% date before June 8, 1995, provide protection for up to 17 years counting from
+#% the date of grant, or 20 years from the filing date, whichever occurs later.</p>
+<p>一般に、大半の政府によって過去 15 年に発行された特許は特許出願申請日から 20 年で失効します。1995 年 6 月 8 日よりも前に申請された米国特許は、発行日から数えて 17 年、または申請日から 20 年のどちらか遅いほうまで保護されます。</p>
+
+#% <p>There are exceptions.  Patents may have their terms extended by the issuing
+#% office or a court, but this rarely happens for patents on software.  Patent
+#% terms may also be shortened by agreement with the applicant during
+#% <q>prosecution</q>, that is, during the patent office procedure leading to issuance.
+#% If a patent's terms has been shortened during prosecution, a <q>terminal
+#% disclaimer</q> statement will appear on the patent's front page.</p>
+<p>例外はあります。発行局または裁判所により、特許はその期間を延長できることがあります。とはいえ、ソフトウェア特許においてこれが発生することはまれでしょう。
+特許条項は、出願手続中、すなわち発行に先立つ特許局の手続き中に、申請者との合意に基づいて短縮されることもあり得ます。
+特許期間が出願手続き中に短縮されていた場合、<q>terminal disclaimer</q> 声明が特許の最初のページに示されます。</p>
+
+#% <h2>How does patent protection differ from copyright protection?</h2>
+<h2>特許保護と著作権保護はどう違うのですか?</h2>
+
+#% <p>A copyright owner has the right to prevent others from making unauthorized
+#% copies of the copyrighted program, but not from independently creating a
+#% program with the same features.  Independent creation is therefore a complete
+#% defense to an allegation of copyright infringement.  In addition, <q>fair use</q> is
+#% a defense against copyright infringement, or is a substantive limitation of
+#% copyright, in every copyright system.  Patent law lacks any fair use exemption,
+#% so independent creation, use for research, or reverse engineering for
+#% interoperation or educational purposes are not defenses against allegations of
+#% patent infringement.</p>
+<p>著作権権利者は、著作権のあるプログラムの複製を認可を受けずに他者が製造することを妨げる権利を持ちますが、同じ機能を持つプログラムを別個に創成することを妨げる権利はありません。
+別個の創成物はその結果、著作権侵害の申し立てに完全に抗弁します。
+加えて、<q>フェアユース</q>は、いかなる著作権機構においても、著作権侵害申し立てに対する抗弁であり、また著作権の明文化された制約です。
+特許法はフェアユースでの免除を欠いており、独立した製造物、調査目的、相互運用のためのリバースエンジニアリング、教育目的といったことも、特許侵害の主張に対して抗弁になりません。</p>
+
+#% <h2>Is there a world-wide patent on anything?</h2>
+<h2>世界共通特許のようなものはありますか?</h2>
+
+#% <p>At present, no world-wide patents exist.  Outside the European Union, where
+#% applications may be consolidated, patents generally must be applied for in each
+#% country in which patent protection is sought.</p>
+<p>今のところ、世界共通特許は存在しません。出願が一本化され得る EU を除き、特許は一般に、特許保護を求めようとする各国ごとに出願されなければなりません。</p>
+
+#% <h2>What are patent claims?</h2>
+<h2>特許の請求範囲とは何ですか?</h2>
+
+#% <p>Claims, which are the most important part of the patent, determine the actual
+#% scope of the invention to which the patent applies.  Only the claims define
+#% what exclusive rights cover, that is, practicing the claims without license is
+#% infringement.  Reading and understanding the claims of a patent is the key to
+#% determining if a given product or process infringes.</p>
+<p>特許の最も重要な部分である<q>請求範囲</q> (claim) は、特許が適用される発明の実際の範囲を決定します。請求範囲のみが、独占的な権利で保護するものは何かを定義し、認可なしに請求範囲を実践することをその侵害と見なします。
+特許の請求範囲を読んで理解することは、ある製品や手続きが特許を侵害しているかどうかを判断するための鍵となります。
+</p>
+
+#% <p>Each claim is a single sentence. Claims begin with a <q>preamble</q> followed by one
+#% or more <q>limitations</q>.</p>
+<p>各請求範囲は、単一の文です。
+請求項は<q>前段</q> (preamble) で始まり、その後に 1 つないしは複数の<q>制約</q> (limitation) が続きます。
+</p>
+
+#% <p>For software to infringe a patent, the software (or system with embedded
+#% software) must implement everything recited in one of the patent's claims. If
+#% you do not practice one or more of the elements of a claim, then you cannot
+#% directly infringe that claim.</p>
+ソフトウェアが特許侵害と見なされるには、そのソフトウェア (あるいはソフトウェアが組み込まれたシステム) は、その特許の各請求項のすべてを実装している必要があります。もし請求項の 1 つ以上が実装から漏れていれば、直接その特許を侵害していることにはなり得ません。</p>
+
+#% <h2>What are independent claims?</h2>
+<h2>独立請求範囲とは何ですか?</h2>
+
+#% <p>A patent claim is called <q>independent</q>, if it makes no reference to any other
+#% claim in the patent.</p>
+<p>特許の請求範囲は、それが他のどの特許の請求範囲も参照していない場合、<q>独立</q> (independent) と呼ばれます。</p>
+
+#% <h2>What are dependent claims?</h2>
+<h2>従属請求範囲とは何ですか?</h2>
+
+#% <p>Dependent claims explicitly incorporate the contents of other claims in the
+#% patent. A dependent claim is necessarily narrower in scope than the claim on
+#% which it depends, because it includes one or more additional limitations. In
+#% Venn diagram terms, the area of coverage for a dependent claim is fully
+#% contained within the coverage of the claim it references.</p>
+<p>従属請求範囲 (dependent claim) は、その特許内で明示的に他の請求範囲の内容に結合します。
+従属請求範囲は、1 つ以上の追加の制約を含むので、それが依存する請求範囲よりも必然的に範囲がより狭くなります。
+ベン図の用語で言うと、従属請求範囲の適用領域は、それが参照する請求範囲の適用領域で完全に包含されます。</p>
+
+#% <h2>How are software-related patent claims written?</h2>
+<h2>ソフトウェア関連特許の請求範囲はどのように書かれたのですか?</h2>
+
+#% <p>Software-related patent claims in recently-issued patents often take the form
+#% of <q>system</q> or <q>apparatus</q> claims, <q>method</q> claims, and <q>computer program
+#% product</q> or <q>computer-readable medium</q> claims. System claims recite the
+#% elements of a system (which might include one or more computers) as a kind of
+#% machine or static object. Method claims are algorithmic in
+#% form. Computer-readable medium claims typically duplicate the limitations found
+#% in corresponding system or method claims in the patent, but are intended to
+#% cover software embodied in a storage or distribution medium. Computer-readable
+#% medium claims are also often used when claiming inventions that focus on data
+#% structures and user interfaces.</p>
+<p>最近発行された特許におけるソフトウェア関連特許の請求範囲は、<q>システム</q>または<q>装置</q>の請求範囲、<q>手法</q>の請求範囲、<q>コンピュータプログラム製品</q>あるいは<q>コンピュータで読み取り可能なメディア</q>の請求範囲の形をとっています。
+システムの請求範囲は、ある種のマシンまたは静的な物体として、システムの要素 (1 つ以上のコンピュータを含むことがあります) を列挙しています。
+手法の請求範囲は、アルゴリズムの形式をとります。
+コンピュータで読み取り可能なメディアの請求範囲は、概して特許内で関連するシステムまたは手法の請求範囲にあるものと制約が重複しますが、ストレージまたは配布メディア内に収録されたソフトウェアの保護を目的としています。
+コンピュータで読み取り可能なメディアの請求範囲は、しばしばデータ構造やユーザインターフェイスに焦点を当てた発明の請求の際にも使われます。</p>
+
+#% <h1>Infringing a patent</h1>
+<h1>特許の侵害</h1>
+
+#% <h2>What does <q>patent liability</q> mean?</h2>
+<h2><q>特許に関連する法的責務</q>とはどのような意味ですか?</h2>
+
+#% <p>Liability is a legal responsibility that is enforceable by a court.  In this
+#% document we use term <q>patent liability</q> to encompass orders that a court can
+#% give if a party is found to infringe a patent.  For example, once a party is
+#% found to infringe, a court can order that party to pay money to the patent
+#% holder, called <q>damages</q>, and/or an order to stop the infringing conduct, which
+#% is called an <q>injunction</q>.</p>
+<p><q>責務</q> (liability) は、裁判所によって執行可能な法的な責任です。
+この文書においては、私たちは、当事者の特許侵害を認定したときに裁判所が与える命令を含んめて<q>特許に関連する法的責務</q>という言葉を使います。
+たとえば、当事者に特許侵害が認定されると、裁判所はその者に、特許保有者への<q>賠償</q> (damage) と呼ばれる金銭支払い、あるいは<q>差し止め命令</q> (injunction) と呼ばれる侵害行為の停止を命令できます。</p>
+
+#% <h2>What does it mean to <q>infringe</q> a patent?</h2>
+<h2>特許<q>侵害</q>とはどのようなことを意味しますか?</h2>
+
+#% <p>Infringing a patent means practicing one or more of its claims without license.
+#% If someone uses, makes, sells, has made, offers for sale, or imports software
+#% that practices every element taught by a claim in a patent, that patent is
+#% infringed by the software.</p>
+<p>特許侵害 (infringe) とは、その請求範囲の 1 つ以上を認可を受けずに実践することを意味します。
+特許の請求範囲で述べられている全要素を実践するソフトウェアを誰かが使用、製造、販売、製造委託、販売、販売権提供、輸入を行うと、特許はそのソフトウェアに侵害されます。</p>
+
+#% <p>It is possible to be liable for infringement without directly infringing.
+#% <q>Contributing to</q> or <q>inducing</q> infringement also give rise to patent
+#% liability.</p>
+<p>直接の侵害がなくとも侵害の責を負う可能性はあります。
+侵害の<q>寄与</q>または<q>教唆</q>も、特許に関連する法的責務を引き上げます。</p>
+
+#% <h2>What is inducing infringement?</h2>
+<h2>侵害の教唆とは何ですか?</h2>
+
+#% <p><q>Inducing infringement</q> means actively encouraging someone else to infringe a
+#% patent.  Liability requires proving that the party charged intended to cause a
+#% third party to infringe.  Additionally, the inducer must either know the patent
+#% exists, or strongly suspect its existence and make efforts not to know.  If,
+#% for example, documentation is written by someone with knowledge of a patent's
+#% claims, and that documentation explains how to use the program in an infringing
+#% fashion, the instructions might be held to induce infringement.  Where a
+#% community of volunteers maintains a software package, and associated
+#% documentation, unless the volunteers who produce the documentation know of the
+#% patent supposedly infringed, they cannot induce infringement.</p>
+<p><q>侵害の教唆</q> (inducing infringement) とは、他の誰かが特許を侵害するのを積極的に奨励するという意味です。
+責務は、第三者が侵害するよう仕向ける目的を、告発された当事者が提供していることが条件です。
+加えて、教唆者は特許の存在を知っているか、特許の存在を強く疑っていて、かつ特許について知ることがないよう努力していることが条件です。
+もし、たとえば特許の請求範囲について知識を持つ誰かによって文書が書かれ、その文書が特許侵害となるやり方でプログラムの使用方法を説明している場合、その行為は侵害の教唆をはらむ可能性があります。
+ソフトウェアパッケージや関連文書を保守するボランティアコミュニティにおいては、文書を作成するボランティアが特許侵害の疑いがあることを知っているのでない限り、彼ら/彼女らが侵害の教唆に相当することはありません。</p>
+
+#% <h2>What is contributory infringement?</h2>
+<h2>寄与侵害とは何ですか?</h2>
+
+#% <p><q>Contributory infringement</q> means providing material assistance to the
+#% infringement of a patent.  In the context of software, this would mean
+#% providing non-infringing software that could be combined with other software or
+#% hardware to produce an infringing system.  Contributory infringement also
+#% requires knowledge of the patent infringed.  Moreover, if the software has
+#% substantial non-infringing uses, it is not contributory infringement to provide
+#% it, even if it is subsequently used in an infringing combination.</p>
+<p><q>寄与侵害</q> (contributory infringement) とは、特許侵害を手助けする材料を提供することを意味します。
+ソフトウェアの文脈においては、侵害機構を生成するために他のソフトウェアまたはハードウェアと組み合わせることのできる、特許侵害しないソフトウェアを提供することを意味します。
+寄与侵害は、特許侵害の認識も要件です。
+さらに、ソフトウェアが侵害ではない用法を本質的に持つ場合、たとえ侵害のための組み合わせの中で実際に使われていたとしても、そのソフトウェアを提供することは寄与侵害ではありません。</p>
+
+#% <h2>What are the consequences of infringing a patent?</h2>
+<h2>特許侵害の結果はどのようなものですか?</h2>
+
+#% <p>If a party is found to be infringing a patent, courts may order a stop to the
+#% infringing conduct, the payment of damages for past infringement, or both.  In
+#% this document we use term <q>patent liability</q> to encompass all of these
+#% consequences.</p>
+<p>当事者に特許侵害が発覚した場合、裁判所は侵害行為の停止、あるいは過去の侵害についての賠償の支払い (またはその両方) を命令するかもしれません。
+この文書では、私たちは、これらの結果すべてを含んで <q>特許に関連する法的責務</q> (patent liability) という言葉を使います。</p>
+
+#% <h2>What is an injunction?</h2>
+<h2>差し止め命令とは何ですか?</h2>
+
+#% <p>An injunction is a court order to a person or persons to do something or to
+#% refrain from doing something.  Violating an injunction leads to being held in
+#% contempt of court.  Injunctions may be <q>preliminary</q>, to prevent change of
+#% state while litigation is occurring, or <q>permanent</q>, to order or prohibit
+#% conduct as remedy at the end of a lawsuit, once liability has been found.  A
+#% preliminary injunction to prevent infringing conduct during litigation may be
+#% issued if the court finds damages at the end of the case would be insufficient
+#% to protect the patent holder's rights, and if success in the case is held to be
+#% likely, and the public interest would not be harmed by the injunction.  A
+#% permanent injunction to prevent infringing conduct may result from a finding of
+#% infringement liability.</p>
+<p>差し止め命令 (injunction) は、裁判所が個人 (または複数人) に何か行うよう、または何か行うのを控えるよう命令することです。
+差し止め命令に違反することは、法廷侮辱と見なされます。
+差し止め命令は、侵害が進行中の状況での不利益を防止するための<q>仮処分</q> (preliminary) によるものと、結審により法的責任が明確化された後の救済手段としての<q>最終決定</q> (permanent) があります。
+特許保有者の権利を保護するには不十分な状況であることでの損害を裁判所が認定し、差し止めが妥当に思われ、そして公共の利益が差し止め命令によって損われない場合に、係争中の侵害行為を防ぐための仮処分として、差し止め命令が発行されることがあります。
+侵害行為を防ぐための最終決定は、侵害の法的責務の認定結果です。</p>
+
+#% <h2>Can injunctions be issued against FOSS distributions?</h2>
+<h2>差し止め命令は、FOSS ディストリビューションに対して発行されることがありますか?</h2>
+
+#% <p>Yes.  If a FOSS distribution was found to infringe someone's valid patent, a
+#% permanent injunction against continued distribution of the infringing program
+#% or feature might well occur.</p>
+<p>はい。
+FOSS ディストリビューションに誰かの有効な特許の侵害が認定された場合、侵害するプログラムまたは機能の配布を継続することに対して、最終決定の差し止め命令が発生する可能性は十分あります。</p>
+
+#% <p>It is not likely, however, that such an injunction would prevent distribution
+#% of the whole distro, or even of an entire package.  More likely, a feature or
+#% set of features, would have to be disabled, modified so that the software no
+#% longer infringes, or removed entirely, in the country where the finding of
+#% patent infringement was made.</p>
+<p>とはいえ、そのような差し止め命令がディストリビューション全体あるいは全体のパッケージの配布を妨げるとは考えにくいですが。
+ソフトウェアが以降侵害しないように機能または機能セットを無効にするか変更する必要があったり、特許侵害の発生と見なされるような国では全面的に削除したりといった可能性は、よりあり得るでしょう。</p>
+
+#% <p>Further, designing around the patent claims at stake can prevent even a feature
+#% or features from being removed.  Once even one element of a patent claim is no
+#% longer being practiced, as we have said, the patent claim is no longer
+#% infringed.  In US patent litigation, the crucial moment of definition occurs in
+#% what is called a <q><em>Markman</em> hearing</q>, after which the trial court gives a
+#% definitive ruling on what the patent claims at issue mean for the purposes of
+#% that lawsuit.  Once a <em>Markman</em> hearing has happened, and the scope of the
+#% asserted claims have been narrowly and conclusively defined, it becomes much
+#% easier to design around.</p>
+<p>さらに、危険のある特許の請求範囲を避けた設計は、機能 (群) の削除を防止できます。
+特許の請求範囲の要素が 1 つでも実践されていなくなれば、すでに述べたとおり特許の請求範囲を侵害しているとはもはや言えません。
+米国の特許訴訟において、請求項の文言解釈での決定的瞬間は<q>マークマン・ヒヤリング</q>で、その後法廷で問題になっている特許請求項の、この訴訟で使う目的での内容の意味についての判断が下されます。
+マークマン・ヒヤリングが開催され、主張された請求範囲の領域が狭められ決定的な形で定義されれば、それを避けて設計することはずっと容易になります。</p>
+
+#% <h2>What are damages?</h2>
+<h2>損害賠償とは何ですか?</h2>
+
+#% <p>In patent law, damages are money awarded by the court to the plaintiff when the
+#% defendant has been found liable for patent infringement. While the law provides
+#% no maximum damages for patent infringement, it does provide a minimum--the
+#% reasonable royalty for the use made of the invention by the
+#% infringer. Additionally, the court may increase the damages, up to three times
+#% the actual damages, in cases of willful infringement.</p>
+<p>特許法における損害賠償は、特許侵害についての責を被告が負うと見なされたときに、裁判所によって原告に与えられることが認められた金銭です。
+法律は特許侵害の最大損害賠償額を定めてはおらず、最小、すなわち侵害者による発明の取り扱いについての応分の特許権料を定めています。
+加えて、故意の侵害の場合、裁判所は実際の損害の 3 倍まで賠償を引き上げることができます。</p>
+
+#% <h2>What is willful infringement?</h2>
+<h2>故意の侵害とは何ですか?</h2>
+
+#% <p>Infringement is willful if the infringer knew of the patent, unless the
+#% infringer had a good faith belief that the patent was invalid, or that his
+#% conduct did not infringe.  The patent holder must show all the elements of
+#% willfulness, and in the US courts must do so at a higher standard of proof,
+#% which is called <q>clear and convincing evidence</q>.</p>
+<p>侵害者が、特許が無効である、あるいはその行動は侵害ではない、という誠実な確信を持っている場合を除き、侵害者が特許を知っているときに、その侵害は「故意」です。
+特許保有者は故意であるとするすべての構成要素を示さなければならず、米国裁判所においては<q>明確かつ説得力のある証拠</q> (clear and convincing evidence) と呼ばれる、より高い水準の証拠が必要です。</p>
+
+#% <h2>I had no prior knowledge of a patent, can I still be held liable?</h2>
+<h2>事前に特許の認識はありませんでしたが、それでも責を負う可能性はありますか?</h2>
+
+#% <p>Knowledge of a patent is not in general required if the party is charged with
+#% direct infringement.  To be found liable for inducing or contributing to
+#% infringement, as we have said, knowledge of the patent or specific efforts to
+#% avoid learning of the patent is required.</p>
+<p>特許の認識は、もし当事者が直接侵害で告発されている場合、一般には必須ではありません。
+侵害の教唆または寄与の責を負うと見なされるには、前述したように、特許の認識または特許の開示内容を避けるための特定の作用が必要条件です。</p>
+
+#% <p>In practice, patent holders usually request those they believe infringe to take
+#% licenses.  If the party takes the license offered, the holder gets royalties
+#% without suing for them.  If the party declines the license, the patent holder
+#% has put them on notice, and is therefore in a position to claim intentional
+#% infringement, which results in higher damages and the possibility of recovering
+#% attorney's fees.  It is likely but not certain that before any community-based
+#% distribution is sued for patent infringement, it will receive at least one
+#% letter demanding that a license be taken.</p>
+<p>実際には、特許保有者は通常、侵害していると疑わしい対象に対して、認可を得るよう要求します。
+当事者がその提案された認可を取得してくれれば、特許所有者は当事者を告訴する必要なしに特許権使用料を得られます。
+当事者が認可の取得を拒否した場合、特許保有者は彼ら/彼女らに通告し、その結果、より高額の損害賠償と弁護費用補償の可能性につながる、請求範囲を故意に侵害しているという立場に置きます。
+おそらく (確実ではありませんが)、コミュニティベースのディストリビューションは特許侵害で告訴される前に、認可を受けるよう要求する書簡を少なくとも 1 通は受け取るはずです。</p>
+
+#% <h2>What if the infringement was accidental, inadvertent and unintentional?</h2>
+<h2>侵害が偶然や不注意によるものだった場合、あるいは故意ではなかった場合にはどうなりますか?</h2>
+
+#% <p>An unintentional or inadvertent infringement cannot be willful, as we said
+#% above.  Nor can one contribute to or induce an infringement accidentally, as
+#% knowledge and intention are both required.  But one could be liable for direct
+#% infringement, without knowledge or intention, by using or selling or making or
+#% having made infringing software without more.</p>
+<p>前述のとおり、故意でない、または不注意による侵害は故意 (willful) にはなりません。
+意識と意図の両方が必要条件なので、偶然の侵害の寄与あるいは教唆もまた故意にはなりません。
+ただし、意識と意図がなくとも、継続して侵害ソフトウェアを使用、販売、製造、製造委託することで、直接の侵害の責を負う可能性はあります。</p>
+
+#% <h2>How do I become aware of the existence of a patent?</h2>
+<h2>特許の存在にどのように気付くのでしょうか?</h2>
+
+#% <p>There are innumerable ways by which you may become aware of the existence of a
+#% specific patent.  Aside from being directly contacted by a patent holder, you
+#% may learn about a particular patent through a web search or mailing list, or in
+#% connection with your employment, etc.  If you do become aware of a patent that
+#% concerns you, it is best that you speak to an attorney, rather than share such
+#% knowledge or speculation in a public forum.</p>
+<p>
+特定の特許の存在に気付くことになる可能性は、無数にあります。
+特許保有者から直接連絡を受けることは別として、Web の検索やメーリングリスト、あなたの職務でのつながりなどを通して、特定の特許について知る可能性があります。
+あなたに関係する特許に気付いてしまった場合、そのような知識や推測をパブリックフォーラムで共有するよりも、弁護士に話すのが最善です。</p>
+
+#% <h2>What are the defenses available in a patent infringement action?</h2>
+<h2>特許侵害行為に対して可能な防御策は何ですか?</h2>
+
+#% <p>First, there may be many defenses specific to the facts and circumstances of a
+#% particular situation, and it is the lawyer's job to spot and develop those
+#% defenses.  Some defenses are or may be present in most cases, and they include:</p>
+<p>まず、特定の状況下での事実および事情に固有の多数の防御策があると言えますが、それを見つけてそのような防御を発展させるのは法律家の仕事です。
+その中でも次のいくつかの防御策は、ほとんどの場合に使える、あるいは使える可能性があります:</p>
+
+#% <p>Permission: You are not liable for infringement if you have permission to use
+#% the claims.  Such permission could be explicit.  An explicit permission is
+#% called a <q>license</q>.  Permission can also be implicit: it can result from
+#% conduct or statements by the patent holder which appeared to constitute
+#% permission and on which you relied.  (Lawyers call this <q>estoppel</q>.)  It can
+#% also result from sheer inaction by the patent holder, who can effectively
+#% permit infringing conduct by <q>going to sleep on its rights</q>, which lawyers call
+#% <q>laches</q>.</p>
+<p>許可: 
+あなたが請求範囲の利用許可を持っているならば、あなたは侵害の責を負いません。
+そのような許可は明示的である場合があります。
+明示的な許可は<q>ライセンス</q> (license) と呼ばれます。
+許可は暗黙のものである場合もあります。
+これは、あなたが依存する許可を構成すると考えられる、特許保有者の行為または言明に起因します (法律家はこれを<q>禁反言</q> (estoppel) と呼んでいます)。
+法律家が<q>懈怠</q> (laches) と呼ぶ、<q>その権利の上で寝ようとする</q>ことで事実上侵害行為を許可してしまっている、特許保有者の完全な怠慢に起因することもあります。</p>
+
+#% <p>Non-Infringement: A non-infringement determination is a showing that none of
+#% the patent claims actually <q>read on</q> the software charged. In other words, the
+#% software does not actually implement every element of what is recited in any
+#% claim.</p>
+<p>非侵害: 非侵害の裁定は、どの特許の請求範囲も実際に被疑ソフトウェアを<q>包含</q> (read on) していないことを示すことです。
+言い換えると、ソフトウェアが、何かの請求範囲に列挙された要素のいずれも実際に実装していないということです。</p>
+
+#% <p>Invalidity: If the patent is invalid, it cannot be infringed.  Invalidity can
+#% be shown by proving that the subject matter of the patent is outside the scope
+#% of patent law.  It can also be shown by demonstrating, under US law, that the
+#% patent is <q>non-novel</q> or <q>obvious</q>.  Under patent law, in order for a patent to
+#% be valid, the claimed invention must have been useful, reducible to practice,
+#% novel, and non-obvious to a <q>person having ordinary skill in the art</q> at the
+#% time that the invention was made. An invalidity defense, therefore, shows that
+#% the patent failed to meet one of these requirements.</p>
+<p>無効: 特許が無効であるなら、それが侵害されることもありません。
+無効は、特許の主題が特許法の範囲外にあるという証明を示して請求できます。
+米国法下では、特許に<q>新規性がない</q> (non-novel) あるいは<q>自明</q> (obvious) であると論証することでも示せます。
+特許法においては、特許を有効なものにするために、主張される発明が、それが発明された時点で<q>同分野において通常の技能を持つ同業者</q> (person having ordinary skill in the art) に有用で、実践を再現でき、新規性があって、自明ではないものでなければなりません。
+そのため、無効抗弁では、特許がこれらの要件のどれかに適合していないことをを示すことになります。</p>
+
+#% <h1>The patent risk to a community distribution</h1>
+<h1>コミュニティディストリビューションに対する特許リスク</h1>
+
+#% <h2>Can you provide examples of patent infringement suits against FOSS communities?</h2>
+<h2>FOSS コミュニティに対しての特許侵害訴訟の例を挙げられますか?</h2>
+
+#% <p>No.  Fortunately, few such cases exist, and none has yet developed to final
+#% judgment.  To date, no court has ever addressed most of the issues unique to
+#% free software distribution. We believe that this is because FOSS communities do
+#% not have <q>deep pockets</q> from which to pay royalties, and suing individual
+#% developers who do not have large revenues makes bad press for patent holders
+#% without achieving any useful outcome.</p>
+<p>いいえ。幸いにも、そのような訴訟事件はごくわずかにあったものの、まだ最終審理まで発展したものはありません。
+今までのところ、争点のほとんどについて、フリーソフトウェアディストリビューションに特有のものであると裁判所が扱ったことはありません。
+私たちは、これは FOSS コミュニティが特許権使用料を払うだけの<q>十分な資力</q>を持たず、大きな収入を得ているわけではない個々の開発者を告訴することは、何ら有用な成果の達成なく特許保有者に悪評をもたらすだけだからと考えています。</p>
+
+#% <h2>We are a FOSS distribution and we don't make any money.  How will we pay damages if they are awarded against us?</h2>
+<h2>私たちは FOSS ディストリビューションであり、収益は何もありません。もし裁判所が賠償を認めた場合、どのように私たちはそれを支払うのでしょうか?</h2>
+#% <p>This question, like all other similar questions about the legal risks and
+#% responsibilities of projects, depends very much on the details of their legal
+#% structure and commercial relations.  There is no general answer about how
+#% projects deal with their legal risks, including the risks of damages judgments
+#% for patent infringement or other liabilities.
+#% <a href="http://www.softwarefreedom.org">SFLC</a>, the <a href="http://sfconservancy.org/">Software Freedom
+#% Conservancy</a>, the <a href="http://www.apache.org/">Apache Software
+#% Foundation</a>, the <a href="http://www.fsf.org">Free Software
+#% Foundation</a>, <a href="http://www.spi-inc.org/">Software in the Public
+#% Interest</a> and other organizations help projects to fit
+#% within legal contexts and organizations that can usefully address these
+#% questions at a general level.  If your distribution or a project within your
+#% distribution believes that it faces potential legal liability, you should
+#% consult us or one of the other organizations named.</p>
+<p>
+法的リスクやプロジェクトの責任についての他のすべての類似の問題と同様に、この問題はそのプロジェクトの法的構成や取引関係といった細部に強く依存します。
+特許侵害による賠償判決のリスクやその他の責務を含め、プロジェクトがどのように法的リスクを扱うかの一般的な解はありません。
+<a href="http://www.softwarefreedom.org">SFLC</a>、<a href="http://sfconservancy.org/">Software Freedom Conservancy</a>、<a href="http://www.apache.org/">Apache Software Foundation</a>、<a href="http://www.fsf.org">Free Software Foundation</a>、<a href="http://www.spi-inc.org/">Software in the Public Interest</a>、その他の組織は、プロジェクトを法的な文脈に置き、組織がこれらの疑問を解決できるよう、一般的なレベルでの手助けをします。
+あなたのディストリビューションまたはディストリビューション内のプロジェクトが潜在的な法的責務に直面しているという確信があるなら、私たちか、上記に挙げた組織に相談すべきです。</p>
+
+#% <h2>We are a FOSS distribution and we make money. Does that make us more susceptible to a patent infringement suit?</h2>
+<h2>私たちは FOSS ディストリビューションであり、収益があります。このことで、特許侵害訴訟をより受けやすくなりますか?</h2>
+
+#% <p>Anyone making revenue is a more attractive target for a patent holder to sue
+#% than someone who makes no money out of which damages could be paid.  A
+#% community distribution that has absolutely no revenue is not an attractive
+#% target.  But even if you make a few hundred thousand dollars a year in sales,
+#% compared to a profit-making enterprise the size of Microsoft, or even Red Hat,
+#% you are not worth the expenses of litigation to a patent troll or other
+#% rational plaintiff.</p>
+<p>収入を得ている人は誰でも、告訴しようとしている特許所有者にとって、賠償を支払うだけの収入を得ていない他者よりもずっと人目を引くターゲットとなります。
+まったく収入を得ていないコミュニティディストリビューションは、魅力的なターゲットではありません。
+とはいえ、仮にあなたが年間数十万ドルの売上を得ていたとしても、Microsoft (あるいは Red Hat) の営利企業の規模に比較すれば、いわゆる特許ゴロにとってもまっとうな原告にとっても、訴訟費用を使う価値があなたにあるとは思えません。</p>
+
+#% <h2>I have heard that distributing source code is safer than distributing object code. Is that true?</h2>
+<h2>ソースコードの配布は、オブジェクトコードの配布よりもより安全だと聞きました。本当ですか?</h2>
+
+#% <p>Yes.  Distributing source code is probably safer than distributing binaries,
+#% for a few reasons.  First, source code, like the patent disclosures themselves,
+#% teaches how the invention works, rather than being the invention.  If source
+#% code standing alone can infringe the patent, it is difficult to understand how
+#% handing out photocopies of the patent itself wouldn't infringe.  Second, in the
+#% US, courts <em>may</em> find source code to be speech, as we believe they should find,
+#% thus making source code subject to First Amendment protection.  We know little
+#% about how the Supreme Court would harmonize the patent law with First Amendment
+#% requirements.  We at SFLC have written several briefs in the Supreme Court
+#% addressing these issues, but the Court has never reached or decided them.
+#% Furthermore, as mentioned above, liability for patent infringement can be
+#% imposed where one enables or encourages another to infringe a patent, but the
+#% requirements of knowledge and intent are more strict in secondary liability
+#% situations. Because a user must first compile the source code and install the
+#% software in order to infringe, a court is less likely to hold the community
+#% liable for inducing or contributing to the infringement.</p>
+<p>はい。ソースコードの配布は、いくつかの理由からおそらくバイナリの配布よりもより安全です。
+まず、ソースコードは、特許公開そのものと同様、発明そのものというよりは発明がどのように動作するかを示すものです。
+ソースコード単体で特許を侵害できるのであれば、特許のコピーを渡すことは侵害ではない、というのを理解することは難しくなります。
+次に、米国において裁判所はソースコードを言論と捉える<em>可能性があり</em> (私たちはそう捉えるべきだと確信していますが)、そうであればソースコードの作成は、米国憲法修正第 1 項 (すなわち言論の自由) に基づくことになります。
+私たち SFLC はこれらの論点を申し入れた摘要書数通を最高裁判所に送ってきましたが、裁判所には未だ届いていないか、決定はされていないようです。
+なお、前述したように、別の誰かが特許侵害することを可能にするか助長した場合に特許侵害の法的責務を課される可能性はありますが、認識および意図の要件は、そのような二次的な責務という立場においてはより厳正となります。
+と言うのも、ユーザは侵害を行うためには最初にソースコードをコンパイルしてインストールしなければならず、裁判所がコミュニティに侵害の教唆、寄与の責務があると見なすとは思い難いからです。</p>
+
+#% <h2>As part of a community distribution project, who is most likely to get sued for patent infringement?</h2>
+<h2>コミュニティディストリビューションプロジェクトの関係者として、特許侵害で最も告訴され得る人は誰ですか?</h2>
+
+#% <p>This is a problem for the potential patent aggressor, more than for the
+#% distribution.  A community distribution comprised by volunteers, without any
+#% hierarchical structure of employment or supervision, cannot be sued by suing
+#% <q>the head</q>.  If infringement requires intent and knowledge or specific efforts
+#% not to know, as it does in cases of inducing or contributing to infringement,
+#% the individual with such intent and knowledge must probably be found and sued
+#% in his own person.  If people who write code and documentation don't read
+#% patents, and the volunteers who develop code for a package do not maintain the
+#% same package or a related package, the aggressor may find it difficult to sue
+#% anybody at all.</p>
+<p>これはディストリビューションというよりも潜在的な特許侵略者にとっての問題です。
+コミュニティディストリビューションは、雇用や監督といった階層構造のないボランティアで構成されているので、<q>トップ</q>を告訴する、という告訴はできません。
+侵害が意図と認識、あるいは知られていない特定の作用を必要とし、そのような侵害の教唆または寄与が行われた場合、おそらくはそのような意図や認識を持つ個人を見つけて彼/彼女個人を告訴する必要があります。
+コードや文書を書く人が特許を読まず、またあるパッケージのコードを開発するボランティアがそのパッケージや関連パッケージを保守していない、ということであれば、攻撃者は結局、誰かを告訴するのは困難だと気付くでしょう。</p>
+
+#% <p>The specifics of any given situation, however, will undoubtedly be crucial.  As
+#% with all other matters of the kind, if you believe a patent is likely to be
+#% asserted against your distribution or its volunteers, you should contact SFLC
+#% or another lawyer immediately.</p>
+<p>しかしながら、どの状況においても、その詳細が間違いなく決定的に重要です。この種のあらゆる件と同様に、もしあなたのディストリビューションや貢献者に対して特許が行使されそうである、と考えられるなら、今すぐ SFLC または他の法律家に連絡すべきです。</p>
+
+#% <h2>Are you suggesting that it is better for developers and contributors not to read patents? If yes, why?</h2>
+<h2>あなたは開発者や貢献者に特許を読まないほうがましと示唆しているのですか? もしそうなら、それはなぜですか?</h2>
+
+#% <p>Yes. Unfortunately, U.S. patent law creates disincentives for searching through
+#% patents, even though one of the main justifications given for the patent system
+#% is that the patent teaches the public how to practice an invention that might
+#% otherwise be secret.  <q>Willful</q> infringement subjects the infringer to enhanced
+#% damages when they are aware of the patent and intend to infringe, and reading
+#% patents increases the probability that subsequent infringement will be found to
+#% be willful. Moreover, we find that developers often assume that the patents
+#% they discover are broader in scope than they actually are, and thus such
+#% developers become overly or needlessly worried. If, despite this, you do intend
+#% to conduct a patent search, you should seek legal advice first.</p>
+<p>はい。残念ながら米国の特許法は、特許をくまなく調査することに負のインセンティブを作ってしまいました。特許機構に与えられた主たる根拠の 1 つが、特許はそのままでは秘密のままだったかもしれない発明をどのように実践するかを公衆に教示するものである、ということにもかかわらずです。
+特許に気付いていながら侵害を目論んでいたとき、<q>故意</q> (willful) の侵害行為は侵害者の損害賠償を引き上げることになります。つまり、特許を読むということは、その後の侵害行為を故意と見なされる確率を上げることに他なりません。
+その上、私たちは、開発者がしばしば、彼ら/彼女らの発見した特許が実際よりもより広範囲なものであると仮定し、それゆえに過度にあるいは不必要に恐れてしまっているのを目にしています。それでも特許検索を行おうというのであれば、まずは法的な助言を求めるべきです。</p>
+
+#% <h2>I am outside the United States. Do I have anything to worry about?</h2>
+<h2>私は米国外にいます。何か心配したほうがよいことはありますか?</h2>
+
+#% <p>Although most countries are members of the World Intellectual Property
+#% Organization (WIPO) as well as signatories to the Patent Cooperation Treaty
+#% (PCT), large corporations generally restrict their patent acquisition
+#% activities to the <q>Big Three</q>: the US, EU, and Japan. This is considered
+#% sufficient protection for most companies, although companies are increasingly
+#% filing patent applications in China with the hope that patent rights will
+#% eventually be adequately respected by the government and business
+#% communities. In addition, large multi-national corporations in other
+#% jurisdictions, such as Korea and Canada, will usually file patent applications
+#% in their own countries before filing patent applications internationally.  In
+#% India, some software has been patented despite the clear statutory declaration
+#% that software <em>per se</em> is unpatentable.  SFLC in India has begun challenging
+#% such patents.</p>
+<p>ほとんどの国は世界知的所有権機関 (WIPO; World Intellectual Property Organization) に加盟しており、特許協力条約 (PCT; Patent Cooperation Treaty) に調印していますが、大企業は一般にその特許取得活動を<q>ビッグスリー</q>、すなわち 米国、EU、そして日本に限定しています。
+これはほとんどの企業にとっては十分な保護と考えられています (やがては特許権が政府およびビジネスコミュニティによってまずまず尊重されるであろうという期待を込めて、中国において企業の特許出願の提出が増加してはいますが)。
+加えて、韓国やカナダのようなその他の管轄権内で活動する大規模な多国籍企業は、通常、特許出願を国際的に提出する前に自国で提出します。
+インドでは、「ソフトウェア<em>そのもの</em>は特許を受けることができない」と明確に法令で宣言されているにもかかわらず、いくつかのソフトウェアが特許化されています。
+インドの SFLC は、そのような特許に対して異議申し立てを始めています。</p>
+
+#% <p>But regardless of where you work, software that infringes patents cannot be
+#% imported into countries where those patents have issued, which means that you
+#% must at least be concerned about the ability to reach your intended users.</p>
+<p>しかし、どこであなたが活動しているにせよ、特許を侵害するソフトウェアはそのような特許が発行されている国で輸入できません。つまり、少なくともあなたの想定するユーザに広がる可能性について考慮する必要があるということです。</p>
+
+#% <p>As always, consultation with a local lawyer is a good step if you have any
+#% questions about your situation or liabilities.</p>
+<p>例のごとく、あなたの立場や法的責務について疑問がある場合は、地域の法律家に相談することが適切な手段です。</p>
+
+#% <h2>Are there any guidelines to limit our risk of patent infringement?</h2>
+<h2>特許侵害による私たちの危険を限定するためのガイドラインはありますか?</h2>
+
+#% <p>Yes.  This document is meant to educate about patent risk, and while it is
+#% difficult to give advice regarding every reader's specific situation, there are
+#% a few guidelines that may be extracted.</p>
+<p>はい。この文書は特許リスクを啓発することを目論んでいます。読者各自の特定の状況についてアドバイスを与えることは困難ですが、ピックアップできるいくつかのガイドラインがあります。</p>
+
+<ul>
+#% <li><p>Reading patents, especially when researching how to design a contribution to
+#% your free software project, may expose communities to liability that they
+#% would not otherwise have.</p></li>
+<li><p>特許を読むことは、特にフリーソフトウェアプロジェクトに寄贈しようとするものをどのように設計すべきか調査しているとき、コミュニティを本来は不必要だった法的責務にさらすかもしれません。</p></li>
+#% <li><p>Parts of a free software community that distribute source code and not object
+#% code probably have slightly less patent risk.</p></li>
+<li><p>ソースコードを配布してオブジェクトコードを配布しないという一部のフリーソフトウェアコミュニティは、抱える特許リスクはやや少ないでしょう。</p></li>
+#% <li><p>Distributing free software commercially is probably more risky than
+#% distributing software gratis.</p></li>
+<li><p>フリーソフトウェアを商業的に配布することは、おそらくソフトウェアを無料で配布するよりも危険が高まります。</p></li>
+#% <li><p>Having the ability to remove features and packages quickly and easily from
+#% distribution will help mitigate any damages the community could incur.</p></li>
+<li><p>ディストリビューションから機能やパッケージを迅速かつ容易に削除する能力を持つことは、コミュニティが被り得る損害の緩和の助けになります。</p></li>
+#% <li><p>Patent litigation is not an amateur sport.  If you are contacted by anyone
+#% threatening to assert a patent against you, contact the Software Freedom Law
+#% Center or another qualified attorney as soon as possible.</p></li>
+<li><p>特許訴訟はアマチュアスポーツではありません。もしあなたに対して特許を主張する恐れがある誰かからの連絡を受けたら、Software Freedom Law Center か、その他の有資格の弁護士にできる限り速やかに相談してください。</p></li>
+</ul>
+
+<hr />
+
+#% <p><strong>Acknowledgements.</strong> This document has been prepared by lawyers at SFLC, with
+#% inputs from Stefano Zacchiroli, on behalf of the Debian Project.</p>
+<p><strong>謝辞:</strong> この文書は、Debian プロジェクトのために、Stefano Zacchiroli からの意見提供と併せて SFLC の法律家によって用意されました。</p>

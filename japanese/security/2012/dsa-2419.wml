@@ -42,4 +42,4 @@ k5login タイプが意図しない場所に書き込みを行うため、k5logi
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2419.data"
-# $Id: dsa-2419.wml,v 1.1 2012-02-27 20:00:26 taffit Exp $
+# $Id: dsa-2419.wml,v 1.1 2012-03-05 01:05:53 kmuto Exp $
