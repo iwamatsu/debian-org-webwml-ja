@@ -81,4 +81,4 @@ Apache を再起動する必要があることに留意ください。特に mod
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2480.data"
-# $Id: dsa-2480.wml,v 1.2 2012-05-30 12:19:53 kaare Exp $
+# $Id: dsa-2480.wml,v 1.1 2012-06-17 01:44:15 kmuto Exp $
