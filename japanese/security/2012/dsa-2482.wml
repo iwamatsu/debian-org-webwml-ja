@@ -32,4 +32,4 @@ Vreixo Formoso さんにより、さまざまな Google サービスへのアク
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2482.data"
-# $Id: dsa-2482.wml,v 1.1 2012-06-02 13:08:44 taffit Exp $
+# $Id: dsa-2482.wml,v 1.1 2012-06-25 03:22:05 kmuto Exp $

@@ -64,4 +64,4 @@ Iceweasel 3.5 の安定版でのセキュリティサポートは継続します
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2488.data"
-# $Id: dsa-2488.wml,v 1.1 2012-06-07 21:38:49 taffit Exp $
+# $Id: dsa-2488.wml,v 1.1 2012-06-25 03:32:32 kmuto Exp $

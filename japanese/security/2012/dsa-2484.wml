@@ -25,4 +25,4 @@ Sebastian Pohle さんにより、ネットワーク UPS ツール (NUT) サー�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2484.data"
-# $Id: dsa-2484.wml,v 1.1 2012-06-02 12:52:51 taffit Exp $
+# $Id: dsa-2484.wml,v 1.1 2012-06-25 03:24:09 kmuto Exp $

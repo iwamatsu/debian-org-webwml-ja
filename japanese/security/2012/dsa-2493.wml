@@ -57,4 +57,4 @@ alwaysauthreject オプションを設定していないことが発見されま
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2493.data"
-# $Id: dsa-2493.wml,v 1.1 2012-06-13 02:00:39 taffit Exp $
+# $Id: dsa-2493.wml,v 1.1 2012-06-25 03:35:34 kmuto Exp $

@@ -27,4 +27,4 @@ Kaspar Brand さんにより、Mozilla's Network Security Services (NSS) ラ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2490.data"
-# $Id: dsa-2490.wml,v 1.1 2012-06-07 21:21:49 taffit Exp $
+# $Id: dsa-2490.wml,v 1.1 2012-06-25 03:33:16 kmuto Exp $

@@ -25,4 +25,4 @@ Cisco AnyConnect VPN 向けクライアント OpenConnect に、サービス拒�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2495.data"
-# $Id: dsa-2495.wml,v 1.1 2012-06-16 16:30:35 taffit Exp $
+# $Id: dsa-2495.wml,v 1.1 2012-06-25 03:37:26 kmuto Exp $

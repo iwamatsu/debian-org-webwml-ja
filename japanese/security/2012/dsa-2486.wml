@@ -22,4 +22,4 @@ DNS サーバ BIND に、データを含まないリソースレコードの処�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2486.data"
-# $Id: dsa-2486.wml,v 1.1 2012-06-05 21:21:47 taffit Exp $
+# $Id: dsa-2486.wml,v 1.1 2012-06-25 03:31:08 kmuto Exp $

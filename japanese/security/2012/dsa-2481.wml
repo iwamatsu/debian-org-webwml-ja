@@ -32,4 +32,4 @@ Red Hat 社の Steve Grubb さんにより、arpwatch の root 権限を落と�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2481.data"
-# $Id: dsa-2481.wml,v 1.1 2012-06-02 13:08:24 taffit Exp $
+# $Id: dsa-2481.wml,v 1.1 2012-06-25 03:22:39 kmuto Exp $

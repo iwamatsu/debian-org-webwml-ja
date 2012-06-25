@@ -45,4 +45,4 @@ pgcrypto contrib モジュールの crypt(text, text) 関数が、一部
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2491.data"
-# $Id: dsa-2491.wml,v 1.2 2012-06-09 13:45:44 fw Exp $
+# $Id: dsa-2491.wml,v 1.2 2012-06-25 03:34:07 kmuto Exp $

@@ -32,4 +32,4 @@ PHP の Phar 機能拡張が細工された tar 形式のファイルを正し�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2492.data"
-# $Id: dsa-2492.wml,v 1.1 2012-06-10 16:46:57 taffit Exp $
+# $Id: dsa-2492.wml,v 1.1 2012-06-25 03:34:51 kmuto Exp $

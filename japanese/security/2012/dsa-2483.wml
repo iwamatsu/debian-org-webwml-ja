@@ -39,4 +39,4 @@ OpenSSL プラグインを使うようになっているため、Debian から�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2483.data"
-# $Id: dsa-2483.wml,v 1.1 2012-05-31 18:06:36 taffit Exp $
+# $Id: dsa-2483.wml,v 1.1 2012-06-25 03:23:11 kmuto Exp $
