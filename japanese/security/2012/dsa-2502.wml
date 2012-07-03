@@ -29,4 +29,4 @@ Python 向け暗号アルゴリズムとプロトコルライブラリ PythonCry
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2502.data"
-# $Id: dsa-2502.wml,v 1.1 2012-06-24 22:18:05 taffit Exp $
+# $Id: dsa-2502.wml,v 1.1 2012-07-03 01:03:40 kmuto Exp $

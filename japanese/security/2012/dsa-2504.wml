@@ -28,4 +28,4 @@ Spring フレームワークの Extression Language (EL) 処理に、情報の�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2504.data"
-# $Id: dsa-2504.wml,v 1.1 2012-06-28 21:52:37 kaare Exp $
+# $Id: dsa-2504.wml,v 1.1 2012-07-03 01:04:30 kmuto Exp $

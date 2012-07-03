@@ -30,4 +30,4 @@ DHCP クライアント dhcpcd に、スタックオーバフローの欠陥が�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2498.data"
-# $Id: dsa-2498.wml,v 1.1 2012-06-24 22:52:23 taffit Exp $
+# $Id: dsa-2498.wml,v 1.1 2012-07-03 01:02:13 kmuto Exp $

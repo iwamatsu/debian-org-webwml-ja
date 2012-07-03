@@ -56,4 +56,4 @@ Xen は AMD Erratum #121 の欠陥のある古い AMD CPU を検出していま�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2501.data"
-# $Id: dsa-2501.wml,v 1.1 2012-06-24 20:36:39 taffit Exp $
+# $Id: dsa-2501.wml,v 1.1 2012-07-03 01:03:15 kmuto Exp $

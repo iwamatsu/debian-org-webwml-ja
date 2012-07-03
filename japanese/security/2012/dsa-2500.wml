@@ -64,4 +64,4 @@ delete_attachments_threshold パーミッションをチェックしていませ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2500.data"
-# $Id: dsa-2500.wml,v 1.1 2012-06-24 13:55:47 taffit Exp $
+# $Id: dsa-2500.wml,v 1.1 2012-07-03 01:02:56 kmuto Exp $
