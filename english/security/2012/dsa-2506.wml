@@ -1,6 +1,6 @@
 <define-tag description>ModSecurity bypass</define-tag>
 <define-tag moreinfo>
-<p>Qualys Vulnerability & Malware Research Labs discovered a vulnerability in
+<p>Qualys Vulnerability &amp; Malware Research Labs discovered a vulnerability in
 ModSecurity, a security module for the Apache webserver. In situations where
 both <q>Content:Disposition: attachment</q> and <q>Content-Type: multipart</q> were
 present in HTTP headers, the vulnerability could allow an attacker to bypass
@@ -24,4 +24,4 @@ modsecurity-apache.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2506.data"
-# $Id: dsa-2506.wml,v 1.1 2012-07-02 21:24:47 taffit Exp $
+# $Id: dsa-2506.wml,v 1.2 2012-07-04 15:01:42 taffit Exp $
