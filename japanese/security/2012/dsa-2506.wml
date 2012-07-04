@@ -40,4 +40,4 @@ modsecurity-apache に名称変更されています。
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2506.data"
-# $Id: dsa-2506.wml,v 1.1 2012-07-02 21:24:47 taffit Exp $
+# $Id: dsa-2506.wml,v 1.1 2012-07-04 13:01:26 kmuto Exp $

@@ -26,4 +26,4 @@ PHP ライブラリ Zend Framework の XML 外部エンティティ取り込み�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2505.data"
-# $Id: dsa-2505.wml,v 1.1 2012-07-02 05:27:01 kaare Exp $
+# $Id: dsa-2505.wml,v 1.1 2012-07-04 13:01:48 kmuto Exp $
