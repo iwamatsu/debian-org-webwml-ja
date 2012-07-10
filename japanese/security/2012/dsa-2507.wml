@@ -78,4 +78,4 @@ XML パーザでの入力のサニタイズ漏れにより、無限ループに�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2507.data"
-# $Id: dsa-2507.wml,v 1.2 2012-07-04 16:55:03 kaare Exp $
+# $Id: dsa-2507.wml,v 1.1 2012-07-10 22:09:43 kmuto Exp $
