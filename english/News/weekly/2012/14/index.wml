@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-07-12" SUMMARY="New design, DebCamp, UDD update, bits from the DPL"
 
-# $Id: index.wml,v 1.1 2012-07-12 19:39:16 taffit Exp $
+# $Id: index.wml,v 1.2 2012-07-16 06:37:07 ayanokouzi-guest Exp $
 # $Rev: 3866 $
 # Status: [frozen]
 
@@ -97,7 +97,7 @@ The Debian Maintainer Dashboard is in its early days and is waiting for contribu
 <br />
 In related news, UDD has been
 <a href="https://lists.debian.org/debian-qa/2012/06/msg00085.html">migrated to
-ullman</a>,
+ullmann</a>,
 one of the new machines recently set up by DSA.
 </p>
 
