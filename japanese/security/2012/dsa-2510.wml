@@ -38,4 +38,4 @@ John Leitch has さんにより、とても多機能なウェブサーバファ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2510.data"
-# $Id: dsa-2510.wml,v 1.1 2012-07-13 00:52:36 luciano Exp $
+# $Id: dsa-2510.wml,v 1.1 2012-07-17 14:23:17 kmuto Exp $
