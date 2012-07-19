@@ -79,4 +79,4 @@ Iceweasel 3.5 の安定版でのセキュリティサポートは継続します
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2514.data"
-# $Id: dsa-2514.wml,v 1.1 2012-07-17 20:29:29 kaare Exp $
+# $Id: dsa-2514.wml,v 1.1 2012-07-19 08:13:02 kmuto Exp $
