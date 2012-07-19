@@ -5,7 +5,7 @@
 ## * Use "sent" if the issue has been sent our; furhter changes should now
 ##   be done in Debian's webwml repository
 # Status: [open-for-edit|content-frozen|sent]
-# $Id: 20120716.wml,v 1.1 2012-07-18 17:40:48 neilm Exp $
+# $Id: 20120716.wml,v 1.2 2012-07-19 05:11:57 boutil-guest Exp $
 # $Rev: 3686 $
 
 ##
@@ -63,11 +63,11 @@ project from the Central American region.</q>
 </p>
 <p>
 Gaudenz Steinlin from the DebConf team said:
-<blockquote>
+<q>
 I'm very impressed with this year's team of local and Debian organizers who
 worked together to produce this vital event in Debian's calendar. I'm excited
 to welcome everyone again in Switzerland next year.
-</blockquote>
+</q>
 </p>
 <p>
 DebConf in 2013 will be held in Le Camp, Vaumarcus, Switzerland which will
