@@ -55,4 +55,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2511.data"
-# $Id: dsa-2511.wml,v 1.1 2012-07-17 06:39:34 kaare Exp $
+# $Id: dsa-2511.wml,v 1.1 2012-07-19 08:10:27 kmuto Exp $

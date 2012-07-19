@@ -26,4 +26,4 @@ Marcus Meissner さんにより、Mono パッケージに収録されたウェ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2512.data"
-# $Id: dsa-2512.wml,v 1.1 2012-07-17 06:39:51 kaare Exp $
+# $Id: dsa-2512.wml,v 1.1 2012-07-19 08:11:11 kmuto Exp $
