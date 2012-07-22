@@ -32,4 +32,4 @@ noncanonical アドレスを戻りアドレスに設定した場合の FreeBSD �
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2508.data"
-# $Id: dsa-2508.wml,v 1.1 2012-07-22 17:19:32 kaare Exp $
+# $Id: dsa-2508.wml,v 1.1 2012-07-22 21:39:04 kmuto Exp $
