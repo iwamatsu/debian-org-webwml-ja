@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-01-09" SUMMARY="Debian Edu/Skolelinux 6.0.3 beta2, bits from the DPL, new Debian Infographic, new Debtags web interface"
 
-# $Id: index.wml,v 1.2 2012-01-13 15:37:47 madamezou Exp $
+# $Id: index.wml,v 1.3 2012-07-26 03:01:02 ayanokouzi-guest Exp $
 # $Rev: 2934 $
 # Status: [frozen]
 
@@ -278,7 +278,7 @@ Leo Iannacone
 	into our project!</p>
 
 
-<toc-add-entry name="rcstats">Release-critical bugs statistics for the upcoming release</toc-add-entry>
+<toc-add-entry name="rcstats">Release-Critical bugs statistics for the upcoming release</toc-add-entry>
 
 	<p>According to the <a href="http://udd.debian.org/bugs.cgi">Bugs Search
         interface of the Ultimate Debian Database</a>, the upcoming release,

@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.4 2011-10-30 02:13:49 taffit Exp $
+$Id: index.wml,v 1.5 2012-07-26 03:00:58 ayanokouzi-guest Exp $
 $Rev: 1362 $
 Status: content-freeze 
   -->
@@ -338,7 +338,7 @@ non-packaging Debian Developer</a>!</p>
 
 
 
-<toc-add-entry name="rcstats">Release-critical bugs statistics for the upcoming release</toc-add-entry>
+<toc-add-entry name="rcstats">Release-Critical bugs statistics for the upcoming release</toc-add-entry>
 
 	<p>According to the <a href="http://udd.debian.org/bugs.cgi">Bugs Search
         interface of the Ultimate Debian Database</a>, the upcoming release,
