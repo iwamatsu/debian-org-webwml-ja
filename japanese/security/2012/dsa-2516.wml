@@ -47,4 +47,4 @@ Glen Eustace さんにより、少なくとも DHCPv6 モードで実行中の D
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2516.data"
-# $Id: dsa-2516.wml,v 1.1 2012-07-26 16:32:24 taffit Exp $
+# $Id: dsa-2516.wml,v 1.1 2012-07-28 01:32:36 kmuto Exp $
