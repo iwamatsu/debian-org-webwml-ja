@@ -25,4 +25,4 @@ Henrik Erkkonen さんにより SSH のための制限付きシェルである r
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2530.data"
-# $Id: dsa-2530.wml,v 1.1 2012-08-15 21:15:57 taffit Exp $
+# $Id: dsa-2530.wml,v 1.1 2012-08-18 01:31:22 kmuto Exp $
