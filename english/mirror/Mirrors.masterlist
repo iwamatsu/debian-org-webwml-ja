@@ -636,26 +636,6 @@ Archive-upstream: ftp.se.debian.org
 Country: RU Russia
 IPv6: no
 
-Site: ftp.chg.ru
-Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-X-Archive-ftp: /debian/
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
-Archive-upstream: ftp.se.debian.org
-X-CDImage-ftp: /pub/Linux/debian-cd/
-X-CDImage-http: /pub/Linux/debian-cd/
-X-CDImage-rsync: debian-iso/
-X-Volatile-http: /debian-volatile/
-X-Volatile-ftp: /debian-volatile/
-X-Volatile-rsync: debian-volatile/
-Maintainer: Serge Krashakov <sakr@Chg.RU>, ftp@Chg.RU
-Country: RU Russia
-Location: Chernogolovka, Moscow
-Sponsor: Chernogolovka Science Center http://www.chg.ru/
-IPv6: yes
-X-Comment: still has debian-amd64
-
 Site: ftp.sunet.se
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
@@ -820,23 +800,17 @@ Country: FR France
 IPv6: yes
 
 Site: debian.proxad.net
-Alias: ftpmirror.proxad.net
 Type: Push-Primary
 Archive-architecture: alpha amd64 arm armel armhf hppa hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: syncproxy.eu.debian.org
-NonUS-ftp: /debian-non-US/
-NonUS-http: /debian-non-US/
-NonUS-rsync: debian-non-US/
-NonUS-upstream: non-us.debian.org
 Maintainer: Aur&eacute;lien Beaujean <ftpmaint@proxad.net>, abeaujean@proxad.net
 Country: FR France
 Sponsor: Proxad http://www.proxad.net/
 Sponsor: free.fr http://www.free.fr/
 IPv6: yes
-X-Comment: still has debian-amd64
 
 Site: ftp.tw.debian.org
 Alias: debian.linux.org.tw
