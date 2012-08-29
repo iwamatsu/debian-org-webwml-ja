@@ -31,11 +31,12 @@ sub country_name {
 	}
 }
 
+use Unicode::Normalize;
 sub country_list {
     my $ccodepos = shift;
     $ccodepos = 'ccafter' unless (defined($ccodepos));
     if ($ccodepos eq 'ccafter' or $ccodepos eq 'ccbefore') {
-	foreach $c (sort { $countries{$a} cmp $countries{$b} } keys %countries) {
+	foreach $c (sort { Unicode::Normalize::NFKD($countries{$a}) cmp Unicode::Normalize::NFKD($countries{$b}) } keys %countries) {
 	   my $localname = $countries{$c};
 	   my $label;
 	   if ($ccodepos eq 'ccafter') {
@@ -64,7 +65,7 @@ sub country_list {
 
 	($pre,$post) = ('<li><a href="#',")</li>\n") if $type eq 'consultants';
 	($pre,$post) = ('<a href="#',")&nbsp;&nbsp;\n") if $type eq 'vendors';
-	foreach (sort { $countries{uc $a} cmp $countries{uc $b} } @list) {
+	foreach (sort { Unicode::Normalize::NFKD($countries{uc $a}) cmp Unicode::Normalize::NFKD($countries{uc $b}) } @list) {
 		$list .= $pre;
 		$list .= $_.'">' if $type eq 'consultants' or $type eq 'vendors';
 		$list .= $countries{uc $_};
@@ -203,7 +204,7 @@ EOT
     <gettext domain="countries">France</gettext>
 </define-country>
 <define-country code="GB">
-    <gettext domain="countries">Great Britain</gettext>
+    <gettext domain="countries">United Kingdom</gettext>
 </define-country>
 <define-country code="GD">
     <gettext domain="countries">Grenada</gettext>
@@ -390,9 +391,6 @@ EOT
 </define-country>
 <define-country code="UA">
     <gettext domain="countries">Ukraine</gettext>
-</define-country>
-<define-country code="UK">
-    <gettext domain="countries">United Kingdom</gettext>
 </define-country>
 <define-country code="US">
     <gettext domain="countries">United States</gettext>
