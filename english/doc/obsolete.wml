@@ -313,6 +313,30 @@ this purpose.
 </doctable>
 </div>
 
+<hr />
+
+<document "Debian Packaging Manual" "packman">
+
+<div class="centerblock">
+<p>
+  This manual describes the technical aspects of creating Debian binary
+  and source packages. It also documents the interface between dselect
+  and its access method scripts. It does not deal with the Debian
+  Project policy requirements, and it assumes familiarity with dpkg's
+  functions from the system administrator's perspective.
+
+<doctable>
+  <authors "Ian Jackson, Klee Dienes, David A. Morris, Christian Schwarz">
+  <status>
+  Parts that were de facto policy were merged into
+  <a href="devel-manuals#policy">debian-policy</a>.
+  </status>
+  <availability>
+  <inoldpackage "packaging-manual">
+  </availability>
+</doctable>
+</div>
+
 <h2 id="misc">Miscellaneous documentation</h2>
 
 <document "Debian META Manual" "meta">
