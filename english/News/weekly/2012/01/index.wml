@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-01-09" SUMMARY="Debian Edu/Skolelinux 6.0.3 beta2, bits from the DPL, new Debian Infographic, new Debtags web interface"
 
-# $Id: index.wml,v 1.3 2012-07-26 03:01:02 ayanokouzi-guest Exp $
+# $Id: index.wml,v 1.4 2012-08-30 01:53:52 ayanokouzi-guest Exp $
 # $Rev: 2934 $
 # Status: [frozen]
 
@@ -237,9 +237,9 @@ interesting blog post</a> about Debian and popularity.
  California Linux Expo</a></li>
 </ul>
 <p>
-You can find more information about Debian related events and talks
-on the <a href="$(HOME)/events">events section</a> of the Debian web
-site, or subscribe to one of our events mailing lists for different regions:
+You can find more information about Debian-related events and talks
+on the <a href="$(HOME)/events">events section</a> of the Debian web site,
+or subscribe to one of our events mailing lists for different regions:
 <a href="http://lists.debian.org/debian-events-eu">Europe</a>, 
 <a href="http://lists.debian.org/debian-events-nl">Netherlands</a>, 
 <a href="http://lists.debian.org/debian-events-ha">Hispanic America</a>, 
