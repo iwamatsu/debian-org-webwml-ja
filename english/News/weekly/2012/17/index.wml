@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-09-03" SUMMARY="Debian's presence at RMLL 2012, 64-bit PC: primary Debian architecture, new mirrors"
 
-# $Id: index.wml,v 1.2 2012-09-07 16:36:53 madamezou Exp $
+# $Id: index.wml,v 1.3 2012-09-08 16:08:07 taffit Exp $
 # $Rev: 4213 $
 # Status: [content-frozen]
 
@@ -31,7 +31,7 @@ Some pictures of the event taken by Marc <q>Duck</q> Dequènes are available on 
 
 </p>
 
-<toc-add-entry name="64-bit PC">64-bit PC: primary Debian architecture</toc-add-entry>
+<toc-add-entry name="amd64">64-bit PC: primary Debian architecture</toc-add-entry>
 
 <p>
 According to the <a href="http://popcon.debian.org">Debian Popularity
