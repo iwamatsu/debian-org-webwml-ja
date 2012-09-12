@@ -32,4 +32,4 @@ WikiWiki の Python クローンである Moin は仮想グループが関係す
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2538.data"
-# $Id: dsa-2538.wml,v 1.1 2012-09-05 19:01:45 taffit Exp $
+# $Id: dsa-2538.wml,v 1.1 2012-09-12 05:15:11 kmuto Exp $
