@@ -3053,7 +3053,7 @@ Maintainer: Manuel Subredu <diablo@iasi.roedu.net>, ftpadmin@iasi.roedu.net
 Country: RO Romania
 Location: Iasi
 Sponsor: Romanian Education Network Iasi Branch http://www.iasi.roedu.net/
-Bandwidth: 310Mbps maximum
+Bandwidth: 310Mbps
 IPv6: no
 
 Site: opensource.nchc.org.tw
@@ -6839,8 +6839,8 @@ Comment: Gig-connected to I2.
 Site: ftp.uoi.gr
 Type: leaf
 Archive-architecture: amd64 armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 powerpc s390x
-Archive-ftp: /debian/
-Archive-http: /debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
 IPv6: no
 Archive-upstream: ftp.gr.debian.org
 Updates: twice
@@ -8342,4 +8342,30 @@ Maintainer: EasySpeedy <mirror@easyspeedy.com>
 Country: DK Denmark
 Location: Copenhagen, Denmark
 Sponsor: EasySpeedy http://easyspeedy.com/
+Bandwidth: 1Gbps
+
+Site: debian.insacom.cl
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: ftp.cl.debian.org
+Updates: four
+Maintainer: Sandro Rossi <srossi@insacom.cl>
+Country: CL Chile
+Sponsor: Insacom http://insacom.cl
+Bandwidth: 50 Mbps
+
+Site: debianmirror.nkn.in
+Type: leaf
+Archive-architecture: amd64 armhf i386
+Archive-http: /debian/
+IPv6: yes
+Archive-upstream: ftp1.us.debian.org
+Updates: lessoften
+Maintainer: S.Gopinath <s.gopinath@nic.in>
+Country: IN India
+Location: Chennai,INDIA
+Sponsor: National Knowledge Network http://www.nkn.in/
 Bandwidth: 1Gbps
