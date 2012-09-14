@@ -33,4 +33,4 @@ freeradius の EAP-TLS の取扱いで、利用者からの入力を局所的な
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2546.data"
-# $Id: dsa-2546.wml,v 1.1 2012-09-11 19:21:00 taffit Exp $
+# $Id: dsa-2546.wml,v 1.1 2012-09-13 23:41:54 kmuto Exp $
