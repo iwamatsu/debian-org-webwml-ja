@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-09-17" SUMMARY="Bits from the FTP Team, bits from the DPL, Technical Committee nominations"
 
-# $Id: index.wml,v 1.3 2012-09-17 20:07:53 taffit Exp $
+# $Id: index.wml,v 1.4 2012-09-17 20:21:42 taffit Exp $
 # $Rev: 4249 $
 # Status: [content-frozen]
 
@@ -159,6 +159,13 @@ and Ehud Meiri
 <a href="$(HOME)/security/2012/dsa-2480">request-tracker3.8</a> (updated announcement), and
 <a href="$(HOME)/security/2012/dsa-2549">devscripts</a>.
 	Please read them carefully and take the proper measures.</p>
+
+<p>
+Debian's Backports Team released an advisory for the package
+<a href="https://lists.debian.org/debian-backports-announce/2012/09/msg00000.html">libreoffice</a>.
+Please read it carefully and take the proper measures.
+</p>
+
 
 <p>Please note that these are a selection of the more important security
 advisories of the last weeks. If you need to be kept up to date about
