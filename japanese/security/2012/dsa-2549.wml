@@ -77,4 +77,4 @@ Red Hat の Jim Meyering さんは、 annotate-output が一時的な名前付�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2549.data"
-# $Id: dsa-2549.wml,v 1.2 2012-09-15 23:59:22 taffit Exp $
+# $Id: dsa-2549.wml,v 1.1 2012-09-24 00:36:29 kmuto Exp $
