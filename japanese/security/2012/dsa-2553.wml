@@ -36,4 +36,4 @@ Firefox ベースのウェブブラウザである Iceweasel にいくつかの�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2553.data"
-# $Id: dsa-2553.wml,v 1.1 2012-09-24 21:13:13 taffit Exp $
+# $Id: dsa-2553.wml,v 1.1 2012-09-26 00:23:05 kmuto Exp $

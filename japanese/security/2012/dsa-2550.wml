@@ -34,4 +34,4 @@ PBX および電話ツールキットの Asterisk に複数の脆弱性が見つ
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2550.data"
-# $Id: dsa-2550.wml,v 1.1 2012-09-18 18:00:33 taffit Exp $
+# $Id: dsa-2550.wml,v 1.1 2012-09-26 00:23:28 kmuto Exp $
