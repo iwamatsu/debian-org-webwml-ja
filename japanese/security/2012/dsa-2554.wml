@@ -35,4 +35,4 @@ Seamonkey を元にしたインターネットスイートの Iceape に複数�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2554.data"
-# $Id: dsa-2554.wml,v 1.1 2012-09-26 19:11:13 taffit Exp $
+# $Id: dsa-2554.wml,v 1.1 2012-09-28 04:53:41 kmuto Exp $
