@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-11-12" SUMMARY="APT, Public Machines, Award, Knoppix, RC Bugs, Hurd, Sarge, Non-free, Installer, Coda, Advocacy"
-# $Id: index.wml,v 1.17 2006-08-31 15:29:49 jseidel Exp $
+# $Id: index.wml,v 1.18 2012-10-02 23:10:01 taffit Exp $
 
 <p>Welcome to this year's 44th issue of DWN, the weekly newsletter for the
 Debian community.  Starting with this issue, the people who thankfully
@@ -106,7 +106,7 @@ After that, a debian-installer alpha release could appear in the
 
 <p><strong>Eric Raymond reviews Halloween VII.</strong> Another Halloween document
 leaked to the public and Eric Raymond took the chance to <a
-href="http://www.opensource.org/halloween/halloween7.php">review</a> a copy of
+href="http://opensource.org/halloween/halloween7.php">review</a> a copy of
 what purports to be an internal document that was presented at an internal
 "Linux Strategic Review" in Berlin during September 2002.  Raymond comments on
 the memo and provides some tactical advice for Open Source advocates based on

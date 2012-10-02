@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-11-21" SUMMARY="Bug Tracking System, Spellchecking, Freeze Update, Boot-Floppies"
-# $Id: index.wml,v 1.8 2011-05-26 10:04:25 rhonda Exp $
+# $Id: index.wml,v 1.9 2012-10-02 23:10:13 taffit Exp $
 
 <p><strong>Searching Bugs per Source Package.</strong> Adam Heath added the <a
 href="http://lists.debian.org/debian-devel-0111/msg01031.html">ability</a> to
@@ -29,7 +29,7 @@ popped up on the <a
 href="http://lists.debian.org/debian-devel/">debian-devel</a> mailing list
 covering this.  The <a href="http://fink.sourceforge.net/">fink project</a>
 wants to bring the full world of Unix <a
-href="http://www.opensource.org/">Open Source</a> software to <a
+href="http://opensource.org/">Open Source</a> software to <a
 href="http://www.opensource.apple.com/">Darwin</a> and <a
 href="http://www.apple.com/macosx/">Mac OS X</a>.  The project modifies and
 ports the software so it will run on top of Mac OS X.  The files are made

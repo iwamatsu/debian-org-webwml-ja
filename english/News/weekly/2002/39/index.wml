@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-10-08" SUMMARY="OpenSSL, LWN, KDE3, Cryptography, XFree86, GNOME2, Bogofilter, Mini-Conf, Perl, FreeBSD, BTS, W3C"
-# $Id: index.wml,v 1.8 2004-09-03 13:43:23 florian Exp $
+# $Id: index.wml,v 1.9 2012-10-02 23:09:56 taffit Exp $
 
 <p>Welcome to this year's 39th issue of DWN, the weekly newsletter for the
 Debian community.  This week we are pleased to include two items by both Matt Black
@@ -139,7 +139,7 @@ royalty-free patent policy.  Bruce was invited to join W3C's patent policy
 board, representing <a href="http://www.spi-inc.org/">Software in the Public
 Interest</a>, and was later joined in this by Eben Moglen, for the <a
 href="http://www.fsf.org/">Free Software Foundation</a>, and Larry Rosen, for
-the <a href="http://www.opensource.org/">Open Source Initiative</a>.</p>
+the <a href="http://opensource.org/">Open Source Initiative</a>.</p>
 
 <p><strong>Debian Project at UK Linux Expo.</strong> There will be a Debian
 booth at the upcoming <a href="$(HOME)/events/2002/1009-linuxexpo">UK Linux
