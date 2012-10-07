@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-01-23" SUMMARY="Debian ahead on web server, aptitude strikes back, Debian money, IGMP denial of service in Linux"
-# $Id: index.wml,v 1.3 2012-05-28 16:11:53 ayanokouzi-guest Exp $
+# $Id: index.wml,v 1.4 2012-10-07 03:24:38 ayanokouzi-guest Exp $
 # $Rev: 3025 $
 
 
@@ -190,7 +190,7 @@ or subscribe to one of our events mailing lists for different regions:
 
 <p>Do you want to organise a Debian booth or a Debian install party?
 Are you aware of other upcoming Debian-related events?
-Have you delivered a Debian talk that you want to link to on our
+Have you delivered a Debian talk that you want to link on our
 <a href="$(HOME)/events/talks">talks page</a>? 
 Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 </p>
