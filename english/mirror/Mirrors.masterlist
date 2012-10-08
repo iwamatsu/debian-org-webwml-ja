@@ -3649,8 +3649,10 @@ Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-http: /debian/
 Archive-upstream: debian.mirror.iweb.ca
-Volatile-http: /debian-volatile/
-Volatile-upstream: debian.mirror.iweb.ca
+Backports-http: /debian-backports/
+Backports-upstream: debian.mirror.rafal.ca
+X-Volatile-http: /debian-volatile/
+X-Volatile-upstream: debian.mirror.iweb.ca
 Security-http: /debian-security/
 Security-upstream: security.debian.org
 IPv6: no
@@ -5995,8 +5997,8 @@ Bandwidth: 100Mbps in Uzbekistan (TAS-IX)
 Site: mirror.its.uidaho.edu
 Type: leaf
 Archive-architecture: amd64 armel hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
-Archive-ftp: /debian/
-Archive-http: /pub/debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /pub/debian/
 IPv6: no
 Archive-upstream: debian.osuosl.org
 Updates: twice
@@ -6856,22 +6858,21 @@ Country: US United States
 IPv6: no
 Bandwidth: 1Gbps
 
-Site: debs.ifsul.edu.br
+Site: debs.pelotas.ifsul.edu.br
 Type: Push-Secondary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-http: /debian/
 Archive-ftp: /debian/
 Archive-upstream: ftp.br.debian.org
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-ftp: /debian-cd/
 CDImage-upstream: ftp.br.debian.org
 IPv6: no
-Maintainer: Instituto Federal Sul-rio-grandense <cmr@ifsul.edu.br>
-Comment: maintainer address bounces
+Maintainer: CMR - Instituto Federal Sul-rio-grandense - Campus Pelotas <cmr@pelotas.ifsul.edu.br>
 Country: BR Brazil
 Location: Pelotas-RS
-Sponsor: Instituto Federal Sul-rio-grandense http://www.ifsul.edu.br/
-Bandwidth: 15Mbps
+Sponsor: Instituto Federal Sul-rio-grandense http://www.pelotas.ifsul.edu.br/
+Bandwidth: 34Mbps
 
 Site: debian.bononia.it
 Type: leaf
@@ -7545,12 +7546,12 @@ Bandwidth: 1Gbps
 Site: server.bdwservice.eu
 Type: leaf
 Archive-architecture: amd64
-Archive-ftp: /debian/
-Archive-http: /debian/
-Volatile-ftp: /debian-volatile/
-Volatile-http: /debian-volatile/
-Security-ftp: /debian-security/
-Security-http: /debian-security/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Volatile-ftp: /debian-volatile/
+X-Volatile-http: /debian-volatile/
+X-Security-ftp: /debian-security/
+X-Security-http: /debian-security/
 IPv6: no
 Archive-upstream: ftp.de.debian.org
 Volatile-upstream: ftp.de.debian.org
@@ -8388,7 +8389,7 @@ Bandwidth: 100Mbps
 
 Site: debian.mirror.constant.com
 Type: leaf
-Archive-architecture: ALL amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-http: /debian/
 IPv6: yes
 Archive-upstream: ftp2.us.debian.org
@@ -8397,4 +8398,17 @@ Maintainer: Brian Rak <mirrors@constant.com>
 Country: US United States
 Location: Piscataway, New Jersey
 Sponsor: Constant.com http://www.constant.com
-Bandwidth: 1Gbps 
+Bandwidth: 1Gbps
+
+Site: debian.opensourcemirror.com
+Type: leaf
+Archive-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel s390 s390x sparc
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: syncproxy.eu.debian.org
+Updates: twice
+Maintainer: Chevillot Benoit <admin@opensourcemirror.com>
+Country: FR France
+Location: Roubaix, France
+Sponsor: Divioseo http://divioseo.fr
+Bandwidth: 100Mbps
