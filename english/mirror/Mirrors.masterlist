@@ -1461,8 +1461,8 @@ X-Archive-ftp: /debian/
 X-Archive-http: /debian/
 X-Archive-rsync: debian/
 Archive-upstream: ftp-master.debian.org
-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-ftp: /debian-cd/
+X-CDImage-http: /debian-cd/
 X-CDImage-rsync: debian-cd/
 CDImage-upstream: cdimage.debian.org
 Maintainer: ftpadmin@kernel.org
@@ -1478,8 +1478,8 @@ X-Archive-ftp: /debian/
 X-Archive-http: /debian/
 X-Archive-rsync: debian/
 Archive-upstream: ftp-master.debian.org
-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-ftp: /debian-cd/
+X-CDImage-http: /debian-cd/
 X-CDImage-rsync: debian-cd/
 CDImage-upstream: cdimage.debian.org
 Maintainer: ftpadmin@kernel.org
@@ -1515,14 +1515,14 @@ Maintainer: Pete Ashdown <mirrors@xmission.com>
 Country: US United States
 Location: Salt Lake City, Utah
 Sponsor: XMission http://www.xmission.com/
-IPv6: no
+IPv6: yes
 
 Site: ftp.keystealth.org
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-X-Archive-ftp: /debian/
-X-Archive-rsync: debian/
-X-Archive-http: /debian/
+Archive-ftp: /debian/
+Archive-rsync: debian/
+Archive-http: /debian/
 Archive-upstream: mirrors.kernel.org
 X-CDImage-ftp: /debian-cd/
 X-CDImage-http: /debian-cd/
@@ -1531,7 +1531,7 @@ Maintainer: Scott Neville <scott@keystealth.org>
 Country: US United States
 Location: Redwood City, California
 IPv6: no
-Comment: three years out of date
+Comment: cdimage mirror is still out of date
 
 Site: debian.yorku.ca
 Type: leaf
@@ -1991,8 +1991,8 @@ Site: linux.csua.berkeley.edu
 Alias: screwdriver.csua.berkeley.edu
 Type: leaf
 Archive-architecture: amd64 i386
-Archive-http: /debian/
-Archive-rsync: debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
 Archive-upstream: ftp-osl.osuosl.org
 Maintainer: CSUA System Administrators <root@CSUA.Berkeley.EDU>
 Country: US United States
@@ -7712,6 +7712,33 @@ Location: Databurg, Franfurt, Germany
 Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
 Bandwidth: 4Gbps
 
+Site: mirror.us.leaseweb.net
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-upstream: ftp.us.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: mirror.nl.leaseweb.net
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+CDImage-upstream: cdimage.debian.org
+Volatile-ftp: /debian-volatile/
+Volatile-http: /debian-volatile/
+Volatile-rsync: debian-volatile/
+Volatile-upstream: mirror.nl.leaseweb.net
+IPv6: yes
+Updates: four
+Maintainer: Jeffrey Kriegsman <mirror@leaseweb.com>
+Country: US United States
+Location: Manassas, Virginia
+Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
+Bandwidth: 4Gbps
+
 Site: debian.cabletel.com.mk
 Type: leaf
 Archive-architecture: amd64 armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
@@ -8004,7 +8031,7 @@ Location: Beijing
 
 Site: debian.daupheus.com
 Type: leaf
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-upstream: cdimage.debian.org
 IPv6: no
 Updates: once
