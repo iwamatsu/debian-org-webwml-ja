@@ -26,4 +26,4 @@ Nicholas Gregoire さんと Cris Neckar さんは、形の崩れた文書を処�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2555.data"
-# $Id: dsa-2555.wml,v 1.1 2012-10-05 17:13:15 taffit Exp $
+# $Id: dsa-2555.wml,v 1.1 2012-10-16 07:27:47 kmuto Exp $
