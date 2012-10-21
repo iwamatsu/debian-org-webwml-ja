@@ -8,7 +8,7 @@ code.</p>
 version 3.9.4-5+squeeze6.</p>
 
 <p>For the testing distribution (wheezy) and the unstable distribution
-sid), this problem has been fixed in version 3.9.6-9 of the tiff3
+(sid), this problem has been fixed in version 3.9.6-9 of the tiff3
 source package and in version 4.0.2-4 of the tiff source package.</p>
 
 <p>We recommend that you upgrade your tiff packages.</p>
@@ -16,4 +16,4 @@ source package and in version 4.0.2-4 of the tiff source package.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2561.data"
-# $Id: dsa-2561.wml,v 1.1 2012-10-21 16:23:14 victory-guest Exp $
+# $Id: dsa-2561.wml,v 1.2 2012-10-21 18:08:33 taffit Exp $
