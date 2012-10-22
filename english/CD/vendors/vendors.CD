@@ -14,16 +14,6 @@
 
 <country code="ar" name="<country-name AR>">
 
-<vendor name="Linux-CD argentina"
-        country="ar"
-        url="http://linux-cd.com.ar/"
-        deburl="http://linux-cd.com.ar/debian/"
-        contribution="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386"
-        ship="some"
-        contacturl="" />
 <vendor name="SW Computacion"
 	country="ar"
 	url="http://swcomputacion.com/"
@@ -70,16 +60,6 @@
         architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
         ship="yes"
         contacturl="" />
-<vendor name="LSL Australia"
-        url="http://www.lsl.com.au"
-        deburl="http://www.lsl.com.au/advanced_search_result.php?keywords=debian"
-        contacturl="mailto:sales@lsl.com.au"
-        country="au"
-        contribution="yes"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386, amd64, alpha, arm, armel, hppa, ia64, mips, mipsel, powerpc, s390, sparc" />
 </country>
 <country code="bg" name="<country-name BG>">
 <vendor name="Ingus Innovation"
@@ -200,40 +180,10 @@
         dvd="yes"
         architectures="multi-arch, amd64, i386" />
 </country>
-<country code="by" name="<country-name BY>">
-<vendor name="Linuxshop"
-        country="by"
-        url="http://linuxshop.at.tut.by/"
-        deburl="http://linuxshop.at.tut.by/"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="i386, amd64"
-        ship="some"
-        contacturl="mailto:linuxshop@tut.by" />
-</country>
+#<country code="by" name="<country-name BY>">
+#</country>
 <country code="ca" name="<country-name CA>">
 
-<vendor name="Precise-ITC, Inc."
-        country="ca"
-        url="http://www.precise-itc.com/"
-        deburl="http://www2.precise-itc.com/index.php?searchword=debian&amp;option=com_search"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures="i386"
-        ship="yes"
-        contacturl="mailto:sales@precise-itc.com" />
-<vendor name="Softcopy Systems"
-        country="ca"
-        url="http://www.softcopy.on.ca"
-        deburl="http://www.softcopy.on.ca/debian.html"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures=""
-        ship="some"
-        contacturl="" />
 <vendor name="Stormfront Ventures"
         url="http://www.jbox.ca"
         deburl="http://www.jbox.ca/family/debian/"
@@ -298,16 +248,6 @@
 #        architectures="i386, ia64, powerpc, sparc"
 #        ship="no"
 #        contacturl="mailto:contacto@geekstore.cl" />
-<vendor name="Netlinux"
-        country="cl"
-        url="http://www.netlinux.cl/"
-        deburl="http://www.netlinux.cl/index.php?option=com_search&amp;searchword=debian"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures="i386"
-        ship="no"
-        contacturl="mailto:ventas@netlinux.cl" />
 </country>
 <country code="cn" name="<country-name CN>">
 <vendor name="Beautiful Linux"
