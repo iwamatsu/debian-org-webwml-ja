@@ -57,22 +57,22 @@
         contribution="no"
         cd="yes"
         dvd="no"
-        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
+        architectures="i386, amd64, <source>"
         ship="yes"
         contacturl="" />
 </country>
-<country code="bg" name="<country-name BG>">
-<vendor name="Ingus Innovation"
-        url="http://www.ingus.biz/"
-        deburl="http://www.ingus.biz/debian"
-        contacturl="mailto:sales@ingus.biz"
-        country="bg"
-        contribution="yes"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="amd64 i386 ia64 " />
-</country>
+#<country code="bg" name="<country-name BG>">
+#<vendor name="Ingus Innovation"
+#        url="http://www.ingus.biz/"
+#        deburl="http://www.ingus.biz/debian"
+#        contacturl="mailto:sales@ingus.biz"
+#        country="bg"
+#        contribution="yes"
+#        ship="no"
+#        cd="yes"
+#        dvd="yes"
+#        architectures="amd64 i386 ia64 " />
+#</country>
 <country code="br" name="<country-name BR>">
 <vendor name="Allan Carvalho"
         url="http://allandc.wordpress.com/"
@@ -206,16 +206,6 @@
         contacturl="mailto:sales@thelinuxstore.ca" />
 </country>
 <country code="ch" name="<country-name CH>">
-<vendor name="Libordux"
-        country="ch"
-        url="http://www.libordux.org/"
-        deburl="http://www.libordux.org/debian/cd/"
-        contribution="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
-        ship="no"
-        contacturl="mailto:debian-cd@libordux.org" />
 <vendor name="Traxx Network"
         url="http://www.traxxnet.ch"
         deburl="http://www.traxxnet.ch/debian"
@@ -399,7 +389,7 @@
 <vendor name="ISO4YOU"
         country="de"
         url="http://www.iso4you.de/"
-        deburl="http://www.iso4you.de/catalog/advanced_search_result.php?keywords=debian"
+        deburl="http://www.iso4you.de/catalog/advanced_search_result.php?keywords=Debian"
         contribution="yes"
         cd="yes"
         dvd="no"
