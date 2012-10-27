@@ -22,7 +22,7 @@ Benoit Jacob, Jesse Ruderman, Christian Holler, Bill McCloskey
 
 <p>
 Mario Gomes さんと、Code Audit Labs により、アドレスバーへのドラッ
-グアンドドロップ操作により、ixeweasel に以前に入力した URL を表示させ
+グアンドドロップ操作により、iceweasel に以前に入力した URL を表示させ
 ることができることが発見されました。これはフィッシング攻撃に悪用可能
 です。
 </p></li>
@@ -79,4 +79,4 @@ Iceweasel 3.5 の安定版でのセキュリティサポートは継続します
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2514.data"
-# $Id: dsa-2514.wml,v 1.4 2012-07-20 17:47:10 victory-guest Exp $
+# $Id: dsa-2514.wml,v 1.5 2012-10-27 05:42:20 victory-guest Exp $
