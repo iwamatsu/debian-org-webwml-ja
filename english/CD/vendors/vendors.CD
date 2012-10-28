@@ -1002,16 +1002,6 @@
 	contacturl="tahwer.m@gmail.com" />
 </country>
 <country code="pl" name="<country-name PL>">
-<vendor name="&#346;wiat Komputer&#243;w"
-        country="pl"
-        url="http://www.swiatkomputerow.pl"
-        deburl="http://www.swiatkomputerow.pl/debian.php"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="multi-arch"
-        ship="no"
-        contacturl="mailto:biuro@progon.pl" />
 <vendor name="aBajt"
         country="pl"
         url="http://www.abajt.pl/"
@@ -1032,16 +1022,6 @@
         architectures="i386, amd64, ia64"
         ship="europe"
         contacturl="mailto:sklep@altkomp.net" />
-<vendor name="BogutynMlyn"
-        country="pl"
-        url="http://www.bogutynmlyn.pl"
-        deburl="http://www.bogutynmlyn.pl/go/_info/?id=552"
-        contribution="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="i386"
-        ship="yes"
-        contacturl="mailto:debian@bogutynmlyn.pl" />
 <vendor name="Deva Group"
         country="pl"
         url="http://www.deva.com.pl"
@@ -1083,16 +1063,6 @@
         architectures="i386, amd64, multi-arch"
         ship="no"
         contacturl="mailto:debian@itteam.pl" />
-<vendor name="Linux-DVD.PL"
-        url="http://www.linux-dvd.pl"
-        deburl="http://www.linux-dvd.pl/debian-c-39.html"
-        contacturl="mailto:sklep_remove_this@linux-dvd.pl"
-        country="pl"
-        contribution="no"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386, amd64" />
 <vendor name="RAZIT.pl INTERNET STORE"
         url="http://www.sklep.razit.pl/"
         deburl="http://www.sklep.razit.pl/index.php/linux/debian.html"
@@ -1114,40 +1084,31 @@
         dvd="yes"
         architectures="multi-arch amd64 i386 ia64" />
 </country>
-<country code="pt" name="<country-name PT>">
-<vendor name="DEQ/FCTUC"
-        country="pt"
-        url="http://www.eq.uc.pt/"
-        deburl="http://www.eq.uc.pt/laca/debian/"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures=""
-        ship="europe"
-        contacturl="mailto:debian@eq.uc.pt" />
-</country>
-<country code="ro" name="<country-name RO>">
-<vendor name="Linux Hangar Romania"
-        country="ro"
-        url="http://linux.hangar.ro/"
-        deburl="http://linux.hangar.ro/linux-cd/debian"
-        contribution="no"
-        cd="yes"
-        dvd="yes"
-        architectures="multi-arch, alpha, amd64, arm, hppa, i386, ia64, mips, mipsel, powerpc, s390, sparc, <source>"
-        ship="no"
-        contacturl="mailto:webmaster@dizain.ro" />
-<vendor name="LinuxCD Romania"
-        country="ro"
-        url="http://www.linuxcd.ro"
-        deburl="http://www.linuxcd.ro"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="i386"
-        ship="no"
-        contacturl="mailto:sales@linuxcd.ro" />
-</country>
+#<country code="pt" name="<country-name PT>">
+#<vendor name="DEQ/FCTUC"
+#        country="pt"
+#        url="http://www.eq.uc.pt/"
+#        deburl="http://www.eq.uc.pt/laca/debian/"
+#        contribution="yes"
+#        cd="yes"
+#        dvd="no"
+#        architectures=""
+#        ship="europe"
+#        contacturl="mailto:debian@eq.uc.pt" />
+#</country>
+
+#<country code="ro" name="<country-name RO>">
+#<vendor name="LinuxCD Romania"
+#        country="ro"
+#        url="http://www.linuxcd.ro"
+#        deburl="http://www.linuxcd.ro"
+#        contribution="no"
+#        cd="no"
+#        dvd="yes"
+#        architectures="i386"
+#        ship="no"
+#        contacturl="mailto:sales@linuxcd.ro" />
+#</country>
 <country code="ru" name="<country-name RU>">
 <vendor name="Books.Ru"
         country="ru"
