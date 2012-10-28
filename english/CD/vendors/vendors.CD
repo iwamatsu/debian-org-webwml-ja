@@ -672,16 +672,6 @@
 #        architectures="i386"
 #        ship="no"
 #        contacturl="mailto:gnucd@linuxjunkies.org" />
-<vendor name="opensourcenuts.com"
-        url="http://www.opensourcenuts.com"
-        deburl="http://opensourcenuts.com/node/304"
-        contacturl="mailto:sunil_prog@yahoo.com"
-        country="in"
-        contribution="no"
-        ship="some"
-        cd="yes"
-        dvd="yes"
-        architectures="i386" />
 <vendor name="Rainbow Computech"
         country="in"
         url="http://www.rainbowcomputech.com/"
@@ -738,17 +728,6 @@
 </country>
 
 <country code="ir" name="<country-name IR>">
-<vendor name="KishLUG"
-        url="http://www.kishlug.ir"
-# TODO 20111013 - Contact the vendor, deburl redirects incorrectly, new site is
-# at http://wiki.kishlug.ir/index.php/Main_Page. new deburl?
-        deburl="http://www.kishlug.ir/foss-distribution"
-        contacturl="mailto:info@kishlug.ir"
-        country="ir"
-        contribution="yes"
-        ship="yes"
-        dvd="yes"
-        architectures="i386" />
 <vendor name="Linuxshop Online Store"
         url="http://linuxshop.ir"
         deburl="http://linuxshop.ir/index.php?cPath=17"
