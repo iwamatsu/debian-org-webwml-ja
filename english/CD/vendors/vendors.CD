@@ -1266,16 +1266,6 @@
         ship="no"
         dvd="yes"
         architectures="amd64 i386 ia64" />
-<vendor name="OpenSource.com.ua"
-        country="ua"
-        url="http://opensource.com.ua/"
-        deburl="http://opensource.com.ua/index.php?cPath=36&amp;rID=75"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures="i386"
-        ship="no"
-        contacturl="" />
 <vendor name="Softmart"
         url="http://www.softmart.com.ua/"
         deburl="http://www.softmart.com.ua/category/debian-gnu-linux/"
@@ -1286,16 +1276,6 @@
         cd="yes"
         dvd="yes"
         architectures="ALL " />
-<vendor name="Web-Site-Scripts Company"
-        url="http://www.web-site-scripts.com/"
-        deburl="http://www.web-site-scripts.com/debian-distribution.html"
-        contacturl="mailto:sales@web-site-scripts.com"
-        country="ua"
-        contribution="yes"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="amd64, i386" />
 </country>
 <country code="gb" name="<country-name GB>">
 # <vendor name="BuyLinuxIso"
@@ -1319,16 +1299,6 @@
 #        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
 #        ship="yes"
 #        contacturl="mailto:sales@cheeplinux.com" />
-<vendor name="Debian Disks"
-        country="gb"
-        url="http://www.debiandisks.co.uk/"
-        deburl="http://www.debiandisks.co.uk/"
-        contribution="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386"
-        ship="no"
-        contacturl="mailto:info@debiandisks.co.uk" />
 # Disabled, no longer operating
 #<vendor name="Debianshop"
 #        country="gb"
@@ -1411,16 +1381,6 @@
         architectures="multi-arch, amd64, arm, armel, hppa, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc, <source>"
         ship="yes"
         contacturl="mailto:steve@einval.com" />
-<vendor name="Stewart Fisher"
-        country="gb"
-        url="http://www.shopforlinux.co.uk/"
-        deburl="http://www.shopforlinux.co.uk/debian.htm"
-        contribution="yes"
-        cd="no"
-        dvd="yes"
-        architectures="i386"
-        ship="yes"
-        contacturl="mailto:shop@stewfisher.co.uk" />
 <vendor name="The Linux Store UK"
         country="gb"
         url="http://www.thelinuxstore.org.uk/"
