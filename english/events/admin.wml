@@ -1,5 +1,5 @@
 #use wml::debian::template title="events@debian.org"
-# $Id: admin.wml,v 1.8 2012-10-12 13:27:05 pabs Exp $
+# $Id: admin.wml,v 1.9 2012-11-05 16:54:53 florian Exp $
 
 <p>Whenever members of the Debian project attend an event (conference,
 exhibition or similar) it should be made public in time so other
@@ -21,7 +21,7 @@ remind us.)
 Events will only be added to our own <a href="$(HOME)/events/">events page</a>
 when Debian participation is guaranteed.  We are not going to provide a
 general events calendar on www.debian.org but you can find some general
-Free Sofware events calendars at the
+Free Software events calendars at the
 <a href="http://www.fsf.org/events/all.html">FSF</a>,
 <a href="http://www.fsfe.org/events/">FSFE</a> and
 <a href="http://lwn.net/Calendar/">LWN</a>
