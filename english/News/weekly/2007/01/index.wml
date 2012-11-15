@@ -1,9 +1,9 @@
 #use wml::debian::weeklynews::header PUBDATE="2007-01-23" SUMMARY="OLPC, Debian-Edu, History, PS3, Packaging, Woody, Documentation, Release, CC2.5"
-# $Id: index.wml,v 1.5 2011-05-26 10:05:22 rhonda Exp $
+# $Id: index.wml,v 1.6 2012-11-14 14:49:19 victory-guest Exp $
 
 <p>Welcome to this year's 1st issue of DWN, the weekly newsletter for the
 Debian community. <a href="http://erinn.org/about/">Erinn Clark</a>,
-co-founder and leader of <a href="http://women.debian.org/">Debian Women</a>
+co-founder and leader of <a href="$(HOME)/women/">Debian Women</a>
 is <a href="http://blogs.ittoolbox.com/unix/bsd/archives/top-10-girl-geeks-13100">\
 selected</a> one of the top 10 girl geeks who are influential in Open
 Source.  Linux-Watch posted Chris Fearnley's <a

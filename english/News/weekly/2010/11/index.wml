@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.3 2011-05-26 10:05:27 rhonda Exp $
+$Id: index.wml,v 1.4 2012-11-14 14:49:20 victory-guest Exp $
 $Rev: 844 $
 Status: content-freeze
   -->
@@ -65,14 +65,14 @@ News would like to do so too: Frans, you will be missed!</p>
 
 <toc-add-entry name="women">Bits from the Debian Women project</toc-add-entry>
 
-<p>The <a href="http://women.debian.org">Debian Women project</a> aims at
+<p>The <a href="$(HOME)/women/">Debian Women project</a> aims at
 getting more women to participate in Debian, as packagers, bug reporters,
 technical documentation writers, bug fixers, translators, artists and in
 any other area that helps the development of Debian.  These goals are
 achieved through IRC tutorials, a mentoring program, a mailing list and an
 IRC channel.</p>
 
-<p>The <a href="http://women.debian.org/mentoring/">Mentoring Program</a>
+<p>The <a href="$(HOME)/women/mentoring/">Mentoring Program</a>
 allows men and women who want to contribute to Debian, but aren't sure
 where or how to start, to get some help with their first steps.</p>
 

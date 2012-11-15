@@ -1,7 +1,7 @@
 <define-tag pagetitle>Italian Debian Community Conference 2010 - 17th-19th September, Perugia (PG - Italy)</define-tag>
 <define-tag release_date>2010-09-03</define-tag>
 #use wml::debian::news
-# $Id: 20100903.wml,v 1.1 2010-09-03 14:55:23 tolimar Exp $
+# $Id: 20100903.wml,v 1.2 2012-11-14 14:49:17 victory-guest Exp $
 
 <p>The Debian Project and the Debian Italian community are pleased to announce
 that the 5th edition of the Debian Italian community conference will take place
@@ -21,7 +21,7 @@ Perugia</a>.</p>
 
 <p>The conference will see the prominent participation of the current Debian
 Project Leader, Stefano Zacchiroli, and some members of both <a
-href="http://women.debian.org/">Debian-women</a> and <a
+href="$(HOME)/women/">Debian-women</a> and <a
 href="http://ubuntu-women.org/">Ubuntu-women</a> teams, explaining the benefits
 of a wider collaboration scheme, and how we encourage a more heterogeneous and
 balanced environment.</p>

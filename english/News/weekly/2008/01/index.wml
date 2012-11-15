@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2008-04-21" SUMMARY="DPL Election, Survey, Release Update, Google Summer of Code, Study, Reliability, Contributions, Feature Requests, FAQ, qmail, Planet Debian, Old Machines, SE Linux, ftp master, Groupware Meeting"
-# $Id: index.wml,v 1.9 2011-05-26 10:05:23 rhonda Exp $
+# $Id: index.wml,v 1.10 2012-11-14 14:49:19 victory-guest Exp $
 
 
 <p>Welcome to the first issue of the Debian Project News, the newsletter for
@@ -151,7 +151,7 @@ in deprived inner city areas.</q></p>
 <p><strong>Other News</strong><br />
 <p>Christian Perrier noticed that in the last
 <a href="http://lists.debian.org/debian-women/2008/04/msg00007.html">batch of people becoming official Debian Developers, 10% are female</a>.
-He hopes that the <a href="http://women.debian.org/">Debian Women Project</a>,
+He hopes that the <a href="$(HOME)/women/">Debian Women Project</a>,
 which tries to encourage women to become more involved with Debian,
 will keep the pace.</p>
 
