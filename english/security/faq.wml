@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian security FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-# $Id: faq.wml,v 1.80 2012-11-22 07:43:00 pabs Exp $
+# $Id: faq.wml,v 1.81 2012-11-22 13:46:53 taffit Exp $
 
 <p>We receive the following questions a bit too often these days, so
 their answers are summarized here.</p>
@@ -118,7 +118,7 @@ their answers are summarized here.</p>
    issues for testing.  They will make sure that the fixed
    packages enter testing in the usual way by migration from unstable
    (with reduced quarantine time), or, if that still takes too long, make
-   them available via the the normal <a
+   them available via the normal <a
    href="http://security.debian.org">http://security.debian.org</a>
    infrastructure.  To use it, make sure the following line is in
    <code>/etc/apt/sources.list</code>:</p>
