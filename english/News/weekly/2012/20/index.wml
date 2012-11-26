@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-10-15" SUMMARY="Report from the FTP Team meeting, bits from the DPL, decrease in bug reporting rate in Debian"
 
-# $Id: index.wml,v 1.1 2012-10-15 10:35:23 madamezou Exp $
+# $Id: index.wml,v 1.2 2012-11-26 04:14:58 pabs Exp $
 # $Rev: 4337 $
 # Status: [frozen]
 
@@ -15,7 +15,7 @@ Joerg Jaspert sent a report from the FTP Team meeting held from the 14th
 to the 20th of September in Fulda. During the meeting, the team
 implemented a 
 <a
-href="https://lists.debian.org/debian-devel-announce/2012/09/msg00008.html">new
+href="http://lists.debian.org/debian-devel-announce/2012/09/msg00008.html">new
 interface for managing Debian Maintainer permissions</a> which will
 allow them to deprecate the use of the DMUA flag. A huge improvement was also
 made in pdiff generation: in the past the Debian archive provided diff files to

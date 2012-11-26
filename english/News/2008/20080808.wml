@@ -1,7 +1,7 @@
 <define-tag pagetitle>Mar del Plata to host 8th Debian conference</define-tag>
 <define-tag release_date>2008-08-08</define-tag>
 #use wml::debian::news
-# $Id: 20080808.wml,v 1.6 2011-10-09 11:10:42 florian Exp $
+# $Id: 20080808.wml,v 1.7 2012-11-26 04:14:04 pabs Exp $
 
 
 <ul>
@@ -29,7 +29,7 @@ events, such as a world cheese party, allow for extensive
 networking.</p>
 
 <p>The full schedule is available on the conference website:
-<a href="https://penta.debconf.org/dc8_schedule/">https://penta.debconf.org/dc8_schedule/</a>.</p>
+<a href="http://penta.debconf.org/dc8_schedule/">http://penta.debconf.org/dc8_schedule/</a>.</p>
 
 <p>Celebrations will be in order on Saturday, 16 August, when the
 Debian Project turns 15 years of age. Founded in 1993 by Ian Murdock

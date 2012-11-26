@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-11-28" SUMMARY="GNOME, DebConf, Installer, Etch, FAQ, Sparc, Key"
-# $Id: index.wml,v 1.8 2011-12-27 21:24:00 taffit Exp $
+# $Id: index.wml,v 1.9 2012-11-26 04:14:23 pabs Exp $
 
 <p>Welcome to this year's 41st issue of DWN, the newsletter for the
 Debian community.  Due to unfortunate <a href="http://www.dunc-tank.org/">\
@@ -53,7 +53,7 @@ href="http://debconf7.debconf.org/">Debian Conference</a>, which will be take pl
 Edinburgh, UK.  He also asked for submission of proposals for papers,
 presentations, discussion sessions and tutorials until January 31st.
 There is a web interface for <a
-href="https://penta.debconf.org/user">attendees</a> and for submitting
+href="https://penta.debconf.org/penta/user">attendees</a> and for submitting
 proposals.</p>
 
 <p><strong>Etch Release Update.</strong> Steve Langasek <a

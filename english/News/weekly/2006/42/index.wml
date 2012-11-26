@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-12-26" SUMMARY="PopCon, debianforum.de, ARM, Installing, Etch, Success, Packages, DVDs, FOSDEM"
-# $Id: index.wml,v 1.5 2007-01-21 11:05:38 jseidel Exp $
+# $Id: index.wml,v 1.6 2012-11-26 04:14:25 pabs Exp $
 
 <p>Welcome to this year's 42nd issue of DWN, the weekly newsletter for the
 Debian community.  DWN is currently not being published weekly but when
@@ -16,7 +16,7 @@ Sydney.</p>
 <p><strong>20,000 Submitters for Popularity Contest.</strong> Petter
 Reinholdtsen <a
 href="http://lists.debian.org/debian-devel/2006/11/msg01031.html">reported</a>
-that Debian's <a href="https://alioth.debian.org/projects/popcon/">Popularity
+that Debian's <a href="http://alioth.debian.org/projects/popcon/">Popularity
 Contest</a> project passed 20,000 submitters.  By installing the <a
 href="http://packages.debian.org/popularity-contest">popularity-contest</a>
 package users

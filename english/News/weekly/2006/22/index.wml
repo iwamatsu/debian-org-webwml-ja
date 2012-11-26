@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-05-30" SUMMARY="Desktop, IRC, Summer of Code, Booting, Solaris, FrOSCon, CCv3, BSPs, Release"
-# $Id: index.wml,v 1.7 2011-05-26 10:05:15 rhonda Exp $
+# $Id: index.wml,v 1.8 2012-11-26 04:14:14 pabs Exp $
 
 <p>Welcome to this year's 22nd issue of DWN, the weekly newsletter for the
 Debian community.  Joey Hess has produced a <a
@@ -39,7 +39,7 @@ students who have a blog or set up one for the Summer of Code will be added to
 their progress on their quest to help Debian improve.</p>
 
 <p><strong>Optimising the Boot Time.</strong> Margarita Manterola <a
-href="https://debconf6.debconf.org/comas/general/proposals/77">gave</a>
+href="http://debconf6.debconf.org/comas/general/proposals/77">gave</a>
 a talk at <a href="$(HOME)/events/2006/0514-debconf">DebConf6</a> about
 possible improvements to the booting of Debian systems.
 From her conclusions and audiences remarks,
