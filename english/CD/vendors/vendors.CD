@@ -103,16 +103,6 @@
 	cd="no"
 	dvd="yes"
 	architectures="i386, amd64" />
-<vendor name="Distribuicoes Linux"
-        url="http://www.distribuicoeslinux.com.br"
-        deburl="http://www.distribuicoeslinux.com.br/dvd/debian"
-        contacturl="mailto:email@distribuicoeslinux.com.br"
-        country="br"
-        contribution="yes"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386, amd64" />
 <vendor name="Giovani Dias"
         url="http://www.acheilinux.com.br"
         deburl="http://www.acheilinux.com.br/linux/index.php?searchword=debian&amp;option=com_search"
@@ -265,15 +255,6 @@
 #        cd="yes"
 #        dvd="yes"
 #        architectures="i386" />
-<vendor name="SAComp"
-        url="http://sacomp.tech.officelive.com"
-        deburl="http://sacomp.tech.officelive.com/Debian.aspx"
-        contacturl="mailto:vifsolano@hotmail.com"
-        country="cr"
-        contribution="yes"
-        ship="yes"
-        dvd="yes"
-        architectures="amd64 i386 " />
 </country>
 <country code="cz" name="<country-name CZ>">
 <vendor name="Antiradary-Distributor.cz"
@@ -295,29 +276,8 @@
         architectures="amd64, i386"
         ship="no"
         contacturl="" />
-<vendor name="WebStep, s.r.o."
-        country="cz"
-        url="http://www.webstep.net/"
-        deburl="http://www.webstep.net/index.php/contents/rootlink.products.debiancd.cz.php"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures="i386, <source>"
-        ship="europe"
-        contacturl="mailto:debiancd@webstep.net" />
 </country>
 <country code="de" name="<country-name DE>">
-<vendor name="A. Reimer"
-        country="de"
-        url="http://www.aum-engineering.com/"
-        deburl="http://www.aum-engineering.com/debian_de.html"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
-        ship="yes"
-        contacturl="mailto:info@aum-engineering.com" />
-
 <vendor name="Debianland.de"
         country="de"
         url="http://www.debianland.de/"
@@ -396,17 +356,6 @@
         cd="yes"
         dvd="yes"
         architectures="amd64, i386, powerpc" />
-
-<vendor name="Magic-Price"
-        country="de"
-        url="http://www.magic-price.de/"
-        deburl="http://www.magic-price.de/advanced_search_result.php?keywords=debian"
-        contribution="yes"
-        cd="no"
-        dvd="yes"
-        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc"
-        ship="no"
-        contacturl="mailto:info@magic-price.de" />
 <vendor name="Make my Disc"
         country="de"
         url="http://www.make-my-disc.de"
@@ -465,15 +414,6 @@
         ship="europe"
         dvd="yes"
         architectures="multi-arch, amd64, i386" />
-<vendor name="XT-Base eCommerce Services"
-        url="http://www.xt-base.de/"
-        deburl="http://www.xt-base.de/Gimmicks/Software-CDs/Debian-offizielles-CD-DVD-Image--462.html"
-        contacturl="mailto:Kontakt@XT-Base.de"
-        country="de"
-        contribution="yes"
-        ship="europe"
-        dvd="yes"
-        architectures="i386, amd64, alpha, arm, armel, hppa, ia64, mips, mipsel, powerpc, s390, sparc" />
 </country>
 <country code="dk" name="<country-name DK>">
 <vendor name="www.linuxpusher.dk"
@@ -552,16 +492,6 @@
         architectures="multi-arch, amd64, i386" />
 </country>
 <country code="gr" name="<country-name GR>">
-<vendor name="Step Computers &amp; Communications"
-        country="gr"
-        url="http://www.step.gr"
-        deburl="http://www.step.gr/distibgr.html"
-        contribution="no"
-        cd="yes"
-        dvd="no"
-        architectures="alpha, i386, m68k, sparc, <source>"
-        ship="yes"
-        contacturl="mailto:debian@step.gr" />
 <vendor name="Zenika HELLAS"
         url="http://www.zenika.gr"
         deburl="http://www.zenika.gr/debian-media-and-trainings-store-of-zenika-hellas.html?page=shop.browse&amp;category_id=29"
@@ -628,18 +558,18 @@
         ship="yes"
         contacturl="mailto:toko@baliwae.com" />
 </country>
-<country code="il" name="<country-name IL>">
-<vendor name="LinBoo.com"
-        url="http://linboo.com/"
-        deburl="http://linboo.com/linux/debian.html"
-        contacturl="mailto:info@linboo.com"
-        country="il"
-        contribution="no"
-        ship="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="amd64, i386"/>
-</country>
+#<country code="il" name="<country-name IL>">
+#<vendor name="LinBoo.com"
+#        url="http://linboo.com/"
+#        deburl="http://linboo.com/linux/debian.html"
+#        contacturl="mailto:info@linboo.com"
+#        country="il"
+#        contribution="no"
+#        ship="yes"
+#        cd="yes"
+#        dvd="yes"
+#        architectures="amd64, i386"/>
+#</country>
 <country code="in" name="<country-name IN>">
 <vendor name="Linux Bazar"
         country="in"
@@ -802,15 +732,6 @@
         architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>"
         ship="europe"
         contacturl="mailto:mellano+debian@gmail.com" />
-<vendor name="OpenFreeSoftware"
-        url="http://www.openfreesoftware.com"
-        deburl="http://www.openfreesoftware.com/en/debian"
-        contacturl="mailto:openfreesoftware@gmail.com"
-        country="it"
-        contribution="no"
-        ship="europe"
-        dvd="yes"
-        architectures="amd64, i386, ia64, powerpc"/>
 # [20111013] - Put on hold. Reason: deburl does not work and main site
 # redirect to unrelated? (chinese) Wordpress instance
 #<vendor name="Qwerty Assistance"
@@ -910,16 +831,6 @@
         architectures="i386"
         ship="no"
         contacturl="mailto:ventas@cybermaya.com" />
-<vendor name="Joiz.Net"
-        country="mx"
-        url="http://joiz.net/"
-        deburl="http://tienda.joiz.net/tienda/catalog/advanced_search_result.php?keywords=debian"
-        contribution="yes"
-        cd="no"
-        dvd="yes"
-        architectures="i386, amd64, ia64"
-        ship="yes"
-        contacturl="mailto:ventas@joiz.net" />
 <vendor name="Servicios de Computo e Ingenieria"
         url="http://www.scimexico.com"
         deburl="http://scimexico.com/content/view/25/41/"
@@ -966,16 +877,6 @@
         cd="yes"
         dvd="yes"
         architectures="alpha, hppa, i386, ia64, m68k, mips, s390, sparc, <source>"/>
-<vendor name="The Linux CD Store"
-        url="http://www.thelinuxcdstore.co.nz"
-        deburl="http://www.thelinuxcdstore.com/advanced_search_result.php?keywords=debian"
-        contacturl="mailto:orders@thelinuxcdstore.com"
-        country="nz"
-        contribution="yes"
-        ship="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="amd64 i386" />
 </country>
 <country code="pe" name="<country-name PE>">
 <vendor name="Discos Linux Peru"
@@ -989,29 +890,19 @@
         dvd="yes"
         architectures="i386" />
 </country>
-<country code="pk" name="<country-name PK>">
-<vendor name="Digital studios"
-	country="pk"
-	url="http://www.digitalstudios.tk/"
-	deburl="http://tahwer.site90.com/debian.htm"
-	contribution="no"
-	ship="no"
-	cd="no"
-	dvd="yes"
-	architectures="i386 amd64 <source>"
-	contacturl="tahwer.m@gmail.com" />
-</country>
+#<country code="pk" name="<country-name PK>">
+#<vendor name="Digital studios"
+#	country="pk"
+#	url="http://www.digitalstudios.tk/"
+#	deburl="http://tahwer.site90.com/debian.htm"
+#	contribution="no"
+#	ship="no"
+#	cd="no"
+#	dvd="yes"
+#	architectures="i386 amd64 <source>"
+#	contacturl="tahwer.m@gmail.com" />
+#</country>
 <country code="pl" name="<country-name PL>">
-<vendor name="aBajt"
-        country="pl"
-        url="http://www.abajt.pl/"
-        deburl="http://www.abajt.pl/debian.php"
-        contribution="no"
-        cd="yes"
-        dvd="no"
-        architectures="i386"
-        ship="some"
-        contacturl="mailto:debian@abajt.pl" />
 <vendor name="Altkomp PHU"
         country="pl"
         url="http://www.market.altkomp.pl/linux-dystrybucje-na-cd-i-dvd-system-operacyjny-linux-debian-c-78_83.html"
@@ -1022,47 +913,6 @@
         architectures="i386, amd64, ia64"
         ship="europe"
         contacturl="mailto:sklep@altkomp.net" />
-<vendor name="Deva Group"
-        country="pl"
-        url="http://www.deva.com.pl"
-        deburl="http://www.deva.com.pl/debian.html"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="multi-arch"
-        ship="no"
-        contacturl="mailto:office@deva.com.pl" />
-<vendor name="E-Systems Linux CD"
-        country="pl"
-        url="http://www.e-systems.pl"
-        deburl="http://www.e-systems.pl/cdsklep.html"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="i386"
-        ship="no"
-        contacturl="mailto:info@e-systems.pl" />
-<vendor name="Electronic diVison"
-        country="pl"
-        url="http://www.e-dv.eu"
-        deburl="http://www.e-dv.eu/dist/debian/"
-        contribution="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="i386, amd64, alpha, arm, hppa, ia64, mips, mipsel"
-        ship="europe"
-        contacturl="mailto:debian@e-dv.eu" />
-<vendor name="ITteam"
-        country="pl"
-        url="http://www.itteam.pl/"
-# TODO 20111013 - Contact the vendor, deburl does not exist
-        deburl="http://www.itteam.pl/itteam_debian.html"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="i386, amd64, multi-arch"
-        ship="no"
-        contacturl="mailto:debian@itteam.pl" />
 <vendor name="RAZIT.pl INTERNET STORE"
         url="http://www.sklep.razit.pl/"
         deburl="http://www.sklep.razit.pl/index.php/linux/debian.html"
@@ -1073,16 +923,6 @@
         cd="yes"
         dvd="yes"
         architectures="i386, amd64, alpha, arm, armel, hppa, ia64, mips, mipsel, powerpc, s390, sparc" />
-<vendor name="SFT Computers"
-        url="http://www.sft.net.pl"
-        deburl="http://www.sft.net.pl/debian.php"
-        contacturl="mailto:sklep@sft.net.pl"
-        country="pl"
-        contribution="no"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="multi-arch amd64 i386 ia64" />
 </country>
 #<country code="pt" name="<country-name PT>">
 #<vendor name="DEQ/FCTUC"
@@ -1160,16 +1000,6 @@
         cd="yes"
         dvd="yes"
         architectures="amd64 i386 " />
-<vendor name="Linux4u.ru"
-        country="ru"
-        url="http://linux4u.ru/"
-        deburl="http://linux4u.ru/advanced_search_result.php?keywords=debian"
-        contribution="no"
-        cd="no"
-        dvd="yes"
-        architectures="i386, amd64"
-        ship="some"
-        contacturl="mailto:debian@linux4u.ru" />
 <vendor name="LinuxCenter.Ru"
         country="ru"
         url="http://www.linuxcenter.ru/"
@@ -1233,16 +1063,6 @@
         architectures="i386"
         ship="no"
         contacturl="mailto:info@linux34.com" />
-<vendor name="Penguenci.com"
-        url="http://www.penguenci.com"
-        deburl="http://www.penguenci.com/dukkan/index.php?route=product/product&amp;keyword=Debian&amp;product_id=61"
-        contacturl="mailto:destek@penguenci.com"
-        country="tr"
-        contribution="no"
-        ship="no"
-        cd="yes"
-        dvd="yes"
-        architectures="i386 amd64" />
 </country>
 <country code="ua" name="<country-name UA>">
 # [20111013] - Put on hold. Reason: deburl does not work and site
@@ -1266,16 +1086,6 @@
         ship="no"
         dvd="yes"
         architectures="amd64 i386 ia64" />
-<vendor name="Softmart"
-        url="http://www.softmart.com.ua/"
-        deburl="http://www.softmart.com.ua/category/debian-gnu-linux/"
-        contacturl="mailto:info@softmart.com.ua"
-        country="ua"
-        contribution="yes"
-        ship="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="ALL " />
 </country>
 <country code="gb" name="<country-name GB>">
 # <vendor name="BuyLinuxIso"
@@ -1361,16 +1171,6 @@
 #        cd="yes"
 #        dvd="yes"
 #        architectures="i386" />
-<vendor name="PyraSoftware"
-        country="gb"
-        url="http://www.pyrasoftware.com/"
-        deburl="http://www.pyrasoftware.com/items.asp?areano=1&amp;subareano=8"
-        contribution="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="i386"
-        ship="yes"
-        contacturl="mailto:info@pyrasoftware.com" />
 <vendor name="Steve McIntyre"
         country="gb"
         url="http://www.einval.com/~steve/DebianCD/"
@@ -1381,16 +1181,6 @@
         architectures="multi-arch, amd64, arm, armel, hppa, i386, ia64, kfreebsd-amd64, kfreebsd-i386, mips, mipsel, powerpc, s390, sparc, <source>"
         ship="yes"
         contacturl="mailto:steve@einval.com" />
-<vendor name="The Linux Store UK"
-        country="gb"
-        url="http://www.thelinuxstore.org.uk/"
-        deburl="http://www.thelinuxstore.org.uk/index.php?main_page=advanced_search_result&amp;keyword=debian"
-        contribution="yes"
-        cd="yes"
-        dvd="yes"
-        architectures="i386, ia64"
-        ship="yes"
-        contacturl="mailto:sales@thelinuxstore.org.uk" />
 <vendor name="thelinuxshop"
         country="gb"
         url="http://www.thelinuxshop.co.uk/"
@@ -1404,16 +1194,6 @@
 
 </country>
 <country code="us" name="<country-name US>">
-<vendor name="Abexia"
-        country="us"
-        url="http://debian.abexia.com/"
-        deburl="http://debian.abexia.com/"
-        contribution="yes"
-        cd="yes"
-        dvd="no"
-        architectures="alpha, arm, hppa, i386, ia64, m68k, mips, powerpc, s390, sparc, <source>, Hurd-i386, Hurd-<source>"
-        ship="yes"
-        contacturl="mailto:sales@abexia.com" />
 <vendor name="About Debian.com"
         country="us"
         url="http://www.aboutdebian.com/"
