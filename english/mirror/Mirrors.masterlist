@@ -647,7 +647,7 @@ NonUS-upstream: non-us.debian.org
 X-CDImage-ftp: /pub/Linux/distributions/debian-cd/
 CDImage-http: /pub/Linux/distributions/debian-cd/
 CDImage-rsync: Debian-cd/
-Maintainer: Patrik Karen <archive@ftp.sunet.se>
+Maintainer: archive@ftp.sunet.se
 Country: SE Sweden
 Location: Uppsala
 Sponsor: Swedish University Network http://www.sunet.se/
@@ -8489,8 +8489,8 @@ Bandwidth: 100Mbps
 Site: kartolo.sby.datautama.net.id
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
+Archive-http: /debian/
+Archive-rsync: debian/
 Archive-upstream: ftp6.us.debian.org
 Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
