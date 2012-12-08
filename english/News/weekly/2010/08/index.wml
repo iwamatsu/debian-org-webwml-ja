@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.5 2011-10-09 11:10:52 florian Exp $
+$Id: index.wml,v 1.6 2012-12-08 07:58:23 ayanokouzi-guest Exp $
 $Rev: 568 $
 Status: content-frozen
   -->
@@ -53,7 +53,7 @@ design and free software, free software advocacy as well as string of talks
 about the Debian project and operating system.  Debian Day is free of charge,
 but a registration via e-mail is required to ease the organisation of that
 event.  More information is available on <a
-href="http://debianday.org/">http://debianday.org/</a>.
+href="http://debianday.org/">http://debianday.org/</a>.</p>
 
 
 
