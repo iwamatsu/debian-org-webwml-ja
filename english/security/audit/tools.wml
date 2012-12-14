@@ -9,7 +9,7 @@ which are designed to aid source code audits.  These include:</p>
 <ul>
 <li><a href="examples/flawfinder">Sample flawfinder usage</a></li>
 </ul></li>
-<li><a href="http://packages.debian.org/its4">ITS4</a>
+<li><a href="http://archive.debian.net/woody/its4">ITS4</a>
 <ul>
 <li>There is no example for ITS4 as it has been removed from the unstable distribution.</li>
 </ul></li>
@@ -30,8 +30,8 @@ be useful for an auditor. These include:</p>
 <ul>
 <li>Tools specific of XSS bugs:
 <ul>
-<li><a href="http://freshmeat.net/projects/xsslint/">Xsslint</A></li>
-<li><a href="http://www.devitry.com/screamingCSS.html">ScreamingCSS</A></li>
+<li><a href="http://freecode.com/projects/xsslint/">Xsslint</a></li>
+<li><a href="http://www.devitry.com/screamingCSS.html">ScreamingCSS</a></li>
 </ul></li>
 <li>Tools for testing web browsers:
 <ul>
@@ -74,7 +74,7 @@ in the <a href="examples/">auditing examples section</a>.</p>
 <h2>ITS4</h2>
 
 <p>ITS4 is a tool contained in the non-free section of the Debian archive,
-it is only available for the oldstable distribution.</p>
+it is only available for the <q>woody</q> distribution.</p>
 
 <p>ITS4 may be used to scan both C and C++ code for potential security
 holes, much like flawfinder.</p>
