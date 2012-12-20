@@ -1635,16 +1635,19 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.uk.debian.org
-X-CDImage-ftp: /debian-cd/
+CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
-Volatile-ftp: /debian-volatile/
-Volatile-http: /debian-volatile/
-Volatile-rsync: debian-volatile/
-Volatile-upstream: volatile.debian.org
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-upstream: ftp.uk.debian.org
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 Security-rsync: debian-security/
 Security-upstream: security.debian.org
+Old-ftp: /debian-archive/
+Old-http: /debian-archive/
+Old-rsync: archive.debian.org/
+Old-upstream: archive.debian.org
 Maintainer: Alister Winfield <alister@ticklers.org>, debian-mirror@ticklers.org
 Country: GB Great Britain
 Location: London
@@ -4941,7 +4944,7 @@ Archive-upstream: ftp.th.debian.org
 Backports-ftp: /debian-backports/
 Backports-http: /debian-backports/
 Backports-upstream: ftp.th.debian.org
-X-CDImage-ftp: /debian-cd/
+CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-upstream: ftp.th.debian.org
 Volatile-ftp: /debian-volatile/
@@ -7095,6 +7098,7 @@ Comment: 300Mbps, Internet2
 Site: mirror.buildd.net
 Type: Push-Secondary
 Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
 Backports-upstream: syncproxy3.eu.debian.org
 Backports-method: push
 Location: Nuernberg
@@ -7967,9 +7971,9 @@ Old-ftp: /debian-archive/
 Old-http: /debian-archive/
 Old-rsync: debian-archive/
 IPv6: no
-Archive-upstream: ftp.ua.debian.org
-Backports-upstream: ftp.ua.debian.org
-CDImage-upstream: ftp.ua.debian.org
+Archive-upstream: ftp.si.debian.org
+Backports-upstream: ftp.uk.debian.org
+CDImage-upstream: cdimage.debian.org
 Maintainer: Denys Gavrysh <denys@volia.net>
 Country: UA Ukraine
 Location: Kiev
@@ -8499,3 +8503,49 @@ Location: Surabaya, East Java, Indonesia
 Sponsor: DATAUTAMA-NET-ID http://datautama.net.id/
 Bandwitdh: 100Mbps
 Comment: 100 Mbps global, 1 Gbps IIX-JI (Indonesia Internet Exchange - Jawa Timur), 1 Gbps ODIX (Omadata Internet Exchange)
+
+Site: mirror.stshosting.co.uk
+Type: Push-Secondary
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+IPv6: no
+Archive-upstream: ftp.uk.debian.org
+Backports-upstream: ftp.uk.debian.org
+Updates: push
+Maintainer: Anthony Somerset <contact@somersettechsolutions.co.uk>
+Country: GB United Kingdom
+Location: Coventry, United Kingdom
+Sponsor: Somerset Technical Solutions LTD http://www.somersettechsolutions.co.uk
+Comment: Working to add IPv6
+Bandwidth: 100Mbps
+
+Site: mirrors.advancedhosters.com
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-upstream: mirror.cogentco.com
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian/
+Backports-upstream: debian.gtisc.gatech.edu
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+CDImage-upstream: mirror.cogentco.com
+Old-ftp: /debian-archive/
+Old-http: /debian-archive/
+Old-rsync: debian-archive/
+IPv6: no
+Updates: four
+Maintainer: Igor Butsan <mirror-admins@advancedhosters.com>
+Country: US United States
+Location: Ashburn, VA
+Sponsor: AdvancedHosters http://www.advancedhosters.com
+Bandwidth: 2Gbps 
