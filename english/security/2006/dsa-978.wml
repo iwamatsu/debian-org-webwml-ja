@@ -15,11 +15,11 @@ version 1.4.1-1sarge1.</p>
 
 <p>We recommend that you upgrade your gnupg package.</p>
 
-<p>Please note that this security advisory has been superseeded by
+<p>Please note that this security advisory has been superseded by
 <a href="$(HOME)/security/2006/dsa-993">DSA 993</a>. Therefore, the
 updated packages are no longer available from this page.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-978.data"
-# $Id: dsa-978.wml,v 1.2 2006-11-17 21:15:09 toddy Exp $
+# $Id: dsa-978.wml,v 1.3 2012-12-30 16:02:10 victory-guest Exp $
