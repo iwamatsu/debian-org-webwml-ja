@@ -192,12 +192,11 @@ Nov&aacute; 225/1<br />
 250 64 M&#x11B;&scaron;ice<br />
 <country-name CZ>" />
 
-# vendor url can not be found. 07.12.2012 holger-guest
 <vendor name="opensource company"
   country="cz"
-  URL="http://www,opensource-company.com"
+  URL="http://www.opensource-company.com"
   email="contact@opensource-company.com"
-  phone="+49 9373 59 70 10"
+  phone="+420 46 330 59 60"
   ship="yes"
   smail="opensource company<br />
 Alexander Hu<br />
@@ -401,7 +400,7 @@ D-40223 Duesseldorf" />
 <vendor name="opensource company"
   country="de"
  URL="http://www.opensource-company.com"
- email="contact@opensource-compaby.com"
+ email="contact@opensource-company.com"
  phone="+49 9373 59 70 10"
  ship="yes"
  smail="opensource company<br />
@@ -912,19 +911,6 @@ CH-6006 Luzern<br />
   SK14 2BZ<br />
   <country-name GB>" />
 
-# "this store is no longer available". 07.12.2012 holger-guest
-<vendor name="Onyx Computers"
-  country="gb"
-  URL="http://www.onyxcomputers.co.uk"
-  email="info@onyxcomputers.co.uk"
-  phone="+44 161 408 0038"
-  ship="no"
-  smail="Onyx <br />
-  PO Box 782<br />
-  STOCKPORT<br />
-  SK5 9AR<br />
-  <country-name Gb>" />
-
 </country>
 
 <country code="us" name="<country-name US>">
@@ -1045,18 +1031,6 @@ Sunnyvale, CA  94086<br/>
 PO Box 4641<br />
 Los Alamos, NM 87544<br />
 <country-name US>" />
-
-# url is not reachable, bad gateway. 07.12.2012 holger-guest
-<vendor name="Machbach"
-  country="us"
- URL="https://www.machbach.com"
- email="info@machbach.com"
- phone="(408) 402 3422"
- ship="no"
- smail="Machbach<br />
- 2 N Santa Cruz Ave, Suite 100<br />
- Los Gatos, CA, 95030<br />
- <country-name US>" />
 
 #<vendor name="Microway, Inc"
 #  country="us"
