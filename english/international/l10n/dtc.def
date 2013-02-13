@@ -135,7 +135,7 @@ sub language_name {
         my $country=undef;
 
 	my (%languages,%countries);
-	dbmopen(%languages,'../languages',0444) or die($!);
+	dbmopen(%languages,'../../../../english/international/l10n/languages',0444) or die($!);
 
 	$lang  =~ s/@.*$//;
         if ($lang =~ m,^(..)_(..)$,) {
@@ -145,14 +145,12 @@ sub language_name {
 	my $lang_fullname = $languages{$lang};
 	if ($lang_fullname ne '') {
 		$lang_fullname = dgettext("iso_639_3", "$lang_fullname");
-		# #624476 workaround: French typography expect languages to start with a lowercase
-		$lang_fullname = lcfirst $lang_fullname if ($(CUR_LANG) eq 'French');
         } else {
                 return qq(<Unknown_Language>);
         }
 	dbmclose(%languages) or die($!);
 	if (defined $country) {
-		dbmopen(%countries,'../countries',0444) or die($!);
+		dbmopen(%countries,'../../../../english/international/l10n/countries',0444) or die($!);
 		my $country_fullname = $countries{$country};
 		if ($country_fullname ne '') {
 			$country_fullname = dgettext("iso_3166", "$country_fullname");

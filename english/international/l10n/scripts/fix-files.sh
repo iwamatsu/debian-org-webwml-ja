@@ -25,16 +25,14 @@ my $country = "'$country'";
 use Locale::gettext;
 use SDBM_File;
 my (%languages,%countries);
-dbmopen(%languages,"../languages",0444) or die($!);
+dbmopen(%languages,"../../../../english/international/l10n/languages",0444) or die($!);
 $langname = $languages{$langname};
     if ($langname ne "") {
 	    $langname = dgettext("iso_639_3", $langname);
-	    # #624476 workaround: French typography expect languages to start with a lowercase
-	    $langname = lcfirst $langname if ($lang eq "fr");
     }
     dbmclose(%languages) or die($!);
     if ($country ne "") {
-	    dbmopen(%countries,"../countries",0444) or die($!);
+	    dbmopen(%countries,"../../../../english/international/l10n/countries",0444) or die($!);
 	    my $country = $countries{$country};
 	    if ($country ne "") {
 		    $langname .= " &ndash; ".$country;
