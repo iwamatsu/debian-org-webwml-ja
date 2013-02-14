@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian in Swedish -- contributors" NOHEADER="true" BARETITLE="true" NOHOMELINK="true"
-#use wml::debian::translation-check translation="1.29" original="swedish"
+#use wml::debian::translation-check translation="1.30" original="swedish"
 #
-# $Id: bidragslamnare.wml,v 1.33 2011-05-26 10:05:38 rhonda Exp $
+# $Id: bidragslamnare.wml,v 1.35 2013-02-14 02:31:00 gusnan-guest Exp $
 #
 # If you are translating these pages to a language not using iso-8859-1, you
 # may need to replace some of the characters with their corresponding SGML
@@ -26,8 +26,8 @@ The <a href="$(HOME)">Debian web pages</a> are translated to Swedish by:
 <ul>
  <li>
 Coordinator:
-     Martin &Aring;gren,
-     <a href="m&#65;ilto:martin.agren&#64;gmail.com">martin.agren&#64;gmail.com</a>
+     Andreas R&ouml;nnquist, 
+     <a href="mailto:gusnan@gusnan.se">gusnan@gusnan.se</a>
  </li>
 </ul>
 
@@ -43,6 +43,10 @@ Previous translators:
 </p>
 
 <ul>
+ <li>
+     Martin &Aring;gren,
+     <a href="m&#65;ilto:martin.agren&#64;gmail.com">martin.agren&#64;gmail.com</a>
+ </li>
  <li>Mikael Hedin
      <a href="m&#65;ilto:micce&#64;debian.org">micce&#64;debian.org</a>
  </li>
