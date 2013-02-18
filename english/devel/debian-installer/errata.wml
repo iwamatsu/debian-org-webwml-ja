@@ -1,10 +1,10 @@
 #use wml::debian::template title="Debian-Installer errata"
 #use wml::debian::recent_list
 
-<h1 id="wheezy-beta4">Errata for Wheezy release Beta 4</h1>
+<h1 id="wheezy-rc1">Errata for Wheezy Release Candidate 1 release</h1>
 
 <p>
-This is a list of known problems in the wheezy release beta 4 of the Debian
+This is a list of known problems in the wheezy Release Candidate 1 release of the Debian
 Installer. If you do not see your problem listed here, please send us an
 <a href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">installation
 report</a> describing the problem.
@@ -12,15 +12,46 @@ report</a> describing the problem.
 
 <dl class="gloss">
 
+	<dt>Installation of GRUB bootloader may fail if more than one disk device is available.</dt>
+	<dd>When there is more than one disk available during installation
+	(for example one hard disk and one USB stick, as it is commonly the case when
+	booting the installer from a USB stick), <code>grub-install</code> may run into
+	problems: it was reported several times, that the GRUB bootloader was
+	installed onto the USB stick instead of the hard disk containing the newly-installed system.
+	<br />
+	To avoid running into this, make sure to answer <q>No</q> when the following question
+	is asked during the installation process: <q>Install the GRUB boot loader to the
+	master boot record?</q>; it should be possible to specify the right device at the
+	next step: <q>Device for boot loader installation</q>.
+	<br />
+	If the installation finished successfully despite a wrong GRUB configuration, it should be
+	possible to recover using the rescue mode of the installer: chroot into the root filesystem,
+	mount any additional boot partition if applicable, and
+	run <code>grub-install</code> with the proper device as parameter.
+	<br />
+	This issue will hopefully be fixed in the next Release Candidate.
+	</dd>
 
-	<dt>Network issues when installing a desktop over a wireless connection.</dt>
-	<dd>
-	When installing a desktop using a wireless connection, the
-	network-manager component on the installed system might not be
-	working out of the box
-	(<a href="http://bugs.debian.org/682608">#682608</a>). A
-	workaround might be to comment out the lines about wlan0 in the
-	/etc/network/interfaces file.
+	<dt>Desktop installations on i386 do not work using CD#1 alone</dt>
+	<dd>Due to space constraints on the first CD, not all of the expected GNOME desktop
+	packages fit on CD#1. For a successful installation, use extra package sources (e.g.
+	a second CD or a network mirror) or use a DVD instead.
+	<br />
+	This issue will hopefully be fixed in the next Release Candidate.
+	</dd>
+
+	<dt>Potential issues with UEFI booting on amd64</dt>
+	<dd>There have been some reports of issues booting the Debian Installer in UEFI mode
+	on amd64 systems. Some systems apparently do not boot reliably using <code>grub-efi</code>, and some
+	others show graphics corruption problems when displaying the initial installation splash
+	screen.
+	<br />
+	If you encounter either of these issues, please file a bug report and give as much detail
+	as possible, both about the symptoms and your hardware - this should assist the team to fix
+	these bugs. As a workaround for now, try switching off UEFI and installing using <q>Legacy
+	BIOS</q> or <q>Fallback mode</q> instead.
+	<br />
+	These issues will hopefully be fixed in the next Release Candidate.
 	</dd>
 
 <!-- leaving this in for possible future use...
