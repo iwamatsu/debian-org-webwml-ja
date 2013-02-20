@@ -23,7 +23,7 @@ arbitrary command execution. Two CVE were assigned:</p>
 </ul>
 
 <p>For the stable distribution (squeeze), this problem has been fixed in
-version 2.3.2-13squeeze2.</p>
+version 2.3.2-13squeeze3.</p>
 
 <p>For the testing distribution (wheezy), this problem has been fixed in
 version 2.3.3-6.</p>
@@ -36,4 +36,4 @@ version 2.3.3-6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2578.data"
-# $Id: dsa-2578.wml,v 1.2 2012-11-27 23:58:27 taffit Exp $
+# $Id: dsa-2578.wml,v 1.3 2013-02-19 17:06:28 thijs Exp $

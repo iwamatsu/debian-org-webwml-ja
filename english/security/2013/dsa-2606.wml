@@ -5,7 +5,7 @@ the same physical host as the server may be able to perform a symlink
 attack allowing to elevate privileges in some configurations.</p>
 
 <p>For the stable distribution (squeeze), this problem has been fixed in
-version 1.3.3a-6squeeze5.</p>
+version 1.3.3a-6squeeze6.</p>
 
 <p>For the testing distribution (wheezy), this problem will be fixed soon.</p>
 
@@ -17,4 +17,4 @@ version 1.3.4a-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2606.data"
-# $Id: dsa-2606.wml,v 1.1 2013-01-13 20:51:59 taffit Exp $
+# $Id: dsa-2606.wml,v 1.2 2013-02-19 15:45:13 thijs Exp $

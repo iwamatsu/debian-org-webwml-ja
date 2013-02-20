@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian in Swedish -- related resources" NOHEADER="true" BARETITLE="true" NOHOMELINK="true"
-#use wml::debian::translation-check translation="1.18" original="swedish"
-# $Id: relaterade.wml,v 1.21 2011-05-26 10:05:38 rhonda Exp $
+#use wml::debian::translation-check translation="1.19" original="swedish"
+# $Id: relaterade.wml,v 1.23 2013-02-19 20:08:32 gusnan-guest Exp $
 #
 # If you are translating these pages to a language not using iso-8859-1, you
 # may need to replace some of the characters with their corresponding SGML
@@ -96,7 +96,7 @@ Please also see our pages about
 
 <p>
 If you have a good link that you think is missing here, please contact
-<a href="mailto:martin.agren@gmail.com">Martin &Aring;gren</a> via e-mail!
+<a href="mailto:gusnan@gusnan.se">Andreas Rönnquist</a> via e-mail!
 </p>
 
 <h1>Swedish Linux mailing lists</h1>
