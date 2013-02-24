@@ -1,7 +1,7 @@
 #use wml::debian::template title="Debian in Swedish" BARETITLE="true"
-#use wml::debian::translation-check translation="1.10" original="swedish"
+#use wml::debian::translation-check translation="1.11" original="swedish"
 #
-# $Id: index.wml,v 1.12 2013-02-16 13:26:16 gusnan-guest Exp $
+# $Id: index.wml,v 1.13 2013-02-23 19:17:57 gusnan-guest Exp $
 #
 # If you are translating these pages to a language not using iso-8859-1, you
 # may need to replace some of the characters with their corresponding SGML
