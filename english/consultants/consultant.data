@@ -163,7 +163,7 @@
 <h1><a name="AU"><country-name AU>:</a></h1>
 
 # Consultant: AU
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Dave Hall>
 <company Dave Hall Consulting>
@@ -188,7 +188,7 @@
 </p>
 
 # Consultant: AU
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Andrew Foster &amp; David Kempe>
 <company Solutions First>
@@ -197,7 +197,7 @@
 <fax     +61-2-9923-2190>
 <email   info@solutionsfirst.com.au>
 <URL     "http://solutionsfirst.com.au/">
-<rates   $140 AUD/hour, bulk or negotiated rates available>
+<rates   $154 AUD/hour, including GST, bulk or negotiated rates available>
 <additional_info solutionsfirst>
 </p>
 
@@ -230,13 +230,13 @@
 
 # Consultant: AU
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Ron Fabre and Con Zymaris>
-<company Cybersource Pty Ltd>
+<company Cyber IT Solutions Pty Ltd>
 <address Melbourne, <country-name AU>>
-<phone   +61-3-9628-6922>
-<fax     +61-3-9628-6944>
+<phone   +61-3-9428-6922>
+<fax     +61-3-9428-6944>
 <email   info@cyber.com.au>
 <URL     "http://www.cyber.com.au/">
 <rates   Please contact for rates.>
@@ -306,7 +306,7 @@
 
 # Consultant: AU
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name	 Shane Machon>
 <company LinSec Consulting>
@@ -320,7 +320,7 @@
 
 # Consultant: AU
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name	 Graham J Williams>
 <company Togaware>
@@ -390,15 +390,15 @@
 
 # Consultant: AU
 # email checked on 2011-12-02
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name	 Joe Matthew, Reza &amp; Eugen.>
+<name	 Joe Matthew+>
 <company Powerful CMS>
 <address 102/278 Church Street, Richmond, VIC 3121, <country-name AU>>
-<phone	 +61 2 9220 1784>
+<phone	 +61 2 2891 3000>
 <email	 debian@powerfulcms.com>
 <URL	 "http://www.powerfulcms.com.au/unix-amazon-consulting-services">
-<rates	 from $45/hr>
+<rates	 from $65/hr>
 <additional_info powerfulcms>
 </p>
 
@@ -418,7 +418,7 @@
 
 # Consultant: AT
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry up-to-date.
 <p>
 <name    Peter-Paul Witta>
 <company CUBiT IT Solutions GmbH>
@@ -514,10 +514,11 @@
 
 # Consultant: AT
 # mail sent to check status to wien@h.co.at: 23.02.2013 holger-guest
+# Result: still active, entry is updated.
 <p>
-<name    David Schmitt>
+<name    Ulrich Huber>
 <company Heureka GesmbH>
-<address Sauterg. 20; Vienna, <country-name AT>>
+<address Wiener Straße 101, 3032 Eichgraben, <country-name AT>>
 <phone   +43-1-9292815>
 <fax     +43-1-9292816>
 <email   wien@heureka.co.at>
@@ -529,14 +530,14 @@
 
 # Consultant: AT
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Karl Deutsch>
 <company IT-WORKS.CO.AT - Consulting &amp; Solutions>
 <address Am Waldrand 12, A-8380 Jennersdorf, <country-name AT>>
 <phone   +43-664-4939234>
 <email   public@it-works.co.at>
-<URL     "http://www.it-works.co.at">
+<URL     "http://www.karl-deutsch.at">
 </p>
 
 # Consultant: AT
@@ -568,7 +569,7 @@
 </p>
 
 # Consultant: AT
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry up-to-date.
 <p>
 <name	 Christoph J&auml;ger>
 <company abaton EDV-Dienstleistungs GmbH>
@@ -755,7 +756,7 @@
 #</p>
 
 # Consultant: BE
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Jens-Ingo Brodesser>
 <company Moving Art Studio, all2all.org>
@@ -796,13 +797,12 @@
 </p>
 
 # Consultant: BE
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Wouter Verhelst>
 <company NixSys BVBA>
-<address Louizastraat 14, Mechelen, <country-name BE>>
-<phone   +32-15-27-69-50>
-<fax     +32-15-27-69-51>
+<address Battelsesteenweg 455e, Mechelen, <country-name BE>>
+<phone   +32 486 836 198 (mobile)>
 <email   info@nixsys.be>
 <URL     "http://www.nixsys.be/">
 <rates   negotiable>
@@ -901,11 +901,11 @@
 </p>
 
 # Consultant: BE
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Koen Vereeken>
 <company Sinopsys>
-<address Paardenmarkt 29, 2000 Antwerpen, <country-name BE>>
+<address Beukendreef 25, 9300 Aalst, <country-name BE>>
 <phone	 +32 498 / 63 95 68>
 <email	 koen@vereeken.net>
 <URL	 "http://www.vereeken.net/">
@@ -914,14 +914,14 @@
 
 # Consultant: BE
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Christophe Lemaire>
 <company exp-Networks sprl>
 <address 5030 Ernage, <country-name BE>>
 <phone	 +32 497 73 00 47>
 <fax  	 +32 70 40 23 32>
-<email	 info@exp-networks.be>
+<email	 christophe.lemaire@exp-networks.be>
 <URL	 "http://www.exp-networks.be/">
 <rates   Please contact us for pricing.>
 </p>
@@ -960,7 +960,7 @@
 
 # Consultant: BA
 # email checked on 2011-10-16
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry up-to-date.
 <p>
 <name	 Amar Cosic>
 <company Nula Hosting>
@@ -1039,7 +1039,7 @@
 </p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Diogo Dourado>
 <company Brainatwork Servi&ccedil;os Interativos>
@@ -1216,13 +1216,14 @@
 
 # Consultant: BR
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Reinaldo Gil Lima de Carvalho>
-<company Universidade Federal do Par&aacute;>
 <address Bel&eacute;m, PA, <country-name BR>>
 <phone   +55-91-3229-5009>
+<phone   +55-91-8802-8171>
 <email   reinaldoc@gmail.com>
+<URL     "http://reinaldoc.wordpress.com/about/debian-consultant/">
 <rates   Negotiable.>
 <additional_info rei>
 </p>
@@ -1349,7 +1350,7 @@
 #</p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Mauricio Maniga>
 <company Alpha Quattro Inform&aacute;tica Ltda.>
@@ -1370,16 +1371,6 @@
 #<email	 gustavo.noronha@terra.com.br>
 #<rates	 Negotiable.>
 #</p>
-
-# Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name	 Gustavo Franco>
-<address Rio de Janeiro/RJ, <country-name BR>>
-<phone	 +55-21-9922-0684>
-<email	 stratus@acm.org>
-<rates	 Negotiable.>
-</p>
 
 # Consultant: BR
 # mail sent to check status: 23.02.2013 holger-guest
@@ -1508,15 +1499,15 @@
 </p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name    Wagner dos Santos Chagas>
-<company XunilNet>
-<address Loteamento Bariloche Q.b B Lote 09 No 352, <country-name BR>>
-<phone   +55 82 3320 7380>
-<phone   +55 82 9104 3524>
-<email   wagner.chagas@bol.com.br>
-</p>
+# mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Wagner dos Santos Chagas>
+#<company XunilNet>
+#<address Loteamento Bariloche Q.b B Lote 09 No 352, <country-name BR>>
+#<phone   +55 82 3320 7380>
+#<phone   +55 82 9104 3524>
+#<email   wagner.chagas@bol.com.br>
+#</p>
 
 # Consultant: BR
 # mail sent to check status: 23.02.2013 holger-guest
@@ -1531,16 +1522,6 @@
 <rates   R$ 50,00 (Negoci&aacute;vel)>
 </p>
 
-# Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name	 Ricardo Ichizo>
-<address Campinas/SP, <country-name BR>>
-<phone   +55 19 8202 1567>
-<email   ricardo.ichizo@gmail.com>
-<rates   Negotiable>
-<additional_info r_ichizo>
-</p>
 
 # Consultant: BR
 # mail sent to check status: 23.02.2013 holger-guest
@@ -1682,11 +1663,12 @@
 
 # Consultant: BR
 # email checked on 2011-10-30
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name	 Adonney Allan de O. Veras>
+<name	 Adonney Allan de Oliveira Veras>
 <address Bel&eacute;m-PA, <country-name BR>>
-<phone   (91) 8826-0678>
+<phone   (+5591)8116-6447>
+<phone   (+5591)9923-2500>
 <email	 allanverasce@gmail.com>
 <rates	 a combinar>
 </p>
@@ -1708,18 +1690,19 @@
 
 # Consultant: BR
 # email checked on 2011-12-02
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name	 André Mariano >
-<company Accounti>
-<address Rua Osvaldo Lima e Silva, 500 Cardoso - Barreiro de Cima, Belo Horizonte - MG CEP: 30626-670, <country-name BR>>
-<phone   +55 31 3231-6161>
-<phone   +55 31 9335-8219>
-<phone   +55 31 9622-7794>
-<email	 contato@accounti.com.br>
-<rates	 Negotiable. Please email or call for more information. We work with projects and with a monthly contract.>
-<additional_info accounti>
-</p>
+# mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name	 André Mariano >
+#<company Accounti>
+#<address Rua Osvaldo Lima e Silva, 500 Cardoso - Barreiro de Cima, Belo Horizonte - MG CEP: 30626-670, #<country-name BR>>
+#<phone   +55 31 3231-6161>
+#<phone   +55 31 9335-8219>
+#<phone   +55 31 9622-7794>
+#<email	 contato@accounti.com.br>
+#<rates	 Negotiable. Please email or call for more information. We work with projects and with a monthly
+#  contract.>
+#<additional_info accounti>
+#</p>
 
 
 <h1><a name="BG"><country-name BG>:</a></h1>
