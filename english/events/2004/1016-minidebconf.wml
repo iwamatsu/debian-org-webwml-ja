@@ -12,7 +12,7 @@
 <p>This is the first Italian-wide meeting for the Debian developers,
 advanced users, and all the people who have contributed, or who, in
 some way, would like to do it.  Simple curious people and who
-sympatise with the Free Software and its development model are
+sympathize with the Free Software and its development model are
 welcome, too.</p>
 
 </define-tag>
@@ -29,9 +29,9 @@ party.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1016-minidebconf.wml,v 1.4 2004-10-23 22:41:37 djpig Exp $
+# $Id: 1016-minidebconf.wml,v 1.5 2013-02-25 08:54:41 victory-guest Exp $
 #Related Links here (free form)
 <ul>
- <li><report href="http://blog.bofh.it/id_62">Report</report>
- <li><a href="http://people.debian.org/~ccontavalli/#program">schedule</a>
+ <li><report href="http://blog.bofh.it/id_62">Report</report></li>
+ <li><a href="http://people.debian.org/~ccontavalli/#program">schedule</a></li>
 </ul>
