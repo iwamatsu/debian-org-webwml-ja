@@ -32,11 +32,13 @@
 </p>
 
 # Consultant: AR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Ing. Javier Kohan>
 <company Aptix Information Technology>
-<address Mitre 907 piso 5 of. D, (S2000COS) Rosario, <country-name AR>>
+<address Pellegrini 391 PA (S2000BTD) Rosario, <country-name AR>>
+<phone   +54-341-423-0011>
+<fax     +54-341-423-0022>
 <email   dcon@aptix.com.ar scramble="yes">
 <URL     "http://www.aptix.com.ar/">
 </p>
@@ -101,12 +103,12 @@
 </p>
 
 # Consultant: AR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Luis Federico Bricker>
 <company Dokko Group>
 <address Col&oacute;n 1427 Tandil, Buenos Aires <country-name AR>>
-<phone	 +54 (02293) 426428>
+<phone	 +54 (0249) 4426428>
 <email	 fbricker@dokkogroup.com.ar>
 <URL	 "http://www.dokkogroup.com.ar">
 <rates	 Contact us for rates>
@@ -114,13 +116,13 @@
 </p>
 
 # Consultant: AR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Jos&eacute; Mar&iacute;a Schenone>
-<company DotLinuX>
+<company dotLinux Latinoamerica>
 <address Vicente Franco 1918, B1881DQH Quilmes, Buenos Aires, <country-name AR>>
-<phone	 +54 11 5291 0091>
-<email	 jomax@dotlinux.com.ar>
+<phone	 +54 11 5199 6215>
+<email	 jose@dotlinux.com.ar>
 <URL	 "http://www.dotlinux.com.ar">
 <rates	 Please, contact us for rates>
 </p>
@@ -139,13 +141,13 @@
 </p>
 
 # Consultant: AR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Eugenio Armel&iacute;n>
 <company freelance consultant>
 <address 26 de Abril 3251 Ituzaing&oacute; (1714), Buenos Aires, <country-name AR>>
 <phone   54-11-44818720>
-<email	 armelineug@yahoo.com.ar>
+<email	 armelignux@gmail.com>
 <rates	 Please contact for rates>
 </p>
 
@@ -433,16 +435,16 @@
 
 # Consultant: AT
 # email checked on 2010-11-13
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Patrick Seher>
-<company SEHER IT>
-<address Erlaufstrase 8/4; 2344 Maria Enzersdorf, <country-name AT>>
-<phone   +43 1 2367 144>
-<fax     +43-780-332-332-10>
-<email   office@seher-it.at>
-<url     "http://www.seher-it.at/">
-<rates   70 EUR / h.>
+<company Rechenkraft GmbH & Co IT Services KG>
+<address Roßauer Gasse 7; 1090 Wien, <country-name AT>>
+<phone   +43 50 191919>
+<fax     +43 50 191999>
+<email   office@rechenkraft.at>
+<url     "http://www.rechenkraft.at/">
+<rates   70 EUR / h>
 <additional_info seher_it>
 </p>
 
@@ -474,15 +476,15 @@
 </p>
 
 # Consultant: AT
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company iPodion GmbH>
-<address Rotensterngasse 20/3, 1020 Wien, <country-name AT>>
-<phone   +43-01-216-32-98-0>
-<fax     +43-01-216-32-98-28>
+<address Wichtelgasse 57-59, 1170 Wien, <country-name AT>>
+<phone   +43 1 216 32 98 5-00>
+<fax     +43 1 216 32 98 5-99>
 <email   office@iPodion.at>
 <URL     "http://www.iPodion.at">
-<rates   hourly rates: EUR 90,00- contact us for special rates on support contracts>
+<rates   hourly rates: EUR 110,00>
 <additional_info ipodion>
 </p>
 
@@ -500,7 +502,7 @@
 
 # Consultant: AT
 # email checked on 2011-09-09
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Josef Bergmann>
 <company Bergmann engineering &amp; consulting GmbH>
@@ -606,6 +608,16 @@
 <rates	 Please contact for individual offer. 10% go to the Debian project.>
 </p>
 
+# Consultant: AT
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
+<p>
+<name    Johnny Morano>
+<company moretrix[dot]com>
+<address Oberwirt 360, 5505 Mühlbach am Hochkönig, <country-name AT>>
+<email   jmorano@moretrix.com>
+<URL     "http://www.moretrix.com/">
+<rates   Depends on the task>
+</p>
 
 <h1><a name="BS"><country-name BS>:</a></h1>
 
@@ -663,7 +675,7 @@
 </p>
 
 # Consultant: BY
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Alexander Arabei>
 <company Qulix Systems>
@@ -785,18 +797,6 @@
 </p>
 
 # Consultant: BE
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name    Johnny Morano>
-<company moretrix[dot]com>
-<address Anne Ruttenstraat 44 bus 4, 3500 Hasselt, <country-name BE>>
-<phone   +32-473894685>
-<email   insaniac@moretrix.com>
-<URL     "http://www.moretrix.com/">
-<rates   Depends on the task>
-</p>
-
-# Consultant: BE
 # mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Wouter Verhelst>
@@ -876,13 +876,12 @@
 </p>
 
 # Consultant: BE
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Tom Schouteden>
 <company Linugen>
 <address Antwerp, <country-name BE>>
-<phone   +32-3-685-39-81>
-<fax     +32-3-293-33-43>
+<phone   +32-475-45-85-55>
 <email   hello@linugen.com>
 <URL     "http://www.linugen.com/">
 <rates   Available upon request.>
@@ -1107,7 +1106,7 @@
 </p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 <p>
 <name    Marcio Jacson dos Santos>
 <company Informatech Informatica Ltda>
@@ -1229,19 +1228,6 @@
 </p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name    Marcus Derencius>
-<company Taoweb Tecnologia Ltda>
-<address R. Diana, 331, <country-name BR>>
-<phone   +55-11-8141-2559>
-<fax     +55-11-3872-5255>
-<email   marcus@taoweb.com.br>
-<URL     "http://www.taoweb.com.br">
-<rates   Ad Hoc US$50/R$100,00 per hour. We offer remote support contracts.>
-</p>
-
-# Consultant: BR
 # mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
 #<p>
 #<name    Alexander Rafael Benatti>
@@ -1303,13 +1289,13 @@
 #</p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Anderson Carlos Daniel Sanches>
 <address Tatuap&eacute; - S&atilde;o Paulo - SP, <country-name BR>>
-<phone   +55-11-95176531>
+<phone   +55-11-96705-4926>
 <email   andycds@gmail.com>
-<URL     "http://www.ime.usp.br/~anderson/">
+<URL     "http://www.software.pro.br/">
 <rates   Negotiable, depends on project.>
 <additional_info anderson>
 </p>
@@ -1548,7 +1534,7 @@
 #</p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry up-to-date.
 <p>
 <name	 Marlon Nunes>
 <company FOSS suporte>
@@ -1585,11 +1571,11 @@
 #</p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Leonardo Damasceno>
 <address Avenida Juca Sampaio - N&uacute;mero: 1990, Condom&iacute;nio Residencial Tropical  - Feitosa, Macei&oacute; city, <country-name BR>>
-<phone	 +55-82-88317505>
+<phone	 +55-82-9933-3226>
 <email	 damasceno.lnx@gmail.com>
 <URL	 "http://leodamasceno.blogspot.com">
 <rates	 Negotiable>
