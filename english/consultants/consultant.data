@@ -1359,13 +1359,13 @@
 #</p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name	 Jose Antonio Alves Tavares Filho>
-<address Pelotas/Porto Alegre/RS, <country-name BR>>
-<phone	 +55-53-91246533>
-<email	 jat@terra.com.br>
-</p>
+# mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name	 Jose Antonio Alves Tavares Filho>
+#<address Pelotas/Porto Alegre/RS, <country-name BR>>
+#<phone	 +55-53-91246533>
+#<email	 jat@terra.com.br>
+#</p>
 
 # Consultant: BR
 # mail sent to check status to carlos.rocha@s.com.br: 23.02.2013 holger-guest
@@ -1691,29 +1691,17 @@
 #</p>
 
 
-<h1><a name="BG"><country-name BG>:</a></h1>
+# <h1><a name="BG"><country-name BG>:</a></h1>
 
 # Consultant: BG
 # mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Georgi Naplatanov>
-<company Oles biz>
-<address Sofia, <country-name BG>>
-<phone   +359-2-9550822>
-<email   gosho@oles.biz>
-<URL     "http://www.oles.biz">
-<rates   Negotiable.>
-</p>
-
-# Consultant: BG
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Anton Zinoviev>
-<address Sofia, <country-name BG>>
-<email   anton@lml.bas.bg>
-<URL     "http://lml.bas.bg/~anton/linux/">
-<rates   Depends on the problem.>
-</p>
+#<p>
+#<name    Anton Zinoviev>
+#<address Sofia, <country-name BG>>
+#<email   anton@lml.bas.bg>
+#<URL     "http://lml.bas.bg/~anton/linux/">
+#<rates   Depends on the problem.>
+#</p>
 
 
 <h1><a name="CA"><country-name CA>:</a></h1>
@@ -1810,18 +1798,18 @@
 </p>
 
 # Consultant: CA
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Dave Hornford>
-<company Hornford Associates>
-<address #114, 100 - 111 5th Ave, SW Calgary, Alberta, <country-name CA> T2P 3Y6>
-<phone   +1-403-818-4303>
-<fax     +1-403-206-0655>
-<email   Contact@HornfordAssociates.com>
-<URL     "http://www.HornfordAssociates.com">
-<rates   Rates vary based upon scope of work>
-<additional_info hornfordassociates>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Dave Hornford>
+#<company Hornford Associates>
+#<address #114, 100 - 111 5th Ave, SW Calgary, Alberta, <country-name CA> T2P 3Y6>
+#<phone   +1-403-818-4303>
+#<fax     +1-403-206-0655>
+#<email   Contact@HornfordAssociates.com>
+#<URL     "http://www.HornfordAssociates.com">
+#<rates   Rates vary based upon scope of work>
+#<additional_info hornfordassociates>
+#</p>
 
 # Consultant: CA
 # mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
@@ -1989,18 +1977,18 @@
 # Consultant: CA
 # Check URL at 22.02.2013 by holger-guest.
 # Result: address not found
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    William Brown>
-<company Global Systems Consulting Ltd.>
-<address Regina, Saskatchewan, <country-name CA>>
-<phone   +1-306-949-5509>
-<fax     +1-306-949-5509 on request>
-<email   bill@gsc.sk.ca>
-<URL     http://www.gsc.sk.ca/>
-<rates   $45/hr CDN>
-<additional_info global_systems>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    William Brown>
+#<company Global Systems Consulting Ltd.>
+#<address Regina, Saskatchewan, <country-name CA>>
+#<phone   +1-306-949-5509>
+#<fax     +1-306-949-5509 on request>
+#<email   bill@gsc.sk.ca>
+#<URL     http://www.gsc.sk.ca/>
+#<rates   $45/hr CDN>
+#<additional_info global_systems>
+#</p>
 
 # Consultant: CA
 # mail sent to check status: 26.02.2013 holger-guest
@@ -2038,17 +2026,17 @@
 </p>
 
 # Consultant: CA
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name	 Daniel Rokosz>
-<company Minek Systems Inc.>
-<address 250-2639 Viking Way, Richmond, BC, V6V 1N3, <country-name CA>>
-<phone	 604-506-3168>
-<fax	 305-356-7141>
-<email	 info@minek.com>
-<URL	 "http://www.minek.com">
-<rates	 $50 - $120 / hour>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name	 Daniel Rokosz>
+#<company Minek Systems Inc.>
+#<address 250-2639 Viking Way, Richmond, BC, V6V 1N3, <country-name CA>>
+#<phone	 604-506-3168>
+#<fax	 305-356-7141>
+#<email	 info@minek.com>
+#<URL	 "http://www.minek.com">
+#<rates	 $50 - $120 / hour>
+#</p>
 
 # Consultant: CA
 # mail sent to check status: 26.02.2013 holger-guest
@@ -2123,31 +2111,31 @@
 </p>
 
 # Consultant: CL
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Diego Alvarez>
-<company Microserv LTDA>
-<address Eliodoro Ya&ntilde;ez 2675, Providencia - Santiago, <country-name CL>>
-<phone   +56-2-3712824>
-<fax     +56-2-2514600>
-<email   diego.alvarez@microserv.cl>
-<URL     "http://www.microserv.cl">
-<rates   Please contact for rates>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Diego Alvarez>
+#<company Microserv LTDA>
+#<address Eliodoro Ya&ntilde;ez 2675, Providencia - Santiago, <country-name CL>>
+#<phone   +56-2-3712824>
+#<fax     +56-2-2514600>
+#<email   diego.alvarez@microserv.cl>
+#<URL     "http://www.microserv.cl">
+#<rates   Please contact for rates>
+#</p>
 
 # Consultant: CL
 # Check URL at 22.02.2013 by holger-guest.
 # Result: URL contains no public data / Not a Debian consultant?
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Bruno Barrera C.>
-<company The Pegasus Group Company>
-<address Marchant Pereira OF, 515, Providencia - Santiago, <country-name CL>>
-<phone   +56-2-223-0528>
-<email   bruno@tpgcompany.com>
-<URL    "http://www.tpgcompany.com">
-<rates  Available upon request>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Bruno Barrera C.>
+#<company The Pegasus Group Company>
+#<address Marchant Pereira OF, 515, Providencia - Santiago, <country-name CL>>
+#<phone   +56-2-223-0528>
+#<email   bruno@tpgcompany.com>
+#<URL    "http://www.tpgcompany.com">
+#<rates  Available upon request>
+#</p>
 
 # Consultant: CL
 # mail sent to check status: 26.02.2013 holger-guest
@@ -2162,17 +2150,17 @@
 # Consultant: CL
 # Check URL at 22.02.2013 by holger-guest.
 # Result: address not found
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Hector Gatica Megias>
-<company OpenSynapse E.I.R.L>
-<address Tarragona #1956 Valle Noble Concepci&oacute;n, <country-name CL>>
-<phone   +56-41-289-0134>
-<email   info@opensynapse.cl>
-<URL     "http://www.opensynapse.cl">
-<rates   Please contact for rates.>
-<additional_info opensynapse>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Hector Gatica Megias>
+#<company OpenSynapse E.I.R.L>
+#<address Tarragona #1956 Valle Noble Concepci&oacute;n, <country-name CL>>
+#<phone   +56-41-289-0134>
+#<email   info@opensynapse.cl>
+#<URL     "http://www.opensynapse.cl">
+#<rates   Please contact for rates.>
+#<additional_info opensynapse>
+#</p>
 
 
 <h1><a name="CN"><country-name CN>:</a></h1>
@@ -2266,16 +2254,16 @@
 </p>
 
 # Consultant: CR
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Elias Torres Arroyo>
-<company Ingenieros Consultores>
-<address Quizarco 1E, Santo Domingo de Heredia, <country-name CR>>
-<phone	 +506-365-2389>
-<email	 etorres@ingenierosconsultores.net>
-<URL	 "http://www.ingenierosconsultores.net/">
+<company Comglobal IT S.A.>
+<address Boulevard Rohrmoser, Plaza Etreus #7, Rohrmoser, San José 10109, <country-name CR>>
+<phone	 +506-2520-2020>
+<email	 info+debian@comglobalit.com>
+<URL	 "http://www.comglobalit.com/">
 <rates	 Negotiable.>
-<additional_info ingenieros_consultores>
+<additional_info comglobal>
 </p>
 
 # Consultant: CR
@@ -2306,21 +2294,21 @@
 <h1><a name="HR"><country-name HR>:</a></h1>
 
 # Consultant: HR
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name	 Milan Rajacic>
-<company Operacijski sustavi d.o.o.>
-<address Ivana Sibla bb, 10000 Zagreb, <country-name HR>>
-<phone	 +385-1-6623840>
-<fax	 +385-1-6623842>
-<email	 sales@opsus.hr>
-<URL	 "http://www.opsus.hr/">
-<rates	 From 80$ to 30$ depending on task, plus travel expenses for out
-	 of Zagreb locations, negotiable for non-profit.>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name	 Milan Rajacic>
+#<company Operacijski sustavi d.o.o.>
+#<address Ivana Sibla bb, 10000 Zagreb, <country-name HR>>
+#<phone	 +385-1-6623840>
+#<fax	 +385-1-6623842>
+#<email	 sales@opsus.hr>
+#<URL	 "http://www.opsus.hr/">
+#<rates	 From 80$ to 30$ depending on task, plus travel expenses for out
+#	 of Zagreb locations, negotiable for non-profit.>
+#</p>
 
 # Consultant: HR
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry up-to-date.
 <p>
 <name	 Josip Rodin>
 <address Zagreb, <country-name HR>>
@@ -2329,13 +2317,11 @@
 </p>
 
 # Consultant: HR
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Davor Ocelic>
 <company Spinlock Solutions>
 <address Antona Mihica 6, HR-51410 Opatija, <country-name HR>>
-<phone   +385-51-680-650>
-<fax     +385-51-680-654>
 <email	 info@spinlocksolutions.com>
 <URL     http://www.spinlocksolutions.com/>
 <rates	 Based on duration and location. Special rates available for
@@ -2383,11 +2369,11 @@
 </p>
 
 # Consultant: DK
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Sikkerhed.org ApS>
 <company Sikkerhed.org ApS>
-<address Fuglebakkevej 88, 1. sal, 2000 Frederiksberg, <country-name DK>>
+<address Reersøgade 8 B, 4., 2100 København Ø, <country-name DK>>
 <phone   (+45) 70 20 42 20>
 <fax     (+45) 70 20 42 29>
 <email   info@sikkerhed.org>
@@ -2409,21 +2395,21 @@
 </p>
 
 
-<h1><a name="EG"><country-name EG>:</a></h1>
+# <h1><a name="EG"><country-name EG>:</a></h1>
 
 # Consultant: EG
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Dr. Arafat Abou El Hassan>
-<company Allied Consultants Group (ACG)>
-<address 1/1 5th East Degla Ma'ady Cairo, <country-name EG>>
-<phone   +20-2-5161314>
-<phone   +20-2-7058636>
-<phone   +20-10-1772176>
-<fax     +20-2-5161314>
-<email   acgroup@link.net>
-<rates   $50 per hour, negotiable for non-profit, etc>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Dr. Arafat Abou El Hassan>
+#<company Allied Consultants Group (ACG)>
+#<address 1/1 5th East Degla Ma'ady Cairo, <country-name EG>>
+#<phone   +20-2-5161314>
+#<phone   +20-2-7058636>
+#<phone   +20-10-1772176>
+#<fax     +20-2-5161314>
+#<email   acgroup@link.net>
+#<rates   $50 per hour, negotiable for non-profit, etc>
+#</p>
 
 
 <h1><a name="FI"><country-name FI>:</a></h1>
@@ -2478,25 +2464,26 @@
 
 # Consultant: FI
 # mail sent to check status to sales@j.fi: 26.02.2013 holger-guest
-<p>
-<name    Petri Makkonen and Pasi Sojala>
-<company Jib Systems Oy>
-<address PO Box 112, FI-00101 Helsinki, <country-name FI>>
-<phone   +358-50-585-7772>
-<phone   +358-40-551-4509>
-<email   sales@jibsystems.fi>
-<email   myynti@jibsystems.fi>
-<URL     "http://www.jibsystems.fi/">
-<rates   40-150 EUR + expences, details by email.>
-<additional_info jibsystems>
-</p>
+# Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Petri Makkonen and Pasi Sojala>
+#<company Jib Systems Oy>
+#<address PO Box 112, FI-00101 Helsinki, <country-name FI>>
+#<phone   +358-50-585-7772>
+#<phone   +358-40-551-4509>
+#<email   sales@jibsystems.fi>
+#<email   myynti@jibsystems.fi>
+#<URL     "http://www.jibsystems.fi/">
+#<rates   40-150 EUR + expences, details by email.>
+#<additional_info jibsystems>
+#</p>
 
 # Consultant: FI
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Erno Rasanen>
 <company Xetpoint Oy>
-<address P.O. Box 43, FIN-33961 Pirkkala, <country-name FI>>
+<address Poukantie 3, FIN-37370 Narva, <country-name FI>>
 <phone	 +358-440-650653>
 <email	 info@xetpoint.fi>
 <URL	 "http://www.xetpoint.fi/">
