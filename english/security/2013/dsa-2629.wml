@@ -1,5 +1,5 @@
 <define-tag description>several issues</define-tag>
-<define-tag moreinfo></p>
+<define-tag moreinfo>
 
 <ul>
 
@@ -31,4 +31,4 @@ have been fixed in version 1.3+dfsg-4.6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2629.data"
-# $Id: dsa-2629.wml,v 1.1 2013-02-25 19:51:22 victory-guest Exp $
+# $Id: dsa-2629.wml,v 1.2 2013-02-27 16:31:37 victory-guest Exp $
