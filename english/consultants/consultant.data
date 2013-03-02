@@ -976,16 +976,17 @@
 # Check URL at 22.02.2013 by holger-guest.
 # Result: address not found
 # mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
-#<p>
-#<name    Allan David Garcia>
-#<company ADG Solu&ccedil;&otilde;es em Inform&aacute;tica Ltda.>
-#<address Rua dos Amarantos, 186-A - Capim Macio - Natal/RN, <country-name BR>>
-#<phone   +55-84-9113-4241>
-#<fax     +55-84-3234-5072>
-#<email   allan.garcia@adgsolucoes.com.br>
-#<url     "http://www.adgsolucoes.com.br/">
-#<rates   Negotiable.>
-#</p>
+#
+# New contact data was provided from Allan Garcia via consultants@debian.org, 
+# entry updated accordingly.
+<p>
+<name    Allan Garcia>
+<company Independent Consultant>
+<address Rua dos Amarantos, 186-A - Capim Macio - Natal/RN, <country-name BR>>
+<phone   +55-84-9113-4241>
+<email   allan.garcia@gmail.com scramble=yes>
+<rates   Negotiable.>
+</p>
 
 # Consultant: BR
 # mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
@@ -1757,12 +1758,12 @@
 </p>
 
 # Consultant: CA
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Murray Nesbitt>
 <company Nesbitt &amp; Associates>
 <address Vancouver, BC, <country-name CA>>
-<email   debian@nesbitt.ca>
+<contact http://www.nesbitt.ca/contact.html>
 <URL     "http://www.nesbitt.ca/">
 <rates   Competitive and fair.>
 </p>
@@ -1773,7 +1774,7 @@
 <p>
 <name    Kevin Glendenning and Matthew Rice>
 <company Starnix Inc.>
-<address PO Box 57059, 101-5602 Tenth Line West, Mississauga, ON L5M 7L0, <country-name CA> M4P 3J4>
+<address PO Box 57059, 101-5602 Tenth Line West, Mississauga, ON L5M 7L0, <country-name CA>>
 <phone   +1-647-722-5301>
 <fax     +1-855-FOSS-PRO>
 <email   kevin@starnix.com>
@@ -7576,17 +7577,6 @@ non-profit.>
 <email	 schaefer@alphanet.ch>
 <URL	 "http://www.cril.ch/">
 <rates	 130 CHF/hour, or project/offer-based.>
-</p>
-
-# Consultant: CH
-<p>
-<name	 G&uuml;rkan Seng&uuml;n>
-<company AIEI>
-<address Gsteigstrasse 32, 8049 Z&uuml;rich, <country-name CH>>
-<phone	 +41-76-436-72-00>
-<email	 gurkan@aiei.ch>
-<URL	 "http://www.aiei.ch/">
-<rates	 Project and duration dependent, quick help for free.>
 </p>
 
 # Consultant: CH
