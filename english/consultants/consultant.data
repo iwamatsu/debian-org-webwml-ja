@@ -46,17 +46,18 @@
 # Consultant: AR
 # Check URL at 22.02.2013 by holger-guest.
 # Result: address not found
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<name    Ariel Navarro &amp; Diego Men&eacute;ndez>
-<company AGNUS>
-<address Buenos Aires, <country-name AR>>
-<phone   +54-11-4342-7016>
-<fax     +54-11-4342-7016>
-<email   info@agnus.com.ar>
-<URL	 "http://www.agnus.com.ar/">
-<rates   Please contact for rates.>
-</p>
+# mail sent to check status: 23.02.2013 holger-guest. Result: mail could not be delivered,
+# entry disabled.
+#<p>
+#<name    Ariel Navarro &amp; Diego Men&eacute;ndez>
+#<company AGNUS>
+#<address Buenos Aires, <country-name AR>>
+#<phone   +54-11-4342-7016>
+#<fax     +54-11-4342-7016>
+#<email   info@agnus.com.ar>
+#<URL	 "http://www.agnus.com.ar/">
+#<rates   Please contact for rates.>
+#</p>
 
 # Consultant: AR
 # email checked on 2010-11-13
@@ -1759,6 +1760,7 @@
 
 # Consultant: CA
 # mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
+# mail contact: <murray@nesbitt.ca>
 <p>
 <name    Murray Nesbitt>
 <company Nesbitt &amp; Associates>
@@ -1851,17 +1853,17 @@
 </p>
 
 # Consultant: CA
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Charles Sherwood>
-<company Activate Multi User System Support>
-<address Toronto, ON, <country-name CA>>
-<phone   +1-647-891-3237>
-<phone   +1-905-882-7428>
-<email   support@admart.ca>
-<rates   Email for rates.>
-<additional_info charles_s>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Charles Sherwood>
+#<company Activate Multi User System Support>
+#<address Toronto, ON, <country-name CA>>
+#<phone   +1-647-891-3237>
+#<phone   +1-905-882-7428>
+#<email   support@admart.ca>
+#<rates   Email for rates.>
+#<additional_info charles_s>
+#</p>
 
 # Consultant: CA
 # mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry up-to-date.
@@ -2137,14 +2139,14 @@
 #</p>
 
 # Consultant: CL
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Luis Vivero P.>
-<phone   +56-2-8815259>
-<email   morenisco@noc-root.net scramble="yes">
-<rates   US$50 By hour, or negotiable by implementation.>
-<additional_info luisvivero>
-</p>
+# mail sent to check status: 26.02.2013 holger-guest. Result: mail could not be delivered, entry disabled.
+#<p>
+#<name    Luis Vivero P.>
+#<phone   +56-2-8815259>
+#<email   morenisco@noc-root.net scramble="yes">
+#<rates   US$50 By hour, or negotiable by implementation.>
+#<additional_info luisvivero>
+#</p>
 
 # Consultant: CL
 # Check URL at 22.02.2013 by holger-guest.
@@ -5512,6 +5514,22 @@ Chennai-600020, <country-name IN>>
 <URL	 "http://newsystem.net/">
 <rates	 variable from 40,00 EUR to 80,00 EUR - negotiable for non-profit>
 <additional_info newsystem>
+</p>
+
+# Consultant: IT
+# added on 02.03.2013
+# mail contact: <gabriele.vivinetto@rvmgroup.it>
+<p>
+<name	 Gabriele Vivinetto>
+<company RVM S.r.l.>
+<address Via Giovanni XXIII, 8 - 22060 - Arosio (CO) - <country-name IT>>
+<contact "http://www.ict.rvmgroup.it/contattaci/">
+<phone	 +39-031-758241>
+<phone	 +39-335-225346>
+<fax	 +39-031-764171>
+<URL	 "http://www.ict.rvmgroup.it/attivita/area-opensource-linux/">
+<rates	 available upon request>
+<additional_info rvm>
 </p>
 
 
