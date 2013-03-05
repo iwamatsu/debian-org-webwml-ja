@@ -162,6 +162,17 @@
 <rates	 Please contact for rates.>
 </p>
 
+# Consultant: AR
+# added on 04.03.2013
+<p>
+<name	 Gonzalo Ariel Mendez>
+<company IT-MORON>
+<address Buenos Aires (Morón & Microcentro), <country-name AR>>
+<phone   +54-11-15-4404-7292>
+<email	 gmendez@it-moron.com.ar scramble="yes">
+<rates	 Please contact via e-mail or phone.>
+</p>
+
 
 <h1><a name="AU"><country-name AU>:</a></h1>
 
@@ -1952,15 +1963,16 @@
 </p>
 
 # Consultant: CA
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
+# Contact was via Nathan Jang <nathan@netdigix.com>
 <p>
 <name	 Nathan Jang>
-<company Netdigix Computer and Networking solutions>
-<address #7 1689 Robson street, Vancouver, BC, <country-name CA>>
+<company Netdigix Systems>
+<address #170 – 422 Richards street, Vancouver, BC, <country-name CA>>
 <phone	 +1-604-518-6695>
-<email	 debianconsulting@netdigix.com>
+<email	 sales@netdigix.com>
 <URL	 "http://www.netdigix.com/">
-<rates	 Base rate is $75CND/Hr depending on job.>
+<rates	 Base rate is $125CND/Hr depending on job.>
 <additional_info netdigix>
 </p>
 
@@ -2191,6 +2203,19 @@
 <email	 ondrej@sury.org>
 <rates	 Please contact for rates.>
 <additional_info ondrej_sury>
+</p>
+
+# Consultant: CZ
+# added on 04.03.2013
+<p>
+<name	 Alexander Hu>
+<company opensource company>
+<address Skuhrov 4, 56002 Ceska Trebova, <country-name CZ>>
+<phone   +420 - 466 566 269>
+<email	 contact@opensource-company.com>
+<URL     "http://www.opensource-company.com">
+<rates	 Starting from 50 €/h>
+<additional_info opensource_company>
 </p>
 
 # Consultant: CZ
@@ -9704,6 +9729,19 @@ discount for students, educations and non-profits.>
 <URL     "http://www.globallinuxsecurity.pro/linux.php">
 <rates   $180/hr standard, $225/hr emergency response>
 <additional_info ewheeler>
+</p>
+
+# Consultant: US
+# added on 04.03.2013
+<p>
+<name	 Keith Herron>
+<address Boston, MA, <country-name US>>
+<phone   646-543-7766>
+<email	 keithjherron@gmail.com>
+<URL     "http://backdrift.org/aboutme">
+<rates   Hourly, project and monthly rates available. Please
+contact me for a free consultation and quote.>
+<additional_info keith_h>
 </p>
 
 
