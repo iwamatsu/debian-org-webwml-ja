@@ -167,7 +167,7 @@
 <p>
 <name	 Gonzalo Ariel Mendez>
 <company IT-MORON>
-<address Buenos Aires (Morón & Microcentro), <country-name AR>>
+<address Buenos Aires (Morón &amp; Microcentro), <country-name AR>>
 <phone   +54-11-15-4404-7292>
 <email	 gmendez@it-moron.com.ar scramble="yes">
 <rates	 Please contact via e-mail or phone.>
@@ -501,7 +501,7 @@
 </p>
 
 # Consultant: AT
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Stefan Froehlich>
 <company Stefan Froehlich, EDV-Dienstleistungen>
@@ -509,7 +509,7 @@
 <phone   +43-1-595-28-24>
 <email   debian@edv.froehli.ch>
 <URL     "http://froehli.ch/">
-<rates   80 EUR/hour, or after individual negotiation>
+<rates   Please contact for rates.>
 </p>
 
 # Consultant: AT
@@ -2440,13 +2440,13 @@
 <h1><a name="FI"><country-name FI>:</a></h1>
 
 # Consultant: FI
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
 <p>
-<company Inoi>
-<address Turku, <country-name FI>>
-<phone   +358-50-548-6011>
-<fax     +358-2-410-1710>
-<email   inoi@inoi.fi>
+<company Inoi Oy>
+<address Tykistokatu 4 D, Turku, <country-name FI>>
+<phone   +358-2-4878780>
+<fax     +358-2-4101710>
+<email   sales@inoi.fi>
 <URL     "http://www.inoi.fi/">
 <rates   Please contact us for further information.>
 </p>
@@ -8317,14 +8317,15 @@ non-profit.>
 </p>
 
 # Consultant: GB
+# Entry updated 05.03.2013.
 <p>
 <name	 Norbert Laposa>
-<company Laposa Solutions Ltd>
-<address 26 Howard Street, Belfast, BT1 6PD, Northern Ireland, <country-name GB>>
+<company Laposa Ltd>
+<address 58 Howard Street, Belfast, BT1 6PJ, Northern Ireland, <country-name GB>>
 <phone	 +44 2890 328 988>
 <email	 info@laposa.co.uk>
 <URL	 "http://laposa.co.uk">
-<rates	 Bespoke work from $pound;400 per day. Debian based server ongoing management from &pound;200 per year.>
+<rates	 Bespoke work from &pound;400 per day. Debian based server ongoing management from &pound;200 per year.>
 </p>
 
 # Consultant: GB
