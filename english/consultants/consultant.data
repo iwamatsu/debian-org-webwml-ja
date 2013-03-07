@@ -2444,7 +2444,7 @@
 <p>
 <company Inoi Oy>
 <address Tykistokatu 4 D, Turku, <country-name FI>>
-<phone   +358-2-4878780>
+<phone   +358-2-4788780>
 <fax     +358-2-4101710>
 <email   sales@inoi.fi>
 <URL     "http://www.inoi.fi/">
@@ -4372,6 +4372,19 @@
 <email	 info@gfu.net>
 <URL     "http://www.gfu.net/">
 <rates	 Depends on seminar. More information on http://www.gfu.net/seminar/debian-seminar.html>
+</p>
+
+# Consultant: DE
+# added at 06.03.2013
+<p>
+<name	 Torsten Behrens>
+<company beitco - Behrens IT-Consulting>
+<address Lessingstr. 27, 26197 Ahlhorn, <country-name DE>>
+<phone	 +49-4435-9537330-0>
+<fax     +49-4435-9537330-9>
+<email	 info@beitco.de>
+<URL     "http://www.beitco.de">
+<rates	 Project and Maintenance Plan rates - please ask for a quote.>
 </p>
 
 
