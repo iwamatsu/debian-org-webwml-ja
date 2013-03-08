@@ -173,6 +173,21 @@
 <rates	 Please contact via e-mail or phone.>
 </p>
 
+# Consultant: AR
+# added on 07.03.2013
+<p>
+<name	 Oscar Renato Gonzalez>
+<company IANUX IT & Security Solutions>
+<address Coronel Suarez 75, Salta, <country-name AR>>
+<phone   +54-387-154113043>
+<email	 help@ianux.com.ar>
+<email   oscar.gonzalez@ianux.com.ar>
+<url     "http://www.ianux.com/debian">
+<url     "http://www.ianux.com.ar">
+<rates	 Please contact me through the web or email to know the
+rates, it depends on your needs.>
+</p>
+
 
 <h1><a name="AU"><country-name AU>:</a></h1>
 
@@ -1702,6 +1717,19 @@
 #  contract.>
 #<additional_info accounti>
 #</p>
+
+# Consultant: BR
+# added on 07.03.2013
+<p>
+<name	 Rafael Marangoni>
+<company BRLink Solucões em TI>
+<address Praça Barão de Anhambaí, 4 - Sacomã - São Paulo, <country-name BR>>
+<phone   +55-11-20686199>
+<fax     +55-11-20686199>
+<email	 contato@brlink.com.br>
+<URL     "http://www.brlink.com.br">
+<rates	 Call or email for rates, depends on project size.>
+</p>
 
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
@@ -5568,6 +5596,16 @@ Chennai-600020, <country-name IN>>
 <URL	 "http://www.ict.rvmgroup.it/attivita/area-opensource-linux/">
 <rates	 available upon request>
 <additional_info rvm>
+</p>
+
+# Consultant: IT
+# added on 07.03.2013
+<p>
+<company Lixper S.r.L.>
+<address Via Pio VII, 130, Torino, <country-name IT>>
+<phone	 +39-0112178739>
+<email   info@lixper.it>
+<rates	 Rates Varying in range 300-500€/day depending on projects.>
 </p>
 
 
