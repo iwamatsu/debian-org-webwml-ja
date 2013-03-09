@@ -192,6 +192,14 @@ Nov&aacute; 225/1<br />
 250 64 M&#x11B;&scaron;ice<br />
 <country-name CZ>" />
 
+<vendor name="Netsektor s.r.o"
+  country="cz"
+  URL="http://www.netsektor.cz"
+  email="info@netsektor.cz"
+  phone="+42 0724 573 528"
+  ship="yes" />
+
+
 <vendor name="opensource company"
   country="cz"
   URL="http://www.opensource-company.com"
@@ -434,6 +442,17 @@ CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
 Inh. Jerome Reinert<br />
 Sotterhaeuser Weg 3<br />
 D-06526 Sangerhausen" />
+
+<vendor name="Solo Entertainment e.K."
+  country="de"
+  URL="http://www.solo-entertainment.de/"
+  email="info@solo-entertainment.de"
+  phone="+49 15221643546"
+  ship="yes"
+  smail="Solo Entertainment e.K.<br />
+  Inhaber: Sebastian Sedlbauer<br />
+  Nesselwanger Stra&szlig;e 1<br />
+  86163 Augsburg" />
 
 <vendor name="Thomas-Krenn.AG"
   country="de"

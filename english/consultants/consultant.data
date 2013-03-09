@@ -177,7 +177,7 @@
 # added on 07.03.2013
 <p>
 <name	 Oscar Renato Gonzalez>
-<company IANUX IT & Security Solutions>
+<company IANUX IT &amp; Security Solutions>
 <address Coronel Suarez 75, Salta, <country-name AR>>
 <phone   +54-387-154113043>
 <email	 help@ianux.com.ar>
@@ -5606,6 +5606,7 @@ Chennai-600020, <country-name IN>>
 <address Via Pio VII, 130, Torino, <country-name IT>>
 <phone	 +39-0112178739>
 <email   info@lixper.it>
+<URL     http://www.lixper.it/egroupware/sitemgr/sitemgr-site/?category_id=40>
 <rates	 Rates Varying in range 300-500€/day depending on projects.>
 </p>
 
@@ -6521,6 +6522,17 @@ Chennai-600020, <country-name IN>>
 <URL	 "http://www.ib.pl/">
 <rates	 Upon request, please contact us for details.>
 <additional_info boguslawski>
+</p>
+
+# Consultant: PL
+# added on 08.03.2013
+<p>
+<name	 Adam Ziaja>
+<company adamziaja.com>
+<address Silesia, <country-name PL>>
+<email   adam@adamziaja.com>
+<URL	 "http://adamziaja.com">
+<rates	 Negotiable.>
 </p>
 
 
