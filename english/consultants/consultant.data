@@ -443,6 +443,20 @@ rates, it depends on your needs.>
 <rates	 on application>
 </p>
 
+# Consultant: AU
+# Added to the list on 10.03.2013
+<p>
+<name	 Patrick Webster and Troy Rose>
+<company OSI Security Pty Ltd>
+<address PO Box 101, Concord NSW 2137, Sydney, <country-name AU>>
+<phone	 1300 953 324>
+<fax     1300 956 840>
+<email	 info@osisecurity.com.au>
+<URL	 "http://www.osisecurity.com.au/services/installation-and-configuration">
+<rates	 Call or email for pricing.>
+</p>
+
+
 <h1><a name="AT"><country-name AT>:</a></h1>
 
 # Consultant: AT
@@ -2135,6 +2149,18 @@ rates, it depends on your needs.>
 <additional_info kerkhoff>
 </p>
 
+# Consultant: CA
+# added on 10.03.2013
+# mail contact: Murray Nesbitt <murray@okts.ca>
+<p>
+<company Okanagan Technology Solutions>
+<address Okanagan, British Columbia, <country-name CA>>
+<phone   866 755 6689>
+<contact "http://www.okts.ca/contact.html">
+<URL	 "http://www.okts.ca">
+<rates   Competitive and fair.>
+</p>
+
 
 <h1><a name="CL"><country-name CL>:</a></h1>
 
@@ -2626,13 +2652,16 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: FR
+# data updated: 10.03.2013
 <p>
 <name    Michelle Konzack>
-<address Apt. 917, 50, rue de Soultz, 67100 Strasbourg, <country-name FR>>
-<phone   +33-6-61925193>
-<email   linux4michelle@tamay-dogan.net>
-<URL     http://consultants.debian.tamay-dogan.net/>
-<rates   Depends on country and task>
+<address <country-name FR>>
+<phone   +33-6-61925193 (France Mobile)>
+<phone   +49-177-9351947 (Germany Mobile)>
+<email   support@itsystems.tamay-dogan.net>
+<URL     "http://consultants.debian.tamay-dogan.net/">
+<rates   Depends on country and task.>
+<additional_info m_konzack>
 </p>
 
 # Consultant: FR
@@ -7175,15 +7204,15 @@ non-profit.>
 </p>
 
 # Consultant: ES
-# Check URL at 23.02.2013 by holger-guest.
-# Result: network timeout
+# Check URL at 23.02.2013 by holger-guest. Result: network timeout.
+# Data updated on 10.03.2013
 <p>
 <name    Jos&eacute; Luis Martin>
-<company Biocora Consultores S.L.>
-<address C/ Santa F&eacute; n&ordm; 11 12 B Sevilla, <country-name ES>>
-<phone   +34-95-408-2321>
-<email   informatica@biocora.com>
-<url     "http://www.biocora.com/linux/">
+<company Freelance>
+<address C/ Caballa 5 (La Barrosa), Chiclana de la Frontera 11130, Cádiz, <country-name ES>>
+<phone   +34-627-552-741>
+<email   jlm@joseluismartin.info>
+<url     "http://www.joseluismartin.info">
 <rates   Upon request.>
 </p>
 
