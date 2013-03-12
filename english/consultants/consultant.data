@@ -889,12 +889,13 @@ rates, it depends on your needs.>
 
 # Consultant: BE
 # mail sent to check status to info@k.net: 23.02.2013 holger-guest
+# Result: still active, entry updated.
 <p>
 <name	 Peter Dens>
 <company Kangaroot Linux Solutions>
-<address Grote Steenweg 91, 2600 Berchem, <country-name BE>>
-<phone   +32-3-290-81-13>
-<fax     +32-3-290-81-13>
+<address Posthoflei 1 bus 3, 2600 Berchem, <country-name BE>>
+<phone   +32-2-614-01-00>
+<fax     +32-3-281-23-49>
 <email   info@kangaroot.net>
 <email   sales@kangaroot.net>
 <URL     "http://www.kangaroot.net/">
@@ -2370,6 +2371,18 @@ rates, it depends on your needs.>
 <rates	 Negotiable>
 </p>
 
+# Consultant: CR
+# added on 11.03.2013
+<p>
+<name	 Jose Gabriel Portuguez>
+<company DOTLINUX LATINOAMERICA>
+<address Ciudad Quesada, San Carlos, Alajuela, <country-name CR>>
+<phone	 +506-8639-0955>
+<email	 gabriel@dotlinux.com.ar>
+<URL	 "http://www.dotlinux.com.ar">
+<rates	 Please, contact us for rates.>
+</p>
+
 
 <h1><a name="HR"><country-name HR>:</a></h1>
 
@@ -2423,18 +2436,6 @@ rates, it depends on your needs.>
 <URL     "http://www.gmta.info/">
 <rates   Negotiable.>
 <additional_info gmta>
-</p>
-
-# Consultant: DK
-# mail sent to check status: 26.02.2013 holger-guest
-<p>
-<name    Kenneth Geisshirt>
-<company Geisshirt International>
-<address Gr&oslash;ndals Parkvej 2A3, 220 Vanl&oslash;se, <country-name DK>>
-<phone   +45-60-62-71-82>
-<email   kenneth@geisshirt.dk>
-<URL     "http://kenneth.geisshirt.dk/">
-<rates   DKK 500/hour (excluding VAT) + travel expenses>
 </p>
 
 # Consultant: DK
@@ -3834,14 +3835,14 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# entry updated as requested on consultants@d.o: 11.03.2013
 <p>
 <name	 Joerg Henner>
 <company JH-Networks / Telebistro>
-<address B&ouml;blinger Str. 99, <country-name DE>>
-<phone	 +49-162-5196769>
-<fax	 +49-711-3417442>
+<address Postfach 800521, 70505 Stuttgart, <country-name DE>>
+<phone	 +49-32121-435020>
 <email	 jhe@jh-networks.de>
-<URL	 "http://www.jh-networks.de/">
+# <URL	 "http://www.jh-networks.de/">
 <rates	 Ask for rates.>
 <additional_info jh_networks>
 </p>
