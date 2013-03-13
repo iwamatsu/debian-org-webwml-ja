@@ -231,21 +231,6 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: AU
-# email checked on 2010-11-17
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
-<company Miju Systems>
-<address Suite 20, Level 4, Northpoint Building, Brisbane, <country-name AU>>
-<phone   +61-1800-429-542>
-<phone   +61-7-3236-0262>
-<fax     +61-7-3278-2343>
-<email   sales@miju.com.au>
-<URL     "http://www.miju.com.au/">
-<rates   Please contact for rates.>
-<additional_info miju>
-</p>
-
-# Consultant: AU
 # mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry is up-to-date.
 #
 <p>
@@ -3128,6 +3113,18 @@ rates, it depends on your needs.>
 <address Poitiers, <country-name FR>>
 <phone	 +33 6 48 38 16 56>
 <email	 sdelafond@gmail.com>
+<rates   Please contact for rates.>
+</p>
+
+# Consultant: FR
+# added on 12.03.2013
+<p>
+<name	 Carl Chenet>
+<company MyTux>
+<address 4 rue Auguste Perret, 75013 Paris, <country-name FR>>
+<phone	 +33-6-10-45-59-80>
+<email	 carl.chenet@mytux.fr>
+<URL     "http://carlchenet.com/about/">
 <rates   Please contact for rates.>
 </p>
 
@@ -6788,6 +6785,16 @@ Chennai-600020, <country-name IN>>
 <URL     "http://www.eldev.com/">
 <rates   $50-$120 per hour, depending on project difficulty, negotiable for
 non-profit.>
+</p>
+
+# Consultant: RU
+# added on 12.03.2013
+<p>
+<name    Mikhail Lukyanchenko>
+<address Rostov-na-Donu, <country-name RU>>
+<phone   +7-903-402-0613>
+<email   ml@akabos.com>
+<rates   $25-$30, negotiable for non-commerce.>
 </p>
 
 
