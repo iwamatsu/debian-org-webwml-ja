@@ -191,6 +191,7 @@ rates, it depends on your needs.>
 # Consultant: AR
 # added on 14.03.2013
 <p>
+<name    Emiliano Piscitelli>
 <company VH Group>
 <address Hipolito Yrigoyen 636 5to A, Buenos Aires, <country-name AR>>
 <phone   +54-11-5219-6610>
@@ -1727,6 +1728,18 @@ rates, it depends on your needs.>
 <email	 contato@brlink.com.br>
 <URL     "http://www.brlink.com.br">
 <rates	 Call or email for rates, depends on project size.>
+</p>
+
+# Consultant: BR
+# added on 15.03.2013
+<p>
+<name	 Marcelo Felipe Dompieri>
+<company Dompieri Tecnologia>
+<address Rua Jussara, 301 - CS 11, São Paulo, SP, <country-name BR>>
+<phone   55-11-81068958>
+<email	 marcelofelipe@dompieri.com.br>
+<rates	 R$ 125,00 per/h only for government and enterprises.>
+<additional_info dompieri>
 </p>
 
 
@@ -6055,6 +6068,18 @@ Chennai-600020, <country-name IN>>
 <rates	 Please contact us for our flexible rates>
 </p>
 
+# Consultant: NL
+# added on 15.03.2013
+<p>
+<name    Joost van Baal-Ilić>
+<company ad 1810>
+<address Strijpsestraat 48 B, 5616 GR Eindhoven, <country-name NL>>
+<phone	 +31(0)6-26831629>
+<email	 info@ad1810.com>
+<URL	 "http://ad1810.com/">
+<rates	 Please contact for rates.>
+</p>
+
 
 <h1><a name="NZ"><country-name NZ>:</a></h1>
 
@@ -7851,6 +7876,18 @@ non-profit.>
 <email   bilgi@profelis.com.tr>
 <URL	 "http://www.profelis.com.tr">
 <additional_info profelis>
+</p>
+
+# Consultant: TR
+<p>
+<name	 Barış Ala>
+<company Parkyeri>
+<address Beytem Plaza Büyükdere Caddesi No:22 Kat:4 Şişli 34381, Istanbul, <country-name TR>>
+<phone	 +90 212 2969509>
+<fax     +90 212 2969514>
+<email   danismanlik@parkyeri.com>
+<URL	 "http://www.parkyeri.com/open-source/">
+<rates   Contact us for quotation.>
 </p>
 
 
