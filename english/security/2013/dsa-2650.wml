@@ -7,7 +7,7 @@ purpose group not specific to libvirt, allowing unintended write access to
 those devices and files for the kvm group members.</p>
 
 <p>For the stable distribution (squeeze), this problem has been fixed in
-version 0.8.3-5+squeeze4.</p>
+version 0.8.3-5+squeeze5.</p>
 
 <p>For the testing distribution (wheezy), this problem has been fixed in
 version 0.9.12-11.</p>
@@ -20,4 +20,4 @@ version 0.9.12-11.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2650.data"
-# $Id: dsa-2650.wml,v 1.1 2013-03-16 02:20:13 taffit Exp $
+# $Id: dsa-2650.wml,v 1.2 2013-03-17 22:19:41 taffit Exp $
