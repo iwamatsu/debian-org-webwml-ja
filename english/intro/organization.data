@@ -318,13 +318,13 @@
     <member>Josip Rodin
     <member>Colin Watson
   <job <a href="$(HOME)/MailingLists/"><gettext domain="organization">Mailing Lists Administration and Mailing List Archives</gettext></a>> <genericemail listmaster@lists.debian.org>
+    <current>Alexander Wirt
     <current>Cord Beermann
     <current>David Moreno Garza
     <current>Don Armstrong
     <current>Joey Schulze
     <current>Martin Zobel-Helas
     <current>Pascal Hakim
-    <member>Josip Rodin
   <job <a href="$(HOME)/devel/join/newmaint#FrontDesk"><gettext domain="organization">New Members Front Desk</gettext></a>> <genericemail nm@debian.org> <delegationmail 20121017091656.GB32215@upsilon.cc>
     <member>Bernd Zeimetz
     <member>Enrico Zini
