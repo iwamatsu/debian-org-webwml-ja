@@ -453,6 +453,19 @@ rates, it depends on your needs.>
 <rates	 Call or email for pricing.>
 </p>
 
+# Consultant: AU
+# Added on 19.03.2013
+<p>
+<name	 JJ Fiasson>
+<company Cloud BT IT Support &amp; IT Services>
+<address 24B / 203 Castlereagh Street, Sydney, NSW, 2000, <country-name AU>>
+<phone	 1300 737 205>
+<email	 jj@cloudbt.com.au>
+<URL	 "http://www.it-support.com.au/">
+<rates	 Negotiable.>
+<additional_info cloud_bt>
+</p>
+
 
 <h1><a name="AT"><country-name AT>:</a></h1>
 
@@ -1631,12 +1644,15 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
+# mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 George Mendes Marra>
 <address Goi&acirc;nia - GO, <country-name BR>>
 <phone	 +55-62-3285-1719>
-<phone   +55-62-9976-0915>
+<phone   +55-62-9976-0915 - Claro>
+<phone   +55-64-92935444 - Claro>
+<phone   +55-62-81342770 - TIM>
+<phone   +55-62-84213433 - Oi>
 <email	 george.mendes@gmail.com>
 <rates	 Negotiable>
 </p>
@@ -1740,6 +1756,20 @@ rates, it depends on your needs.>
 <email	 marcelofelipe@dompieri.com.br>
 <rates	 R$ 125,00 per/h only for government and enterprises.>
 <additional_info dompieri>
+</p>
+
+# Consultant: BR
+# added on 19.03.2013
+<p>
+<name	 Fábio Vieira>
+<company Winlinux Technology Solutions and Web>
+<address Mathilde Rua da Silva Wolf, 345 - Curitiba / Paraná, <country-name BR>>
+<phone   +55(41)3319-6254>
+<phone   +55(41)9893-8701>
+<fax     +55(41)3319-6254>
+<email	 winlinuxinfo@gmail.com>
+# <URL     "www.winlinuxtecnologia.com">
+<rates	 Negotiable.>
 </p>
 
 
@@ -4473,7 +4503,7 @@ rates, it depends on your needs.>
 <phone	 0171/9188742>
 <fax     08541/975140>
 <email	 kontakt@folinx.de>
-<URL     "www.folinx.de">
+<URL     "http://www.folinx.de">
 <rates	 Depending on the Project.>
 <additional_info folinx>
 </p>
@@ -6113,6 +6143,15 @@ Chennai-600020, <country-name IN>>
 <email	 info@ad1810.com>
 <URL	 "http://ad1810.com/">
 <rates	 Please contact for rates.>
+</p>
+
+# Consultant: NL
+# added on 19.03.2013
+<p>
+<name    Bob Rosbag>
+<address Utrecht, <country-name NL>>
+<email	 debian@bobrosbag.nl>
+<rates	 Negotiable, support for personal, educational and scientific projects.>
 </p>
 
 
@@ -8592,6 +8631,17 @@ non-profit.>
 <URL	 "http://www.indigo-solutions.eu/solutions/consulting">
 <rates   On request, SLA backed monitoring/management/maintenance contracts available.>
 <additional_info indigo_solutions>
+</p>
+
+# Consultant: GB
+# added on 19.03.2013
+<p>
+<name	 James Cort>
+<company Bediwin Information Services>
+<address Somerset, <country-name GB>>
+<email	 info@bediwin.co.uk>
+<URL	 "http://www.bediwin.co.uk/services/linux-consultancy/">
+<rates   Agreed on a per-project basis.>
 </p>
 
 
