@@ -18,6 +18,20 @@
 
 <hr />
 
+<h1><a name="DZ"><country-name DZ>:</a></h1>
+
+# Consultant: DZ
+# (Algeria)
+# entry added on 21.03.2013
+<p>
+<name    Tarek Zioune>
+<address Bab Ezzouar, <country-name DZ>>
+<phone   +213 554 189 960>
+<email   tzioune@gmail.com>
+<rates   Negotiable.>
+</p>
+
+
 <h1><a name="AR"><country-name AR>:</a></h1>
 
 # Consultant: AR
@@ -2187,6 +2201,21 @@ rates, it depends on your needs.>
 <rates   Competitive and fair.>
 </p>
 
+# Consultant: CA
+# added on 21.03.2013
+<p>
+<name    Oleg Koroz>
+<company ALT ITC>
+<address 2720 Queensview Dr. Suite 1142, Ottawa, Ontario, K2B 1A5, <country-name CA>>
+<phone   (613) 454-1422>
+<fax     (888) 424-0929>
+<email   info@alt-consulting.ca>
+<URL	 "http://linuxsupport.ca">
+<URL	 "http://linuxsupport.ca/solutions/supported-distributions/debian">
+<rates   Varies according to service.>
+<additional_info alt_itc>
+</p>
+
 
 <h1><a name="CL"><country-name CL>:</a></h1>
 
@@ -3177,6 +3206,18 @@ rates, it depends on your needs.>
 <email	 julien@danjou.info>
 <URL     "http://julien.danjou.info">
 <rates   Please contact for rates.>
+</p>
+
+# Consultant: FR
+# added on 21.03.2013
+<p>
+<name	 Arnaud Patard>
+<company hupstream>
+<address 23 rue d'Anjou, 75008 PARIS, <country-name FR>>
+<phone   +33-9-72-37-71-64>
+<email	 mailbox@hupstream.com>
+<URL     "http://hupstream.com">
+<rates   Please contact us for rates.>
 </p>
 
 
@@ -4455,19 +4496,6 @@ rates, it depends on your needs.>
 <phone	 0174 1951692>
 <email	 J.Gornowicz@gmail.com>
 <rates	 40-80 EUR/h. Depends on location, duration and kind of work.>
-</p>
-
-# Consultant: DE
-<p>
-<name	 Uenal Mutlu>
-<company Mutlu IT Services &amp; Consulting>
-<address Hansering 1B/H6, 31141 Hildesheim, <country-name DE>>
-<phone	 +49-5121-2841148>
-<fax     +49-176-96933601>
-<email	 debian@mutluit.com>
-<URL     "http://www.mutluit.com/">
-<rates	 EUR 65/h (+VAT) of which 10% gets donated to Debian/SPI, FSF, GNU>
-<additional_info uenal_mutlu>
 </p>
 
 # Consultant: DE
@@ -10001,6 +10029,7 @@ discount for students, educations and non-profits.>
 </p>
 
 # Consultant: US
+# Still active, data is valid. 21.03.2013
 <p>
 <name	 Duane Powers>
 <company Powers Consulting &amp; Computer Services, Inc.>

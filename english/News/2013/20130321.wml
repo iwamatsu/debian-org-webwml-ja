@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20130321.wml,v 1.1 2013-03-21 09:09:41 madamezou Exp $
+# $Id: 20130321.wml,v 1.2 2013-03-21 17:45:49 madamezou Exp $
 # $Rev: 4760 $
 
 <define-tag pagetitle>Eaton donates hardware to Debian</define-tag>
@@ -44,7 +44,7 @@ of the Debian System Administration team.
 <h2>About Eaton</h2>
 <p>
 Eaton is a diversified power management company providing energy-efficient
-solutions that help our customers effectively manage electrical, hydraulic and
+solutions that help its customers effectively manage electrical, hydraulic and
 mechanical power.
 Eaton has approximately 103,000 employees and sells products to customers in
 more than 175 countries. For more information, visit 
