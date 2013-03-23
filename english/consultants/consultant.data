@@ -2216,6 +2216,19 @@ rates, it depends on your needs.>
 <additional_info alt_itc>
 </p>
 
+# Consultant: CA
+# added on 22.03.2013
+<p>
+<name    Michael>
+<company Computer Problem>
+<address Toronto, Ontario, <country-name CA>>
+<phone   +1-905-428-3775, iNUM 011(883)510001399933>
+<email   debian@computerproblem.ca scramble="yes">
+<URL	 "http://www.computerproblem.ca">
+<rates   $35-80/h (rates vary according to service).>
+<additional_info computer_problem>
+</p>
+
 
 <h1><a name="CL"><country-name CL>:</a></h1>
 
@@ -5753,6 +5766,17 @@ Chennai-600020, <country-name IN>>
 <rates	 Please contact for rates.>
 </p>
 
+# Consultant: IT
+# added on 22.03.2013
+<p>
+<company Marco Urban>
+<address Via Giorgio Gaber, 19 20873 Cavenago di Brianza (MB), <country-name IT>>
+<phone	 +39-347-77-44-333>
+<email   info@marcourban.net>
+<URL     "http://marcourban.net">
+<rates	 Variable depending on the location, duration and type of work.>
+</p>
+
 
 <h1><a name="JP"><country-name JP>:</a></h1>
 
@@ -6688,7 +6712,7 @@ Chennai-600020, <country-name IN>>
 <additional_info boguslawski>
 </p>
 
-# Consultant: PL
+# Consultant: PLPL
 # added on 08.03.2013
 <p>
 <name	 Adam Ziaja>
@@ -6697,6 +6721,18 @@ Chennai-600020, <country-name IN>>
 <email   adam@adamziaja.com>
 <URL	 "http://adamziaja.com">
 <rates	 Negotiable.>
+</p>
+
+# Consultant: PL
+# added on 22.03.2013
+<p>
+<name	 Tytus Kurek>
+<address Krakow, <country-name PL>>
+<phone   +48-513-106-743>
+<email   tkurek7@gmail.com>
+<URL	 "http://www.linkedin.com/pub/tytus-kurek/15/a85/6ab">
+<rates	 ~ 20 - 40 $ / h, negotiable.>
+<additional_info t_kurek>
 </p>
 
 
