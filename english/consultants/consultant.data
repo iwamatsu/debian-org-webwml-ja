@@ -5849,6 +5849,21 @@ Chennai-600020, <country-name IN>>
 </p>
 
 
+<h1><a name="LI"><country-name LI>:</a></h1>
+
+# Consultant: LI
+# added on 23.03.2013
+<p>
+<name	 Peter Beck / Robert Gstoehl>
+<company foo.li - Systeme und Software>
+<address Hampflaender 64, FL-9496 Balzers, <country-name LI>>
+<phone	 +41(0)78-629-10-38>
+<email	 info@foo.li>
+# <URL     "http://www.foo.li">
+<rates   Depends on service/project.>
+</p>
+
+
 <h1><a name="LT"><country-name LT>:</a></h1>
 
 # Consultant: LT
@@ -6712,7 +6727,7 @@ Chennai-600020, <country-name IN>>
 <additional_info boguslawski>
 </p>
 
-# Consultant: PLPL
+# Consultant: PL
 # added on 08.03.2013
 <p>
 <name	 Adam Ziaja>
@@ -8202,15 +8217,17 @@ non-profit.>
 </p>
 
 # Consultant: GB
+# data updated: 23.03.2013
 <p>
 <name    Mark Taylor>
 <company Sirius Corporation>
-<address Rivermead House, Hamm Moor Lane, Weybridge, KT15 2SF, <country-name GB>>
+<address Rivermead House, Hamm Moor Lane, Weybridge, Surrey, KT15 2SF, <country-name GB>>
 <phone   +44-0870-608-0063>
 <fax     +44-01932-841-488>
 <email   info@siriusit.co.uk>
-<URL     "http://www.siriusit.co.uk">
-<rates   Deployment - project based, Support - flexible packages>
+<URL     "http://www.siriusopensource.com/">
+<rates   Varies.>
+<additional_info sirius>
 </p>
 
 # Consultant: GB
@@ -8978,11 +8995,12 @@ open-source projects.>
 </p>
 
 # Consultant: US
+# data updated: 23.03.2013
 <p>
-<name    Deepak Goel>
-<address Gainesville, Georgia (GA) 30501, <country-name US>>
-<email   deego@gnufans.org>
-<rates   Depends on the job.  Also, often helps non-profit organizations or worthy causes for free.>
+<name    Dave Goel>
+<address Oakwood, Georgia (GA) 30566, <country-name US>>
+<email   deego3@gmail.com>
+<rates   Depends on the job. Also, often helps non-profit organizations or worthy causes for free.>
 </p>
 
 # Consultant: US
