@@ -1798,6 +1798,16 @@ rates, it depends on your needs.>
 <rates	 Negotiable.>
 </p>
 
+# Consultant: BR
+# added on 25.03.2013
+<p>
+<name	 Ricardo Alexandre Germano de Assis>
+<address Cuiabá, Mato Grosso, <country-name BR>>
+<phone   +55-65-9604-4880>
+<email	 segurancalinux@gmail.com>
+<URL     "http://segurancalinux.wix.com/ricardogermano">
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -3291,6 +3301,19 @@ rates, it depends on your needs.>
 <email	 mailbox@hupstream.com>
 <URL     "http://hupstream.com">
 <rates   Please contact us for rates.>
+</p>
+
+# Consultant: FR
+# added on 25.03.2013
+# Mail contact: <information@ikux.fr>
+<p>
+<name	 Daniel Castronovo>
+<company Ikux>
+<address 04160 L'Escale, <country-name FR>>
+<phone   +33-9-72-28-65-54>
+<contact "http://www.ikux.fr/contact/">
+<URL     "http://www.ikux.fr">
+<rates   Please contact for rates.>
 </p>
 
 
@@ -6832,6 +6855,17 @@ Chennai-600020, <country-name IN>>
 <email   ferdez@moredata.pt>
 <URL     "http://www.moredata.pt/">
 <rates   Minimum of 65 euro per hour.>
+</p>
+
+# Consultant: PT
+# added on 25.03.2013
+<p>
+<name    Luís Pedro Algarvio>
+<address Lisbon, <country-name PT>>
+<email   lp.algarvio@gmail.com scramble="yes">
+<URL     "http://lp.algarvio.org">
+<rates   Depending on project. Please contact for negotiation. Will
+provide lower rates for non-profit/government organizations.>
 </p>
 
 
