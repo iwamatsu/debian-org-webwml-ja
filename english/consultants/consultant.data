@@ -2701,19 +2701,6 @@ rates, it depends on your needs.>
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
 <p>
-<name    Christophe Combelles>
-<company Gorfou>
-<address Paris, <country-name FR>>
-<phone   +33-01-42-50-06-27>
-<fax     +33-08-71-72-57-07>
-<email   ccomb@gorfou.fr>
-<URL     "http://gorfou.fr/">
-<rates   Please contact for rates.>
-</p>
-
-# Consultant: FR
-# mail sent to check status: 24.03.2013 holger-guest.
-<p>
 <company Nativ'Object>
 <address 5, rue de la Tour de Guise, BP 91523, 37015 Tours Cedex 1, <country-name FR>>
 <email   contact@nativobject.com>
@@ -2810,25 +2797,27 @@ rates, it depends on your needs.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<name    Franck Bouffard>
-<address Marseille, <country-name FR>>
-<phone   +33-6-18-01-24-92>
-<email   info@linuxpourtous.com>
-<rates   Please contact for rates>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Franck Bouffard>
+#<address Marseille, <country-name FR>>
+#<phone   +33-6-18-01-24-92>
+#<email   info@linuxpourtous.com>
+#<rates   Please contact for rates>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<company Evonux>
-<address 6 rue Charles Divry, 75014 Paris, <country-name FR>>
-<phone   +33-1-44-24-94-75>
-<fax     +33-1-44-24-94-75>
-<email   contact@evonux.com>
-<URL     "http://www.evonux.com">
-<rates   Please contact for rates>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company Evonux>
+#<address 6 rue Charles Divry, 75014 Paris, <country-name FR>>
+#<phone   +33-1-44-24-94-75>
+#<fax     +33-1-44-24-94-75>
+#<email   contact@evonux.com>
+#<URL     "http://www.evonux.com">
+#<rates   Please contact for rates>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
@@ -2843,15 +2832,16 @@ rates, it depends on your needs.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<name    Sefie Janvier OUATTARA>
-<address 10, Avenue Benoit GUICHON - 94230 Cachan - <country-name FR>>
-<phone   +33-6-14-50-63-46>
-<phone   +33-1-47-40-02-24>
-<email   sefie-janvier.ouattara@cegetel.net>
-<rates   Please contact for rates>
-<additional_info ouattara>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Sefie Janvier OUATTARA>
+#<address 10, Avenue Benoit GUICHON - 94230 Cachan - <country-name FR>>
+#<phone   +33-6-14-50-63-46>
+#<phone   +33-1-47-40-02-24>
+#<email   sefie-janvier.ouattara@cegetel.net>
+#<rates   Please contact for rates>
+#<additional_info ouattara>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
@@ -2904,15 +2894,16 @@ rates, it depends on your needs.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<company Adelux>
-<address 146 Boulevard Voltaire, 92600 Asnieres sur Seine, <country-name FR>>
-<phone   +33-1-46-88-40-64>
-<fax     +33-1-47-90-26-32>
-<email   contact@adelux.fr>
-<URL     "http://www.adelux.fr/">
-<rates   Please contact for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company Adelux>
+#<address 146 Boulevard Voltaire, 92600 Asnieres sur Seine, <country-name FR>>
+#<phone   +33-1-46-88-40-64>
+#<fax     +33-1-47-90-26-32>
+#<email   contact@adelux.fr>
+#<URL     "http://www.adelux.fr/">
+#<rates   Please contact for rates.>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
@@ -3045,13 +3036,13 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: FR
-# mail sent to check status: 24.03.2013 holger-guest.
+# mail sent to check status: 24.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company Les D&eacute;veloppements Durables>
 <address 2 bis rue visitandines - 64100 Bayonne, <country-name FR>>
 <phone	 +33-(0)9-50-52-42-42>
 <email	 contact@ldd.fr>
-<URL	 "http://www.ldd.fr/">
+<URL	 "http://www.ldd.fr/tags/debian-47">
 <rates	 Please contact for rates.>
 </p>
 
@@ -3103,17 +3094,14 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: FR
-# Check URL at 22.02.2013 by holger-guest.
-# Result: address not available
-# mail sent to check status: 24.03.2013 holger-guest.
+# mail sent to check status: 24.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Thomas CARTER>
-<company Coherent Light>
-<address 12, rue Mandar, 75002 PARIS, <country-name FR>>
-<phone	 +33-674414657>
-<fax	 +33-144760125>
-<email	 thomas.carter@clight.net>
-<URL	 "http://www.clight.net/">
+<company Cergy Internet>
+<address 1 bd de l'Oise, 95030 Cergy-Pontoise CXedex, <country-name FR>>
+<phone	 +33-0603511510>
+<email	 thomas.carter@cergy-internet.fr>
+<URL	 "http://www.cergy-internet.net/">
 <rates	 600 - 1000 euros/day +VAT.>
 <additional_info coherent_light>
 </p>
@@ -3132,17 +3120,18 @@ rates, it depends on your needs.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<name    Arnaud Lapr&eacute;vote>
-<company Free&amp;ALter Soft / Linbox>
-<address Paris, Metz, <country-name FR>>
-<phone	 +33-3-87-50-87-90>
-<fax	 +33-3-87-75-19-26>
-<email	 contact@linbox.com>
-<URL	 "http://www.linbox.com/">
-<rates	 Please contact for rates.>
-<additional_info linbox>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Arnaud Lapr&eacute;vote>
+#<company Free&amp;ALter Soft / Linbox>
+#<address Paris, Metz, <country-name FR>>
+#<phone	 +33-3-87-50-87-90>
+#<fax	 +33-3-87-75-19-26>
+#<email	 contact@linbox.com>
+#<URL	 "http://www.linbox.com/">
+#<rates	 Please contact for rates.>
+#<additional_info linbox>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest. Result: still active.
@@ -3197,15 +3186,16 @@ rates, it depends on your needs.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<name    Christophe Sauthier>
-<company Objectif Libre>
-<address 8, Place Andre Abbal  31400 Toulouse, <country-name FR>>
-<phone   +33-6-16-98-63-96>
-<email   infos@objectif-libre.com>
-<URL     "http://www.objectif-libre.com/">
-<rates   Please contact for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Christophe Sauthier>
+#<company Objectif Libre>
+#<address 8, Place Andre Abbal  31400 Toulouse, <country-name FR>>
+#<phone   +33-6-16-98-63-96>
+#<email   infos@objectif-libre.com>
+#<URL     "http://www.objectif-libre.com/">
+#<rates   Please contact for rates.>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest. Result: still active, entry updated.
