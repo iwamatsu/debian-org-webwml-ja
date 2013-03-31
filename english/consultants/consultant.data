@@ -2869,16 +2869,17 @@ rates, it depends on your needs.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<company Oxalide>
-<address 13 rue Greneta 75003 Paris <country-name FR>>
-<phone   +33-1-44-78-63-66>
-<fax     +33-1-44-78-63-65>
-<email   contact@oxalide.com>
-<URL     "http://www.oxalide.com">
-<rates   Please contact for rates>
-<additional_info oxalide>
-</p>
+# Result: mail delivery failed, entry deactivated.
+#<p>
+#<company Oxalide>
+#<address 13 rue Greneta 75003 Paris <country-name FR>>
+#<phone   +33-1-44-78-63-66>
+#<fax     +33-1-44-78-63-65>
+#<email   contact@oxalide.com>
+#<URL     "http://www.oxalide.com">
+#<rates   Please contact for rates>
+#<additional_info oxalide>
+#</p>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
@@ -3283,6 +3284,7 @@ rates, it depends on your needs.>
 <h1><a name="DE"><country-name DE>:</a></h1>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Christopher Scheuring>
 <company chrisservice.de - Computerservice>
@@ -3293,6 +3295,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Stefan Bauer>
 <company Cubewerk - IT-Beratung + Planung>
@@ -3306,6 +3309,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Torsten Cimala>
 <company edv2go GbR>
@@ -3318,6 +3322,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Arne Wichmann>
 <address Oberf&ouml;hringer Stra&szlig;e 242a, 81925 M&uuml;nchen, <country-name DE>>
@@ -3328,6 +3333,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Andreas Stockter>
 <company stockter.net>
@@ -3340,6 +3346,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Andreas John>
 <address Frankfurter Str. 98a, 63067 Offenbach, <country-name DE>>
@@ -3351,6 +3358,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Martin Zuber>
 <company CONECT Information Services>
@@ -3364,6 +3372,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Jan Schreiber>
 <company Loopback.ORG>
@@ -3376,6 +3385,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Andreas Godzina>
 <company axxeo GmbH>
@@ -3391,6 +3401,7 @@ rates, it depends on your needs.>
 # Consultant: DE
 # Check URL at 22.02.2013 by holger-guest.
 # Result: URL was resold / apparently no longer a Debian consultant
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Marc Hansen>
 <company IT-Coaching>
@@ -3403,6 +3414,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Bernd Kloepfer>
 <company Steinle &amp; Kloepfer OHG>
@@ -3415,6 +3427,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Johannes Franken>
 <company FRANKEN IT-CONCEPTS>
@@ -3428,6 +3441,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Carsten Bleek>
 <company CROSS Solution>
@@ -3440,6 +3454,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Matthias Houdek>
 <company HOUDEK-it>
@@ -3452,6 +3467,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Michael Hierweck>
 <company EDV-Serviceteam Werthmann &amp; Hierweck GbR>
@@ -3464,6 +3480,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Matthias S&uuml;&szlig;>
 <company Matthias S&uuml;&szlig; &amp; Friends>
@@ -3476,6 +3493,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Jochen Seifarth>
 <company Dipl.-Ing.(BA) Jochen Seifarth>
@@ -3489,6 +3507,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company syscovery network services GmbH>
 <address Weinheimer Str. 68, D-68309 Mannheim, <country-name DE>>
@@ -3501,6 +3520,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Stephan Kranz>
 <company Stor IT Back, GbR>
@@ -3514,6 +3534,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company GDF Hannover bR>
 <address Hannover, <country-name DE>>
@@ -3526,6 +3547,7 @@ rates, it depends on your needs.>
 # Consultant: DE
 # Check URL at 22.02.2013 by holger-guest.
 # Result: empty site. Not a Debian consultant any more?
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    J&ouml;rk G. Lewandovski>
 <company ants-art>
@@ -3539,6 +3561,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company DAVOnet GmbH>
 <address An der Dorfwiese 3, D-35260 Stadtallendorf, <country-name DE>>
@@ -3551,6 +3574,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Boris Lingl, Klaus Talkenberger>
 <company LT-ec service &amp; solutions>
@@ -3563,6 +3587,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Axel Urban>
 <company UDS Linux>
@@ -3576,6 +3601,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Thorsten Mauch>
 <company Ute Imkenberg und Thorsten Mauch GbR>
@@ -3588,6 +3614,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Christian Augustin>
 <company OSSystems.de - IT-Service>
@@ -3599,6 +3626,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Bernd Schumacher>
 <company Hewlett-Packard>
@@ -3609,6 +3637,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Khalid Shukri>
 <company IT-Dienstleistungen Khalid Shukri>
@@ -3619,18 +3648,21 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Frank Neps>
 <company EDV-Beratung Neps>
 <address Meisenweg 13, D-72631 Aichtal, <country-name DE>>
 <phone   +49-7127-953201>
-<fax     +49-7127-924514>
+<fax     +49-7127-8114628>
 <email   info@neps.de>
+<URL     "http://www.neps.de/cms/index.php?option=com_content&view=article&id=110&Itemid=114">
 <URL     "http://www.neps.de">
 <rates   Negotiable, depends on problem/project size>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Guido Petermann>
 <company Guido Petermann, IT-Dienstleistungen>
@@ -3643,6 +3675,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Joerg Fraune, Oliver Dumschat-Hoette>
 <company Trisinus GmbH &amp; Co KG>
@@ -3656,6 +3689,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Matthias Kn&auml;pper>
 <company IT Kn&auml;pper>
@@ -3669,6 +3703,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Kay Koenigsmann>
 <company Koenigsmann-Ingenieure>
@@ -3681,6 +3716,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name    Richard Rafalski>
 <company R. Rafalski IT-Beratung>
@@ -3692,6 +3728,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Dipl.-Ing. Ansgar H. Licher>
 <name    Dipl.-Ing. Martin Werthmoeller>
@@ -3705,6 +3742,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Dipl.-Inform. Richard Fr&ouml;hning>
 <company froehning.net>
@@ -3717,16 +3755,18 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company Richardson &amp; B&uuml;ren GbR>
-<address Halver, <country-name DE>>
-<phone   +49-2353663943>
+<address Römerstr. 45 - 47, 53111 Bonn, <country-name DE>>
+<phone   +49(0)228-92982012>
 <email   information@richardson-bueren.de scramble="yes">
-<URL     "http://www.richardson-bueren.de">
-<rates   50 Euro/h>
+# <URL     "http://kivitendo-support.de/">
+<rates   90 Euro/h>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Badri Pillai>
 <company ii-consult.com>
@@ -3751,6 +3791,7 @@ rates, it depends on your needs.>
 #</p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Heiko Schlittermann>
 <company schlittermann -- internet &amp; unix support>
@@ -3763,6 +3804,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Martin Schulze>
 <company InfoCon>
@@ -3775,6 +3817,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Florian Kunkel>
 <company net-operations>
@@ -3787,6 +3830,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Michael Schuett>
 <company NMMN New Media Markets &amp; Networks GmbH>
@@ -3799,6 +3843,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    J&uuml;rgen L&uuml;ters>
 <company Intranet Engineering GmbH>
@@ -3811,17 +3856,19 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
-<company LinuxHaus Stuttgart>
-<address Stuttgart, <country-name DE>>
-<phone   +49-711-2851905>
-<fax     +49-711-5780692>
+<company LiHAS - LinuxHaus Stuttgart, Adrian Reyer>
+<address Hessenwiesenstr. 10, 70565 Stuttgart, <country-name DE>>
+<phone   +49-711-78285090>
+<fax     +49-711-78285091>
 <email   lihas@lihas.de>
 <URL     "http://www.lihas.de/">
 <rates   Call for rates.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company Intevation GmbH>
 <address Osnabr&uuml;ck, <country-name DE>>
@@ -3832,6 +3879,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Stefan Koehler>
 <company GONICUS GmbH>
@@ -3844,6 +3892,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# data was confirmed on 27.02.2013. See rev 1.1713.
 <p>
 <name	 Michael Meskes>
 <company credativ GmbH>
@@ -3857,6 +3906,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Karsten M&uuml;ller>
 <address Hamburg, <country-name DE>>
@@ -3865,6 +3915,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company Linux Information Systems AG>
 <address Berlin, <country-name DE>>
@@ -3877,6 +3928,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 J&ouml;rg Wendland>
 <company Scan Plus GmbH>
@@ -3889,6 +3941,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Frank Kirschner>
 <company trustsec IT solutions GmbH>
@@ -3902,6 +3955,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Thomas Wien>
 <company thwien.de>
@@ -3911,6 +3965,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Arvids Lemchens>
 <company DV-Dienstleistungen Arvids Lemchens>
@@ -3922,6 +3977,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Oliver Poths>
 <company LinSoft GmbH>
@@ -3934,6 +3990,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Hans-Joachim Picht>
 <company Picht Consulting - OpenSource and Security>
@@ -3947,24 +4004,27 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Toni Mueller>
 <company Oeko.neT>
-<address Werner-von-Siemens-Str. 4, D-51674 Wiehl, <country-name DE>>
-<phone	 +49-2261-979364>
-<fax	 +49-2261-979366>
+<address Zum Hochwald 20, D-51674 Wiehl, <country-name DE>>
+<phone	 +49-2262-9991418>
+<fax	 +49-2262-9991419>
 <email	 vertrieb@oeko.net>
+<URL	 "http://www.oeko.net/content/support.html">
 <URL	 "http://www.oeko.net">
-<rates	 negotiable depending on task, place, time etc.>
+<rates	 Negotiable depending on task, place, time etc.>
 <additional_info toni_m>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Matthias Urlichs>
 <company {m:u} IT Design>
 <address Schleiermacherstra&szlig;e 12, 90491 N&uuml;rnberg, <country-name DE>>
-<phone	 +49-922-59818-0>
+<phone	 +49-911-59818-0>
 <fax	 +49-911-59818-11>
 <email	 urlichs@m-u-it.de>
 <URL	 "http://m-u-it.de/">
@@ -3972,6 +4032,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name	 Thomas Lange>
 <company fai-cluster.de>
@@ -3996,6 +4057,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Lutz "Lupe" Christoph>
 <company Octogon Gesellschaft f&uuml;r Computer-Dienstleistungen mbH>
@@ -4008,6 +4070,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Igor Chemnitz>
 <company Triona - Information und Technologie GmbH>
@@ -4021,6 +4084,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Thomas Drillich>
 <company IT-Service Drillich>
@@ -4033,6 +4097,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Jens Kubieziel>
 <address Am Planetarium 37, 07743 Jena, <country-name DE>>
@@ -4045,6 +4110,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Markus Welters>
 <company Welters Datentechnik>
@@ -4058,6 +4124,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Stefan-Michael Guenther>
 <company in-put GbR - Das Linux-Systemhaus>
@@ -4070,6 +4137,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Martin Bork>
 <company con.victo Ltd.>
@@ -4082,6 +4150,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Tim Beil>
 <company Beil Problem Solutions>
@@ -4096,6 +4165,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Bernd Cla&szlig;en>
 <address Berlin, <country-name DE>>
@@ -4105,6 +4175,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company Yospot GmbH>
 <address Bayerstr. 33, 80335 M&uuml;nchen, Bayern. <country-name DE>>
@@ -4115,6 +4186,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Mathias Kettner>
 <company Mathias Kettner>
@@ -4129,6 +4201,7 @@ rates, it depends on your needs.>
 # Consultant: DE
 # Check URL at 22.02.2013 by holger-guest.
 # Result: network timeout. No longer active as a Debian consultant?
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Daniel Priem>
 <company Flexserv>
@@ -4141,18 +4214,20 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Hans-J. Ullrich>
 <company Ullrich-IT-Consult>
 <address Peine (near Hannover), <country-name DE>>
 <phone	 +49-179-3666059>
-<email	 hans.ullrich@loop.de>
+<email	 kontakt@ullrich-it.de>
 <URL     "http://www.ullrich-it.de/">
 <rates	 Please contact for rates (individually according to your needs!).>
 <additional_info ullrich-it-consult>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Christoph Scheeder>
 <company Scheeder &amp; Partner GmbH>
@@ -4166,6 +4241,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Uwe Steinmann>
 <company MMK GmbH>
@@ -4178,6 +4254,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Jan Tegtmeier>
 <company Tegtmeier Internet Solutions e.K.>
@@ -4193,6 +4270,7 @@ rates, it depends on your needs.>
 # Consultant: DE
 # Check URL at 22.02.2013 by holger-guest.
 # Result: address not found
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Andy Pahne>
 <company IT-Service Andy Pahne>
@@ -4205,18 +4283,20 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Dieter J&auml;ger>
 <company Magnum Opus GmbH>
 <address Eichendorffstr. 19a, 85276 Pfaffenhofen, <country-name DE>>
-<phone   +49-8441-18-223>
-<fax     +49-8441-49-83-53>
+<phone   +49(0)8441-7978107>
+<fax     +49(0)8441-7977114>
 <email   dieter.jaeger@magnum-opus.de>
 <URL     "http://www.magnum-opus.de/">
-<rates   Multiple rates>
+<rates   Multiple rates.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Peter Ehrenberg>
 <company Dipl.-Ing. Peter Ehrenberg>
@@ -4228,20 +4308,18 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# Check URL at 22.02.2013 by holger-guest.
-# Result: page not existing. But http://www.amooma.de is valid
-# and active. Still active as Debian consultant? Change URL?
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Stefan Wintermeyer>
 <company amooma GmbH>
-<address Bachstr. 126, 56566 Neuwied, <country-name DE>>
-<phone   +49-2622-706310>
+<address Bachstr. 124, 56566 Neuwied, <country-name DE>>
 <email   info@amooma.de>
-<URL     "http://www.amooma.de/service/debian/">
+<URL     "http://amooma.de">
 <rates   Depends on tasks - negotiable for non-profit>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Lukas Grunwald>
 <company DN-Systems Enterprise Internet Solutions GmbH>
@@ -4254,6 +4332,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Michael Mende>
 <company Michael Mende, Linux Cluster Consulting>
@@ -4265,6 +4344,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Florian Lihl>
 <company INGATE GmbH>
@@ -4276,6 +4356,7 @@ rates, it depends on your needs.>
 <rates	 Please contact us for rates.>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Alexander Hosfeld>
 <company Alexander Hosfeld Netzwerkadministration>
@@ -4287,6 +4368,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Volker Dormeyer>
 <company Volker Dormeyer Systementwicklung>
@@ -4298,6 +4380,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Bjoern Hahnefeld>
 <company bjoern hahnefeld IT>
@@ -4310,6 +4393,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <company B1 Systems GmbH>
 <address Osterfeldstr. 7, 85088 Vohburg, <country-name DE>>
@@ -4321,6 +4405,7 @@ rates, it depends on your needs.>
 <additional_info b1-systems>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Erik Zettel>
 <company ZETTEL IT>
@@ -4332,6 +4417,7 @@ rates, it depends on your needs.>
 <rates   Prices depend on project.>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    J&uuml;rgen Fricke>
 <company (pro)3 system development>
@@ -4344,6 +4430,7 @@ rates, it depends on your needs.>
 <additional_info procube>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Tom Marek>
 <company MARE system>
@@ -4357,6 +4444,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Marco Giesen>
 <company consulting1x1>
@@ -4369,6 +4457,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Victor-Philipp Busch>
 <company Sybuca GmbH>
@@ -4381,6 +4470,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Andreas G&uuml;nther>
 <company IT-LINUXMAKER>
@@ -4393,6 +4483,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Alexander Kasper &amp; Christian Kaufmann>
 <company Alexander Kasper IT-Dienstleistungen &amp; Christian Kaufmann IT>
@@ -4409,6 +4500,7 @@ rates, it depends on your needs.>
 # Consultant: DE
 # Check URL at 22.02.2013 by holger-guest.
 # Result: address not found
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name    Amza Marian>
 <company Linux Security Group>
@@ -4421,6 +4513,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Ralf B&ouml;hm>
 <company rrbs, unix/linux solution &amp; support>
@@ -4434,6 +4527,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Werner Detter>
 <company DETTER.BIZ>
@@ -4445,6 +4539,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Theodor Reppe>
 <address Im Rosengarten 8, 79112 Freiburg, <country-name DE>>
@@ -4454,6 +4549,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Peter Linke>
 <company IT-Dienstleistungen Linke>
@@ -4466,6 +4562,7 @@ rates, it depends on your needs.>
 # Consultant: DE
 # Check URL at 22.02.2013 by holger-guest.
 # Result: URL contains no public data. Still active as Debian consultant?
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Daniel M&uuml;ller>
 <company 3smil, Ltd.>
@@ -4478,6 +4575,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Karsten Hoffmann>
 <company ADVENTOS GmbH open.business.solutions.>
@@ -4490,6 +4588,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Christian Schneiker>
 <company GFU Cyrus AG>
@@ -4502,6 +4601,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 David Pietratus>
 <company IT-Schulungen.com>
@@ -4515,6 +4615,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Patrick Matth&auml;i>
 <company LEONEX Internet GmbH>
@@ -4527,6 +4628,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Reza Ameri>
 <company Taldo IT-Systems>
@@ -4538,6 +4640,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Dipl.-Ing. (FH) Ansgar Freking>
 <company EDV-Systeme mit OpenSource>
@@ -4549,6 +4652,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# mail sent to check status: 29.03.2013 holger-guest.
 <p>
 <name	 Jan Gornowicz>
 <address Guntherweg 1, 23562 L&uuml;beck, <country-name DE>>
@@ -4558,6 +4662,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
+# This is a duplicate entry from "Name: Christian Schneiker - Company: GFU Cyrus AG"
 <p>
 <company GFU Cyrus AG>
 <address Am Grauen Stein 27, D-51105 K&ouml;ln, <country-name DE>>
