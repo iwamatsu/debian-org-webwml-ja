@@ -3285,27 +3285,27 @@ rates, it depends on your needs.>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Christopher Scheuring>
-<company chrisservice.de - Computerservice>
-<address Hagenstr. 20, 76684 &Ouml;stringen-Odenheim, <country-name DE>>
-<phone   +49-7259-924691>
-<email   info@chrisservice.de>
-<rates   Please contact us for rates.>
-</p>
+# Result: mail delivery failed; entry disabled.
+#<p>
+#<name    Christopher Scheuring>
+#<company chrisservice.de - Computerservice>
+#<address Hagenstr. 20, 76684 &Ouml;stringen-Odenheim, <country-name DE>>
+#<phone   +49-7259-924691>
+#<email   info@chrisservice.de>
+#<rates   Please contact us for rates.>
+#</p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Stefan Bauer>
-<company Cubewerk - IT-Beratung + Planung>
+<company Cubewerk GmbH>
 <address Herzog-Otto-Str. 32, 83308 Trostberg, <country-name DE>>
-<phone   +49 8621 996 02 37>
-<phone	 +49 179 11 94 767>
-<fax	 +49 1212 511057903>
+<phone   +49(0)8621-9960237>
+<phone	 +49(0)179-1194767>
 <email   stefan.bauer@cubewerk.de>
 <url     "http://www.cubewerk.de">
-<rates   62,- EUR. Special rates for interesting projects.>
+<rates   80 EUR.>
 </p>
 
 # Consultant: DE
@@ -3415,16 +3415,17 @@ rates, it depends on your needs.>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Bernd Kloepfer>
-<company Steinle &amp; Kloepfer OHG>
-<address Bergstrasse 14/1, 74072 Heilbronn, <country-name DE>>
-<phone   +49-7131-9344-0>
-<fax     +49-7131-9344-44>
-<email   info@suk.de>
-<URL     "http://www.suk.de">
-<rates   Call for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Bernd Kloepfer>
+#<company Steinle &amp; Kloepfer OHG>
+#<address Bergstrasse 14/1, 74072 Heilbronn, <country-name DE>>
+#<phone   +49-7131-9344-0>
+#<fax     +49-7131-9344-44>
+#<email   info@suk.de>
+#<URL     "http://www.suk.de">
+#<rates   Call for rates.>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
@@ -3545,20 +3546,19 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# Check URL at 22.02.2013 by holger-guest.
-# Result: empty site. Not a Debian consultant any more?
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    J&ouml;rk G. Lewandovski>
-<company ants-art>
-<address Oberstrasse 12, 99867 Gotha, Thueringen, <country-name DE>>
-<phone   +49-3621-227702>
-<fax     +49-3621-227703>
-<email   dialog@ants-art>
-<URL     "http://www.ants-art.org">
-<rates   Depends on tasks - negotiable for non-profit>
-<additional_info ants-art>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    J&ouml;rk G. Lewandovski>
+#<company ants-art>
+#<address Oberstrasse 12, 99867 Gotha, Thueringen, <country-name DE>>
+#<phone   +49-3621-227702>
+#<fax     +49-3621-227703>
+#<email   dialog@ants-art>
+#<URL     "http://www.ants-art.org">
+#<rates   Depends on tasks - negotiable for non-profit>
+#<additional_info ants-art>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
@@ -3656,7 +3656,7 @@ rates, it depends on your needs.>
 <phone   +49-7127-953201>
 <fax     +49-7127-8114628>
 <email   info@neps.de>
-<URL     "http://www.neps.de/cms/index.php?option=com_content&view=article&id=110&Itemid=114">
+<URL     "http://www.neps.de/cms/index.php?option=com_content&amp;view=article&amp;id=110&amp;Itemid=114">
 <URL     "http://www.neps.de">
 <rates   Negotiable, depends on problem/project size>
 </p>
@@ -3743,16 +3743,17 @@ rates, it depends on your needs.>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Dipl.-Inform. Richard Fr&ouml;hning>
-<company froehning.net>
-<address Ernst-Ludwig-Strasse 25, 64283 Darmstadt, <country-name DE>>
-<phone   +49-6151-105883>
-<fax     +49-6161-105896>
-<email   solutions@froehning.net>
-<URL     "http://www.froehning.net/">
-<rates   Depend on project/need. Contact me.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Dipl.-Inform. Richard Fr&ouml;hning>
+#<company froehning.net>
+#<address Ernst-Ludwig-Strasse 25, 64283 Darmstadt, <country-name DE>>
+#<phone   +49-6151-105883>
+#<fax     +49-6161-105896>
+#<email   solutions@froehning.net>
+#<URL     "http://www.froehning.net/">
+#<rates   Depend on project/need. Contact me.>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
@@ -4167,16 +4168,6 @@ rates, it depends on your needs.>
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
 <p>
-<name	 Bernd Cla&szlig;en>
-<address Berlin, <country-name DE>>
-<phone	 +49-30-21479188>
-<email	 bclassen@arcor.de>
-<rates	 Depends on the task (starts with 70 EUR/h).>
-</p>
-
-# Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
-<p>
 <company Yospot GmbH>
 <address Bayerstr. 33, 80335 M&uuml;nchen, Bayern. <country-name DE>>
 <phone	 +49 89 55292861>
@@ -4268,19 +4259,18 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# Check URL at 22.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Andy Pahne>
-<company IT-Service Andy Pahne>
-<address Lemgo, NRW, <country-name DE>>
-<phone   +49-0-52-61-97-00-46>
-<email   info@pahne-it-service.de>
-<URL     "http://www.pahne-it-service.de/">
-<rates   Please contact for hourly rates.>
-<additional_info pahne>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Andy Pahne>
+#<company IT-Service Andy Pahne>
+#<address Lemgo, NRW, <country-name DE>>
+#<phone   +49-0-52-61-97-00-46>
+#<email   info@pahne-it-service.de>
+#<URL     "http://www.pahne-it-service.de/">
+#<rates   Please contact for hourly rates.>
+#<additional_info pahne>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
@@ -4406,14 +4396,15 @@ rates, it depends on your needs.>
 <additional_info b1-systems>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Erik Zettel>
 <company ZETTEL IT>
-<address Gartenstrasse. 11, 9618 Brand-Erbisdorf, <country-name DE>>
+<address Gartenstr. 11, 09618 Brand-Erbisdorf, <country-name DE>>
 <phone   +49-37322-492222>
 <fax     +49-37322-492424>
 <email   info@zettel-it.de>
+<URL     "http://www.zettel-it.de/cms/it-support/open-source-und-linux-support.html">
 <URL     "http://www.zettel-it.de/">
 <rates   Prices depend on project.>
 
@@ -4471,7 +4462,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Andreas G&uuml;nther>
 <company IT-LINUXMAKER>
@@ -4479,8 +4470,9 @@ rates, it depends on your needs.>
 <phone   +49-711-8063122>
 <fax     +49-711-8063169>
 <email   info@it-linuxmaker.eu>
+<URL     "http://www.it-linuxmaker.eu/leistungen/it-projekte.html">
 <URL     "http://www.it-linuxmaker.eu">
-<rates   Depends on the problem. Call or email us>
+<rates   Depends on the problem. Call or email us.>
 </p>
 
 # Consultant: DE
@@ -4528,15 +4520,15 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Werner Detter>
-<company DETTER.BIZ>
+<company Werner Detter - IT-Consulting, IT-Services>
 <address Lilienstr. 4, 81669 Munich, <country-name DE>>
-<phone	 +49 (0) 89 - 890 64 727>
+<phone	 +49(0)89-89064727>
 <email	 info@detter.biz>
-<URL	 "http://www.detter.biz">
-<rates	 Negotiable>
+<URL	 "http://www.werner-detter.de">
+<rates	 Negotiable.>
 </p>
 
 # Consultant: DE
@@ -4550,30 +4542,29 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name	 Peter Linke>
 <company IT-Dienstleistungen Linke>
-<address Rhein-Main Gebiet, <country-name DE>>
-<phone	 +49-177-4110491>
+<address Rhein-Main-Gebiet, <country-name DE>>
+<phone	 +49(0)177-4110491>
 <email	 peter.linke@it-l.org>
-<rates	 Projektbasierend, einfaches probleml&ouml;sen kostenlos>
+<rates	 Projektbasiert; einfaches Probleml&ouml;sen kostenlos.>
 </p>
 
 # Consultant: DE
-# Check URL at 22.02.2013 by holger-guest.
-# Result: URL contains no public data. Still active as Debian consultant?
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name	 Daniel M&uuml;ller>
-<company 3smil, Ltd.>
-<address M&uuml;hlenstr. 60, 50354 H&uuml;rth, <country-name DE>>
-<phone	 02233-4053016>
-<fax     02233-4053016>
-<email	 info@3smil.com>
-<URL     "http://3smil.com/">
-<rates	 Begin at 80&euro;/Hour>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Daniel M&uuml;ller>
+#<company 3smil, Ltd.>
+#<address M&uuml;hlenstr. 60, 50354 H&uuml;rth, <country-name DE>>
+#<phone	 02233-4053016>
+#<fax     02233-4053016>
+#<email	 info@3smil.com>
+#<URL     "http://3smil.com/">
+#<rates	 Begin at 80&euro;/Hour>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
@@ -4641,23 +4632,23 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name	 Dipl.-Ing. (FH) Ansgar Freking>
 <company EDV-Systeme mit OpenSource>
-<address Am Kessenberg 19  49401 Damme, <country-name DE>>
-<phone	 05491 816305>
+<address Am Kessenberg 19, 49401 Damme, <country-name DE>>
+<phone	 05491-816305>
 <email	 info@freking-damme.de>
 <URL     "http://www.edv-os.de/">
-<rates	 90 EUR/h>
+<rates	 90 EUR/h.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name	 Jan Gornowicz>
 <address Guntherweg 1, 23562 L&uuml;beck, <country-name DE>>
-<phone	 0174 1951692>
+<phone	 0174-1951692>
 <email	 J.Gornowicz@gmail.com>
 <rates	 40-80 EUR/h. Depends on location, duration and kind of work.>
 </p>
