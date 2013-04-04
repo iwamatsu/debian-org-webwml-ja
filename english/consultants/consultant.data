@@ -2448,16 +2448,16 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: CR
-# mail sent to check status: 26.02.2013 holger-guest
+# mail sent to check status: 26.02.2013 holger-guest. Result: still active.
 <p>
 <name	 Cristian Rucavado Leandro>
 <company Abax Asesores>
 <address Curridabat, San Jos&eacute;, <country-name CR>>
-<phone	 +506 2234 2290>
-<fax	 +506 2234 6622>
+<phone	 +506-2234-2290>
+<fax	 +506-2234-6622>
 <email	 info@abaxasesores.com>
 <URL	 "http://www.abaxasesores.com">
-<rates	 Negotiable>
+<rates	 Negotiable.>
 </p>
 
 # Consultant: CR
@@ -3482,16 +3482,17 @@ rates, it depends on your needs.>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Matthias S&uuml;&szlig;>
-<company Matthias S&uuml;&szlig; &amp; Friends>
-<address Postfach 1502, 92421 Schwandorf, <country-name DE>>
-<phone   +49-9431-39-99-85>
-<fax     +49-9431-39-99-86>
-<email   suess@allizom.com>
-<URL     "http://www.allizom.com">
-<rates   Call me!>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Matthias S&uuml;&szlig;>
+#<company Matthias S&uuml;&szlig; &amp; Friends>
+#<address Postfach 1502, 92421 Schwandorf, <country-name DE>>
+#<phone   +49-9431-39-99-85>
+#<fax     +49-9431-39-99-86>
+#<email   suess@allizom.com>
+#<URL     "http://www.allizom.com">
+#<rates   Call me!>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
@@ -3819,16 +3820,17 @@ rates, it depends on your needs.>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Florian Kunkel>
-<company net-operations>
-<address Darmstadt / Rhein-Main, <country-name DE>>
-<phone   +49-6167-9139-440>
-<fax     +49-6167-9139-439>
-<email   debian-help@net-operations.de>
-<URL     "http://www.net-operations.de/debian/debian-support.html">
-<rates   Quick help for free (e-mail). Project and Maintenance Plan rates available.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Florian Kunkel>
+#<company net-operations>
+#<address Darmstadt / Rhein-Main, <country-name DE>>
+#<phone   +49-6167-9139-440>
+#<fax     +49-6167-9139-439>
+#<email   debian-help@net-operations.de>
+#<URL     "http://www.net-operations.de/debian/debian-support.html">
+#<rates   Quick help for free (e-mail). Project and Maintenance Plan rates available.>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
@@ -3957,7 +3959,7 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name    Thomas Wien>
 <company thwien.de>
@@ -4111,27 +4113,27 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Markus Welters>
 <company Welters Datentechnik>
-<address Grafenberger Allee 81, 40237 Duesseldorf, <country-name DE>>
-<phone	 +49-211-9660093>
-<fax	 +49-211-9660091>
+<address Winternam 132, 47647 Kerken, <country-name DE>>
+<phone	 +49(0)2831-9779560>
+<fax	 +49(0)2831-9779561>
 <email	 datentechnik@welters.de>
 <URL	 "http://www.welters.de/">
-<rates	 120 Euro/hour.>
+<rates	 120 EUR/hour.>
 <additional_info welters>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Stefan-Michael Guenther>
 <company in-put GbR - Das Linux-Systemhaus>
 <address Karlsruhe, <country-name DE>>
-<phone	 +49-721-8304498>
-<fax	 +49-721-8304493>
+<phone	 +49(0)721-68032880>
+<fax	 +49(0)721-68032883>
 <email	 service@in-put.de>
 <URL	 "http://www.in-put.de/">
 <rates	 Call or email for rates, depends on project size.>
@@ -4345,15 +4347,15 @@ rates, it depends on your needs.>
 <rates	 Please contact us for rates.>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active.
 <p>
 <name	 Alexander Hosfeld>
 <company Alexander Hosfeld Netzwerkadministration>
 <address Lindenstrasse 67, 33415 Verl, <country-name DE>>
-<phone	 +49-5246-934797>
+<phone	 +49(0)5246-934797>
 <email	 info@hosfeld.de>
 <url	 http://www.hosfeld.de>
-<rates	 65 EUR/h>
+<rates	 65 EUR/h.>
 </p>
 
 # Consultant: DE
@@ -4490,19 +4492,18 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: DE
-# Check URL at 22.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 29.03.2013 holger-guest.
-<p>
-<name    Amza Marian>
-<company Linux Security Group>
-<address Alte Stra&szlig;e 2, L&ouml;rrach, 79541, <country-name DE>>
-<phone   +49 15 223 008 380>
-<email   tech@unixteacher.org scramble="yes">
-<URL     "http://www.unixteacher.org/">
-<rates   20-100 EUR/h. Depends on location, duration and kind of work. Quick help via email is free.>
-<additional_info linux_security_group>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Amza Marian>
+#<company Linux Security Group>
+#<address Alte Stra&szlig;e 2, L&ouml;rrach, 79541, <country-name DE>>
+#<phone   +49 15 223 008 380>
+#<email   tech@unixteacher.org scramble="yes">
+#<URL     "http://www.unixteacher.org/">
+#<rates   20-100 EUR/h. Depends on location, duration and kind of work. Quick help via email is free.>
+#<additional_info linux_security_group>
+#</p>
 
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
@@ -6725,15 +6726,15 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: PL
+# 03.04.2013: data updated.
 <p>
 <name    Marcin Engelmann>
-<company Imagin>
+<company IMAGIN>
 <address Wroclaw, <country-name PL>>
-<phone   +48-71-797-88-51>
-<fax     +48-71-797-88-51>
-<email   debian@imagin.com.pl>
-<URL     "http://imagin.com.pl/">
-<rates   20-60EUR/h, negotiable according to the type, length and complexity of the project, support contracts available.>
+<phone   +48-71-723-01-20>
+<email   debian@imagin.pl scramble="yes">
+<URL     "http://imagin.pl/">
+<rates   40-80EUR/h, negotiable according to the type, length and complexity of the project, support contracts available.>
 <additional_info imagin>
 </p>
 
