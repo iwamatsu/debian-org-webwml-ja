@@ -3063,17 +3063,6 @@ prices during summer holidays.>
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
 <p>
-<company Code Lutin>
-<address 2, rue Robert le Ricolais-44300 Nantes, <country-name FR>>
-<phone	 +33-0-2-40-50-29-28>
-<email	 info@codelutin.com>
-<URL	 "http://www.codelutin.com/">
-<rates	 Please contact for rates.>
-</p>
-
-# Consultant: FR
-# mail sent to check status: 24.03.2013 holger-guest.
-<p>
 <name	 Ivan Kanis>
 <company Links Consulting>
 <address 210 Ave. Roumanille 06410 Biot, <country-name FR>>
@@ -4348,7 +4337,7 @@ prices during summer holidays.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Florian Lihl>
 <company INGATE GmbH>
@@ -4356,7 +4345,7 @@ prices during summer holidays.>
 <phone	 +49-821-9983546>
 <fax	 +49-821-9983548>
 <email	 info@ingate.de>
-<URL	 "http://www.ingate.de/systemadministration.html">
+<URL	 "http://www.ingate.de/dienstleistungen.html">
 <rates	 Please contact us for rates.>
 
 # Consultant: DE
@@ -4621,15 +4610,15 @@ prices during summer holidays.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Patrick Matth&auml;i>
 <company LEONEX Internet GmbH>
 <address Technologiepark 20, 33100 Paderborn, <country-name DE>>
-<phone	 +49-5251-14807-20>
-<fax     +49-5251-14807-30>
+<phone	 +49(0)5251-14807-20>
+<fax     +49(0)5251-14807-30>
 <email	 technik@leonex.de>
-<URL     "http://www.leonex.de/">
+#<URL     "http://www.leonex.de/">
 <rates	 80,00 EUR/hour / project based price>
 </p>
 
@@ -4724,16 +4713,17 @@ prices during summer holidays.>
 
 # Consultant: GR
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name	 Sentinel Co.>
-<address 9 Evripidou Str., 105 61 Athens, <country-name GR>>
-<phone	 +30-211-7507109>
-<fax	 +30-211-7507108>
-<email	 info@sentinel.gr>
-<URL	 "http://www.sentinel.gr/">
-<rates	 Depends on job and time needed.>
-<additional_info sentinel>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Sentinel Co.>
+#<address 9 Evripidou Str., 105 61 Athens, <country-name GR>>
+#<phone	 +30-211-7507109>
+#<fax	 +30-211-7507108>
+#<email	 info@sentinel.gr>
+#<URL	 "http://www.sentinel.gr/">
+#<rates	 Depends on job and time needed.>
+#<additional_info sentinel>
+#</p>
 
 # Consultant: GR
 # mail sent to check status: 07.04.2013 holger-guest. 
@@ -4749,11 +4739,11 @@ prices during summer holidays.>
 </p>
 
 # Consultant: GR
-# mail sent to check status: 07.04.2013 holger-guest. 
+# mail sent to check status: 07.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Stelios Asmargianakis>
 <company Guru-host>
-<address Keas 25, Ano Glyfada, Athens, <country-name GR>>
+<address Stavrakia, Heraklion, Crete, <country-name GR>>
 <phone	 +30 211 212 5024>
 <fax	 +30 211 800 1866>
 <email	 support@guru-host.eu>
@@ -4790,6 +4780,9 @@ prices during summer holidays.>
 <url     "http://www.i-t-m.com/">
 <rates	 Negotiable.>
 </p>
+  <ul>
+    <li>Offers services for Guatemala, Honduras, El Salvador and Costa Rica.</li>
+  </ul>
 
 
 <h1><a name="HU"><country-name HU>:</a></h1>
@@ -4807,7 +4800,7 @@ prices during summer holidays.>
 </p>
 
 # Consultant: HU
-# mail sent to check status: 07.04.2013 holger-guest. 
+# mail sent to check status: 07.04.2013 holger-guest. Result: still active.
 <p>
 <name    Pl Szab>
 <company vpsadmins.com>
@@ -4837,16 +4830,17 @@ prices during summer holidays.>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name    Karan Pal Singh>
-<company NetCredence>
-<address SCF 50 Phase 10 Mohali,India160064, <country-name IN>>
-<phone   +91-9356697445>
-<fax   +91-1723045445>
-<email   karan@linuxsolutions.in>
-<rates   $20/hr.>
-<additional_info netcredence>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Karan Pal Singh>
+#<company NetCredence>
+#<address SCF 50 Phase 10 Mohali,India160064, <country-name IN>>
+#<phone   +91-9356697445>
+#<fax   +91-1723045445>
+#<email   karan@linuxsolutions.in>
+#<rates   $20/hr.>
+#<additional_info netcredence>
+#</p>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
@@ -4864,53 +4858,57 @@ prices during summer holidays.>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name    Y Ravi>
-<company Velan Info Services>
-<address 4D Bharathidasan Nagar, Coimbatore 641045, <country-name IN>>
-<phone   +91-422-309-5171>
-<email   sales@velaninfo.com>
-<URL     "http://www.velaninfo.com/">
-<rates   $15 / Hour>
-<additional_info velaninfo>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Y Ravi>
+#<company Velan Info Services>
+#<address 4D Bharathidasan Nagar, Coimbatore 641045, <country-name IN>>
+#<phone   +91-422-309-5171>
+#<email   sales@velaninfo.com>
+#<URL     "http://www.velaninfo.com/">
+#<rates   $15 / Hour>
+#<additional_info velaninfo>
+#</p>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<company QualSoft Services>
-<address III rd Floor, Krushna Business Center, Off J. M. Road, Deccan Gymkhana, Pune, Maharashtra, <country-name IN> : 411004>
-<phone   +91-20-56019340>
-<fax     +91-20-56019339>
-<email   info@qualsoftservices.com>
-<URL     "http://www.qualsoftservices.com/">
-<rates   $100 per hour>
-<additional_info qualsoftservices>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company QualSoft Services>
+#<address III rd Floor, Krushna Business Center, Off J. M. Road, Deccan Gymkhana, Pune, Maharashtra, <country-#name IN> : 411004>
+#<phone   +91-20-56019340>
+#<fax     +91-20-56019339>
+#<email   info@qualsoftservices.com>
+#<URL     "http://www.qualsoftservices.com/">
+#<rates   $100 per hour>
+#<additional_info qualsoftservices>
+#</p>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name    Dheerendar Srivastav>
-<company Dheerendar consultancy>
-<address 250/6, Mehurali, New Delhi, <country-name IN>>
-<phone   +91-9811040395>
-<email   dks@bajajcapital.com>
-<rates   very economical>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Dheerendar Srivastav>
+#<company Dheerendar consultancy>
+#<address 250/6, Mehurali, New Delhi, <country-name IN>>
+#<phone   +91-9811040395>
+#<email   dks@bajajcapital.com>
+#<rates   very economical>
+#</p>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name    Shilpi Mittal>
-<company Extralogix Solutions>
-<address A/G 36 A, Shalimar Bagh, Delhi - 110088, <country-name IN>>
-<phone   +91-98-11033387>
-<fax     +91-11-27470646>
-<email   info@extralogix.com>
-<rates   $10 per hour. Project are also undertaken on completion basis>
-<additional_info extralogix>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Shilpi Mittal>
+#<company Extralogix Solutions>
+#<address A/G 36 A, Shalimar Bagh, Delhi - 110088, <country-name IN>>
+#<phone   +91-98-11033387>
+#<fax     +91-11-27470646>
+#<email   info@extralogix.com>
+#<rates   $10 per hour. Project are also undertaken on completion basis>
+#<additional_info extralogix>
+#</p>
 
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
@@ -5073,16 +5071,17 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IE
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name	 David Howe>
-<company Howe Systems Ltd.>
-<address Rock Big, Arklow, County Wicklow, <country-name IE>>
-<phone   +353-402-24625>
-<email	 info@howesystems.com>
-<URL	 "http://www.howesystems.com/">
-<rates   Negotiable, please e-mail or phone for quote.>
-<additional_info howesystems>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 David Howe>
+#<company Howe Systems Ltd.>
+#<address Rock Big, Arklow, County Wicklow, <country-name IE>>
+#<phone   +353-402-24625>
+#<email	 info@howesystems.com>
+#<URL	 "http://www.howesystems.com/">
+#<rates   Negotiable, please e-mail or phone for quote.>
+#<additional_info howesystems>
+#</p>
 
 # Consultant: IE
 # mail sent to check status: 07.04.2013 holger-guest. 
@@ -5111,20 +5110,21 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IL
 # mail sent to check status: 07.04.2013 holger-guest. 
-<p>
-<name    Alex Rier>
-<company Breakthrough LTD>
-<address Kiron, <country-name IL>>
-<phone   +972-52-442549>
-<fax     +972-3-6356434>
-<email   alex@breakt.co.il>
-<URL     "http://www.breakt.co.il/">
-<rates   Negotiable.>
-<additional_info alex_r>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Alex Rier>
+#<company Breakthrough LTD>
+#<address Kiron, <country-name IL>>
+#<phone   +972-52-442549>
+#<fax     +972-3-6356434>
+#<email   alex@breakt.co.il>
+#<URL     "http://www.breakt.co.il/">
+#<rates   Negotiable.>
+#<additional_info alex_r>
+#</p>
 
 # Consultant: IL
-# mail sent to check status: 07.04.2013 holger-guest. 
+# mail sent to check status: 07.04.2013 holger-guest. Result: still active.
 <p>
 <name	 Antony Gelberg>
 <address Tel Aviv-Yafo, <country-name IL>>
