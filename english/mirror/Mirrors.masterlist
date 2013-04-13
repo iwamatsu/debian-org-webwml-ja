@@ -41,7 +41,7 @@ Comment: Automatically selects geographically close, load balanced mirror
 
 Site: ftp.us.debian.org
 Alias: http.us.debian.org
-Includes: ftp.egr.msu.edu mirrors.kernel.org debian.osuosl.org debian.lcs.mit.edu mirror.mycre.ws debian.gtisc.gatech.edu
+Includes: mirrors.kernel.org debian.osuosl.org debian.lcs.mit.edu mirror.mycre.ws debian.gtisc.gatech.edu
 Type: Push-Primary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-http: /debian/
@@ -378,14 +378,14 @@ IPv6: yes
 Site: ftp.egr.msu.edu
 Alias: ike.egr.msu.edu
 Type: Push-Primary
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
-Archive-upstream: syncproxy.wna.debian.org
-Old-http: /debian-archive/
-Old-ftp: /debian-archive/
-Old-rsync: debian-archive/
+X-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
+X-Archive-upstream: syncproxy.wna.debian.org
+X-Old-http: /debian-archive/
+X-Old-ftp: /debian-archive/
+X-Old-rsync: debian-archive/
 Maintainer: debian@egr.msu.edu
 Country: US United States
 Location: Lansing, Michigan
@@ -7666,16 +7666,15 @@ Bandwidth: 1Gbps
 
 Site: debian.mirror.tn
 Type: leaf
-X-Archive-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
-X-Archive-http: /debian/
-X-IPv6: no
-X-Archive-upstream: ftp.de.debian.org
+Archive-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: ftp.de.debian.org
 Maintainer: Agence_Tunisienne_Internet <hebergement@ati.tn>
 Country: TN Tunisia
 Sponsor: Agence Tunisienne d'Internet http://www.ati.tn/
 Location: Tunis
 Bandwidth: 1Gbps
-X-Comment: outdated since Feb 2012
 
 Site: mg.debian.net
 Type: leaf
