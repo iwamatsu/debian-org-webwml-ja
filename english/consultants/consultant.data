@@ -4958,19 +4958,6 @@ prices during summer holidays.>
 # Consultant: IN
 # mail sent to check status: 07.04.2013 holger-guest. 
 <p>
-<name	 Ritesh Raj Sarraf>
-<company RESEARCHUT>
-<address C/o Sarraf Jewellers, Main Road, Raxaul, BR, <country-name IN>>
-<phone	 +91-9972506333>
-<email	 contact@researchut.com>
-<URL	 "http://www.researchut.com/">
-<rates	 Please contact for rates.>
-<additional_info researchut>
-</p>
-
-# Consultant: IN
-# mail sent to check status: 07.04.2013 holger-guest. 
-<p>
 <name    H M Kias>
 <company Voice Networx>
 <address 1 A Mullah St , Pondicherry, <country-name IN>>
@@ -5153,16 +5140,17 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Lorenzo Riccucci>
-<company Limenet di Lorenzo Riccucci>
-<address Via Penna n.16, 52028 Terranuova B.ni (AR), <country-name IT>>
-<phone   +39-347-4511830>
-<fax     +39-055-9705357>
-<email   info@limenet.it>
-<url     "http://www.limenet.it/">
-<rates   Variable depending on the location, duration and type of work.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Lorenzo Riccucci>
+#<company Limenet di Lorenzo Riccucci>
+#<address Via Penna n.16, 52028 Terranuova B.ni (AR), <country-name IT>>
+#<phone   +39-347-4511830>
+#<fax     +39-055-9705357>
+#<email   info@limenet.it>
+#<url     "http://www.limenet.it/">
+#<rates   Variable depending on the location, duration and type of work.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5190,20 +5178,19 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Ing. Alessio Sanavio>
-<company PLS S.r.l.>
-<address Via Donizetti, 4, Milan, <country-name IT>>
-<phone   +39-02-55196790>
-<fax     +39-02-70039991>
-<email   debian@gruppopls.com>
-<url     "http://www.gruppopls.com">
-<rates   Feel free to contact us for a free quote.>
-<additional_info pls>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Ing. Alessio Sanavio>
+#<company PLS S.r.l.>
+#<address Via Donizetti, 4, Milan, <country-name IT>>
+#<phone   +39-02-55196790>
+#<fax     +39-02-70039991>
+#<email   debian@gruppopls.com>
+#<url     "http://www.gruppopls.com">
+#<rates   Feel free to contact us for a free quote.>
+#<additional_info pls>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5230,17 +5217,16 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: Connection failed.
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Marco Bertorello>
-<address Via Nuova, 3, 15060 Basaluzzo (AL), <country-name IT>>
-<phone   +39-328-7669646>
-<email   marco@bertorello.ns0.it>
-<URL     "http://bertorello.ns0.it/">
-<rates   Call for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Marco Bertorello>
+#<address Via Nuova, 3, 15060 Basaluzzo (AL), <country-name IT>>
+#<phone   +39-328-7669646>
+#<email   marco@bertorello.ns0.it>
+#<URL     "http://bertorello.ns0.it/">
+#<rates   Call for rates.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5256,7 +5242,7 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active.
 <p>
 <name    Giuliano Natali (diaolin)>
 <company Open IT>
@@ -5273,17 +5259,17 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Roberto Terzo>
-<company R3dEngineering>
-<address Via Galileo, Galilei, 8/3, <country-name IT>>
-<phone   +39-0445-532474>
-<fax     +39-0445-532474>
-<email   roberto@r3deng.net>
-<URL     "http://www.r3deng.net/">
-<rates   40 Euro/h>
-<additional_info r3deng>
-</p>
+#<p>
+#<name    Roberto Terzo>
+#<company R3dEngineering>
+#<address Via Galileo, Galilei, 8/3, <country-name IT>>
+#<phone   +39-0445-532474>
+#<fax     +39-0445-532474>
+#<email   roberto@r3deng.net>
+#<URL     "http://www.r3deng.net/">
+#<rates   40 Euro/h>
+#<additional_info r3deng>
+#</p>
 
 # Consultant: IT
 # Check URL at 22.02.2013 by holger-guest.
@@ -5356,13 +5342,14 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Leonardo Buffa>
-<address Biella - Torino - Milano - Pavia - <country-name IT>>
-<phone   +39-348-4758242>
-<email   leos@bilug.linux.it>
-<rates   Depending on kind of project, duration and place of work. Provide me a project overview for a free quotation. quick help via email or phone is always free. Part of my fee is donate to opensource organization for project support.>
-<additional_info leos>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Leonardo Buffa>
+#<address Biella - Torino - Milano - Pavia - <country-name IT>>
+#<phone   +39-348-4758242>
+#<email   leos@bilug.linux.it>
+#<rates   Depending on kind of project, duration and place of work. Provide me a project overview for a free #quotation. quick help via email or phone is always free. Part of my fee is donate to opensource organization #for project support.>
+#<additional_info leos>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5401,37 +5388,34 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: no Debian related content. Not an Debian consultant?
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Samuele BOSCO>
-<company Softitaly S.n.c.>
-<address Via Verdi 1, 10091 Alpignano (TO), <country-name IT>>
-<phone   +39-011-9682948>
-<fax     +39-011-9682948>
-<email   commerciale@softitaly.com>
-<email   samuele.bosco@softitaly.com>
-<URL     "http://www.softitaly.com/">
-<rates   500 Eur/day or 75 Eur/hour for security/application quality enhancement. Monthly/annual support contracts available. Different rates for new IT systems.>
-<additional_info softitaly>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Samuele BOSCO>
+#<company Softitaly S.n.c.>
+#<address Via Verdi 1, 10091 Alpignano (TO), <country-name IT>>
+#<phone   +39-011-9682948>
+#<fax     +39-011-9682948>
+#<email   commerciale@softitaly.com>
+#<email   samuele.bosco@softitaly.com>
+#<URL     "http://www.softitaly.com/">
+#<rates   500 Eur/day or 75 Eur/hour for security/application quality enhancement. Monthly/annual support #contracts available. Different rates for new IT systems.>
+#<additional_info softitaly>
+#</p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: address is redirected to Debian-unrelated site. Apparently no longer active
-# as Debian consultant.
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Marco Ermini>
-<address Florence, Milan, Turin, Rome, <country-name IT>>
-<phone   +39-335-6679965>
-<fax     +39-0335-6679965>
-<email   markoer@usa.net>
-<URL     "http://www.markoer.org/index.php">
-<rates   Depends on the working place, the length and the type of the contract, and the kind of the job to be done.>
-<additional_info markoer>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Marco Ermini>
+#<address Florence, Milan, Turin, Rome, <country-name IT>>
+#<phone   +39-335-6679965>
+#<fax     +39-0335-6679965>
+#<email   markoer@usa.net>
+#<URL     "http://www.markoer.org/index.php">
+#<rates   Depends on the working place, the length and the type of the contract, and the kind of the job to #be done.>
+#<additional_info markoer>
+#</p>
 
 # Consultant: IT
 # Check URL at 22.02.2013 by holger-guest.
@@ -5510,12 +5494,11 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    David N. Welton>
 <company DedaSys - Dedicated Systems Consulting>
 <address Padova, <country-name IT>>
-<phone   +39-049-662099>
 <email   davidw@dedasys.com>
 <URL     "http://www.dedasys.com/">
 <rates   Phone or email for more information.>
@@ -5548,19 +5531,18 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: network timeout
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Silvano Sartore>
-<company kweb.it s.r.l.>
-<address via circonvallazione 156 - Caselle Torinese - 10072 - Torino, <country-name IT>>
-<phone   +39-3356669230>
-<fax	 +39-1782238396>
-<email   info@kweb.it>
-<URL     "http://www.kweb.it/">
-<rates   Please contact for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Silvano Sartore>
+#<company kweb.it s.r.l.>
+#<address via circonvallazione 156 - Caselle Torinese - 10072 - Torino, <country-name IT>>
+#<phone   +39-3356669230>
+#<fax	 +39-1782238396>
+#<email   info@kweb.it>
+#<URL     "http://www.kweb.it/">
+#<rates   Please contact for rates.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5857,7 +5839,7 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Mirco Piccin>
 <company Xuni Technology>
@@ -5865,13 +5847,14 @@ Chennai-600020, <country-name IN>>
 <phone   +39-0423-1995889>
 <fax     +39-0423-1990159>
 <email   mirco.piccin@xuni.it>
+<url     "http://www.xuni.it/tecnologie/open-source">
 <url     "http://www.xuni.it/">
 <rates   Feel free to contact us for an updated free quote.>
 <additional_info xuni_tech>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active.
 <p>
 <name    Andrea Scarso>
 <address Vicenza, <country-name IT>>
@@ -5892,32 +5875,17 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name	 AlphaLab>
-<company AlphaLab>
-<address V.le Europa 90/a c.a.p 36075 Montecchio Maggiore (Vicenza), <country-name IT>>
-<phone	 ++39 346 3900092>
-<email	 info@alphalab.it>
-<URL	 "http://www.alphalab.it">
-<rates	 Consult>
-</p>
-
-# Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: site not available
-# mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<company MikeOverIP>
-<address Via dei Granatieri 41, 00143 Roma>
-<phone	 +39-349-3907573>
-<email	 mikeoverip@gmail.com>
-<URL	 "http://mikeoverip.wordpress.com/about-it">
-<rates	 40 EUR/hour>
-<additional_info mike_over_ip>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 AlphaLab>
+#<company AlphaLab>
+#<address V.le Europa 90/a c.a.p 36075 Montecchio Maggiore (Vicenza), <country-name IT>>
+#<phone	 ++39 346 3900092>
+#<email	 info@alphalab.it>
+#<URL	 "http://www.alphalab.it">
+#<rates	 Consult>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5934,14 +5902,14 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Marco Bellumori>
-<company Consulente informatico free lance>
+<company Consulente informatico e aziendale free lance>
 <address via Teresa Bandettini, 42 55100 Lucca, <country-name IT>>
 <phone	 338.2907182>
-<email	 marco@bellumori.org>
-<URL	 "http://informatica.bellumori.org/">
+<email	 posta@marcobellumori.it>
+<URL	 "http://www.marcobellumori.it/">
 <URL	 "http://www.altertux.org/">
 <rates	 Variable depending on the location, duration and type of work.>
 <additional_info marco_bellumori>
@@ -5961,29 +5929,31 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Eugenio Ghiglia>
 <company Zenworks>
 <address Milano, <country-name IT>>
 <phone	 +393398395526>
 <email	 info@zenworks.it>
-<URL	 "http://www.zenworks.it/">
+<URL	 "http://zenworks.it/tecnologie/">
+<URL	 "http://zenworks.it/">
 <rates	 free to contact me and ask for consulting>
 </p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name	 Massimiliano D'Ambrosio>
-<company New System di D'Ambrosio M.>
-<address Via Palmanova 86 - 33050 - Castions di Strada UD, <country-name IT>>
-<phone	 +39 0432 769480>
-<email	 info@newsystem.net scramble="yes">
-<URL	 "http://newsystem.net/">
-<rates	 variable from 40,00 EUR to 80,00 EUR - negotiable for non-profit>
-<additional_info newsystem>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Massimiliano D'Ambrosio>
+#<company New System di D'Ambrosio M.>
+#<address Via Palmanova 86 - 33050 - Castions di Strada UD, <country-name IT>>
+#<phone	 +39 0432 769480>
+#<email	 info@newsystem.net scramble="yes">
+#<URL	 "http://newsystem.net/">
+#<rates	 variable from 40,00 EUR to 80,00 EUR - negotiable for non-profit>
+#<additional_info newsystem>
+#</p>
 
 # Consultant: IT
 # added on 02.03.2013
