@@ -3326,17 +3326,6 @@ prices during summer holidays.>
 # Consultant: DE
 # mail sent to check status: 29.03.2013 holger-guest.
 <p>
-<name    Arne Wichmann>
-<address Oberf&ouml;hringer Stra&szlig;e 242a, 81925 M&uuml;nchen, <country-name DE>>
-<phone   +49-162-4752939>
-<email   aw@linux.de>
-<url     "http://www.saar.de/~aw">
-<rates   35 EUR/h for interesting free-software only projects, typical rates 60 EUR/h.>
-</p>
-
-# Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
-<p>
 <name    Andreas Stockter>
 <company stockter.net>
 <address D&uuml;sseldorf, <country-name DE>>
@@ -5432,13 +5421,14 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company Amadego S.R.L.>
 <address Milan, <country-name IT>>
 <phone   +39-02-6193672>
 <fax     +39-170-2240520>
 <email   amadego@amadego.com>
+<URL     "http://www.amadego.com/chisiamo/competenze">
 <URL     "http://www.amadego.com/">
 <rates   Please contact for rates.>
 </p>
@@ -5558,7 +5548,7 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active.
 <p>
 <company Truelite srl>
 <address Firenze, <country-name IT>>
@@ -5580,16 +5570,14 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Jean Fran&ccedil;ois Panico, PhD>
+<name    Gianfranco Panico, PhD>
 <company Linuz.it>
-<address Via P.C. Boggio, 65/A, 10129 Turin, <country-name IT>>
-<phone   +39 011 564 5766>
-<fax     +39 02 700 430 469>
+<address Strada Revigliasco, 72/3, 10024 Moncalieri (TO), <country-name IT>>
+<phone   +39-011-23414703>
 <email   info@linuz.it scramble="yes">
 <URL     "http://www.linuz.it/">
-<rates   About 50 EUR/hour, negotiable for non-profit, edu, etc.>
 <additional_info jean_p>
 </p>
 
@@ -5727,14 +5715,17 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Massimo Martini>
-<company GuruNetwork>
+<company GuruNetwork di Massimo Martini>
 <address Vicenza, <country-name IT>>
-<phone	 +39-338-4956355>
+<phone	 +39-0444-1496522>
+<phone	 +39-3384956355 (mobile)>
+<fax	 +39-0444-1491327>
 <email	 info@gurunetwork.it>
-<rates	 50 EUR/hour, 400-500EUR/Day; negotiable for non-profit, edu, etc.
+# <URL	 "http://www.gurunetwork.it">
+<rates	 50EUR/hour, 500EUR/Day; negotiable for non-profit, edu, etc.
 	 Monthly/annual support contracts available.>
 <additional_info gurunetwork>
 </p>
@@ -5764,7 +5755,7 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active.
 <p>
 <company Ethical Software Soc. Coop.>
 <address Piazza Mazzini 50-56, 39100 Bolzano, <country-name IT>>
@@ -5789,19 +5780,20 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IT
 # email checked on 2010-12-14
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Raoul Scarazzini>
 <company MMUL>
 <address Via Cantore, 11 - 20117, Rho (MI), <country-name IT>>
 <phone   +39 3281776712>
 <email   rasca@mmul.it>
+<url     "http://www.mmul.it/debian.php">
 <url     "http://www.mmul.it/">
 <rates   Email for pricing.>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Alessio Cecchi>
 <company CBS - cecchi.biz>
@@ -5809,6 +5801,7 @@ Chennai-600020, <country-name IN>>
 <phone   +39 057 40 26 03 0>
 <fax     +39 057 47 89 01 8>
 <email   box-online@cecchi.biz>
+<url     "http://www.cecchi.biz/open_source/quale_distribuzione_linux.html">
 <url     "http://www.cecchi.biz/">
 <rates   Please contact for rates.>
 <additional_info cecchi>
@@ -8208,6 +8201,16 @@ non-profit.>
 <email   hauri@f-hauri.ch>
 <URL	 "http://f-hauri.ch/">
 <rates	 132 CHF/hour, or offer-based>
+</p>
+
+# Consultant: CH
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
+<p>
+<name    Arne Wichmann>
+<address Beckenstrasse 6, 4056 Basel, <country-name CH>>
+<phone   +49-162-4752939>
+<email   aw@linux.de>
+<rates   40 EUR/h for interesting free-software only projects, typical rates 70 EUR/h.>
 </p>
 
 
