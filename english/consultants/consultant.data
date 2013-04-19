@@ -3179,10 +3179,9 @@ prices during summer holidays.>
 <name    Cyril Bouthors>
 <company ISVTEC>
 <address 14 avenue de l'Op&eacute;ra, 75001 Paris, <country-name FR>>
-<phone   +33 892160088>
-<fax     +33 177725724>
-<email   cyril@isvtec.com>
-<URL     "http://www.debian-packaging.com/">
+<phone   +33(0)1-84-16-16-17>
+<email   contact@isvtec.com>
+# <URL     "http://www.isvtec.com/debian">
 <rates   55&euro;/h>
 <additional_info isvtec>
 </p>
@@ -5302,18 +5301,17 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: network timeout
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<company Avitis S.r.l.>
-<address Via Venezia, 23 - 20099 - Sesto S.G. (Mi) - <country-name IT>>
-<phone   +39-02-24126790>
-<fax     +39-02-24126791>
-<email   info@avitis.it>
-<URL     "http://www.avitis.it">
-<rates   Please contact for more info.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company Avitis S.r.l.>
+#<address Via Venezia, 23 - 20099 - Sesto S.G. (Mi) - <country-name IT>>
+#<phone   +39-02-24126790>
+#<fax     +39-02-24126791>
+#<email   info@avitis.it>
+#<URL     "http://www.avitis.it">
+#<rates   Please contact for more info.>
+#</p>
 
 # Consultant: IT
 # Check URL at 22.02.2013 by holger-guest.
@@ -5407,18 +5405,17 @@ Chennai-600020, <country-name IN>>
 #</p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: URL is for sale. Apparently no longer a Debian consultant
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<company ePOSSE S.r.l.>
-<address Via Papa Giovanni XXIII, 12 - 66010 Miglianico (CH), <country-name IT>>
-<phone   +39-085-4503336>
-<fax     +39-085-4503336>
-<email   info@eposse.it>
-<URL     "http://www.eposse.it/">
-<rates   Email for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company ePOSSE S.r.l.>
+#<address Via Papa Giovanni XXIII, 12 - 66010 Miglianico (CH), <country-name IT>>
+#<phone   +39-085-4503336>
+#<fax     +39-085-4503336>
+#<email   info@eposse.it>
+#<URL     "http://www.eposse.it/">
+#<rates   Email for rates.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
@@ -5668,17 +5665,16 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: URL is for sale. Apparently no longer a Debian consultant
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name	 Roberto Butti>
-<company Roberto Butti>
-<address Lecco (LC), <country-name IT>>
-<email	 roberto@errebit.com>
-<URL	 "http://www.errebit.com/">
-<rates	 Please contact for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Roberto Butti>
+#<company Roberto Butti>
+#<address Lecco (LC), <country-name IT>>
+#<email	 roberto@errebit.com>
+#<URL	 "http://www.errebit.com/">
+#<rates	 Please contact for rates.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5732,19 +5728,18 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# Check URL at 22.02.2013 by holger-guest.
-# Result: URL is for sale. Apparently no longer a Debian consultant
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name	 Stefano Marocco>
-<company Sogesa sas>
-<address Piazza Italia, 4 10020 Chieri - Pessione (Torino), <country-name IT>>
-<phone	 +39-02-89690800>
-<fax	 +39-011-9453776>
-<email	 s.marocco@sogesa.it>
-<URL     "http://www.sogesa.it/">
-<rates	 Please email for pricing.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Stefano Marocco>
+#<company Sogesa sas>
+#<address Piazza Italia, 4 10020 Chieri - Pessione (Torino), <country-name IT>>
+#<phone	 +39-02-89690800>
+#<fax	 +39-011-9453776>
+#<email	 s.marocco@sogesa.it>
+#<URL     "http://www.sogesa.it/">
+#<rates	 Please email for pricing.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5910,14 +5905,14 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Palazzini Francesco>
 <company Palazzini Francesco>
 <address via martiri della libertà 216, Zimella - Verona, <country-name IT>>
 <phone	 +39 347 95 42 452>
 <email	 palazzini.francesco@gmail.com>
-<URL	 "http://palazzinifrancesco.com/">
+<URL	 "http://en.palazzinifrancesco.com/">
 <rates	 Variable depending on the location, duration and type of work.>
 <additional_info palazzini_francesco>
 </p>
