@@ -5082,6 +5082,16 @@ Chennai-600020, <country-name IN>>
 <rates   Negotiable.>
 </p>
 
+# Consultant: IE
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
+<p>
+<name	 Filippo Giunchedi>
+<address Dublin, <country-name IE>>
+<email	 filippo@esaurito.net>
+<rates	 Contact me by email.>
+<additional_info filippo_giunchedi>
+</p>
+
 
 <h1><a name="IL"><country-name IL>:</a></h1>
 
@@ -5643,17 +5653,6 @@ Chennai-600020, <country-name IN>>
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
 <p>
-<name	 Filippo Giunchedi>
-<address Rimini, <country-name IT>>
-<phone	 +39-328-4512378>
-<email	 filippo@esaurito.net>
-<rates	 Contact me by phone or email.>
-<additional_info filippo_giunchedi>
-</p>
-
-# Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
-<p>
 <name	 Mauro Chiarugi>
 <company Dogma Systems>
 <address Ancona, <country-name IT>>
@@ -5740,15 +5739,6 @@ Chennai-600020, <country-name IN>>
 #<URL     "http://www.sogesa.it/">
 #<rates	 Please email for pricing.>
 #</p>
-
-# Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name	 Domenico Andreoli>
-<address Crema, Milano, <country-name IT>>
-<phone	 +39-328-7027466>
-<email	 domenico@dandreoli.com>
-</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest. Result: still active.
@@ -8365,6 +8355,19 @@ non-profit.>
 <email	 info@sergeykovalets.com>
 <URL	 "http://sergeykovalets.com">
 <rates	 10-20 USD/h.>
+</p>
+
+# Consultant: UA
+# added on 19.04.2013
+<p>
+<name    Stanislav Semenov>
+<company Ainstainer Software Development Teams>
+<address Bakulina 4a, Kharkov, <country-name UA>>
+<phone	 +44 208 819-62-52>
+<email	 info@ainstainer.com>
+# <URL	 "http://www.ainstainer.com">
+<rates	 All our rates are custom, so please contact us to get more details.>
+<additional_info ainstainer>
 </p>
 
 
