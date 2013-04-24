@@ -1,6 +1,6 @@
 <define-tag description>insufficient input validation</define-tag>
 <define-tag moreinfo>
-<p>Lawrence Pit discovered that Ruby on Rails, a web development framenwork,
+<p>Lawrence Pit discovered that Ruby on Rails, a web development framework,
 is vulnerable to a flaw in the parsing of JSON to YAML. Using a specially
 crafted payload attackers can trick the backend into decoding a subset of
 YAML.</p>
@@ -24,4 +24,4 @@ affected by the problem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2613.data"
-# $Id: dsa-2613.wml,v 1.1 2013-01-30 07:58:33 kaare Exp $
+# $Id: dsa-2613.wml,v 1.2 2013-04-23 12:26:59 gusnan-guest Exp $
