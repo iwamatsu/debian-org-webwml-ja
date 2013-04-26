@@ -3310,15 +3310,15 @@ prices during summer holidays.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Torsten Cimala>
-<company edv2go GbR>
+<company edv2go GmbH>
 <address Henriettenstr. 18, 42719 Solingen, <country-name DE>>
 <phone   +49-212-38081270>
 <fax     +49-212-38081279>
 <email   torsten.cimala@edv2go.de scramble="yes">
-<url     "http://www.edv2go.de/">
+# <url     "http://www.edv2go.de/">
 <rates   Please contact for rates.>
 </p>
 
@@ -3909,12 +3909,12 @@ prices during summer holidays.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company Linux Information Systems AG>
-<address Berlin, <country-name DE>>
-<phone   +49-30-726238-0>
-<fax     +49-30-726238-0>
+<address Munich, <country-name DE>>
+<phone   +49(0)89-993412-0>
+<fax     +49(0)89-993412-99>
 <email   info@linux-ag.com>
 <URL     "http://www.linux-ag.com/">
 <rates   Call for rates.>
@@ -5298,15 +5298,14 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Enrico Rossi>
 <company Tecno Brain>
 <address via Marcovigi, 2 - Bologna, <country-name IT>>
 <phone   +39-338-9064702>
-<fax     +39-051-6199368>
 <email   e.rossi@tecnobrain.com>
-<URL     "http://www.tecnobrain.com">
+# <URL     "http://www.tecnobrain.com">
 <rates   75e/h - 500e/day - Job based or Monthly/Annual based contract available.>
 </p>
 
