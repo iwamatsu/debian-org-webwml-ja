@@ -1808,6 +1808,18 @@ rates, it depends on your needs.>
 <URL     "http://segurancalinux.wix.com/ricardogermano">
 </p>
 
+# Consultant: BR
+# added on 26.04.2013
+<p>
+<name	 Helio Loureiro>
+<address São Paulo - SP - <country-name BR>>
+<phone   +55-11-98270-4106>
+<email	 helio@loureiro.eng.br scramble="yes">
+<URL     "http://helio.loureiro.eng.br/index.php/debian">
+<rates   To be verified per project.>
+<additional_info h_loureiro>
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -2896,18 +2908,6 @@ prices during summer holidays.>
 
 # Consultant: FR
 # mail sent to check status: 24.03.2013 holger-guest.
-<p>
-<company PraKsys>
-<address 20 Place Prax Paris, 82000 Montauban (quasi-Toulouse), <country-name FR>>
-<phone   +33-5-63-21-82-66>
-<email   jcbabinet@praksys.org>
-<URL     "http://www.praksys.org">
-<rates   migration to Debian: 200 euro/site + 500 euro/server + 150 euro/workstation, support and maintenance: 270 euro/box/year>
-<additional_info praksys>
-</p>
-
-# Consultant: FR
-# mail sent to check status: 24.03.2013 holger-guest.
 # Result: mail delivery failed, entry disabled.
 #<p>
 #<company Adelux>
@@ -3935,7 +3935,7 @@ prices during summer holidays.>
 </p>
 
 # Consultant: DE
-# mail sent to check status: 29.03.2013 holger-guest.
+# mail sent to check status: 29.03.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Frank Kirschner>
 <company trustsec IT solutions GmbH>
@@ -3943,7 +3943,7 @@ prices during summer holidays.>
 <phone   +49-700-87878732>
 <fax     +49-700-87323291>
 <email   info@trustsec.de>
-<URL     "http://www.trustsec.de/">
+# <URL     "http://www.trustsec.de/">
 <rates   Please contact us for rates.>
 <additional_info trustsec>
 </p>
@@ -5451,16 +5451,17 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Alessandro Galassi>
-<company Incipit - Informatica Reti Sicurezza>
-<address Via Appia 37, 40026 Imola(BO), <country-name IT>>
-<phone   +39-0542-23386>
-<fax     +39-0542-010854>
-<email   info@incipit.biz>
-<URL     "http://www.incipit.biz/">
-<rates   Vary depending on the project size.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Alessandro Galassi>
+#<company Incipit - Informatica Reti Sicurezza>
+#<address Via Appia 37, 40026 Imola(BO), <country-name IT>>
+#<phone   +39-0542-23386>
+#<fax     +39-0542-010854>
+#<email   info@incipit.biz>
+#<URL     "http://www.incipit.biz/">
+#<rates   Vary depending on the project size.>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -5625,13 +5626,14 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Simone Giustetti>
 <company Studio Simone Giustetti>
 <address via Gaggianego 33A I-16036 Recco (GE), <country-name IT>>
 <phone	 +39-340-3425647>
 <email	 studiosg@giustetti.net>
+<URL	 "http://www.giustetti.net/wiki/index.php?title=En/studiosg">
 <URL	 "http://www.giustetti.net/">
 <rates	 Please contact for rates.>
 <additional_info simone_giustetti>
@@ -5794,16 +5796,17 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
-<p>
-<name    Luigi Pizzirani>
-<company Luigi Pizzirani>
-<address Via Guelfa, 3 40138 Bologna, <country-name IT>>
-<phone   +39 051 530260 +39 333 4539324>
-<fax     +39 051 530260>
-<email   l.pizzirani@tin.it>
-<rates   50&euro;/h.>
-<additional_info lpizzirani>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Luigi Pizzirani>
+#<company Luigi Pizzirani>
+#<address Via Guelfa, 3 40138 Bologna, <country-name IT>>
+#<phone   +39 051 530260 +39 333 4539324>
+#<fax     +39 051 530260>
+#<email   l.pizzirani@tin.it>
+#<rates   50&euro;/h.>
+#<additional_info lpizzirani>
+#</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
@@ -7139,7 +7142,7 @@ provide lower rates for non-profit/government organizations.>
 ## Consultant: RU
 #<p>
 #<name    Alexander L. Baev>
-#<address Moscow, <country-name RU>>
+#<address <country-name RU>, Moscow>
 #<phone   +7-902-588-6632>
 #<email   info@baev.net>
 #<URL     "http://baev.net/">
@@ -7150,7 +7153,7 @@ provide lower rates for non-profit/government organizations.>
 <p>
 <name    Sergey E Kulikov>
 <company Elcom, LLC>
-<address 11a Goncharova str., Ulyanovsk 432067, <country-name RU>>
+<address 432067, <country-name RU>, Ulyanovsk, Goncharova str., 11a>
 <phone   +7-8422211956>
 <fax     +7-8422211956>
 <email   info@offshoreoffer.com>
@@ -7163,7 +7166,7 @@ provide lower rates for non-profit/government organizations.>
 <p>
 <name    Vladislav Naumov>
 <company Laboratoriya Sistem 321>
-<address 644043, Omsk, Krasnogvardeyskaya 4/2, <country-name RU>>
+<address 644043, <country-name RU>, Omsk, Krasnogvardeyskaya str., 4/2>
 <phone   +7-3812-24-54-12>
 <email   vnaum@lab321.ru>
 <URL     "http://www.lab321.ru/">
@@ -7174,7 +7177,7 @@ provide lower rates for non-profit/government organizations.>
 <p>
 <name    Denis Stepanov>
 <company iTechLogic>
-<address Sovetskaya 3, Tver, <country-name RU>, 170000>
+<address 170000, <country-name RU>, Tver, Sovetskaya str., 3>
 <phone   +7-910-935-8207>
 <email   info@itechlogic.com>
 <URL     "http://www.itechlogic.com">
@@ -7185,7 +7188,7 @@ provide lower rates for non-profit/government organizations.>
 <p>
 <name    Vlad Ershov>
 <company Smardec>
-<address Moscow, <country-name RU>>
+<address <country-name RU>, Moscow>
 <phone   +7-208-1618604>
 <email   info@smardec.com>
 <URL     "http://www.smardec.com">
@@ -7196,7 +7199,7 @@ provide lower rates for non-profit/government organizations.>
 <p>
 <name    Denis A. Semenov>
 <company Eldev LLC>
-<address 19 Sovietskaya, Ulyanovsk 432700, <country-name RU>>
+<address 432700, <country-name RU>, Ulyanovsk, Sovietskaya str., 19>
 <phone   +7-8422-441837>
 <fax     +7-8422-420921>
 <email   info@eldev.com>
@@ -7209,10 +7212,22 @@ non-profit.>
 # added on 12.03.2013
 <p>
 <name    Mikhail Lukyanchenko>
-<address Rostov-na-Donu, <country-name RU>>
+<address <country-name RU>, Rostov-na-Donu>
 <phone   +7-903-402-0613>
 <email   ml@akabos.com>
 <rates   $25-$30, negotiable for non-commerce.>
+</p>
+
+# Consultant: RU
+# added on 26.04.2013
+<p>
+<name    Vladimir Ipatov>
+<company Intellect-Service>
+<address 193231, <country-name RU>, Saint-Petersburg, Rossiyskiy pr., 3/1>
+<phone   +7(812)9182032>
+<email   vs@ipatov.net>
+<URL     "http://it-ic.ru">
+<rates   $15-$30 per hour.>
 </p>
 
 
@@ -8364,7 +8379,8 @@ non-profit.>
 <address Bakulina 4a, Kharkov, <country-name UA>>
 <phone	 +44 208 819-62-52>
 <email	 info@ainstainer.com>
-# <URL	 "http://www.ainstainer.com">
+<URL	 "http://www.ainstainer.com/what-we-do/software-applications-development">
+<URL	 "http://www.ainstainer.com">
 <rates	 All our rates are custom, so please contact us to get more details.>
 <additional_info ainstainer>
 </p>
