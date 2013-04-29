@@ -863,7 +863,7 @@ IPv6: yes
 
 Site: debian.uni-duisburg-essen.de
 Type: leaf
-Archive-architecture: amd64 armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 powerpc
+Archive-architecture: amd64 armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386
 Archive-http: /debian/
 Archive-ftp: /debian/
 Archive-upstream: ftp.de.debian.org
@@ -4451,7 +4451,7 @@ Site: debian.mirror.inra.fr
 Type: Push-Secondary
 Archive-ftp: /debian/
 Archive-http: /debian/
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel s390x
 Archive-upstream: ftp.fr.debian.org
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
@@ -5443,7 +5443,7 @@ X-Comment: ftp not working ; spaillar 6 Jan 2009
 Site: debian.ues.edu.sv
 Alias: linux.ues.edu.sv
 Type: leaf
-Archive-architecture: amd64 armhf i386 ia64 kfreebsd-amd64 kfreebsd-i386 s390x
+Archive-architecture: amd64 i386 ia64 s390x
 X-Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-upstream: ftp.us.debian.org
@@ -6843,7 +6843,7 @@ Bandwidth: 1Gbps
 
 Site: mirrors.bloomu.edu
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 powerpc s390x
+Archive-architecture: amd64 armel armhf i386 ia64 kfreebsd-amd64 kfreebsd-i386 powerpc s390x
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
@@ -7953,7 +7953,7 @@ Bandwidth: 100Mbps
 
 Site: debian.mirror.netelligent.ca
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-architecture: amd64 armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 s390x
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
