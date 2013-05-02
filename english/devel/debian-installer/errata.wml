@@ -1,10 +1,10 @@
 #use wml::debian::template title="Debian-Installer errata"
 #use wml::debian::recent_list
 
-<h1 id="wheezy-rc2">Errata for Wheezy Release Candidate 2 release</h1>
+<h1 id="wheezy-rc3">Errata for Wheezy Release Candidate 3 release</h1>
 
 <p>
-This is a list of known problems in the wheezy Release Candidate 2 release of the Debian
+This is a list of known problems in the wheezy Release Candidate 3 release of the Debian
 Installer. If you do not see your problem listed here, please send us an
 <a href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">installation
 report</a> describing the problem.
@@ -29,7 +29,7 @@ report</a> describing the problem.
 	mount any additional boot partition if applicable, and
 	run <code>grub-install</code> with the proper device as parameter.
 	<br />
-	This issue will hopefully be fixed in the next Release Candidate.
+	<b>Status:</b> This issue will hopefully be fixed in the first Wheezy point release.
 	</dd>
 
 	<dt>Desktop installations on i386 do not work using CD#1 alone</dt>
@@ -37,7 +37,7 @@ report</a> describing the problem.
 	packages fit on CD#1. For a successful installation, use extra package sources (e.g.
 	a second CD or a network mirror) or use a DVD instead.
 	<br />
-	This issue will hopefully be fixed in the next Release Candidate.
+	<b>Status:</b> It is unlikely more efforts can be made to fit more packages on CD#1.
 	</dd>
 
 	<dt>Potential issues with UEFI booting on amd64</dt>
@@ -51,7 +51,7 @@ report</a> describing the problem.
 	these bugs. As a workaround for now, try switching off UEFI and installing using <q>Legacy
 	BIOS</q> or <q>Fallback mode</q> instead.
 	<br />
-	These issues will hopefully be fixed in the next Release Candidate.
+	<b>Status:</b> More bug fixes might appear in the various Wheezy point releases.
 	</dd>
 
 	<dt>Broken grub boot menu entry for Windows 8 in UEFI mode</dt>
@@ -63,8 +63,27 @@ report</a> describing the problem.
 	work. As a workaround, it is possible to add such an entry by
 	hand.
 	<br />
-	A fix has already been identified for this problem and will
-	hopefully be included in the Wheezy Release.
+	<b>Status:</b> This bug is fixed in the third Wheezy Release Candidate.
+	</dd>
+
+	<dt>Erroneous firmware prompt with some Intel Wireless cards</dt>
+
+	<dd>If you have an Intel Wireless 6005 or 6205 card then the installer will
+	prompt for the firmware file <code>iwlwifi-6000g2a-6.ucode</code>.
+	This file is not included in the <code>firmware-iwlwifi</code> package and is not actually
+	needed.  You must answer <code>no</code> to continue with installation.
+	<br />
+	<b>Status:</b> This issue will hopefully be fixed in the first Wheezy point release.
+	</dd>
+
+	<dt>Missing beep at installer startup</dt>
+
+	<dd>For accessibility reasons, a beep should be emitted when
+	the installer’s bootloader is waiting for input. Unfortunately,
+	a bug made it disappear in the first Wheezy Alpha release, and that
+	was only reported right before the third Wheezy Release Candidate.
+	<br />
+	<b>Status:</b> This issue will be fixed in the first Wheezy point release.
 	</dd>
 
 <!-- leaving this in for possible future use...
