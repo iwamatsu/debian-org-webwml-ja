@@ -1,17 +1,17 @@
-#use wml::debian::template title="Debian「wheezy」リリース情報"
+#use wml::debian::template title="Debian「jessie」リリース情報"
 #include "$(ENGLISHDIR)/releases/info"
-#include "$(ENGLISHDIR)/releases/wheezy/release.data"
+#include "$(ENGLISHDIR)/releases/jessie/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="1.1"
 
-<if-stable-release release="wheezy">
+<if-stable-release release="jessie">
 
-<p>Debian <current_release_wheezy> は
-<current_release_date_wheezy> にリリースされました。
-<ifneq "7.0" "<current_release>"
-  "Debian 7.0 初版は <:=spokendate('2013-05-04'):> にリリースされました。"
+<p>Debian <current_release_jessie> は
+<current_release_date_jessie> にリリースされました。
+<ifneq "8.0" "<current_release>"
+  "Debian 8.0 初版は <:=spokendate('XXXXXXXX'):> にリリースされました。"
 />
-このリリースは<a href="$(HOME)/News/2013/20130504">プレスリリース</a> や
+このリリースは<a href="$(HOME)/News/XXXX/XXXXXXXX">プレスリリース</a> や
 <a href="releasenotes">リリースノート</a> に挙げたような多くの
 大規模な変更を含んでいます。</p>
 
@@ -40,16 +40,16 @@ foreach $arch (@arches) {
 <a href="credits">人名クレジット</a>の一覧があることをお知らせいたします。</p>
 </if-stable-release>
 
-<if-stable-release release="lenny">
+<if-stable-release release="squeeze">
 <p>まだ情報はありません。</p>
 </if-stable-release>
 
-<if-stable-release release="squeeze">
+<if-stable-release release="wheezy">
 
-<p><a href="../squeeze/">squeeze</a> の次の Debian
-のメジャーリリースのコードネームは、「wheezy」です。</p>
+<p><a href="../wheezy/">wheezy</a> の次の Debian
+のメジャーリリースのコードネームは、「jessie」です。</p>
 
-<p>このリリースは squeeze のコピーとして出発し、現在は「<a
+<p>このリリースは wheezy のコピーとして出発し、現在は「<a
 href="$(DOC)/manuals/debian-faq/ch-ftparchives#s-testing">テスト版
 (testing)</a>」の状態にあります。これはつまり、不安定版 (unstable) や experimental
 ディストリビューションほどの危険性はないということです。
@@ -63,13 +63,13 @@ href="$(DOC)/manuals/debian-faq/ch-ftparchives#s-testing">テスト版
 #<a href="http://lists.debian.org/debian-testing-security-announce/2008/12/msg00019.html">発表</a>
 #を御覧ください。
 セキュリティサポートが必要であれば、当面は
-sources.list のエントリを testing から squeeze に変更しておいてください。
+sources.list のエントリを testing から wheezy に変更しておいてください。
 <a href="$(HOME)/security/faq#testing">セキュリティチームの FAQ</a>
 の「テスト版 (testing)」ディストリビューションの項目も見てみてください。</p>
 
-<p><a href="releasenotes">リリースノートの未完成版</a>があります。また、<a
-href="http://bugs.debian.org/release-notes">\
-リリースノートへ追加提案された分</a>も確認してください。</p>
+# <p><a href="releasenotes">リリースノートの未完成版</a>があります。また、<a
+# href="http://bugs.debian.org/release-notes">\
+# リリースノートへ追加提案された分</a>も確認してください。</p>
 
 <p>「テスト版
 (testing)」のインストールイメージとインストールに関するドキュメンテーションは、<a

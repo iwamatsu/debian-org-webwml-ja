@@ -92,30 +92,6 @@ Country: US United States
 Sponsor: MIT Computer Science & Artificial Intelligence Lab http://www.csail.mit.edu/
 IPv6: no
 
-Site: bellini.debian.org
-Type: Push-Primary
-WWW-http: /
-Country: CA Canada
-Sponsor: UBC Electrical and Computer Engineering http://www.ece.ubc.ca/
-IPv6: yes
-
-Site: englund.debian.org
-Type: Push-Primary
-WWW-http: /
-Country: AT Austria
-Location: Vienna
-Sponsor: Silver Server http://www.sil.at/
-IPv6: yes
-
-Site: kokkonen.debian.org
-Type: Push-Primary
-WWW-http: /
-Country: DE Germany
-Location: Darmstadt
-Sponsor: Metropolitan Area Network Darmstadt http://www.man-da.de/
-Sponsor: Nordic Gaming http://www.nordicgaming.com/
-IPv6: no
-
 Site: santoro.debian.org
 Type: Push-Primary
 WWW-http: /
@@ -552,7 +528,7 @@ Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
 Backports-upstream: hanzubon.jp
 CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Maintainer: debian-admin@debian.or.jp, Mio SUZUKI <mio-su@is.aist-nara.ac.jp>
 Country: JP Japan
@@ -828,7 +804,7 @@ Backports-rsync: debian-backports/
 Backports-upstream: backports-master.debian.org
 Backports-method: push
 CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
@@ -919,7 +895,7 @@ Archive-http: /pub/linux/debian/
 Archive-ftp: /pub/linux/debian/
 Archive-upstream: ftp.ie.debian.org
 CDImage-ftp: /pub/linux/debian-cd/
-CDImage-http: /pub/linux/debian-cd/
+X-CDImage-http: /pub/linux/debian-cd/
 Volatile-ftp: /mirrors/volatile.debian.net/debian-volatile/
 Volatile-http: /mirrors/volatile.debian.net/debian-volatile/
 Volatile-rsync: debian-volatile/
@@ -1453,7 +1429,7 @@ CDImage-upstream: cdimage.debian.org
 Maintainer: ftpadmin@kernel.org
 Country: US United States
 Location: Santa Clara, California
-Sponsor: Linux Kernel Archives http://www.kernel.org/
+Sponsor: Linux Kernel Archives https://www.kernel.org/
 IPv6: no
 
 Site: mirrors.nl.kernel.org
@@ -1470,7 +1446,7 @@ CDImage-upstream: cdimage.debian.org
 Maintainer: ftpadmin@kernel.org
 Country: NL Netherlands
 Location: Amsterdam
-Sponsor: Linux Kernel Archives http://www.kernel.org/
+Sponsor: Linux Kernel Archives https://www.kernel.org/
 IPv6: no
 
 Site: mirrors.se.kernel.org
@@ -1487,7 +1463,7 @@ CDImage-upstream: cdimage.debian.org
 Maintainer: ftpadmin@kernel.org
 Country: SE Sweden
 Location: Umea
-Sponsor: Linux Kernel Archives http://www.kernel.org/
+Sponsor: Linux Kernel Archives https://www.kernel.org/
 IPv6: no
 
 Site: archive.kernel.org
@@ -1499,7 +1475,7 @@ Old-upstream: archive.debian.org
 Maintainer: ftpadmin@kernel.org
 Country: US United States
 Location: Santa Clara, California
-Sponsor: Linux Kernel Archives http://www.kernel.org/
+Sponsor: Linux Kernel Archives https://www.kernel.org/
 IPv6: no
 
 Site: mirrors.xmission.com
@@ -1527,7 +1503,7 @@ Archive-rsync: debian/
 Archive-http: /debian/
 Archive-upstream: mirrors.kernel.org
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 X-CDImage-rsync: debian/
 Maintainer: Scott Neville <scott@keystealth.org>
 Country: US United States
@@ -2410,7 +2386,7 @@ IPv6: no
 Site: mirror.cict.fr
 Type: leaf
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 X-CDImage-upstream: ftp.de.debian.org
 X-Security-ftp: /debian-security/
 X-Security-http: /debian-security/
@@ -3273,7 +3249,7 @@ Archive-architecture: amd64 armel i386 kfreebsd-amd64 kfreebsd-i386
 Archive-ftp: /debian/
 Archive-http: /debian/
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 Archive-upstream: ftp.es.debian.org
 Maintainer: Francesc Genov&eacute; Mu&ntilde;oz <francesc@genove.info>
 Country: ES Spain
@@ -3555,7 +3531,7 @@ Archive-http: /debian/
 Archive-rsync: /debian/
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Security-ftp: /debian-security/
 Security-http: /debian-security/
@@ -3661,7 +3637,7 @@ Archive-ftp: /Linux/debian/debian/
 Archive-http: /Linux/debian/debian/
 Archive-rsync: debian/
 CDImage-ftp: /Linux/debian/debian-cd/
-CDImage-http: /Linux/debian/debian-cd/
+X-CDImage-http: /Linux/debian/debian-cd/
 CDImage-rsync: debian-cd/
 Old-ftp: /Linux/debian/debian-archive/
 Old-http: /Linux/debian/debian-archive/
@@ -4294,7 +4270,7 @@ Archive-http: /debian/
 Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 powerpc s390x
 Archive-upstream: gulus.usherbrooke.ca
 X-CDImage-ftp: /debian-cd/
-CDImage-http: /pub/mirrors/debian-cd/
+X-CDImage-http: /pub/mirrors/debian-cd/
 CDImage-architecture: amd64 i386
 CDImage-upstream: cdimage.debian.org
 Maintainer: Support Technique Savoir-faire Linux <support@savoirfairelinux.com>
@@ -4628,7 +4604,7 @@ Archive-rsync: debian/
 Archive-upstream: ftp.tw.debian.org
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 X-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Maintainer: Stephon Chen <LinuxTA@cs.nctu.edu.tw>
 Country: TW Taiwan
@@ -5125,7 +5101,7 @@ Type: leaf
 Archive-ftp: /debian/
 Archive-http: /debian/
 CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 Archive-upstream: ftp.tw.debian.org
 Archive-architecture: amd64 i386 kfreebsd-amd64 kfreebsd-i386 powerpc
 Maintainer: Wei-li Tang <ftpadm@ncnu.edu.tw>
@@ -5207,7 +5183,7 @@ Archive-architecture: amd64 armel armhf i386 ia64 kfreebsd-amd64 kfreebsd-i386 p
 Archive-ftp: /debian/
 Archive-http: /debian/
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 Archive-upstream: ftp.wa.au.debian.org
@@ -6184,7 +6160,7 @@ Archive-architecture: amd64 armhf i386 s390x
 Archive-ftp: /debian/
 Archive-http: /debian/
 X-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 IPv6: no
 Archive-upstream: ftp.se.debian.org
 CDImage-upstream: cdimage.debian.org
@@ -6577,7 +6553,7 @@ Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfree
 Archive-ftp: /debian/
 Archive-http: /debian/
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 IPv6: no
@@ -6814,7 +6790,7 @@ Backports-rsync: debian-backports/
 Backports-method: push
 Backports-upstream: syncproxy3.eu.debian.org
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 CDImage-upstream: cdimage.debian.org
 Old-ftp: /debian-archive/
@@ -6909,7 +6885,7 @@ Bandwidth: 1Gbps to Latvian ISPs, 1,25Gb/s to other countries via GEANT
 
 Site: mirror.yellowfiber.net
 Type: leaf
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-upstream: mirror.rit.edu
 Maintainer: Ross <lists@skafari.com>, support@yellowfiber.net
 Country: US United States
@@ -7646,7 +7622,7 @@ Backports-rsync: debian-backports/
 Backports-upstream: backports-master.debian.org
 Backports-method: push
 CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 CDImage-upstream: ftp2.de.debian.org
 Volatile-ftp: /debian-volatile/
@@ -7789,7 +7765,7 @@ Type: leaf
 Archive-architecture: amd64 armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
 Archive-http: /debian/
 Archive-upstream: ftp.bg.debian.org
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-upstream: ftp.uni-sofia.bg
 IPv6: no
 Updates: twice
@@ -7915,7 +7891,7 @@ Site: mirrors.gigenet.com
 Type: leaf
 Archive-architecture: amd64 armhf i386 s390x
 Archive-http: /debian/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 IPv6: no
 Archive-upstream: ftp-nyc.osuosl.org
 CDImage-upstream: ftp-nyc.osuosl.org
@@ -7957,7 +7933,7 @@ Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 IPv6: no
 Archive-upstream: ftp.ca.debian.org
@@ -8077,7 +8053,7 @@ Location: Beijing
 
 Site: debian.daupheus.com
 Type: leaf
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-upstream: cdimage.debian.org
 IPv6: no
 Updates: once
@@ -8110,7 +8086,7 @@ Backports-ftp: /debian-backports/
 Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 IPv6: no
 Archive-upstream: ftp.cz.debian.org
@@ -8366,7 +8342,7 @@ Backports-rsync: debian-backports/
 Backports-upstream: syncproxy3.eu.debian.org
 Backports-method: push
 X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
+CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 CDImage-upstream: ftp.ru.debian.org
 Old-ftp: /debian-archive/
@@ -8573,7 +8549,7 @@ Bandwidth: 2Gbps
 
 Site: debian-cd.xfree.com.ar
 Type: leaf
-CDImage-http: /debian-cd/
+X-CDImage-http: /debian-cd/
 CDImage-upstream: ftp.br.debian.org
 IPv6: no
 Updates: once
@@ -8725,3 +8701,15 @@ Country: US United States
 Location: East Lansing, Michigan
 Sponsor: Computer Science and Engineering at Michigan State University http://www.cse.msu.edu
 Bandwidth: 1Gbps
+
+Site: debian.daupheus.com
+Type: leaf
+CDImage-http: /debian/
+IPv6: yes
+CDImage-upstream: cdimage.debian.org
+Updates: twice
+Maintainer: daupheus.com <contact@daupheus.com>
+Country: FR France
+Location: FRANCE
+Sponsor: daupheus.com http://www.daupheus.com
+
