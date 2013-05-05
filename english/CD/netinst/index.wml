@@ -49,8 +49,10 @@ download:</p>
   <li>Official <q>netinst</q> images for the <q>stable</q> release &mdash; <a
   href="#netinst-stable">see below</a></li>
 
+<!--
   <li>Official <q>businesscard</q> images for the <q>stable</q> release &mdash; <a
   href="#businesscard-stable">see below</a></li>
+-->
 
   <li>Images for the <q>testing</q> release, both daily builds and known
   working snapshots, see the <a
@@ -78,7 +80,7 @@ a (very) basic system.</p>
 <div class="clear"></div>
 </div>
 
-<h2 id="businesscard-stable">Official businesscard images for the
+<!-- <h2 id="businesscard-stable">Official businesscard images for the
 <q>stable</q> release</h2>
 
 <p>This image has a size of up to 40&nbsp;MB. It is small enough to
@@ -104,6 +106,7 @@ the rest of the installation system.</p>
 <div class="clear"></div>
 </div>
   
+-->
 
 <p>For information what these files are and how to use them, please see
 the <a href="../faq/">FAQ</a>.</p>

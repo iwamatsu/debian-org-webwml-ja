@@ -32,12 +32,12 @@
 
 <div class="line">
 <div class="item col50">
-<p><strong>CD (via <a href="$(HOME)/CD/torrent-cd">bittorrent)</a></strong></p>
+<p><strong>CD (via <a href="$(HOME)/CD/torrent-cd">BitTorrent)</a></strong></p>
 <full-cd-torrent />
 </div>
 
 <div class="item col50 lastcol">
-<p><strong>DVD (via <a href="$(HOME)/CD/torrent-cd">bittorrent)</a></strong></p>
+<p><strong>DVD (via <a href="$(HOME)/CD/torrent-cd">BitTorrent)</a></strong></p>
 <full-dvd-torrent />
 </div>
 
@@ -94,11 +94,11 @@ CD images <strong>with firmware</strong></strong></p>
 </p>
 <ul>
     <li>
-	For downloading full CD and DVD images the use of bittorrent or jigdo
+	For downloading full CD and DVD images the use of BitTorrent or jigdo
 	is recommended.
     </li><li>
 	For the less common architectures only a limited number of images
-	from the CD and DVD sets is available as ISO file or via bittorrent.
+	from the CD and DVD sets is available as ISO file or via BitTorrent.
 	The full sets are only available via jigdo.
     </li><li>
 	The multi-arch <em>CD</em> images support i386/amd64/powerpc and
@@ -109,7 +109,7 @@ CD images <strong>with firmware</strong></strong></p>
 	installation is similar to installing from a single architecture full
 	CD image; the DVD also includes the source for all included packages.
     </li><li>
-	For the netinst and businesscard CD images, <tt>MD5SUMS</tt> and
+	For the netinst CD images, <tt>MD5SUMS</tt> and
 	<tt>SHA1SUMS</tt> files	are available from the same directory as the
 	images.
     </li>
@@ -125,7 +125,7 @@ walkthrough of the installation process. Other useful documentation includes:
 </p>
 
 <ul>
-<li><a href="../installmanual">Squeeze Installation Guide</a><br />
+<li><a href="../installmanual">Wheezy Installation Guide</a><br />
 detailed installation instructions</li>
 <li><a href="http://wiki.debian.org/DebianInstaller/FAQ">Debian-Installer FAQ</a>
 and <a href="$(HOME)/CD/faq/">Debian-CD FAQ</a><br />
@@ -148,13 +148,6 @@ for other known problems.
 
 ## Translators: copy/paste from devel/debian-installer/errata
 <h3 id="errata-r0">Errata for release 7.0</h3>
-
-<p>
-This is a list of known problems in the wheezy Release Candidate 3 release of the Debian
-Installer. If you do not see your problem listed here, please send us an
-<a href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">installation
-report</a> describing the problem.
-</p>
 
 <dl class="gloss">
 
