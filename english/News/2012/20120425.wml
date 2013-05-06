@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20120425.wml,v 1.3 2012-05-04 17:22:26 taffit Exp $
+# $Id: 20120425.wml,v 1.4 2013-05-05 22:16:04 zobel Exp $
 # $Rev: 3631 $
 
 <define-tag pagetitle>Deploy your own <q>cloud</q> with Debian <q>Wheezy</q></define-tag>
@@ -43,7 +43,7 @@ Xen Cloud Platform (XCP).
 OpenStack, the open source cloud OS, has been created to drive industry
 standards and end cloud lock-in. OpenStack is a common, open platform for
 both public and private clouds with the support of more than 2,600 global
-project participant and over 150 industry leading companies. The open source
+project participants and over 150 industry leading companies. The open source
 cloud operating system enables businesses to manage computers, storage, and
 networking resources via a self-service portal and APIs on standard hardware
 at massive scale.
