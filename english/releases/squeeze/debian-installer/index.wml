@@ -45,19 +45,6 @@ you are recommended to install wheezy instead.
 
 <div class="line">
 <div class="item col50">
-<p><strong>CD (via <a href="$(HOME)/CD/torrent-cd">bittorrent)</a></strong></p>
-<full-cd-torrent />
-</div>
-
-<div class="item col50 lastcol">
-<p><strong>DVD (via <a href="$(HOME)/CD/torrent-cd">bittorrent)</a></strong></p>
-<full-dvd-torrent />
-</div>
-
-</div>
-
-<div class="line">
-<div class="item col50">
 <p><strong>CD (via <a href="$(HOME)/CD/jigdo-cd">jigdo</a>)</strong></p>
 <full-cd-jigdo />
 </div>
@@ -107,11 +94,11 @@ CD images <strong>with firmware</strong></strong></p>
 </p>
 <ul>
     <li>
-	For downloading full CD and DVD images the use of bittorrent or jigdo
+	For downloading full CD and DVD images the use of jigdo
 	is recommended.
     </li><li>
 	For the less common architectures only a limited number of images
-	from the CD and DVD sets is available as ISO file or via bittorrent.
+	from the CD and DVD sets is available as ISO file.
 	The full sets are only available via jigdo.
     </li><li>
 	The multi-arch <em>CD</em> images support i386/amd64/powerpc and
