@@ -167,7 +167,7 @@ Vulnerabilities and Exposures project identifies the following problems:</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3222">CVE-2013-3222</a>
 
-    <p>Mathias Krauss discovered an issue in the Asynchronous Transfer Mode (ATM)
+    <p>Mathias Krause discovered an issue in the Asynchronous Transfer Mode (ATM)
     protocol support. Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3223">CVE-2013-3223</a>
@@ -245,4 +245,4 @@ released in a staggered or "leap-frog" fashion.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2668.data"
-# $Id: dsa-2668.wml,v 1.1 2013-05-15 01:27:46 taffit Exp $
+# $Id: dsa-2668.wml,v 1.2 2013-05-15 23:25:30 taffit Exp $
