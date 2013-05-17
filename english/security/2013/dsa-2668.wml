@@ -88,7 +88,7 @@ Vulnerabilities and Exposures project identifies the following problems:</p>
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-0914">CVE-2013-0914</a>
 
     <p>Emese Revfy discovered an issue in the signal implementation. Local
-    users maybe able to bypass the address space layout randomization (ASLR)
+    users may be able to bypass the address space layout randomization (ASLR)
     facility due to a leaking of information to child processes.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-1767">CVE-2013-1767</a>
@@ -133,7 +133,7 @@ Vulnerabilities and Exposures project identifies the following problems:</p>
 
     <p>Mathias Krause discovered an issue in the Transformation (XFRM) user
     configuration interface of the networking stack. A user with the
-    CAP_NET_ADMIN capability maybe able to gain elevated privileges.</p></li>
+    CAP_NET_ADMIN capability may be able to gain elevated privileges.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-1860">CVE-2013-1860</a>
 
@@ -172,42 +172,42 @@ Vulnerabilities and Exposures project identifies the following problems:</p>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3223">CVE-2013-3223</a>
 
-    <p>Mathias Krauss discovered an issue in the Amateur Radio AX.25 protocol
+    <p>Mathias Krause discovered an issue in the Amateur Radio AX.25 protocol
     support. Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3224">CVE-2013-3224</a>
 
-    <p>Mathias Krauss discovered an issue in the Bluetooth subsystem. Local users
+    <p>Mathias Krause discovered an issue in the Bluetooth subsystem. Local users
     can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3225">CVE-2013-3225</a>
 
-    <p>Mathias Krauss discovered an issue in the Bluetooth RFCOMM protocol
+    <p>Mathias Krause discovered an issue in the Bluetooth RFCOMM protocol
     support. Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3228">CVE-2013-3228</a>
 
-    <p>Mathias Krauss discovered an issue in the IrDA (infrared) subsystem
+    <p>Mathias Krause discovered an issue in the IrDA (infrared) subsystem
     support. Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3229">CVE-2013-3229</a>
 
-    <p>Mathias Krauss discovered an issue in the IUCV support on s390 systems.
+    <p>Mathias Krause discovered an issue in the IUCV support on s390 systems.
     Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3231">CVE-2013-3231</a>
 
-    <p>Mathias Krauss discovered an issue in the ANSI/IEEE 802.2 LLC type 2
+    <p>Mathias Krause discovered an issue in the ANSI/IEEE 802.2 LLC type 2
     protocol support. Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3234">CVE-2013-3234</a>
 
-    <p>Mathias Krauss discovered an issue in the Amateur Radio X.25 PLP (Rose)
+    <p>Mathias Krause discovered an issue in the Amateur Radio X.25 PLP (Rose)
     protocol support. Local users can gain access to sensitive kernel memory.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2013-3235">CVE-2013-3235</a>
 
-    <p>Mathias Krauss discovered an issue in the Transparent Inter Process
+    <p>Mathias Krause discovered an issue in the Transparent Inter Process
     Communication (TIPC) protocol support. Local users can gain access to
     sensitive kernel memory.</p></li>
 
@@ -245,4 +245,4 @@ released in a staggered or "leap-frog" fashion.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2668.data"
-# $Id: dsa-2668.wml,v 1.2 2013-05-15 23:25:30 taffit Exp $
+# $Id: dsa-2668.wml,v 1.4 2013-05-16 19:01:01 gusnan-guest Exp $
