@@ -2760,12 +2760,12 @@ prices during summer holidays.>
 </p>
 
 # Consultant: FR
-# mail sent to check status: 24.03.2013 holger-guest.
+# mail sent to check status: 24.03.2013 holger-guest. Result: still active.
 <p>
 <company Nativ'Object>
 <address 5, rue de la Tour de Guise, BP 91523, 37015 Tours Cedex 1, <country-name FR>>
 <email   contact@nativobject.com>
-<URL     "http://www.nativobject.com/">
+# <URL     "http://www.nativobject.com/">
 <rates   Depends on task.>
 </p>
 
@@ -5500,16 +5500,16 @@ Chennai-600020, <country-name IN>>
 #</p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
+# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Claudio Brazzale, Michele Dalla Silvestra, Roberto Giuliari>
-<company Studio Associato Liberobit>
-<address via F. Baracca, 204 - 36100 Vicenza, <country-name IT>>
-<phone   +39-444-354112>
-<fax     +39-444-354114>
+<name    Claudio Brazzale, Roberto Giuliari>
+<company Liberobit.net Srl>
+<address viale Verona, 47 - 36100 Vicenza, <country-name IT>>
+<phone   +39-0444-568438>
+<fax     +39-0444-1830954>
 <email   info@liberobit.net>
 <URL     "http://www.liberobit.net">
-<rates   From 40 to 100 Euro /hour- depends on work.>
+<rates   From 50 to 150 Euro/hour- depends on work.>
 <additional_info liberobit>
 </p>
 
@@ -6024,32 +6024,30 @@ Chennai-600020, <country-name IN>>
 <h1><a name="JP"><country-name JP>:</a></h1>
 
 # Consultant: JP
-# Check URL at 23.02.2013 by holger-guest.
-# Result: URL is for sale. Apparently no longer active as Debian consultant.
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name    Sohei Abe>
-<company nihonsoft llc.>
-<address 4353-5 izumi-cyo izumi-ku Yokohama, Kanagawa, <country-name JP>>
-<email   info@nihonsoft.jp>
-<url     "http://www.nihonsoft.com/">
-<rates   25,000 yen to 35,000 yen. Favorable rates will be given to non-profits, educational entities and companies making contributions to the FOSS community.>
-<additional_info nihonsoft>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Sohei Abe>
+#<company nihonsoft llc.>
+#<address 4353-5 izumi-cyo izumi-ku Yokohama, Kanagawa, <country-name JP>>
+#<email   info@nihonsoft.jp>
+#<url     "http://www.nihonsoft.com/">
+#<rates   25,000 yen to 35,000 yen. Favorable rates will be given to non-profits, educational entities and #companies making contributions to the FOSS community.>
+#<additional_info nihonsoft>
+#</p>
 
 # Consultant: JP
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name    Nobuyuki Matsuki>
-<company FASP.TV>
-<address Kashiba city, Nara, <country-name JP>>
-<phone   +81-090-6679-2012>
-<email   webshop@fasp.tv>
-<url     "http://www.fasp.tv">
-<rates   Please contact for rates.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Nobuyuki Matsuki>
+#<company FASP.TV>
+#<address Kashiba city, Nara, <country-name JP>>
+#<phone   +81-090-6679-2012>
+#<email   webshop@fasp.tv>
+#<url     "http://www.fasp.tv">
+#<rates   Please contact for rates.>
+#</p>
 
 # Consultant: JP
 # mail sent to check status: 16.05.2013 holger-guest. Result: still active, entry updated.
@@ -6063,39 +6061,39 @@ Chennai-600020, <country-name IN>>
 </p>
 
 
-<h1><a name="JO"><country-name JO>:</a></h1>
+#<h1><a name="JO"><country-name JO>:</a></h1>
 
 # Consultant: JO
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<company freesoft technologies ltd>
-<address P.O.Box 940025 Amman 11194, <country-name JO>>
-<phone   +962-6-5523-967>
-<fax     +962-6-5561-967>
-<email   info@freesoft.jo>
-<URL     "http://www.freesoft.jo">
-<rates   Available upon request>
-<additional_info freesoft>
-</p>
+# Result. mail delivery failed, entry disabled.
+#<p>
+#<company freesoft technologies ltd>
+#<address P.O.Box 940025 Amman 11194, <country-name JO>>
+#<phone   +962-6-5523-967>
+#<fax     +962-6-5561-967>
+#<email   info@freesoft.jo>
+#<URL     "http://www.freesoft.jo">
+#<rates   Available upon request>
+#<additional_info freesoft>
+#</p>
 
 
 <h1><a name="KE"><country-name KE>:</a></h1>
 
 # Consultant: KE
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not available
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name    Alphonse Ogulla>
-<company Linux Computing Services (A division of Alreg Scientific)>
-<address P. O. Box 43561 Nairobi 00100 GPO, <country-name KE>>
-<phone   +254-20-3200-5543>
-<fax     +254-20-3200-5533>
-<email   alregscientific@yahoo.com scramble="yes">
-<URL     "http://www.geocities.com/alregscientific/">
-<rates   Please contact us for rates.>
-<additional_info lcs>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Alphonse Ogulla>
+#<company Linux Computing Services (A division of Alreg Scientific)>
+#<address P. O. Box 43561 Nairobi 00100 GPO, <country-name KE>>
+#<phone   +254-20-3200-5543>
+#<fax     +254-20-3200-5533>
+#<email   alregscientific@yahoo.com scramble="yes">
+#<URL     "http://www.geocities.com/alregscientific/">
+#<rates   Please contact us for rates.>
+#<additional_info lcs>
+#</p>
 
 
 <h1><a name="LI"><country-name LI>:</a></h1>
@@ -6185,20 +6183,21 @@ Chennai-600020, <country-name IN>>
 
 # Consultant: MY
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name	 Azrin Zainal Abidin>
-<company Byte Craft Sdn. Bhd.>
-<address Mezzanine Floor
-	 Bangunan Zikay
-	 53, Jalan Raja Alang
-	 50300 Kampung Baru
-	 Kuala Lumpur
-	 <country-name MY>>
-<email   azrin@bytecraft.com.my>
-<URL	 "http://www.bytecraft.com.my/">
-<phone	 +60-3-2698-8798>
-<fax	 +60-3-2698-8797>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Azrin Zainal Abidin>
+#<company Byte Craft Sdn. Bhd.>
+#<address Mezzanine Floor
+#	 Bangunan Zikay
+#	 53, Jalan Raja Alang
+#	 50300 Kampung Baru
+#	 Kuala Lumpur
+#	 <country-name MY>>
+#<email   azrin@bytecraft.com.my>
+#<URL	 "http://www.bytecraft.com.my/">
+#<phone	 +60-3-2698-8798>
+#<fax	 +60-3-2698-8797>
+#</p>
 
 # Consultant: MY
 # mail sent to check status: 16.05.2013 holger-guest. Result: still active, entry updated.
@@ -6233,16 +6232,17 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 
 # Consultant: MX
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name    Cesar Alvarez>
-<company Macrostudio>
-<address Barco II #669, Porticos del Mar, Baja California Norte, Mexico,  22790, <country-name MX>>
-<phone   +52-646-120-29-82>
-<fax     +52-646-120-29-82>
-<email   cesar.alvarez@macrostudio.com.mx>
-<URL     "http://www.macrostudio.com.mx">
-<rates   Multiple rates, please contact us for a quote and support.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Cesar Alvarez>
+#<company Macrostudio>
+#<address Barco II #669, Porticos del Mar, Baja California Norte, Mexico,  22790, <country-name MX>>
+#<phone   +52-646-120-29-82>
+#<fax     +52-646-120-29-82>
+#<email   cesar.alvarez@macrostudio.com.mx>
+#<URL     "http://www.macrostudio.com.mx">
+#<rates   Multiple rates, please contact us for a quote and support.>
+#</p>
 
 # Consultant: MX
 # mail sent to check status: 16.05.2013 holger-guest.
@@ -6257,21 +6257,20 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: MX
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name	 Enrique Dorantes>
-<company Datalink Internet>
-<address Retorno 5 #6 Col Avante. C.P. 04460. <country-name MX>, D.F.>
-<phone	 +52-5-53361421>
-<phone	 +52-5-53361423>
-<fax	 +52-5-53361421>
-<email	 info@datalink.net.mx>
-<URL	 "http://www.datalink.net.mx/">
-<rates	 Depends on project, monthly/annual support contracts available>
-<additional_info datalink_internet>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Enrique Dorantes>
+#<company Datalink Internet>
+#<address Retorno 5 #6 Col Avante. C.P. 04460. <country-name MX>, D.F.>
+#<phone	 +52-5-53361421>
+#<phone	 +52-5-53361423>
+#<fax	 +52-5-53361421>
+#<email	 info@datalink.net.mx>
+#<URL	 "http://www.datalink.net.mx/">
+#<rates	 Depends on project, monthly/annual support contracts available>
+#<additional_info datalink_internet>
+#</p>
 
 
 <h1><a name="MA"><country-name MA>:</a></h1>
@@ -6290,6 +6289,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 
 # Consultant: MA
 # mail sent to elbekkay.guerrouj@laposte.net to check status: 16.05.2013 holger-guest.
+# second mail sent to azzeddine@linux-maroc.org. holger-guest
 <p>
 <name    El Bakkay Guerrouj &amp; Azzeddine Ouadyani>
 <company EBG ENGINEERING CONSULT>
@@ -6368,19 +6368,20 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 
 # Consultant: NL
 # mail sent to check status: 16.05.2013 holger-guest.
-<p>
-<name    Andy Haxby>
-<company Competa IT B.V.>
-<address Zeestraat 55, 2518 AA Den Haag, <country-name NL>>
-<phone   +31-70-4277555>
-<fax     +31-70-4277554>
-<email   contact@competa.com>
-<URL     "http://www.competa.com/">
-<rates   Please contact for rates>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Andy Haxby>
+#<company Competa IT B.V.>
+#<address Zeestraat 55, 2518 AA Den Haag, <country-name NL>>
+#<phone   +31-70-4277555>
+#<fax     +31-70-4277554>
+#<email   contact@competa.com>
+#<URL     "http://www.competa.com/">
+#<rates   Please contact for rates>
+#</p>
 
 # Consultant: NL
-# mail sent to check status: 16.05.2013 holger-guest.
+# mail sent to check status: 16.05.2013 holger-guest. Result: still active.
 <p>
 <name    M.J. Roelofs>
 <company Murphy Software BV>
@@ -6442,17 +6443,17 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: NL
-# mail sent to check status: 16.05.2013 holger-guest.
+# mail sent to check status: 16.05.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Renato Cavallari>
 <address Camperstraat 44-I, 1091AH, Amsterdam, <country-name NL>>
-<phone	 +31 06 44 929 073>
+<phone	 +31(0)20 331 85 27>
 <email	 renasboy@gmail.com>
 <rates	 on request>
 </p>
 
 # Consultant: NL
-# mail sent to check status: 16.05.2013 holger-guest.
+# mail sent to check status: 16.05.2013 holger-guest. Result: still active.
 <p>
 <name    Jelle de Jong>
 <company PowerCraft Technology>
