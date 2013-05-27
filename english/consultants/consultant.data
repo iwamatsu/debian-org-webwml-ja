@@ -1842,6 +1842,17 @@ rates, it depends on your needs.>
 <rates   Negotiable.>
 </p>
 
+# Consultant: BR
+# added on 25.05.2013
+<p>
+<name	 Fabio Luiz Zorzeto>
+<address Benjamin Ternury, 191A, Presidente Prudente, Sao Paulo, <country-name BR>>
+<phone   +55 18 9733-6094 / +55 18 3909-4151>
+<email	 fabiozorzeto@gmail.com>
+#<URL     "http://br.linkedin.com/in/fabiozorzeto/">
+<rates   Please, contact for rates.>
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -2641,6 +2652,21 @@ prices during summer holidays.>
 #<email   acgroup@link.net>
 #<rates   $50 per hour, negotiable for non-profit, etc>
 #</p>
+
+
+<h1><a name="EE"><country-name EE>:</a></h1>
+
+# Consultant: EE
+# added on 25.05.2013
+<p>
+<name    Raivo Laanemets>
+<company Infdot OÜ>
+<address Nooruse 13-39, Elva, Tartumaa 61507, <country-name EE>>
+<phone   +372 555 327 85>
+<email   info@infdot.com>
+<URL     "http://rlaanemets.com">
+<rates   30 EUR per hour.>
+</p>
 
 
 <h1><a name="FI"><country-name FI>:</a></h1>
@@ -6489,6 +6515,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <h1><a name="NZ"><country-name NZ>:</a></h1>
 
 # Consultant: NZ
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Andrew Hill>
 <company treshna Enterprises Ltd>
@@ -6501,19 +6528,22 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: NZ
-<p>
-<name    Roland Venter>
-<company Commercial IT Services>
-<address Auckland, <country-name NZ>>
-<phone   +64-9-448-2711>
-<fax     +64-9-443-2850>
-<email   info@cits.co.nz scramble="yes">
-<URL     "http://www.cits.co.nz">
-<rates   $85 - $135 per hour NZD (Depends on project).>
-<additional_info cits>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Roland Venter>
+#<company Commercial IT Services>
+#<address Auckland, <country-name NZ>>
+#<phone   +64-9-448-2711>
+#<fax     +64-9-443-2850>
+#<email   info@cits.co.nz scramble="yes">
+#<URL     "http://www.cits.co.nz">
+#<rates   $85 - $135 per hour NZD (Depends on project).>
+#<additional_info cits>
+#</p>
 
 # Consultant: NZ
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <company Earthlight Communications Ltd>
 <address Dunedin, <country-name NZ>>
@@ -6525,6 +6555,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: NZ
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <company Catalyst IT Ltd>
 <address Wellington, <country-name NZ>>
@@ -6537,43 +6568,35 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: NZ
-<p>
-<company Bellamy Consulting Limited>
-<address Masterton, Wairarapa, <country-name NZ>>
-<phone	 +64-6-377-4957>
-<email	 info@bellamy.co.nz>
-<URL	 "http://www.bellamy.co.nz/">
-<rates	 Depends on project size and complexity - please contact us.>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company Bellamy Consulting Limited>
+#<address Masterton, Wairarapa, <country-name NZ>>
+#<phone	 +64-6-377-4957>
+#<email	 info@bellamy.co.nz>
+#<URL	 "http://www.bellamy.co.nz/">
+#<rates	 Depends on project size and complexity - please contact us.>
+#</p>
 
 # Consultant: NZ
-<p>
-<name	 Alex King>
-<company Linuxworks>
-<address Dunedin, <country-name NZ>>
-<phone	 +64-21-410-420>
-<fax	 +64-3-439-5629>
-<email	 debian@linuxworks.co.nz>
-<URL	 "http://www.linuxworks.co.nz/">
-<rates	 $65 - $120 per hour NZD (~ $45 - $80 USD).>
-<additional_info linuxworks>
-</p>
-
-# Consultant: NZ
-<p>
-<name	 Steve McKay>
-<company FFF Managed Technology>
-<address 60 Cook St, Auckland, <country-name NZ>>
-<phone	 +64-9-356-2911>
-<fax	 +64-9-358-9070>
-<email	 enquiries@fff.co.nz>
-<URL	 "http://www.fff.co.nz/">
-<rates	 Dependant on type of work, ranging from NZD80 to NZD240 per hour.>
-<additional_info fff_managed>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Alex King>
+#<company Linuxworks>
+#<address Dunedin, <country-name NZ>>
+#<phone	 +64-21-410-420>
+#<fax	 +64-3-439-5629>
+#<email	 debian@linuxworks.co.nz>
+#<URL	 "http://www.linuxworks.co.nz/">
+#<rates	 $65 - $120 per hour NZD (~ $45 - $80 USD).>
+#<additional_info linuxworks>
+#</p>
 
 # Consultant: NZ
 # email checked on 2011-09-09
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Aldo Cortesi>
 <company Nullcube Pty Ltd>
@@ -6588,6 +6611,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <h1><a name="NO"><country-name NO>:</a></h1>
 
 # Consultant: NO
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <company Ler&oslash;en Consulting AS>
 <address Storetveitveien 96, 5072 Bergen, <country-name NO>>
@@ -6599,18 +6623,20 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: NO
-# Check URL at 23.02.2013 by holger-guest.
-<p>
-<company FreeCode AS>
-<address Oslo Science Park, Gaustadalleen 21, 0349 Oslo, <country-name NO>>
-<phone   +47-22-95-85-22>
-<fax     +47-22-60-44-27>
-<email   email@freecode.no>
-<URL     "http://www.freecode.no">
-<rates   Depends on project. Contact us for details.>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company FreeCode AS>
+#<address Oslo Science Park, Gaustadalleen 21, 0349 Oslo, <country-name NO>>
+#<phone   +47-22-95-85-22>
+#<fax     +47-22-60-44-27>
+#<email   email@freecode.no>
+#<URL     "http://www.freecode.no">
+#<rates   Depends on project. Contact us for details.>
+#</p>
 
 # Consultant: NO
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Ole Aamot>
 <company Independant Consultant>
@@ -6622,32 +6648,37 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: NO
-<p>
-<name    Espen Tagestad>
-<company Modula AS>
-<address Oslo, <country-name NO>>
-<phone   +47-23-89-69-67>
-<fax     +47-46-70-88-43>
-<email   info@modula.no>
-<URL     "http://www.modula.no/">
-<rates   Available upon request.>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Espen Tagestad>
+#<company Modula AS>
+#<address Oslo, <country-name NO>>
+#<phone   +47-23-89-69-67>
+#<fax     +47-46-70-88-43>
+#<email   info@modula.no>
+#<URL     "http://www.modula.no/">
+#<rates   Available upon request.>
+#</p>
 
 # Consultant: NO
-<p>
-<name    Johan Ur Riise>
-<company Riise Software Contracting>
-<address Saedalsvn 150 B, N-5098 Bergen, <country-name NO>>
-<phone   +47-90-15-77-78>
-<email   johan@riise-data.no>
-<URL     "http://www.scguild.com/Resume/5523I.html">
-<rates   US $100/hour.>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Johan Ur Riise>
+#<company Riise Software Contracting>
+#<address Saedalsvn 150 B, N-5098 Bergen, <country-name NO>>
+#<phone   +47-90-15-77-78>
+#<email   johan@riise-data.no>
+#<URL     "http://www.scguild.com/Resume/5523I.html">
+#<rates   US $100/hour.>
+#</p>
 
 
 <h1><a name="PK"><country-name PK>:</a></h1>
 
 # Consultant: PK
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <company Applied Technology Research Center>
 <address C-55 Block A KDA Officers, Karachi, <country-name PK>>
@@ -6660,6 +6691,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: PK
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Mohammad Babar Haq>
 <company Copyleft Solutions>
@@ -6676,6 +6708,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 # Consultant: PA
 # Check URL at 23.02.2013 by holger-guest.
 # Result: address not found
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Ying Xie>
 <company Syscount Providers, S.A.>
@@ -6691,6 +6724,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <h1><a name="PE"><country-name PE>:</a></h1>
 
 # Consultant: PE
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Lord Steve Flaubert>
 <company Ice-T>
@@ -6703,31 +6737,33 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: PE
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not available. While www.leosanchez.net is valid
-# (but under construction). Wrong URL?
-<p>
-<name    Leo Sanchez>
-<company Soporte Integral SAC>
-<address Av. Peru 210 Mariano Melgar, Arequipa, <country-name PE>>
-<phone   +51-54-451873>
-<phone   +51-54-9361491>
-<email   soporte@leosanchez.net>
-<url     "http://www.leosanchez.net/servicios/">
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Leo Sanchez>
+#<company Soporte Integral SAC>
+#<address Av. Peru 210 Mariano Melgar, Arequipa, <country-name PE>>
+#<phone   +51-54-451873>
+#<phone   +51-54-9361491>
+#<email   soporte@leosanchez.net>
+#<url     "http://www.leosanchez.net/servicios/">
+#</p>
 
 # Consultant: PE
-<p>
-<name    Rudy Godoy>
-<company HTU Networks>
-<address Lima, <country-name PE>>
-<email   info@htu-networks.com>
-<url     http://www.htu-networks.com>
-<rates   Please contact.>
-<additional_info htu>
-</p>
+# mail sent to check status: 26.05.2013 holger-guest. 
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Rudy Godoy>
+#<company HTU Networks>
+#<address Lima, <country-name PE>>
+#<email   info@htu-networks.com>
+#<url     http://www.htu-networks.com>
+#<rates   Please contact.>
+#<additional_info htu>
+#</p>
 
 # Consultant: PE
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name    Renzo Portocarrero Miranda>
 <company ID SECURITY SOLUTIONS>
@@ -6740,12 +6776,13 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: PE
+# mail sent to check status: 26.05.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Daniel Alejandro Yucra Sotomayor>
 <company GUSL - SomosLibres.org>
-<address Calle Callao 328 - Tacna, <country-name PE>>
-<phone   +51-52-743630>
-<fax     +51-52-743630>
+<address Av. Santa Cruz 130, Of. 901, Lima, <country-name PE>>
+<phone   +51+1+6509281>
+<fax     +51+1+6509281>
 <email   daniel@somoslibres.org>
 <URL     "http://www.somoslibres.org/">
 <rates   Negotiable>
@@ -6754,6 +6791,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 # Consultant: PE
 # Check URL at 23.02.2013 by holger-guest.
 # Result: address not found
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name	 V&iacute;ctor Clodoaldo Salas Pumacayo>
 <company INTER AMERICAN S.A.C.>
@@ -6769,6 +6807,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <h1><a name="PH"><country-name PH>:</a></h1>
 
 # Consultant: PH
+# mail sent to check status: 26.05.2013 holger-guest. 
 <p>
 <name	 John Osena>
 <company Orange Information Corporation>
@@ -6778,20 +6817,6 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <email	 support@web.com.ph>
 <URL	 "http://www.web.com.ph/">
 <rates	 Available upon request.>
-</p>
-
-# Consultant: PH
-<p>
-<name	 Federico Sevilla III>
-<company Q Software Research Corp.>
-<address 456 Boni Avenue, Mandaluyong City, 1550 <country-name PH>>
-<phone	 +63 (2) 747-3994>
-<fax	 +63 (2) 747-9032>
-<email	 jijo@free.net.ph>
-<URL	 "http://www.qsr.com.ph/">
-<URL	 "http://jijo.free.net.ph/">
-<rates	 Negotiable>
-<additional_info federico_sevilla>
 </p>
 
 

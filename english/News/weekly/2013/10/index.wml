@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-05-13" SUMMARY="Debian 7.0 <q>Wheezy</q> released, DebConf11 and 12 videos, Debian beyond the cloud, Debian in Google Compute Engine"
 
-# $Id: index.wml,v 1.1 2013-05-13 10:45:56 madamezou Exp $
+# $Id: index.wml,v 1.2 2013-05-25 13:33:08 boutil Exp $
 # $Rev: 5008 $
 # Status: [content-frozen]
 
@@ -172,7 +172,7 @@ about the opening of registration</a>.
 <toc-add-entry name="events">Upcoming events</toc-add-entry>
 <p>There is one upcoming Debian-related event:</p>
 <ul>
- <li>May, 28-29, Paris, France &mdash; Debian boot at <a href="$(HOME)/events/2013/0528-solutionslinux">Solutions Linux</a></li>
+ <li>May, 28-29, Paris, France &mdash; Debian booth at <a href="$(HOME)/events/2013/0528-solutionslinux">Solutions Linux</a></li>
 </ul>
 <p>
 You can find more information about Debian-related events and talks
