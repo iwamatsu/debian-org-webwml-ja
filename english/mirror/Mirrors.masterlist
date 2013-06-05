@@ -3844,16 +3844,18 @@ IPv6: yes
 
 Site: debian.cites.illinois.edu
 Type: leaf
-Archive-architecture: amd64 armhf i386 powerpc s390x
+Archive-architecture: amd64 i386
 Archive-ftp: /pub/debian/
 Archive-http: /pub/debian/
 CDImage-ftp: /pub/debian-cd/
-X-CDImage-http: /pub/debian-cd/
-Archive-upstream: debian.oregonstate.edu
+CDImage-http: /pub/debian-cd/
+Archive-upstream: ftp1.us.debian.org 
+CDImage-upstream: mirrors.kernel.org
 Maintainer: Chris Kuehn <cites-cosmos@illinois.edu>
 Comment: maintainer address bounces
 Country: US United States
 IPv6: no
+Bandwidth: 10Mbps
 
 Site: mirrors.telianet.dk
 Alias: mirrors.dk.telia.net
