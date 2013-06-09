@@ -4753,7 +4753,8 @@ prices during summer holidays.>
 <address Frankfurt am Main, <country-name DE>>
 <phone	 +49(0)69-5780-4996>
 <email	 info@uws.ie scramble="yes">
-#<URL     "http://uws-software-service.com/">
+<URL     "http://uws-software-service.com/en/services/software-development/overview.html">
+<URL     "http://uws-software-service.com/">
 <rates	 Negiotable.>
 </p>
   <ul>
@@ -4976,7 +4977,7 @@ prices during summer holidays.>
 #</p>
 
 # Consultant: IN
-# mail sent to check status: 07.04.2013 holger-guest. 
+# mail sent to check status: 07.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Mitul Limbani>
 <company Enterux Solutions>
@@ -4987,8 +4988,8 @@ prices during summer holidays.>
 <phone   +1-302-691-0104>
 <fax     Available on request.>
 <email   info@enterux.com>
-<URL     "http://www.enterux.com/">
-<URL     "http://www.embian.net/">
+#<URL     "http://www.enterux.com/">
+#<URL     "http://www.embian.net/">
 <rates   $15/hr.>
 <additional_info enterux>
 </p>
@@ -6625,19 +6626,6 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 #<additional_info linuxworks>
 #</p>
 
-# Consultant: NZ
-# email checked on 2011-09-09
-# mail sent to check status: 26.05.2013 holger-guest. 
-<p>
-<name    Aldo Cortesi>
-<company Nullcube Pty Ltd>
-<address Dunedin, <country-name NZ>>
-<phone   +64 210 718 900>
-<email   info@nullcube.com>
-<URL     "http://www.nullcube.com/">
-<rates   Available upon request.>
-</p>
-
 
 <h1><a name="NO"><country-name NO>:</a></h1>
 
@@ -6782,15 +6770,15 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 #</p>
 
 # Consultant: PE
-# mail sent to check status: 26.05.2013 holger-guest. 
+# mail sent to check status: 26.05.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Renzo Portocarrero Miranda>
 <company ID SECURITY SOLUTIONS>
 <address Av. Jos&eacute; Glavez Barrenechea 1275, Lima, <country-name PE>>
 <phone   +51-1-226-5058>
 <fax     +51-1-226-5058>
-<email   rportocarrero@id-security.net>
-<URL     "http://www.id-security.net/">
+<email   rportocarrero@gmail.com>
+#<URL     "http://www.id-security.net/">
 <rates   Please contact for rates>
 </p>
 
