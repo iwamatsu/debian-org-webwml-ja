@@ -7536,17 +7536,14 @@ provide lower rates for non-profit/government organizations.>
 <h1><a name="ES"><country-name ES>:</a></h1>
 
 # Consultant: ES
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not available. But http://www.openshine.com is valid
-# and active. Update URL?
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Francisco Javier Fernandez Serrador>
+<name    Roberto Majadas>
 <company OpenShine S.L.>
 <address C/ G&oacute;mez De Avellaneda 14 4&ordm; &Ntilde;, Madrid, <country-name ES>>
-<phone   +34-647-866-358>
+<phone   +34-663-273-501>
 <email   comercial@openshine.com>
-<url     "http://www.openshine.com/servicios/">
+<url     "http://www.openshine.com">
 <rates   Depende del proyecto.>
 </p>
 
@@ -7567,16 +7564,15 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Juan Miguel Taboada Godoy>
-<company Centrologic (Computational Logistic Center)>
-<address Calle Ni&ntilde;o del museo, 8-5D, 29003 Malaga, <country-name ES>>
-<phone   +34-902-88-40-62>
+<company Centrologic Computational Logistic Center>
+<address Calle Aguacate 36/48, 29738 Rincón de la Victoria, <country-name ES>>
 <phone   +34-610-37-01-65>
 <email   info@centrologic.com>
 <url     "http://www.centrologic.com/">
-<rates   25-55 euros/hour (all Europe).>
+<rates   55-185 euros/hour (all Europe).>
 <additional_info centrologic>
 </p>
 
@@ -7674,15 +7670,15 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Rafael Martin de Agar Tirado>
-<company Emergya Consultor&iacute;a>
-<address Luis Montoto 105 Sevilla, <country-name ES>>
-<phone   +34-954-98-10-53>
-<fax     +34-954-98-11-79>
-<email   info@emergya.info>
-<URL     "http://www.emergya.info">
+<name    Carlos Parra Camargo>
+<company Emergya>
+<address Avd. Luis de Morales, 32. Sevilla, <country-name ES>>
+<phone   +34-954-51-75-77>
+<fax     +34-954-51-64-73>
+<email   debian@emergya.com>
+<URL     "http://www.emergya.com">
 <additional_info emergya>
 </p>
 
@@ -7715,10 +7711,10 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Alberto Gonzalez Iniesta>
-<address c/ Ginos, 2 3-1. 28470 Cercedilla, <country-name ES>>
+<address c/ Golondrinas, 2. 28470 Cercedilla, <country-name ES>>
 <phone   +34-639-688-119>
 <email   agi@inittab.org>
 <URL     "http://inittab.com">
@@ -7740,15 +7736,15 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company Tecno Servicio>
-<address Cardenal Reig, 23. Barcelona, <country-name ES>>
+<address Aribau 162. Barcelona, <country-name ES>>
 <phone   +34-652669294>
-<fax     +34-933343885>
+#<fax     +34-933343885>
 <email   info@tecno-servicio.com>
 <URL     "http://www.tecno-servicio.com">
-<rates   negotiable>
+<rates   Negotiable.>
 </p>
 
 # Consultant: ES
@@ -7793,10 +7789,10 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry udpated.
 <p>
 <name    Jaume Teixi>
-<address Banyoles, Barcelona, <country-name ES>>
+<address Barcelona, <country-name ES>>
 <email   jaume@teixi.net>
 <rates   Upon request.>
 <additional_info jaume_t>
@@ -7854,23 +7850,11 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
-<p>
-<name	 Manuel Trujillo Albarral>
-<company OpenTechnologies>
-<address C/Zaragoza, 31 2-1, 08227 Terrassa, Barcelona, <country-name ES>>
-<phone	 +34-649946632>
-<email	 toomany@toomany.net>
-<rates	 Depends on country and task.>
-<additional_info opentechnologies>
-</p>
-
-# Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Eduardo D&iacute;az Comellas>
 <company Ultreia Comunicaciones S.L.>
-<address Avda. Castrelos 234, oficina E, Vigo, 36210, <country-name ES>>
+<address C. Cial. Cidade Universitaria, local A4, 36310 - Vigo, <country-name ES>>
 <phone	 +34-986243324>
 <fax     +34-986123899>
 <email	 ediaz@ultreia.es>
@@ -7917,19 +7901,6 @@ provide lower rates for non-profit/government organizations.>
 <email	 jose.maria@icodsi.biz>
 <URL	 "http://www.icodsi.biz/">
 <rates	 Upon Request>
-</p>
-
-# Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
-<p>
-<name	 Marc Gibert Ginest&agrave;>
-<company Cometa Technologies, S.L.>
-<address C/Padilla 216, entl. 4a, Barcelona, <country-name ES>>
-<phone	 +34-932-138-490>
-<fax	 +34-932-459-343>
-<email	 info@cometatech.com>
-<URL	 "http://www.cometatech.com/">
-<rates	 Available upon request.>
 </p>
 
 # Consultant: ES
@@ -7986,7 +7957,7 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active.
 <p>
 <name	 Gonzalo P&eacute;rez de Olaguer C&oacute;rdoba>
 <address C/ Joventut, 106 - 4, 08904 Hospitalet de Llobregat, <country-name ES>>
@@ -7996,25 +7967,26 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Andrew Nimmo>
 <company Illumas Limited>
 <address Barcelona, <country-name ES>>
 <phone   +34 690 920 986>
 <email	 debian.consultancy@illumas.eu>
-<URL	 "http://web.illumas.eu/debian-gnu-linux-consultant/">
+<URL	 "http://illumas.eu/debian-gnu-linux-consultancy/">
 <rates	 Negotiable according to service and location. Time and resources-based or project-based rates.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Rub&eacute;n Tato>
-<address Francisco Navacerrada, 9. 28028 Madrid, <country-name ES>>
+<address Madrid, <country-name ES>>
 <phone   +34 644 213 007>
-<email	 rtmoran@gmail.com>
-<URL	 "http://bentamor.wordpress.com/">
+<email	 rtmoran@gmail.com scramble="yes">
+<URL	 "http://bentamor.wordpress.com/contact/">
+<rates   Consultar.>
 </p>
 
 # Consultant: ES
@@ -8031,13 +8003,13 @@ provide lower rates for non-profit/government organizations.>
 <h1><a name="SE"><country-name SE>:</a></h1>
 
 # Consultant: SE
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Marcus Rej&aring;s>
-<company Rej&aring;s Datakonsult>
-<address Kaserngatan 1, 761 46 Norrt&auml;lje, <country-name SE>>
-<phone   +46-70-2667985>
-<fax     +46-070-2230526>
+<company Rej&aring;s Datakonsult AB>
+<address Vårgatan 2, 761 63 Norrtälje, <country-name SE>>
+<phone   +46-176-250100>
+<fax     +46-176-250130>
 <email   info@rejas.se>
 <URL     "http://www.rejas.se/">
 <rates   Negotiable.>
@@ -8108,17 +8080,17 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: SE
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    H&aring;kan Anjou>
 <address G&ouml;teborg, <country-name SE>>
-<phone   +46-0-70-738-4012>
+<phone   +4670-7747049>
 <email   kh_anjou@hotmail.com>
 <rates   Negotiable in relation to project.>
 </p>
 
 # Consultant: SE
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Ola Lundqvist>
 <company Inguza Technology AB>
@@ -8126,7 +8098,7 @@ provide lower rates for non-profit/government organizations.>
 <phone   +46-703-32-1551>
 <email   info@inguza.com>
 <url     "http://inguza.com/">
-<rates   72 EUR/h or 680 SEK/h or fixed price offers.>
+<rates   750 SEK/h or fixed price offers.>
 </p>
 
 # Consultant: SE
