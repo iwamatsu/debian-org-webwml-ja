@@ -1,6 +1,6 @@
-#use wml::debian::projectnews::header PUBDATE="2013-06-24" SUMMARY="DebConf13 will have its DebCamp, Debian Code Search on video, bits from Debian System Administators"
+#use wml::debian::projectnews::header PUBDATE="2013-06-24" SUMMARY="DebConf13 will have its DebCamp, Debian Code Search on video, bits from Debian System Administrators"
 
-# $Id: index.wml,v 1.1 2013/06/24 20:41:16 boutil Exp $
+# $Id: index.wml,v 1.2 2013/06/25 06:55:31 boutil Exp $
 # $Rev: 5086 $
 # Status: [frozen]
 
