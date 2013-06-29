@@ -8,7 +8,7 @@
 less data as the process will be tailored to your requirements. Ethernet and
 wireless connections are supported. Internal ISDN cards are unfortunately
 <em>not</em> supported.</p>
-<p>There are four options for installs over the network:</p>
+<p>There are three options for installs over the network:</p>
 
 <toc-display />
 <div class="line">
@@ -16,9 +16,8 @@ wireless connections are supported. Internal ISDN cards are unfortunately
 
 <toc-add-entry name="smallcd">Small CDs</toc-add-entry>
 
-<p>The following are image files which are up to 180&nbsp;MB in size,
-making them suitable for writing to small CD-R(W) media, 80&nbsp;mm/3.1"
-in diameter. Choose your processor architecture below.</p>
+<p>The following are image files which are up to 280&nbsp;MB in size.
+Choose your processor architecture below.</p>
 
 <stable-netinst-images />
 </div>

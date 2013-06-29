@@ -7765,7 +7765,7 @@ provide lower rates for non-profit/government organizations.>
 <company Tecno Servicio>
 <address Aribau 162. Barcelona, <country-name ES>>
 <phone   +34-652669294>
-#<fax     +34-933343885>
+<fax     +34-931824040>
 <email   info@tecno-servicio.com>
 <URL     "http://www.tecno-servicio.com">
 <rates   Negotiable.>
@@ -7935,7 +7935,8 @@ provide lower rates for non-profit/government organizations.>
 <phone	 +34-935-554-000>
 <fax	 +34-93-540-33-87>
 <email	 informatica@eurogaran.com>
-#<URL	 "http://www.eurogaran.com/">
+<URL	 "http://www.eurogaran.com/index.php/es/servicios-tic/administracion-de-redes-y-sistemas-linux">
+<URL	 "http://www.eurogaran.com/">
 <rates	 Please contact for rates.>
 </p>
 
@@ -8303,19 +8304,20 @@ according to staff certification levels.>
 
 # Consultant: CH
 # mail sent to check status: 23.06.2013 holger-guest. 
-<p>
-<name    Daniel Baumann>
-<company Panthera Systems>
-<address Burgunderstrasse 3, CH-4562 Biberist, <country-name CH>>
-<phone   +41-32-672-40-91>
-<fax     +41-32-672-43-64>
-<email   info@panthera-systems.net>
-<URL     "http://www.panthera-systems.net/">
-<rates   Project and duration dependent, quick help for free. 10-25% of profit will be donated to Debian.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Daniel Baumann>
+#<company Panthera Systems>
+#<address Burgunderstrasse 3, CH-4562 Biberist, <country-name CH>>
+#<phone   +41-32-672-40-91>
+#<fax     +41-32-672-43-64>
+#<email   info@panthera-systems.net>
+#<URL     "http://www.panthera-systems.net/">
+#<rates   Project and duration dependent, quick help for free. 10-25% of profit will be donated to Debian.>
+#</p>
 
 # Consultant: CH
-# mail sent to check status: 23.06.2013 holger-guest. 
+# mail sent to check status: 23.06.2013 holger-guest. Result: still active.
 <p>
 <name    Gilbert Robert>
 <company ProLibre>
