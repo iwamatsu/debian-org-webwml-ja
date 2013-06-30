@@ -8642,20 +8642,19 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name	 Joe Mc Cool, CEng, SMIEEE>
-<company Tangent Computer Research>
-<address Artasooley, Benburb, N.Ireland, <country-name GB>>
-<phone   +44-2837-548074>
-<phone   +44-7802-572441>
-<email	 joe@benburb.demon.co.uk>
-<URL	 "http://www.tangent-research.com/">
-<rates   STG700 per day plus expenses.>
-<additional_info joe_m>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Joe Mc Cool, CEng, SMIEEE>
+#<company Tangent Computer Research>
+#<address Artasooley, Benburb, N.Ireland, <country-name GB>>
+#<phone   +44-2837-548074>
+#<phone   +44-7802-572441>
+#<email	 joe@benburb.demon.co.uk>
+#<URL	 "http://www.tangent-research.com/">
+#<rates   STG700 per day plus expenses.>
+#<additional_info joe_m>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8673,14 +8672,15 @@ according to staff certification levels.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Frank Pennycook>
-<address Salisbury, <country-name GB>>
-<phone   +44-0-700-580-4485>
-<email   info@pennycook.net>
-<URL     "http://pennycook.net/">
-<rates   Variable depending on the project.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Frank Pennycook>
+#<address Salisbury, <country-name GB>>
+#<phone   +44-0-700-580-4485>
+#<email   info@pennycook.net>
+#<URL     "http://pennycook.net/">
+#<rates   Variable depending on the project.>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8695,18 +8695,17 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: URL is apparently redirected to Internet provider. No longer active as Debian consultant?
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<company Eitri Ltd.>
-<address London, <country-name GB>>
-<phone   +44-0870-049-1400>
-<email   info@eitri.com>
-<URL     "http://eitri.com/">
-<rates   Typically based on project, and agreed after review. Non-project &pound;100/hour plus all expenses.>
-<additional_info eitri>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company Eitri Ltd.>
+#<address London, <country-name GB>>
+#<phone   +44-0870-049-1400>
+#<email   info@eitri.com>
+#<URL     "http://eitri.com/">
+#<rates   Typically based on project, and agreed after review. Non-project &pound;100/hour plus all expenses.>
+#<additional_info eitri>
+#</p>
 
 # Consultant: GB
 # data updated: 23.03.2013
@@ -8762,44 +8761,28 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Sam Bashton>
 <company Bashton Ltd>
 <address Manchester, <country-name GB>>
-<phone   +44-8444-849-607>
+<phone   +44-161-424-9600>
 <email   sales@bashton.com>
 <URL     "http://www.bashton.com/">
-<rates   From &pound;320/day>
-</p>
-
-# Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found.
-# mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Rick Timmis>
-<company Adaptive Linux Solutions>
-<address Unit M, Langlands Business Park, Uffculme, Cullompton, Devon. EX15 3DA, <country-name GB>>
-<phone   +44 (0)808-156-0101>
-<email   debian@adaptive-it.co.uk>
-<URL     "http://www.adaptive-it.co.uk">
-<rates   &pound;748.00 per day + expenses, discounts available for charities and voluntary / community>
 </p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Alistair Cunningham>
-<company Integrics Ltd>
-<address Londonderry, Northern Ireland, <country-name GB>>
-<phone   +44-0-7870-699-479>
-<fax     +44-0-2871-318-223>
-<email   sales@integrics.com scramble="yes">
-<URL     "http://integrics.com/">
-<rates   On request>
-<additional_info integrics>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Rick Timmis>
+#<company Adaptive Linux Solutions>
+#<address Unit M, Langlands Business Park, Uffculme, Cullompton, Devon. EX15 3DA, <country-name GB>>
+#<phone   +44 (0)808-156-0101>
+#<email   debian@adaptive-it.co.uk>
+#<URL     "http://www.adaptive-it.co.uk">
+#<rates   &pound;748.00 per day + expenses, discounts available for charities and voluntary / community>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8824,20 +8807,19 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Oliver Low>
-<company Viridian Sun>
-<address Staplegate Barn, Nr. Crowfield, Nr. Brackley, Northants, England NN13 5TW, <country-name GB>>
-<phone   +44-845-351-0409>
-<fax     +44-700-583-875>
-<email   ojl@viridiansun.co.uk>
-<URL     "http://www.viridiansun.co.uk/">
-<rates   &pound;650/day. Discounts dependant on project. 10% to OS community.>
-<additional_info viridiansun>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Oliver Low>
+#<company Viridian Sun>
+#<address Staplegate Barn, Nr. Crowfield, Nr. Brackley, Northants, England NN13 5TW, <country-name GB>>
+#<phone   +44-845-351-0409>
+#<fax     +44-700-583-875>
+#<email   ojl@viridiansun.co.uk>
+#<URL     "http://www.viridiansun.co.uk/">
+#<rates   &pound;650/day. Discounts dependant on project. 10% to OS community.>
+#<additional_info viridiansun>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8876,26 +8858,24 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Steve Lapthorn>
-<company David Goodenough &amp; Associates Limited (DGA)>
+<name    David Goodenough>
+<company David Goodenough &amp; Associates>
 <address 21 High Street, Haddenham, Bucks, HP17 8ES, <country-name GB>>
 <phone   +44-1844 292826>
 <email   david.goodenough@dga.co.uk>
-<URL     "http://www.DGA.co.uk/">
-<rates   From 750 UKP / day + expenses.>
+#<URL     "http://dga.co.uk/">
+<rates   Vary according to the job.>
 <additional_info steve_l>
 </p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Ben Bell>
 <address Gatwick, London, <country-name GB>>
-<phone   08453 320728>
+<phone   07733-113039>
 <email   debian@tyriantech.com scramble="yes">
 <URL     "http://www.tyriantech.com/debian.html">
 <rates   640 UKP / day + expenses>
@@ -8997,18 +8977,6 @@ according to staff certification levels.>
 <rates	 Around GBP 67/hour with discounts for other cooperatives (2008).
 	 Some tasks at other rates - please call to ask or see website.>
 <additional_info turo_technology>
-</p>
-
-# Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name	 Peter Naulls>
-<address Cambridge, <country-name GB>>
-<phone	 +44-1223-528-176>
-<email	 peter@chocky.org>
-<URL	 "http://www.chocky.org/">
-<rates	 Please enquire.>
-<additional_info peter_naulls>
 </p>
 
 # Consultant: GB
@@ -9163,29 +9131,17 @@ according to staff certification levels.>
 #</p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Peter G. Smith>
 <company Linuxbox>
 <address Middlesbrough, <country-name GB>>
 <phone	 (+44) 7890 592198>
 <email	 pete@linuxbox.co.uk>
+<URL	 "http://linuxbox.co.uk/areas.php">
 <URL	 "http://linuxbox.co.uk">
 <rates	 varies, around 30-40 GBP per hour>
 <additional_info linuxbox>
-</p>
-
-# Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name	 Adrian Bridgett>
-<company Bitcube>
-<address Hampshire, <country-name GB>>
-<phone	 +44-844-3574572>
-<email	 sales@bitcube.co.uk>
-<URL	 "http://bitcube.co.uk">
-<rates	 GBP 65/hour + expenses, support contracts available>
-<additional_info bitcube>
 </p>
 
 # Consultant: GB
