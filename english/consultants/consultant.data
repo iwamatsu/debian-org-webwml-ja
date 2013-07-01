@@ -5715,7 +5715,7 @@ Chennai-600020, <country-name IN>>
 <address Strada Revigliasco, 72/3, 10024 Moncalieri (TO), <country-name IT>>
 <phone   +39-011-23414703>
 <email   info@linuz.it scramble="yes">
-<URL     "http://www.linuz.it/">
+#<URL     "http://www.linuz.it/">
 <additional_info jean_p>
 </p>
 
@@ -5879,7 +5879,7 @@ Chennai-600020, <country-name IN>>
 <address Piazza Mazzini 50-56, 39100 Bolzano, <country-name IT>>
 <phone	 +39 339 56 99 33 1>
 <email	 info@ethicalsoftware.it>
-<URL     "http://www.ethicalsoftware.it/">
+#<URL     "http://www.ethicalsoftware.it/">
 <rates   Please contact for rates.>
 </p>
 
@@ -7024,14 +7024,14 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 # Consultant: PL
-# mail sent to check status: 09.06.2013 holger-guest. 
+# mail sent to check status: 09.06.2013 holger-guest. Result: still active.
 <p>
 <name	 Jaros&#322;aw Prochal>
 <company Aboo Technology>
 <address Krakowskie Przedmie&#347;cie 242, 32-087, <country-name PL>>
 <phone	 +48 791274780>
 <email	 aboo@aboo.pl>
-<URL	 "http://www.aboo.pl">
+#<URL	 "http://www.aboo.pl">
 <rates	 Depending on requirements - please contact us.>
 <additional_info aboo_technology>
 </p>
@@ -7085,6 +7085,7 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <email   adam@adamziaja.com>
 <URL	 "http://adamziaja.com">
 <rates	 Negotiable.>
+<additional_info adamziaja>
 </p>
 
 # Consultant: PL
@@ -7386,7 +7387,6 @@ provide lower rates for non-profit/government organizations.>
 <company Intellect-Service>
 <address Rossiyskiy pr. 3/1, 193231 Saint-Petersburg, <country-name RU>>
 <phone   +7(812)9182032>
-<email   vs@ipatov.net>
 <URL     "http://it-ic.ru">
 <rates   $15-$30 per hour.>
 </p>
@@ -7479,12 +7479,12 @@ provide lower rates for non-profit/government organizations.>
 <h1><a name="SI"><country-name SI>:</a></h1>
 
 # Consultant: SI
-# mail sent to check status: 10.06.2013 holger-guest. 
+# mail sent to check status: 10.06.2013 holger-guest. Result: still active.
 <p>
 <company Serverflow consulting, d.o.o.>
 <address Mali Lipoglav 22, 1293 Smarje Sap, <country-name SI>>
 <email   matija@serverflow.si>
-<URL     "http://www.serverflow.com/">
+#<URL     "http://www.serverflow.com/">
 <rates   $40/hr, negotiable for bigger projects>
 <additional_info serverflow>
 </p>
@@ -7601,7 +7601,7 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: ES
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Rub&eacute;n da Silva>
 <company Ozono Multimedia s.l.l.>
@@ -7609,7 +7609,7 @@ provide lower rates for non-profit/government organizations.>
 <phone   +34-981580679>
 <fax     +34-981580679>
 <email   ozono@ozonomultimedia.com>
-<url     "http://www.ozonomultimedia.com/">
+#<url     "http://www.ozonomultimedia.com/">
 <rates   Available upon request. Variable according service. Contact us.>
 <additional_info ozonomultimedia>
 </p>
@@ -8416,6 +8416,18 @@ according to staff certification levels.>
 <rates   40 EUR/h for interesting free-software only projects, typical rates 70 EUR/h.>
 </p>
 
+# Consultant: CH
+# added on 30.06.2013
+<p>
+<name	 Luca Capello>
+<address Rue Caroline 53, 1227 Carouge GE, <country-name CH>>
+<phone	 +41-79-321-76-13>
+<email   luca@pca.it>
+<URL	 "http://luca.pca.it/working/">
+<rates	 Project and duration dependent, quick help for free. 10% of profit 
+will be donated to Debian.>
+</p>
+
 
 <h1><a name="TN"><country-name TN>:</a></h1>
 
@@ -8736,16 +8748,17 @@ according to staff certification levels.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Neil McGovern>
-<company Fotopic Limited>
-<address Unit 4 Acorn House, 13 Pollard Street, Wakefield, WF3 3HG, <country-name GB>>
-<phone   +44-870-321-5256>
-<fax     +44-870-321-5356>
-<email   consultants@fotopic.net>
-<rates   From &pound;50 per hour for remote support (+VAT)>
-<additional_info fotopic>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Neil McGovern>
+#<company Fotopic Limited>
+#<address Unit 4 Acorn House, 13 Pollard Street, Wakefield, WF3 3HG, <country-name GB>>
+#<phone   +44-870-321-5256>
+#<fax     +44-870-321-5356>
+#<email   consultants@fotopic.net>
+#<rates   From &pound;50 per hour for remote support (+VAT)>
+#<additional_info fotopic>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8800,11 +8813,12 @@ according to staff certification levels.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Pablo Lucas dos Anjos>
-<address Edinburgh, <country-name GB>>
-<email   anjos@macs.hw.ac.uk>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Pablo Lucas dos Anjos>
+#<address Edinburgh, <country-name GB>>
+#<email   anjos@macs.hw.ac.uk>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8823,26 +8837,15 @@ according to staff certification levels.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<company KeConnect Internet>
-<address Pegasus One, Orion Business Park, Great Blakenham, Ipswich, Suffolk IP6 0LW, <country-name GB>>
-<phone   +44-0-8450-506050>
-<email   networks@keme.net>
-<URL     "http://www.keconnect.co.uk/">
-<rates   On request.>
-</p>
-
-# Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Doug Winter>
-<company Isotoma Limited>
-<address London, <country-name GB>>
-<phone   +44-7879-423002>
-<email   doug@isotoma.com>
-<URL     "http://www.isotoma.com">
-<rates   Variable on task.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company KeConnect Internet>
+#<address Pegasus One, Orion Business Park, Great Blakenham, Ipswich, Suffolk IP6 0LW, <country-name GB>>
+#<phone   +44-0-8450-506050>
+#<email   networks@keme.net>
+#<URL     "http://www.keconnect.co.uk/">
+#<rates   On request.>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8884,16 +8887,17 @@ according to staff certification levels.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Conrad Wood>
-<company Lemon Computing>
-<address Mortlake Business Centre, 20 Mortlake High Street, Mortlake, London SW14 8JN, <country-name GB>>
-<phone   +44-20-8392-6770>
-<fax     +44-20-8392-6772>
-<email   debian@lemon-computing.com scramble="yes">
-<URL     "http://www.lemon-computing.com/">
-<rates   &pound;75 charged hourly, or discounted project prices>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Conrad Wood>
+#<company Lemon Computing>
+#<address Mortlake Business Centre, 20 Mortlake High Street, Mortlake, London SW14 8JN, <country-name GB>>
+#<phone   +44-20-8392-6770>
+#<fax     +44-20-8392-6772>
+#<email   debian@lemon-computing.com scramble="yes">
+#<URL     "http://www.lemon-computing.com/">
+#<rates   &pound;75 charged hourly, or discounted project prices>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8920,19 +8924,18 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name	 Phil Brooke>
-<company University of Plymouth, School of Computing>
-<address Drake Circus, Plymouth, Devon, PL4 8AA, <country-name GB>>
-<phone	 +44-1752-233777>
-<fax	 +44-1752-232540>
-<email	 phil.brooke@plymouth.ac.uk>
-<URL	 "http://ted.see.plym.ac.uk/pbrooke/">
-<rates	 Rates on request.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Phil Brooke>
+#<company University of Plymouth, School of Computing>
+#<address Drake Circus, Plymouth, Devon, PL4 8AA, <country-name GB>>
+#<phone	 +44-1752-233777>
+#<fax	 +44-1752-232540>
+#<email	 phil.brooke@plymouth.ac.uk>
+#<URL	 "http://ted.see.plym.ac.uk/pbrooke/">
+#<rates	 Rates on request.>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8944,25 +8947,6 @@ according to staff certification levels.>
 <email	 info@dynnocht.co.uk>
 <URL	 "http://www.dynnocht.co.uk/">
 <rates	 On request.>
-</p>
-
-# Consultant: GB
-# mail sent to info@avalonix.co.uk to check status: 29.06.2013 holger-guest. 
-<p>
-<name	 Martin WHEELER>
-<company AVALONIX Linux Systems Support>
-<address Boundary Way,
-	 GLASTONBURY,
-	 Somerset
-	 BA6 9PH, <country-name GB>>
-<phone	 +44-1458-83-1103>
-<fax	 +44-1458-83-1103>
-<email	 info@avalonix.co.uk>
-<email	 info@startext.co.uk>
-<URL	 "http://avalonix.co.uk/">
-<URL	 "http://www.startext.co.uk/">
-<rates	 According to contract.>
-<additional_info avalonix>
 </p>
 
 # Consultant: GB
@@ -8980,13 +8964,12 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Keith Edmunds>
 <company Tiger Computing Ltd.>
 <address Wyastone Business Park, Wyastone Leys, Monmouth, NP25 3SR, <country-name GB>>
-<phone	 +44-845-373-3579>
-<fax	 +44-8715-27-958>
+<phone	 +44-1600-483-484>
 <email	 kae@tiger-computing.co.uk>
 <URL	 http://www.tiger-computing.co.uk/>
 <rates	 Support: dependent upon package; consultancy: by agreement.>
@@ -9035,16 +9018,17 @@ according to staff certification levels.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Valdo Alvarez>
-<company Unix Consulting>
-<address 21 Vincent Square, London, <country-name GB>>
-<phone   +44 20 8938 6702>
-<fax     +44 20 8938 6703>
-<email   info@unixconsulting.info>
-<URL     "http://www.unixconsulting.info/linux_consulting.html">
-<rates   Depending on project>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Valdo Alvarez>
+#<company Unix Consulting>
+#<address 21 Vincent Square, London, <country-name GB>>
+#<phone   +44 20 8938 6702>
+#<fax     +44 20 8938 6703>
+#<email   info@unixconsulting.info>
+#<URL     "http://www.unixconsulting.info/linux_consulting.html">
+#<rates   Depending on project>
+#</p>
 
 # Consultant: GB
 # data updated on 27.02.2013
@@ -9103,20 +9087,19 @@ according to staff certification levels.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found 404
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name    Matthew Linden>
-<company Green Quadrant Ltd.>
-<address 62 Linden Road, Hampton, Middlesex, TW12 2JB, <country-name GB>>
-<phone   +44 7530 123 984>
-<fax     +44 20 8979 7782>
-<email   info@greenquadrant.eu>
-<URL     "http://www.greenquadrant.eu/">
-<rates   Dependent on project.>
-<additional_info green-quadrant>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Matthew Linden>
+#<company Green Quadrant Ltd.>
+#<address 62 Linden Road, Hampton, Middlesex, TW12 2JB, <country-name GB>>
+#<phone   +44 7530 123 984>
+#<fax     +44 20 8979 7782>
+#<email   info@greenquadrant.eu>
+#<URL     "http://www.greenquadrant.eu/">
+#<rates   Dependent on project.>
+#<additional_info green-quadrant>
+#</p>
 
 # Consultant: GB
 #<p>
