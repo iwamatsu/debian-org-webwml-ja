@@ -5877,9 +5877,9 @@ Chennai-600020, <country-name IN>>
 <p>
 <company Ethical Software Soc. Coop.>
 <address Piazza Mazzini 50-56, 39100 Bolzano, <country-name IT>>
-<phone	 +39 339 56 99 33 1>
+<phone	 +39 0471 068170>
 <email	 info@ethicalsoftware.it>
-#<URL     "http://www.ethicalsoftware.it/">
+<URL     "http://www.ethicalsoftware.it/en/partner/142-debian.html">
 <rates   Please contact for rates.>
 </p>
 
@@ -8162,13 +8162,13 @@ provide lower rates for non-profit/government organizations.>
 </p>
 
 # Consultant: SE
-# mail sent to check status: 16.06.2013 holger-guest. 
+# mail sent to check status: 16.06.2013 holger-guest. Result: still active.
 <p>
 <company Stickybit>
 <address Gustav Adolfs torg 10A Malm&ouml;, <country-name SE>>
 <phone	 +46-40-631-15-00>
 <email	 info@stickybit.se>
-<URL	 "http://www.stickybit.se/">
+#<URL	 "http://www.stickybit.se/">
 <rates	 Please contact us for information.>
 </p>
 
@@ -8631,15 +8631,16 @@ will be donated to Debian.>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
-<p>
-<name	 Andrew Hutchings>
-<company A-Wing Internet Services>
-<address 40 Esplanade, Penmaenmawr, Conwy, North Wales, LL34 6LU, <country-name GB>>
-<phone   +44-01492-622169>
-<email	 info@a-wing.co.uk>
-<URL	 "http://www.a-wing.co.uk/">
-<rates   Typically &pound;27 per hour or &pound;200 per day, support contracts available upon request.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name	 Andrew Hutchings>
+#<company A-Wing Internet Services>
+#<address 40 Esplanade, Penmaenmawr, Conwy, North Wales, LL34 6LU, <country-name GB>>
+#<phone   +44-01492-622169>
+#<email	 info@a-wing.co.uk>
+#<URL	 "http://www.a-wing.co.uk/">
+#<rates   Typically &pound;27 per hour or &pound;200 per day, support contracts available upon request.>
+#</p>
 
 # Consultant: GB
 # mail sent to check status: 29.06.2013 holger-guest. 
@@ -8734,15 +8735,14 @@ will be donated to Debian.>
 </p>
 
 # Consultant: GB
-# Check URL at 23.02.2013 by holger-guest.
-# Result: connection refused
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Still active, entry updated.
 <p>
 <name    Matthew King>
-<address West Molesey, London, <country-name GB>>
-<phone   +44-7946-787-403>
-<email   matthew.king@monnsta.net>
-<URL     "http://monnsta.net/">
+<company Dagilev Consulting Ltd.>
+<address Fleet, Hampshire, <country-name GB>>
+<phone   +44 20 7099-8832>
+<email   info@dagilev.co.uk>
+#<URL     "http://dagilev.co.uk/">
 <rates   Negotiable at 500 GBP / day (75 GBP / hour)>
 </p>
 
@@ -8848,7 +8848,7 @@ will be donated to Debian.>
 #</p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Still active, entry updated.
 <p>
 <name    Philip Hands>
 <company hands.com ltd.>
@@ -8913,11 +8913,11 @@ will be donated to Debian.>
 </p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Still active, entry updated.
 <p>
 <name	 Dr. Richard Mills>
 <company The Linux Academy Ltd>
-<address Hampshire, <country-name GB>>
+<address Dorset, <country-name GB>>
 <email	 rmills@the-linux-academy.co.uk>
 <URL	 "http://the-linux-academy.co.uk/">
 <rates	 &pound;400 / day + expenses.>
@@ -9074,15 +9074,16 @@ will be donated to Debian.>
 </p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Still active, entry updated.
 <p>
 <name	 Tomasz J. Kotarba>
-<company Land Securities PLC>
+<company SYSTEM7, University of Cambridge>
 <address Cambridge, <country-name GB>>
-<phone	 +44 7711 987 682>
+<phone	 +44 7588 587 617>
 <email	 tomasz@kotarba.net>
 <URL	 "http://www.linkedin.com/in/kotarba">
-<rates	 &pound;800/day + expenses (discounts for universities and non-profit). Larger projects negotiable.>
+<rates	 &pound;650/day + expenses (discounts for universities and non-profit). Long-term 
+projects negotiable.>
 <additional_info kotarba>
 </p>
 
@@ -9152,13 +9153,14 @@ will be donated to Debian.>
 </p>
 
 # Consultant: GB
-# mail sent to check status: 29.06.2013 holger-guest. 
+# mail sent to check status: 29.06.2013 holger-guest. Still active, entry updated.
 <p>
 <name	 Adam Sweet / Adam James / Simon Bowring>
 <company Transitiv Technologies Ltd>
 <address Creative Industries Centre, Wolverhampton Science Park, Wolverhampton, WV10 9TG, <country-name GB>>
 <phone	 +44 203 384 7207>
 <email	 sales@transitiv.co.uk>
+<URL	 "http://www.transitiv.co.uk/services/consultancy/debian">
 <URL	 "http://www.transitiv.co.uk/">
 <rates   Rates dependant on quantity of work and location, please enquire>
 </p>
