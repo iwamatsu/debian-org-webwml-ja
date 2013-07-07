@@ -135,19 +135,12 @@ sub transform_team {
 sub linklist {
 	my ($typo, $pkg, $lang, $trufile, %status_db) = @_;
 	my $add = "";
-	my ($dir, $pofile);
-	if ($pkg eq 'manpages-fr-extra') {
-		$dir = $trufile;
-		$dir =~ s/\/.*$//;
-		$pofile = $trufile;
-		$pofile =~ s/^.*\///;
-	}
 	if (    $status_db{$lang}->has_package($pkg)
 	    and $status_db{$lang}->has_status($pkg)) {
 		foreach my $statusline (@{$status_db{$lang}->status($pkg)}) {
 			my ($type, $file, $date, $status, $translator, $list, $url, $bug_nb) = @{$statusline};
 			my $bug_link = (defined $bug_nb) ? "<a href=\"http://bugs.debian.org/$bug_nb\">$bug_nb</a>" : "";
-			if ($type eq $typo and ($pkg ne 'manpages-fr-extra' or $file =~ m/^$dir.*$pofile$/)) {
+			if ($type eq $typo and ($pkg ne 'manpages-fr-extra' or $file eq $trufile)) {
 				# Only keep the last status (most recent)
 				# Assume there is only one $typo file
 				# unless $pkg is manpages-fr-extra
@@ -207,10 +200,6 @@ sub get_stats {
 
         $total{$section} = 0;
         foreach $pkg (sort pkgsort @{$packages}) {
-                if ($type ne 'po-debconf' and $data->upstream($pkg) eq 'dbs') {
-                        $none .= "<li>".$pkg." (*)</li>\n";
-                        next;
-                }
 		my $has='has_'.$typo;
                 unless ($data->$has($pkg)) {
                         $none .= "<li>".$pkg."</li>\n";
@@ -276,6 +265,7 @@ sub get_stats {
 			$file =~ s#^debian/(po/)?## if $type eq 'po-debconf';
                         $link =~ s/:/\%3a/g;
                         $link =~ s/#/\%23/g;
+			$link =~ s/ /\%20/g;
                         $translator = transform_translator($translator);
                         $team = transform_team($team);
                         if ($lang eq '_') {
