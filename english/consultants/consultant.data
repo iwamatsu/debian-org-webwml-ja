@@ -9195,17 +9195,18 @@ projects negotiable.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Adam C. Powell, IV>
-<company Veryst Engineering LLC>
-<address 47A Kearney Rd. Needham, MA 02494-2503, USA, <country-name US>>
-<phone   +1-781-433-0433>
-<fax     +1-781-433-0933>
-<email   apowell@veryst.com>
-<url     "http://www.veryst.com/">
-<rates   $220/hr or by project.>
-<additional_info veryst>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Adam C. Powell, IV>
+#<company Veryst Engineering LLC>
+#<address 47A Kearney Rd. Needham, MA 02494-2503, USA, <country-name US>>
+#<phone   +1-781-433-0433>
+#<fax     +1-781-433-0933>
+#<email   apowell@veryst.com>
+#<url     "http://www.veryst.com/">
+#<rates   $220/hr or by project.>
+#<additional_info veryst>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9338,11 +9339,11 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Mark Deason>
 <company Visionary Networks>
-<address PMB 435, Suite D105, 1901 NE 162nd Avenue, Vancouver, WA 98684, <country-name US>>
+<address 16505A SE First Street PMB 120, Vancouver, WA 98684, <country-name US>>
 <email   debian@visionary-networks.com>
 <url     "http://www.visionary-networks.com/">
 <rates   Negotiable.>
@@ -9360,18 +9361,6 @@ open-source projects.>
 <email   sales@theosbg.com>
 <url     "http://www.opensourcebusinessgroup.com/">
 <rates   Depends on project and / or support contract.>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Alberto Alonso>
-<company Global Gate Systems LLC.>
-<address Cedar Park, TX 78630, <country-name US>>
-<phone   +1-512-351-7233>
-<email   support-debian@ggsys.net>
-<url     "http://www.ggsys.net/">
-<rates   Contact for specific rates.>
 </p>
 
 # Consultant: US
@@ -9771,23 +9760,20 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
-# Result: domain was resold. No Debian related content. No longer active as Debian consultant?
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Christoph Lameter>
-<company The TelemetryBox Corporation>
-<address 7131 Cabernet Ave., Newark, CA 94560, <country-name US>>
-<phone   +1-510-396-2710>
+<company Graphe Networks>
+<address POB 478, LaGrange, IL 60525, <country-name US>>
+<phone   +12025965598>
 <email   christoph@lameter.com>
-<URL     "http://telemetrybox.biz/">
-<rates   Negotiable.>
+<rates   $250/hr first time. Negotiable later.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Chris Fearnley>
+<name    CJ Fearnley>
 <company LinuxForce Inc.>
 <address Upper Darby, PA, <country-name US>>
 <phone   +1-610-734-1900>
@@ -9836,17 +9822,6 @@ open-source projects.>
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
 <p>
-<name    Marques Johansson>
-<address 4850 White Horse Pike, Egg Harbor City, 08215-4103, <country-name US>>
-<phone   +1-609-678-0411>
-<email   debian@displague.com>
-<rates   Call for rates.>
-<additional_info marques_j>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
 <company Open Source Consulting of Minnesota>
 <address 1430 Asbury Street Saint Paul, Minnesota, <country-name US>>
 <phone   +1-612-759-0967>
@@ -9870,7 +9845,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Shannon Dealy>
 <company DeaTech Research Inc.>
@@ -9911,7 +9886,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
 <p>
 <name    Jeremy C. Reed>
 <company Puget Sound Technology>
@@ -9924,14 +9899,14 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Robert Coffman>
 <company Info From Data Corporation>
 <address 1804 Brown Street, Akron, Ohio 44301, <country-name US>>
 <phone   +1-330-724-9000>
 <email   bcoffman@infofromdata.com>
-<URL     "http://www.infofromdata.com/">
+#<URL     "http://www.infofromdata.com/">
 <rates   Call for current rates.>
 </p>
 
@@ -10011,18 +9986,6 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Andrew B. Sweger>
-<company Addnorya>
-<address P.O. Box 33147, Seattle, WA 98133-0147, <country-name US>>
-<phone   +1-206-219-7119>
-<email   andrew@addnorya.com>
-<URL     "http://addnorya.com/">
-<rates   $60 to $150 per hour, negotiable.>
-</p>
-
-# Consultant: US
 # Check URL at 23.02.2013 by holger-guest.
 # Result: address no longer active.
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -10077,18 +10040,6 @@ open-source projects.>
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
 <p>
-<name	 Philip Jacob>
-<company Whirlycott>
-<address Boston, MA, <country-name US>>
-<phone	 +1-781-209-8211>
-<email	 phil@whirlycott.net>
-<URL	 "http://www.whirlycott.net/">
-<rates	 Please call for rates; check our site for information and skills.>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
 <name	 Bryan Ballard>
 <company Netsolus Consulting>
 <address PO 3616, Lawrence, KS, 66046, <country-name US>>
@@ -10126,7 +10077,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
 <p>
 <name	 Elizabeth Ziph>
 <company The Linux Box Corporation>
@@ -10135,21 +10086,21 @@ open-source projects.>
 <phone	 734.761.4689>
 <fax	 734.769.8938>
 <email	 info@linuxbox.com>
-<URL	 "http://www.linuxbox.com/">
+#<URL	 "http://www.linuxbox.com/">
 <rates	 Please email or call for current rate information.>
 <additional_info linux_box>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Jeremy T. Bouse>
 <company UnderGrid Network Services>
-<address San Francisco, CA, <country-name US>>
-<phone	 +1-408-375-2344>
-<fax     +1-408-580-8467>
+<address Atlanta, GA, <country-name US>>
+<phone	 +1-678-348-0867>
 <email	 jeremy.bouse@undergrid.net>
-<rates	 $75+/hour.>
+<URL	 "http://UnderGrid.net/">
+<rates	 Negotiable depending on project.>
 </p>
 
 # Consultant: US
@@ -10164,7 +10115,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Philip Carinhas>
 <company Fortuitous Technologies>
@@ -10172,7 +10123,7 @@ open-source projects.>
 <phone	 +1-512-351-7783>
 <email	 support@fortuitous.com>
 <URL	 "http://fortuitous.com/">
-<rates	 $125-150 depending on work and contract size.>
+<rates	 $135-190 depending on volume and retainer.>
 <additional_info fortuitous>
 </p>
 
@@ -10207,14 +10158,14 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <company LinuxCertified, Inc.>
-<address 1072 S. De Anza Blvd., Suite A107-19 San Jose, CA 95129, <country-name US>>
+<address 349 Cobalt Way, Suite #304, CA 94085, <country-name US>>
 <phone	 +1-408-314-6700>
 <fax	 +1-425-732-7143>
 <email	 info@linuxcertified.com>
-<URL	 "http://www.linuxcertified.com/">
+#<URL	 "http://www.linuxcertified.com/">
 <rates	 Vary depending on the project size.>
 <additional_info linux_certified>
 </p>
@@ -10244,7 +10195,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
 <p>
 <name	 Evan Macbeth>
 <company Sine Nomine Associates>
