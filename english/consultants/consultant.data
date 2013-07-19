@@ -9224,18 +9224,6 @@ projects negotiable.>
 
 # Consultant: US
 # Check URL at 23.02.2013 by holger-guest.
-# Result: address not found
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Greg Nokes>
-<address Spokane, WA, <country-name US>>
-<email   greg@nokes.name>
-<url     "http://creations.nokes.name">
-<rates   Depends on scope of project.>
-</p>
-
-# Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
 # Result: URL not found. While http://www.apluscompuservices.com is valid.
 # Wrong URL? Still active as Debian consultant?
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9436,16 +9424,6 @@ open-source projects.>
 <phone   +1-501-940-7869>
 <email   nshaver@onlinecis.com>
 <rates   $60/hr>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Steve Langasek>
-<address 13155 SW Allen Blvd. #5 Beaverton, OR 97005, <country-name US>>
-<phone   +1-503-467-9008>
-<email   vorlon@dodds.net>
-<rates   Please contact for rates.>
 </p>
 
 # Consultant: US
@@ -10223,20 +10201,6 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name	 Chris Shank>
-<company ACE Technology Group>
-<address Whiteland Business Park, 825 Springdale Drive, Exton, PA 19341, <country-name US>>
-<phone	 +1-610-647-1055>
-<fax	 +1-610-647-1055>
-<email	 info@acetechgroup.com>
-<URL	 "http://acetechgroup.com/">
-<rates	 Please contact.>
-<additional_info ace_technology_group>
-</p>
-
-# Consultant: US
 # Check URL at 23.02.2013 by holger-guest.
 # Result: address not found 404
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -10250,21 +10214,6 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
-# Result: no access on server. Still active as Debian consultant?
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name	 Andrew Firman>
-<company Firman Consulting, LLC>
-<address Columbia, Maryland, <country-name US>>
-<phone	 +1-443-472-6632>
-<email	 andy@firman.us>
-<URL	 "http://www.firman.us/">
-<rates	 Negotiable.>
-<additional_info firman>
-</p>
-
-# Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
 <p>
 <name	 John Reynolds>
@@ -10275,19 +10224,6 @@ open-source projects.>
 <email	 fastluck@email.com>
 <rates	 $65.00/hr or by project.>
 <additional_info custom_engineering>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name	 Emil Soleyman-Zomalan>
-<company The Soleyman Group>
-<address San Jose, CA, <country-name US>>
-<phone	 +1-408-205-6807>
-<email	 emil@soleyman.com>
-<URL     "http://www.soleyman.com/">
-<rates	 Please contact us to request a project estimate.>
-<additional_info soleyman>
 </p>
 
 # Consultant: US
@@ -10385,7 +10321,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
 <p>
 <name    Dan Ouellet>
 <company Ouellet Consulting, Inc>
@@ -10409,7 +10345,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
 <p>
 <name    Christopher J. Pace>
 <address 120 Forrest Avenue Laurel, MT, <country-name US>>
@@ -10421,16 +10357,15 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Wayne Guhan Iyer>
-<company Guhan.Net>
-<address 3535 Grand Ave #2, Oakland, CA 94610, <country-name US>>
-<phone	 510-710-8109>
-<fax	 510-225-2627>
-<email	 guhan@guhan.net>
-<URL	 "http://www.guhan.net">
-<rates	 $75 to $150 per hour>
+<company shark7llc>
+<address <country-name US>>
+<phone	 859-4-shark7>
+<email	 guhan.iyer@shark7.com>
+#<URL	 "http://shark7.com">
+<rates	 $75 to $150 per hour.>
 <additional_info guhan_net>
 </p>
 
@@ -10464,24 +10399,7 @@ discount for students, educations and non-profits.>
 </p>
 
 # Consultant: US
-# email checked on 2010-11-13
-#
-# Check URL at 23.02.2013 by holger-guest.
-# Result: address not found. Still active as Debian consultant?
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name	 Wes Keene>
-<company Keene Services Inc.>
-<address P.O. Box 3524, Quincy, IL 62305-3524, <country-name US>>
-<phone	 217-919-0590>
-<email	 sales@keeneservices.com>
-<URL	 "http://www.keeneservices.com/open-source/">
-<rates	 Hourly, or by project. Hourly from $65>
-<additional_info keene_services>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
 <p>
 <name	 Dr. Tim Lynch>
 <company Psychsoft>
@@ -10533,17 +10451,6 @@ discount for students, educations and non-profits.>
 <URL	 "http://www.credativ.us">
 <rates   Call for rates.>
 <additional_info credativ>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name	 Giovanni Torres>
-<company Etat Consulting>
-<address Arlington, VA, <country-name US>>
-<email	 etat.consulting@gmail.com>
-<rates   Varies by project>
-<additional_info etat_consulting>
 </p>
 
 # Consultant: US
@@ -10668,13 +10575,12 @@ income parties such as seniors and those with disabilities.>
 <h1><a name="AE"><country-name AE>:</a></h1>
 
 # Consultant: AE
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Christian Schmidt>
 <company DN-Systems International Limited>
 <address Box 500 581, Dubai, <country-name AE>>
 <phone   +971-50-2861299>
-<fax     +971-50-2861299>
 <email   debhelp@dn-systems.com>
 <URL     http://www.dn-systems.com>
 <rates   Please get a quotation first.>
