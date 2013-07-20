@@ -9240,15 +9240,16 @@ projects negotiable.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Frank Koenen>
-<company Finkle Enterprises, LLC>
-<address 11115 Margaret Way, Flagstaff, Arizona, 86004, <country-name US>>
-<phone   +1-928-606-9489>
-<email   debian.support@feweb.net>
-<url     "http://www.feweb.net/">
-<rates   Negotiable.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Frank Koenen>
+#<company Finkle Enterprises, LLC>
+#<address 11115 Margaret Way, Flagstaff, Arizona, 86004, <country-name US>>
+#<phone   +1-928-606-9489>
+#<email   debian.support@feweb.net>
+#<url     "http://www.feweb.net/">
+#<rates   Negotiable.>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9265,27 +9266,29 @@ projects negotiable.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    James Strandboge>
-<company Anemone Computing>
-<address Rochester, NY, <country-name US>>
-<email   jamie@anemonecomputing.com>
-<url     "http://www.anemonecomputing.com/">
-<rates   Varies by service.  Please contact for a free quote.>
-<additional_info anemonecomputing>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    James Strandboge>
+#<company Anemone Computing>
+#<address Rochester, NY, <country-name US>>
+#<email   jamie@anemonecomputing.com>
+#<url     "http://www.anemonecomputing.com/">
+#<rates   Varies by service.  Please contact for a free quote.>
+#<additional_info anemonecomputing>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Paul Rabinowitz>
-<company LINUXEXPERT.COM>
-<address 1278 N. Milwaukee Ave. 3W;  Chicago, IL 60622, <country-name US>>
-<phone   +1-312-371-1486>
-<fax     +1-312-944-3365>
-<email   paul@linuxexpert.com>
-<rates   $100/hour.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Paul Rabinowitz>
+#<company LINUXEXPERT.COM>
+#<address 1278 N. Milwaukee Ave. 3W;  Chicago, IL 60622, <country-name US>>
+#<phone   +1-312-371-1486>
+#<fax     +1-312-944-3365>
+#<email   paul@linuxexpert.com>
+#<rates   $100/hour.>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9338,18 +9341,17 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
-# Result: domain is for sale. No longer active as Debian consultant?
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<company Open Source Business Group>
-<address 8400 Normandale Lake Boulevard, Suite 920, Minneapolis, MN 55437, <country-name US>>
-<phone   +1-888-767-9743>
-<phone   +1-612-605-1814>
-<email   sales@theosbg.com>
-<url     "http://www.opensourcebusinessgroup.com/">
-<rates   Depends on project and / or support contract.>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<company Open Source Business Group>
+#<address 8400 Normandale Lake Boulevard, Suite 920, Minneapolis, MN 55437, <country-name US>>
+#<phone   +1-888-767-9743>
+#<phone   +1-612-605-1814>
+#<email   sales@theosbg.com>
+#<url     "http://www.opensourcebusinessgroup.com/">
+#<rates   Depends on project and / or support contract.>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9364,7 +9366,7 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Sean Reifschneider (jafo), Kevin Fenzi, Evelyn Mitchell, Scott Kleihege>
 <company tummy.com, ltd.>
@@ -9372,13 +9374,13 @@ open-source projects.>
 <phone   +1-970-494-0355>
 <fax     +1-970-377-2320>
 <email   info@tummy.com>
-<url     "http://www.tummy.com/">
+#<url     "http://www.tummy.com/">
 <rates   We offer both pay-as-you-go hourly rates and service packages.>
 <additional_info tummy>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Alex Adriaanse>
 <company Innova Computing, L.L.C.>
@@ -9386,7 +9388,7 @@ open-source projects.>
 <phone   +1-405-751-0270>
 <fax     +1-405-751-2119>
 <email   info@innovacomputing.com>
-<url     "http://www.innovacomputing.com/">
+<url     "http://innovacomputing.com/services.shtml">
 <rates   Project-based or hourly.>
 <additional_info innova_computing>
 </p>
@@ -9418,13 +9420,14 @@ open-source projects.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Nick Shaver>
-<address El Paso, Arkansas, <country-name US>>
-<phone   +1-501-940-7869>
-<email   nshaver@onlinecis.com>
-<rates   $60/hr>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Nick Shaver>
+#<address El Paso, Arkansas, <country-name US>>
+#<phone   +1-501-940-7869>
+#<email   nshaver@onlinecis.com>
+#<rates   $60/hr>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9472,30 +9475,29 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
-# Result: connection failed.
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Aaron Dewell>
-<company Woods Networking Consultants>
-<address Park City, Utah, <country-name US>>
-<phone   +1-408-857-0778>
-<email   sales@woods.net>
-<URL     "http://www.woods.net/">
-<rates   Negotiable.>
-<additional_info woods>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Aaron Dewell>
+#<company Woods Networking Consultants>
+#<address Park City, Utah, <country-name US>>
+#<phone   +1-408-857-0778>
+#<email   sales@woods.net>
+#<URL     "http://www.woods.net/">
+#<rates   Negotiable.>
+#<additional_info woods>
+#</p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name    Stuart Sheldon>
 <company ACT USA>
-<address 707 E. Thousand Oaks Blvd. Suite 12, Thousand Oaks, CA 91360, <country-name US>>
+<address 3533 Old Conejo Rd. Suite 103, Newbury Park, CA. 91320, <country-name US>>
 <phone   +1-805-370-8001>
 <email   sales@actusa.net>
-<URL     "http://www.actusa.net">
-<rates   Varies based on project and location>
+<URL     "https://www.actusa.net/technologies/linux">
+<rates   Varies based on project and location.>
 </p>
 
 # Consultant: US
@@ -9525,18 +9527,17 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
-# Result: Domain is for sale. No longer active as Debian consultant?
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Adam Aube>
-<company Aube Technology Services>
-<address P.O. Box 391, Mt. Morris, MI 48458, <country-name US>>
-<phone   +1-810-397-3837>
-<email   info@aubetechsvc.com>
-<URL     "http://www.aubetechsvc.com">
-<rates   See website>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Adam Aube>
+#<company Aube Technology Services>
+#<address P.O. Box 391, Mt. Morris, MI 48458, <country-name US>>
+#<phone   +1-810-397-3837>
+#<email   info@aubetechsvc.com>
+#<URL     "http://www.aubetechsvc.com">
+#<rates   See website>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9595,17 +9596,18 @@ open-source projects.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Geoff Silver>
-<company U.S. Linux Networks>
-<address Northern Virginia/DC metro, <country-name US>>
-<phone   +1-866-546-8943>
-<fax     +1-866-546-8943>
-<email   sales@uslinux.net scramble="yes">
-<URL     "http://www.uslinux.net">
-<rates   Vary>
-<additional_info uslinux>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Geoff Silver>
+#<company U.S. Linux Networks>
+#<address Northern Virginia/DC metro, <country-name US>>
+#<phone   +1-866-546-8943>
+#<fax     +1-866-546-8943>
+#<email   sales@uslinux.net scramble="yes">
+#<URL     "http://www.uslinux.net">
+#<rates   Vary>
+#<additional_info uslinux>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9622,20 +9624,19 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# Check URL at 23.02.2013 by holger-guest.
-# Result: empty site. Still active as Debian consultant?
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Doug Maxwell>
-<company Turing Labs, LLC>
-<address 74 Stebbins Road, Somers, CT 06071, <country-name US>>
-<phone   +1 860 656-7385>
-<fax     +1 860 656-7965>
-<email   info@turinglabs.com>
-<URL     "http://www.turinglabs.com">
-<rates   Negotiable. Call or email.>
-<additional_info turinglabs>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Doug Maxwell>
+#<company Turing Labs, LLC>
+#<address 74 Stebbins Road, Somers, CT 06071, <country-name US>>
+#<phone   +1 860 656-7385>
+#<fax     +1 860 656-7965>
+#<email   info@turinglabs.com>
+#<URL     "http://www.turinglabs.com">
+#<rates   Negotiable. Call or email.>
+#<additional_info turinglabs>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9664,15 +9665,16 @@ open-source projects.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Timothy N. Tuck>
-<company Pervasive Netwerks>
-<address 25584 Maitland Drive, Hayward, CA 94542, <country-name US>>
-<phone   +1-510-909-1808>
-<email   info@pervasivenetwerks.com>
-<URL     "http://www.pervasivenetwerks.com">
-<rates   $100 per Hour, Negotiable for Non-Profits>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Timothy N. Tuck>
+#<company Pervasive Netwerks>
+#<address 25584 Maitland Drive, Hayward, CA 94542, <country-name US>>
+#<phone   +1-510-909-1808>
+#<email   info@pervasivenetwerks.com>
+#<URL     "http://www.pervasivenetwerks.com">
+#<rates   $100 per Hour, Negotiable for Non-Profits>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -9686,16 +9688,17 @@ open-source projects.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
-<p>
-<name    Kris S. Amundson>
-<company OpenSourcery, LLC>
-<address 4684 SE Johnson Creek Boulevard, Portland OR 97222, <country-name US>>
-<phone   +1-503-684-1437>
-<email   osourcery@opensourcery.com>
-<URL     "http://www.opensourcery.com/">
-<rates   $90.00US/hr, $75.00US/hr non-profits.>
-<additional_info osourcery>
-</p>
+# Result: mail delivery failed, entry disabled.
+#<p>
+#<name    Kris S. Amundson>
+#<company OpenSourcery, LLC>
+#<address 4684 SE Johnson Creek Boulevard, Portland OR 97222, <country-name US>>
+#<phone   +1-503-684-1437>
+#<email   osourcery@opensourcery.com>
+#<URL     "http://www.opensourcery.com/">
+#<rates   $90.00US/hr, $75.00US/hr non-profits.>
+#<additional_info osourcery>
+#</p>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
@@ -10227,11 +10230,11 @@ open-source projects.>
 </p>
 
 # Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. 
+# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Alexander Perry>
 <company PAMurray>
-<address PO Box 927104, San Diego, CA 92192-7104, <country-name US>>
+<address PO Box 7042, Santa Monica, CA 90406-7042, <country-name US>>
 <email	 alex.perry@ieee.org>
 <URL     "http://www.pamurray.com/">
 <rates	 Multiple rates>
