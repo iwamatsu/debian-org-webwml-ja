@@ -22,7 +22,10 @@ tracking system.</p>
 	trigger actions which would ordinarily blocked by the CSRF
 	prevention logic.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-4735">CVE-2012-4735</a>
+<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-6578">CVE-2012-6578</a>,
+    <a href="http://security-tracker.debian.org/tracker/CVE-2012-6579">CVE-2012-6579</a>,
+    <a href="http://security-tracker.debian.org/tracker/CVE-2012-6580">CVE-2012-6580</a>,
+    <a href="http://security-tracker.debian.org/tracker/CVE-2012-6581">CVE-2012-6581</a>
 
 	<p>Several different vulnerabilities in GnuPG processing allow
 	attackers to cause RT to improperly sign outgoing email.</p></li>
@@ -50,4 +53,4 @@ version 4.0.7-2 of the request-tracker4 package.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2567.data"
-# $Id: dsa-2567.wml,v 1.2 2012-10-26 21:20:12 taffit Exp $
+# $Id: dsa-2567.wml,v 1.3 2013/07/25 05:38:24 carnil Exp $
