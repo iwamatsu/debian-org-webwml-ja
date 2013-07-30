@@ -1698,17 +1698,6 @@ rates, it depends on your needs.>
 # Consultant: BR
 # mail sent to check status: 23.02.2013 holger-guest
 <p>
-<name	 Rafael Moraes>
-<address General E Gaspar 1161, Florian&oacute;polis,SC, <country-name BR>>
-<phone   +55 48 8447-7860>
-<email	 rafael@bsd.com.br>
-<rates	 Negoci&aacute;vel>
-<additional_info rafael_moraes>
-</p>
-
-# Consultant: BR
-# mail sent to check status: 23.02.2013 holger-guest
-<p>
 <name	 Clauzio 'KlauX' Perp&eacute;tuo>
 <address Brasilia - DF <country-name BR>>
 <phone   +55-61-9145-5925>
@@ -6001,17 +5990,17 @@ Chennai-600020, <country-name IN>>
 </p>
 
 # Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest.
-# Result: mail delivery failed, entry disabled.
-#<p>
-#<name	 AlphaLab>
-#<company AlphaLab>
-#<address V.le Europa 90/a c.a.p 36075 Montecchio Maggiore (Vicenza), <country-name IT>>
-#<phone	 ++39 346 3900092>
-#<email	 info@alphalab.it>
-#<URL	 "http://www.alphalab.it">
-#<rates	 Consult>
-#</p>
+# data updated: 29.07.2013
+<p>
+<name	 Mattia Zanoni>
+<company ALPHALAB>
+<address Via Francesco Petrarca Ranked # 6, 36075 Montecchio Maggiore (Vicenza), <country-name IT>>
+<phone	 +39-348.9065272>
+<email	 it.info@alphalab.it>
+<URL	 "http://digitalforensics.alphalab.it/opensource.html">
+<URL	 "http://www.alphalab.it">
+<rates	 Consult>
+</p>
 
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest.
