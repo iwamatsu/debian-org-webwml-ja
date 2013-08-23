@@ -12,8 +12,10 @@ version 0.8.8a+dfsg-5+deb7u1.</p>
 
 <p>For the unstable distribution (sid), these problems have been fixed in
 version 0.8.8b+dfsg-2.</p>
+
+<p>We recommend that you upgrade your cacti packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2739.data"
-# $Id: dsa-2739.wml,v 1.1 2013/08/21 20:11:10 gusnan-guest Exp $
+# $Id: dsa-2739.wml,v 1.2 2013/08/22 13:54:10 gusnan-guest Exp $
