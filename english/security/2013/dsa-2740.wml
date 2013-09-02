@@ -17,7 +17,7 @@ cross-site scripting attacks through redirecting to other schemes.</p>
 version 1.2.3-3+squeeze6.</p>
 
 <p>For the stable distribution (wheezy), this problem has been fixed in
-version 1.4.5-1+deb7u1.</p>
+version 1.4.5-1+deb7u2.</p>
 
 <p>For the testing distribution (jessie) and the unstable distribution
 (sid), this problem has been fixed in version 1.5.2-1.</p>
@@ -27,4 +27,4 @@ version 1.4.5-1+deb7u1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2740.data"
-# $Id: dsa-2740.wml,v 1.1 2013/08/23 18:06:27 gusnan-guest Exp $
+# $Id: dsa-2740.wml,v 1.2 2013/09/01 20:28:34 gusnan-guest Exp $
