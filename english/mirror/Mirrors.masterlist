@@ -1565,18 +1565,6 @@ Country: FR France
 Sponsor: Ecole Normale Sup&eacute;rieure de Cachan http://www.ens-cachan.fr/
 IPv6: no
 
-Site: ftp.easynet.be
-Type: leaf
-Archive-architecture: amd64 i386
-Archive-ftp: /debian/
-Archive-http: /ftp/debian/
-Archive-upstream: ftp.nl.debian.org
-Maintainer: Claude Iyi Dogan <claude.iyi.dogan@be.easynet.net>, ftp@be.easynet.net
-Country: BE Belgium
-Location: Brussels
-Sponsor: Easynet Belgium http://www.be.easynet.net/
-IPv6: yes
-
 Site: ftp.litnet.lt
 Alias: debina.ktu.lt
 Type: Push-Secondary
@@ -3285,12 +3273,12 @@ IPv6: no
 Site: debian.ihug.co.nz
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
 Archive-upstream: ftp.au.debian.org
 Security-architecture: amd64 armel hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
-Security-ftp: /debian-security/
-Security-http: /debian-security/
+X-Security-ftp: /debian-security/
+X-Security-http: /debian-security/
 Security-upstream: ftp.se.debian.org
 Maintainer: sainesh singh <ftpmaster@ihug.co.nz>
 Country: NZ New Zealand
@@ -7998,8 +7986,8 @@ Sponsor: Eeatera http://eastera.tj/
 Site: mirror.pmf.kg.ac.rs
 Type: leaf
 Archive-architecture: amd64 armhf i386 kfreebsd-amd64 s390x
-X-Archive-ftp: /debian/
-X-Archive-http: /debian/
+Archive-ftp: /debian/
+Archive-http: /debian/
 X-CDImage-ftp: /debian-cd/
 X-CDImage-http: /debian-cd/
 IPv6: no
