@@ -297,8 +297,18 @@ Sponsor: dotsrc.org - Open Source Software Project Hosting http://dotsrc.org
 IPv6: yes
 
 Site: ftp.it.debian.org
+Includes: vlad-tepes.bofh.it
+Type: Push-Secondary
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-upstream: ftp2.de.debian.org, ftp.uk.debian.org
+Country: IT Italy
+IPv6: yes
+
+Site: vlad-tepes.bofh.it
 Alias: ftp.bofh.it
-Alias: vlad-tepes.bofh.it
 Type: Push-Secondary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-ftp: /debian/
@@ -1535,16 +1545,6 @@ Maintainer: Noel Koethe <noel@debian.org>
 Country: DE Germany
 Location: Bonn
 Sponsor: Studentenwerk Bonn http://www.stw-bonn.de
-IPv6: yes
-
-Site: ftp.eutelia.it
-Type: leaf
-X-Archive-architecture: amd64 i386 kfreebsd-amd64 kfreebsd-i386
-X-Archive-ftp: /pub/Debian_Mirror/
-X-Archive-upstream: ftp.de.debian.org
-Maintainer: Max Gargani <ftpadmin@eutelia.com>
-Country: IT Italy
-Sponsor: eutelia s.p.a. http://www.eutelia.com/
 IPv6: yes
 
 Site: debian.ens-cachan.fr
@@ -4223,7 +4223,18 @@ Bandwidth: 100Mbps
 IPv6: no
 
 Site: ftp.es.debian.org
-Alias: ulises.hostalia.com
+Includes: ulises.hostalia.com
+Type: Push-Primary
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mipsel powerpc s390 sparc
+Archive-upstream: ftp.nl.debian.org
+Archive-method: push
+Country: ES Spain
+IPv6: no
+
+Site: ulises.hostalia.com
 Type: Push-Primary
 Archive-ftp: /debian/
 Archive-http: /debian/
@@ -4319,18 +4330,6 @@ Updates: 4 times a day (?)
 Bandwidth: 55Mbit/s. Peered with some Internet2 sites.
 IPv6: no
 X-Comment: machien offline; spaillar 6 Jun 2009
-
-Site: mirror.nttu.edu.tw
-Type: Push-Secondary
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-upstream: ftp.tw.debian.org
-Maintainer: Shan-Bin Chen <dreamerwolf.tw@gmail.com>
-Country: TW Taiwan
-Location: Tai-Tung
-Bandwidth: 1Gbit/s.
-IPv6: no
 
 Site: debian.cruisix.net
 Type: Push-Secondary
