@@ -19,7 +19,7 @@ IPv6: no
 
 Site: security.debian.org
 Type: GeoDNS
-Security-architecture: amd64 armel hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
+Security-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 IPv6: yes
@@ -443,7 +443,26 @@ Sponsor: Rechenzentrum der TU-Clausthal http://www.rz.tu-clausthal.de/
 IPv6: no
 
 Site: ftp.at.debian.org
-Alias: debian.sil.at
+Includes: debian.sil.at
+Type: Push-Secondary
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-upstream: syncproxy.eu.debian.org
+Archive-method: push
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: syncproxy3.eu.debian.org
+Backports-method: push
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+Country: AT Austria
+IPv6: yes
+
+Site: debian.sil.at
 Alias: ftp.debian.at
 Type: Push-Secondary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
@@ -3276,7 +3295,7 @@ Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfree
 X-Archive-ftp: /debian/
 X-Archive-http: /debian/
 Archive-upstream: ftp.au.debian.org
-Security-architecture: amd64 armel hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
+Security-architecture: amd64 armel i386 ia64 mips mipsel powerpc s390 sparc
 X-Security-ftp: /debian-security/
 X-Security-http: /debian-security/
 Security-upstream: ftp.se.debian.org
@@ -5684,29 +5703,6 @@ Maintainer: Anton Slobodskoy <root@watson.zp.ua>
 Country: UA Ukraine
 Sponsor: WatsonHome http://watson.zp.ua/
 
-Site: mirror.ayous.org
-Alias: sinclair.farm.ftbfs.de
-Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
-Archive-upstream: kassia.debian.org
-Archive-method: push
-X-Backports-ftp: /debian-backports/
-X-Backports-http: /debian-backports/
-X-Backports-rsync: debian-backports/
-Volatile-http: /debian-volatile/
-Volatile-ftp: /debian-volatile/
-Volatile-rsync: debian-volatile/
-Volatile-upstream: kassia.debian.org
-Volatile-method: push
-IPv6: no
-Maintainer: Joerg Jaspert <joerg@debian.org>, Martin Zobel-Helas <zobel@debian.org>
-Country: DE Germany
-Location: Darmstadt
-Sponsor: MAN-DA http://www.man-da.de/
-
 Site: ftp.cse.yzu.edu.tw
 Alias: ftp.oss.tw
 Type: leaf
@@ -6261,7 +6257,7 @@ Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
 Backports-upstream: syncproxy3.eu.debian.org
 Backports-method: push
-Security-architecture: amd64 armel hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
+Security-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
 Security-ftp: /debian-security/
 Security-http: /debian-security/
 Security-rsync: debian-security/
@@ -6361,7 +6357,7 @@ CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 CDImage-upstream: ftp.tw.debian.org
-X-Security-architecture: amd64 armel hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
+X-Security-architecture: amd64 armel i386 ia64 mips mipsel powerpc s390 sparc
 X-Security-ftp: /debian-security/
 X-Security-http: /debian-security/
 X-Security-rsync: debian-security/
