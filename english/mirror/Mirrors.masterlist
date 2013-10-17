@@ -17,6 +17,12 @@ Security-rsync: debian-security/
 Country: NL Netherlands
 IPv6: no
 
+Site: ftp.debian-ports.org
+Type: Origin
+Ports-rsync: debian-ports/
+Country: CA Canada
+IPv6: no
+
 Site: security.debian.org
 Type: GeoDNS
 Security-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
@@ -27,6 +33,22 @@ Security-upstream: security-master.debian.org
 Comment: Automatically selects geographically close mirror
  of security update archive.
  Details: http://dns.debian.org/git/dsa-geodomains.git/
+
+Site: http.debian.net
+Type: GeoDNS
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Airchive-http: /debian/
+Backports-http: /debian-backports/
+Security-http: /debian-security/
+Old-http: /debian-archive/
+Archive-upstream: ftp-master.debian.org
+IPv6: yes
+Maintainer: Raphael Geissert <geissert@debian.org>, mirrors@debian.org
+Comment: HTTP redirector that uses the geo and network location of the
+ user and the mirrors, the architecture of the requested files, IP
+ address family, the availability and freshness of the mirrors, and a
+ few other things. Details: http://http.debian.net
+Sponsor: http://http.debian.net/
 
 Site: cdn.debian.net
 Type: GeoDNS
@@ -305,7 +327,7 @@ Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp2.de.debian.org, ftp.uk.debian.org
 Country: IT Italy
-IPv6: yes
+IPv6: no
 
 Site: vlad-tepes.bofh.it
 Alias: ftp.bofh.it
@@ -514,6 +536,11 @@ Volatile-ftp: /debian-volatile/
 Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
 Volatile-upstream: kassia.debian.org
+Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-ftp: /debian-ports/
+Ports-http: /debian-ports/
+Ports-rsync: debian-ports/
+Ports-upstream: ftp.debian-ports.org
 Maintainer: Adam Lackorzynski <adam@os.inf.tu-dresden.de>, ftpadm@inf.tu-dresden.de
 Country: DE Germany
 Location: Dresden
@@ -2060,7 +2087,7 @@ Maintainer: Igor Briski <igor.briski@iskon.hr>
 Country: HR Croatia
 Location: Zagreb
 Sponsor: Iskon Internet d.d. http://www.iskon.hr/
-IPv6: yes
+IPv6: no
 
 Site: debian.tu-bs.de
 Type: Push-Secondary
@@ -2279,7 +2306,7 @@ Country: GR Greece
 Location: Athens
 Sponsor: National Technical University of Athens http://www.ntua.gr/
 Bandwidth: 1Gbps
-IPv6: yes
+IPv6: no
 
 Site: debian.osuosl.org
 Includes: ftp-nyc.osuosl.org ftp-chi.osuosl.org
@@ -3381,6 +3408,11 @@ Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
 Volatile-upstream: volatile-master.debian.org
 Volatile-method: push
+Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-ftp: /debian-ports/
+Ports-http: /debian-ports/
+Ports-rsync: debian-ports/
+Ports-upstream: ftp.debian-ports.org
 Maintainer: Jaeho Shin <ftp@ftp.kaist.ac.kr>
 Country: KR Korea
 Location: Daejeon
@@ -3563,6 +3595,11 @@ CDImage-rsync: debian-cd/
 IPv6: no
 Archive-upstream: ftp.tw.debian.org
 CDImage-upstream: cdimage.debian.org
+Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-ftp: /debian-ports/
+Ports-http: /debian-ports/
+Ports-rsync: debian-ports/
+Ports-upstream: ftp.debian-ports.org
 Updates: push
 Maintainer: L.E. Kao <mirror@debian.nctu.edu.tw>
 Country: TW Taiwan
@@ -4738,7 +4775,7 @@ Location: Zurich
 Sponsor: University of Zurich, Communication Systems Group http://www.csg.uzh.ch/
 Updates: once
 Bandwidth: 1Gbit/s
-IPv6: yes
+IPv6: no
 
 Site: ftp.sk.debian.org
 Type: Push-Primary
@@ -4890,6 +4927,11 @@ Old-ftp: /debian-archive/
 Old-http: /debian-archive/
 Old-rsync: debian-archive/
 Old-upstream: archive.debian.org
+Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-ftp: /debian-ports/
+Ports-http: /debian-ports/
+Ports-rsync: debian-ports/
+Ports-upstream: ftp.debian-ports.org
 Maintainer: mirrors@fe.up.pt
 Country: PT Portugal
 Location: Porto
@@ -5329,7 +5371,7 @@ Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.nl.debian.org
 Archive-method: push
-IPv6: yes
+IPv6: no
 Country: BE Belgium
 
 Site: mirror.as35701.net
@@ -5358,7 +5400,7 @@ Security-ftp: /debian-security/
 Security-http: /debian-security/
 Security-rsync: /debian-security/
 Security-upstream: security.debian.org
-IPv6: yes
+IPv6: no
 Maintainer: Kurt Roeckx <kurt@roeckx.be>
 Country: BE Belgium
 Sponsor: Globalaxs http://www.globalaxs.com/
@@ -6796,6 +6838,11 @@ Volatile-http: /debian-volatile/
 Volatile-rsync: debian-volatile/
 Volatile-upstream: kassia.debian.org
 Volatile-method: push
+Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-ftp: /debian-ports/
+Ports-http: /debian-ports/
+Ports-rsync: debian-ports/
+Ports-upstream: ftp.debian-ports.org
 IPv6: yes
 Updates: push
 Maintainer: Jean-Ann Guegan <noc@advalem.net>
@@ -7858,7 +7905,7 @@ Type: leaf
 Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 mips
 Archive-http: /debian/
 Archive-rsync: debian/
-IPv6: yes
+IPv6: no
 Archive-upstream: ftp.cz.debian.org
 Updates: once
 Maintainer: Tomas Kasparek <kasparek@fit.vutbr.cz>
@@ -8872,3 +8919,12 @@ Maintainer: IranRepo <debian@iranrepo.ir>
 Country: IR Iran, Islamic Republic of
 Location: Kerman
 Bandwidth: 140Mbps
+
+Site: opensource.exmeritus.com
+Type: Push-Primary
+Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
+Ports-http: /mirror/debian-ports/
+Ports-rsync: debian-ports/
+Ports-upstream: ftp.debian-ports.org
+Country: US United States
+IPv6: no
