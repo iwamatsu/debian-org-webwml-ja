@@ -1,6 +1,6 @@
-#use wml::debian::projectnews::header PUBDATE="2013-11-13" SUMMARY="Bits from the DPL, a new service to help making Debian bootstrappable, MIPS64EL porter box available, last days to donate to Debian Outreach Program for Women"
+#use wml::debian::projectnews::header PUBDATE="2013-11-13" SUMMARY="Bits from the DPL, a new service to help in making Debian bootstrappable, Mips64el porter box available, last days to donate to Debian Outreach Program for Women"
 
-# $Id: index.wml,v 1.2 2013/11/20 15:23:41 boutil Exp $
+# $Id: index.wml,v 1.4 2013/11/21 22:31:57 scottmir-guest Exp $
 # $Rev: 5290 $
 # Status: [frozen]
 
@@ -38,7 +38,7 @@ schedule of the DPL helpers meetings</a> for the next few weeks.
 
 <p>
 Johannes Schauer
-<href="http://blog.mister-muffin.de/2013/11/05/announcing-bootstrap.debian.net/">announced</a>
+<a href="http://blog.mister-muffin.de/2013/11/05/announcing-bootstrap.debian.net/">announced</a>
 the availability of a new service,
 <a href="http://bootstrap.debian.net/">bootstrap.debian.net</a>, which presents
 in a human readable way some useful information about source packages that need
