@@ -5056,10 +5056,11 @@ prices during summer holidays.>
 <h1><a name="GT"><country-name GT>:</a></h1>
 
 # Consultant: GT
-# mail sent to check status: 07.04.2013 holger-guest. 
+# mail sent to check status: 07.04.2013 holger-guest. Result: still active, entry updated.
 <p>
 <name	 Jorge Luis Andrade Escobar>
-<address ITM, <country-name GT>>
+<company ITM>
+<address <country-name GT>>
 <phone	 +502-5526-4101>
 <phone   +502-5203-6891>
 <email	 jandrade@i-t-m.com>
@@ -6583,6 +6584,7 @@ Jalan Klang Lama 58200, Kuala Lumpur, <country-name MY>>
 
 # Consultant: MX
 # mail sent to check status: 16.05.2013 holger-guest.
+# Result: no answer, entry disabled.
 #<p>
 #<company M&eacute;lix - Especialistas en Software Libre>
 #<address Zapopan, Jalisco, <country-name MX>>
@@ -10173,6 +10175,7 @@ projects negotiable.>
 
 # Consultant: US
 # mail sent to check status: 16.07.2013 holger-guest. 
+# Result: no answer, entry disabled.
 #<p>
 #<name    Pete Billson>
 #<company ELB Internet Services>
