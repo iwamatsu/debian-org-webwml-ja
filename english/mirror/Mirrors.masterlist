@@ -1002,7 +1002,7 @@ Archive-upstream: ftp.de.debian.org
 X-CDImage-ftp: /debian-cd/
 X-CDImage-http: /debian-cd/
 X-CDImage-rsync: debian-cd/
-Maintainer: Roy Hiu-yeung Chan <hychan@debian.org.hk>, Anthony Wong <ypwong@debian.org.hk>, ypwong@gmail.com, Roy Hiu-yeung Chan <roy.the.geek@gmail.com>
+Maintainer: Roy Hiu-yeung Chan <hychan@debian.org.hk>, Anthony Wong <ypwong@debian.org.hk>, ypwong@gmail.com, Roy Hiu-yeung Chan <roy.the.geek@gmail.com>, foka@debian.org
 Country: HK Hong Kong
 Location: Hong Kong
 Sponsor: Hong Kong Debian enthusiasts http://www.debian.org.hk/
@@ -8893,4 +8893,18 @@ Maintainer: David Hill <mirrors@as24220.net>
 Country: AU Australia
 Location: Melbourne, Australia
 Sponsor: Hostcentral http://www.hostcentral.net.au/
+Bandwidth: 1Gbps
+
+Site: debian.os6.org
+Aliases: debian.os6.org
+Type: leaf
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+IPv6: yes
+CDImage-upstream: mirrors.kernel.org
+Updates: four
+Maintainer: Shaun <debianmirror@os6.org>
+Country: US United States
+Location: Irvine, CA
+Sponsor: http://os6.org http://os6.org
 Bandwidth: 1Gbps
