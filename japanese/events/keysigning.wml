@@ -1,6 +1,6 @@
 #use wml::debian::template title="鍵署名 (Keysigning)"
-# $Id: keysigning.wml,v 1.9 2009-08-22 11:08:06 osamu Exp $
-#use wml::debian::translation-check translation="1.12"
+# $Id: keysigning.wml,v 1.10 2013/12/25 20:43:50 spaillard Exp $
+#use wml::debian::translation-check translation="1.13"
 
 <p>トレードショウやカンファレンスではたくさんの開発者たちが集まりますから、
 他の人に自分の GnuPG 鍵に署名してもらい、
@@ -123,7 +123,7 @@ ASCII 形式で鍵をエクスポートするので、
 以下のコマンドを用いれば、これを Debian keyring に追加できます。
 
 <pre>
-       gpg --import mysigned.key
+       gpg --import --import-options merge-only mysigned.key
        gpg --keyserver keyring.debian.org --send-keys <var>&lt;your key id&gt;</var>
 </pre>
 

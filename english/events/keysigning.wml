@@ -1,5 +1,5 @@
 #use wml::debian::template title="Keysigning"
-# $Id: keysigning.wml,v 1.12 2005-07-01 01:25:27 damog Exp $
+# $Id: keysigning.wml,v 1.13 2013/12/25 20:43:47 spaillard Exp $
 
 <p>Since a lot of developers meet at trade shows or conferences they
 have become a nice way to get other people sign ones GnuPG key and
@@ -114,7 +114,7 @@ and get someone to sign the wrong key.
      keyring by doing:
 
 <pre>
-       gpg --import mysigned.key
+       gpg --import --import-options merge-only mysigned.key
        gpg --keyserver keyring.debian.org --send-keys <var>&lt;your key id&gt;</var>
 </pre>
 
