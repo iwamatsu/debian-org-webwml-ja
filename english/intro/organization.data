@@ -358,20 +358,6 @@
     <member>Stefan Fritsch
     <member>Thijs Kinkhorst
     <member>Yves-Alexis Perez
-  <job <a href="http://secure-testing-master.debian.net/"><gettext domain="organization">Testing Security Team</gettext></a>> <genericemail secure-testing-team@lists.alioth.debian.org>
-    <member>Neil McGovern
-    <member>Micah Anderson
-    <member>Florian Weimer
-    <member>Stefan Fritsch
-    <member>Steffen Joeris
-    <member>Nico Golde
-    <member>Raphael Geissert
-    <member>Giuseppe Iuculano
-  <job <a href="$(HOME)/security/audit/"><gettext domain="organization">Security Audit Project</gettext></a>> <genericemail debian-security@lists.debian.org>
-    <member>Steve Kemp
-    <member>Ulf H&auml;rnhammar
-    <member>Swaraj Bontula
-    <member>Javier Fern&aacute;ndez-Sanguino
   <job <a href="$(HOME)/devel/website/"><gettext domain="organization">Web Pages</gettext></a>> <genericemail debian-www@lists.debian.org>
     <current>David Pr&eacute;vot
     <current>Gerfried Fuchs
@@ -464,10 +450,8 @@
   <job <a href="http://wiki.debian.org/DebianEdu">Debian Edu</a> — <gettext domain="organization">Debian for education</gettext>>
     <genericemail debian-edu@lists.debian.org>
     <member>Petter Reinholdtsen
-    <member>Morten Werner Forsbring
     <member>Holger Levsen
     <member>Ronny Aasen
-    <member>Steffen Joeris
   <job <a href="$(HOME)/devel/debian-lex/">Debian-Lex</a> — <gettext domain="organization">Debian in legal offices</gettext>>
     <genericemail debian-lex@lists.debian.org>
     <member>Jeremy Malcolm
