@@ -4,7 +4,7 @@
 was susceptible to denial of service and retransmission of DTLS messages
 was fixed. In addition this update disables the insecure Dual_EC_DRBG
 algorithm (which was unused anyway, see
-<a href="http://marc.info/?l=openssl-announce&m=138747119822324&w=2">http://marc.info/?l=openssl-announce&m=138747119822324&w=2</a> for further
+<a href="http://marc.info/?l=openssl-announce&amp;m=138747119822324&amp;w=2">http://marc.info/?l=openssl-announce&amp;m=138747119822324&amp;w=2</a> for further
 information) and no longer uses the RdRand feature available on some
 Intel CPUs as a sole source of entropy unless explicitly requested.</p>
 
@@ -19,4 +19,4 @@ version 1.0.1e-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2833.data"
-# $Id: dsa-2833.wml,v 1.2 2014/01/01 21:26:32 tvincent-guest Exp $
+# $Id: dsa-2833.wml,v 1.3 2014/01/03 23:11:06 geissert Exp $
