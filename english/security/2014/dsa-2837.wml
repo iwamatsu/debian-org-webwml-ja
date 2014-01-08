@@ -1,6 +1,6 @@
 <define-tag description>programming error</define-tag>
 <define-tag moreinfo>
-<p>Anton Johannson discovered that an invalid TLS handshake package could
+<p>Anton Johansson discovered that an invalid TLS handshake package could
 crash OpenSSL with a NULL pointer dereference.</p>
 
 <p>The oldstable distribution (squeeze) is not affected.</p>
@@ -16,4 +16,4 @@ version 1.0.1f-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2837.data"
-# $Id: dsa-2837.wml,v 1.1 2014/01/07 21:45:10 tvincent-guest Exp $
+# $Id: dsa-2837.wml,v 1.2 2014/01/08 06:55:40 gusnan-guest Exp $
