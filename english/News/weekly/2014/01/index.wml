@@ -1,7 +1,7 @@
 #use wml::debian::projectnews::header PUBDATE="2014-01-06" SUMMARY="SteamOS, a game oriented Debian derivative, mini-DebConf in Phnom Penh, mini-DebConf in Barcelona, Greens/EFA Group in the European Parliament to use Debian for email encryption, an automatic list of Debian contributors, bits from the DPL, bits from the Release Team"
 
 
-# $Id: index.wml,v 1.3 2014/01/07 08:24:38 kaare Exp $
+# $Id: index.wml,v 1.4 2014/01/13 20:43:13 scottmir-guest Exp $
 # $Rev: 5363 $
 # Status: [freeze]
 
@@ -129,7 +129,7 @@ for this team.
 <p>
 Niels Thykier sent some
 <a href="http://lists.debian.org/debian-devel-announce/2013/12/msg00008.html">bits
-from the Release Time</a>, with a precise timeline of events
+from the Release Team</a>, with a precise timeline of events
 that need to happen before the freeze for the next stable Debian release, Jessie,
 which is scheduled for November 5 2014.
 He also mentioned that the results from <a href="http://piuparts.debian.org/">piuparts</a>,
