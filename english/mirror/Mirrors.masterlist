@@ -64,7 +64,7 @@ Comment: Automatically selects geographically close, load balanced mirror
 
 Site: ftp.us.debian.org
 Alias: http.us.debian.org
-Includes: mirrors.kernel.org debian.osuosl.org debian.lcs.mit.edu mirror.mycre.ws debian.gtisc.gatech.edu
+Includes: mirrors.kernel.org debian.osuosl.org debian.csail.mit.edu mirror.mycre.ws debian.gtisc.gatech.edu
 Type: Push-Primary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-http: /debian/
@@ -1726,15 +1726,15 @@ Location: S&atilde;o Paulo
 Sponsor: University of Sao Paulo State - AI http://www.unesp.br/ai
 IPv6: yes
 
-Site: debian.lcs.mit.edu
-Alias: debian.csail.mit.edu
+Site: debian.csail.mit.edu
+Alias: debian.lcs.mit.edu
 Type: Push-Primary
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: syncproxy.wna.debian.org
-Maintainer: Noah Meyerhans <noahm@lcs.mit.edu>
+Maintainer: Steve Jahl <jahl@csail.mit.edu>, dsa-contact@csail.mit.edu
 Country: US United States
 Location: Cambridge, Massachusetts
 Sponsor: MIT Computer Science and Artificial Intelligence Laboratory http://www.csail.mit.edu/
@@ -3487,20 +3487,25 @@ Location: Curitiba
 Sponsor: Pontif&iacute;cia Universidade Cat&oacute;lica do Paran&aacute; http://www.pucpr.br/
 IPv6: no
 
-Site: debian.mines.inpl-nancy.fr
-Alias: ftp.mines.inpl-nancy.fr
+Site: debian.univ-lorraine.fr
+Alias: debian.mines.inpl-nancy.fr
 Type: Push-Secondary
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-upstream: ftp.fr.debian.org
+Archive-method: push 
+Backports-ftp: /debian-backports/                                                                                                                         
+Backports-http: /debian-backports/
+Backports-upstream: ftp.fr.debian.org
 CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-architecture: amd64 i386 multi-arch
-Archive-upstream: ftp.fr.debian.org
-Maintainer: Arnaud Gavara <ftp@mines.inpl-nancy.fr>
+CDImage-upstream: ftp.fr.debian.org
+Maintainer: DN Infra <debian-contact@univ-lorraine.fr>
 Country: FR France
 Location: Nancy
-Sponsor: Ecole Nationale Superieure des Mines de Nancy http://www.mines.inpl-nancy.fr/
+Sponsor: Université de Lorraine http://www.univ-lorraine.fr/
 Comment: Connected via two 100Mbit NICs.
 IPv6: no
 
@@ -7036,15 +7041,18 @@ Site: debian.cc.lehigh.edu
 Type: Push-Secondary
 Archive-architecture: amd64 i386
 Archive-http: /debian/
+Archive-rsync: debian/
 Archive-upstream: debian.lcs.mit.edu
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+Backports-upstream: ftp.at.debian.org
 IPv6: no
-X-Backports-http: /debian-backports/
-X-Backports-upstream: mirror.csclub.uwaterloo.ca
-Updates: once
-Maintainer: Keith Erekson <keith.erekson@gmail.com>, keith@lehigh.edu, hostmaster@lehigh.edu
+Updates: push
+Maintainer: Keith Erekson <keith.erekson@gmail.com>, hostmaster@lehigh.edu
 Country: US United States
-Location: Bethlehem, PA (USA)
-Comment: 300Mbps, Internet2
+Location: Bethlehem, Pennsylvania
+Sponsor: Lehigh University http://www.lehigh.edu/
+Comment: 1Gbps, multiple ISPs including Internet2
 
 Site: mirror.buildd.net
 Type: Push-Secondary
@@ -8970,3 +8978,19 @@ Location: Surabaya, East Java, Indonesia
 Sponsor: PT Rahajasa Media Internet (RADNET) http://www.rad.net.id
 Bandwidth: 1Gbps
 Comment: 100Mbps international
+
+Site: debian.asis.io
+Aliases: ftp.asis.io
+Type: leaf
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+IPv6: no
+Archive-upstream: ftp2.de.debian.org
+Updates: four
+Maintainer: factoreal <factoreal@riseup.net>
+Country: IR Iran, Islamic Republic of
+Location: Tehran, Iran
+Sponsor: ASIS Security Group http://asis.io
+Bandwidth: 100Mbps
