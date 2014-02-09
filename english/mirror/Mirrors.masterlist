@@ -4935,9 +4935,9 @@ IPv6: no
 
 Site: cesium.di.uminho.pt
 Type: leaf
-Archive-ftp: /pub/debian/
-Archive-http: /pub/debian/
-Archive-rsync: debian/
+X-Archive-ftp: /pub/debian/
+X-Archive-http: /pub/debian/
+X-Archive-rsync: debian/
 Archive-upstream: ftp.ch.debian.org
 Archive-architecture: amd64 i386
 Maintainer: Ruben Fonseca <caos@di.uminho.pt>
@@ -6695,8 +6695,8 @@ Bandwidth: 1Gbps
 Site: mirror.transact.net.au
 Type: leaf
 Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
-Archive-ftp: /debian/
-Archive-http: /debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
 IPv6: no
 Archive-upstream: mirror.linux.org.au
 Updates: once
@@ -6704,6 +6704,7 @@ Maintainer: Network Operations <noc@transact.net.au>
 Country: AU Australia
 Location: Canberra, ACT, Australia
 Sponsor: TransACT Communications http://www.transact.com.au/
+Comment: mirror is gone. iinet's mirror is in the same network
 
 Site: mirrors.modwest.com
 Type: leaf
@@ -6786,7 +6787,7 @@ Bandwidth: 1Gbps
 
 Site: mirrors.bloomu.edu
 Type: leaf
-Archive-architecture: amd64 armel armhf i386 ia64 kfreebsd-amd64 kfreebsd-i386 powerpc
+Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 powerpc
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
