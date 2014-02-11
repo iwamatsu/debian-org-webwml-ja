@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-02-10" SUMMARY="Call for projects and mentors for Debian GSoC 2014, bits from the Release Team, reports from recent Debian Sprints"
 
-# $Id: index.wml,v 1.1 2014/02/10 11:26:23 boutil Exp $
+# $Id: index.wml,v 1.2 2014/02/11 07:06:37 scottmir-guest Exp $
 # $Rev: 5414 $
 # Status: [content-frozen]
 
@@ -40,7 +40,7 @@ their mailing list or on their IRC channel, #debian-soc on irc.debian.org.
 
 <p>
 Niels Thykier sent some
-<a href="http://lists.debian.org/debian-devel/2014/01/msg00008.html">bits
+<a href="http://lists.debian.org/debian-devel-announce/2014/01/msg00008.html">bits
 from the Release Team</a>.
 The Release Team recently reviewed the status of the architectures in sid,
 and decided that
