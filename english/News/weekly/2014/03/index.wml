@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-02-10" SUMMARY="Call for projects and mentors for Debian GSoC 2014, bits from the Release Team, reports from recent Debian Sprints"
 
-# $Id: index.wml,v 1.2 2014/02/11 07:06:37 scottmir-guest Exp $
+# $Id: index.wml,v 1.3 2014/02/12 15:00:17 boutil Exp $
 # $Rev: 5414 $
 # Status: [content-frozen]
 
@@ -147,14 +147,9 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-One applicant has been
-<a href="https://nm.debian.org/public/nmlist#done">accepted</a>
-	as a Debian Maintainer, and
-seven people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+Seven people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
-#DM
-Joao Eriberto Mota Filho,
 #DC
 Pierre Rudloff,
 Adam Sampson,
@@ -163,7 +158,7 @@ Dariusz Dwornikowski,
 Raoul Snyman,
 Iain R. Learmonth,
 and
-Joseph HERLANT
+Joseph Herlant
 	into our project!</p>
 
 
