@@ -9,10 +9,10 @@ Exposures project identifies the following issues:</p>
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2014-0978">CVE-2014-0978</a>
 
     <p>It was discovered that user-supplied input used in the yyerror()
-    function in lib/cgraph/scan.l is not bound-checked before beeing
+    function in lib/cgraph/scan.l is not bound-checked before being
     copied into an insufficiently sized memory buffer. A
     context-dependent attacker could supply a specially crafted input
-    file containing a long line to cause a stack-based buffer overlow,
+    file containing a long line to cause a stack-based buffer overflow,
     resulting in a denial of service (application crash) or potentially
     allowing the execution of arbitrary code.</p></li>
 
