@@ -3321,16 +3321,30 @@ IPv6: no
 
 Site: lug.mtu.edu
 Type: leaf
-Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
-Archive-upstream: ftp.egr.msu.edu
-Maintainer: Peter Corbett <pwcorbet@mtu.edu>
-Country: US United States
-Location: Houghton, Michigan
-Sponsor: Michigan Tech Linux Users Group http://lug.mtu.edu/
+Backports-ftp: /debian-backports/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+Old-ftp: /debian-archive/
+Old-http: /debian-archive/
+Old-rsync: debian-archive/
 IPv6: yes
+Archive-upstream: debian.gtisc.gatech.edu
+Backports-upstream: debian.gtisc.gatech.edu
+CDImage-upstream: mirror.us.leaseweb.net
+Updates: four
+Maintainer: MTU LUG <lug-l@mtu.edu>
+Country: US United States
+Location: Michigan Technological University Houghton, MI
+Sponsor: Michigan Technological University http://mtu.edu
+Comment: On MERIT Network and Internet2
+Bandwidth: 100Mbps
 
 Site: ftp.ua.debian.org
 Includes: debian.org.ua
@@ -3447,13 +3461,21 @@ Updates: once
 IPv6: no
 
 Site: ftp.corbina.net
+Alias: mirror.corbina.net
 Type: leaf
-Archive-architecture: amd64 i386 ia64
+Archive-architecture: amd64 i386
 Archive-ftp: /debian/
-CDImage-ftp: /debian-cd/
+Archive-http: /debian/
+Archive-rsync: debian/
 Archive-upstream: ftp.de.debian.org
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+CDImage-upstream: cdimage.debian.org
+IPv6: yes
+Updates: four
 Maintainer: www.corbina.net <support@corbina.net>
-Country: RU Russia
+Country: RU Russian Federation
 Location: Moscow
 Sponsor: Corbina telecom http://www.corbina.ru/
 IPv6: no
@@ -3901,9 +3923,9 @@ Updates: four
 Maintainer: Chris Kuehn and Daniel Lewart <cites-cosmos@illinois.edu>
 Country: US United States
 Location: Urbana, IL
-Sponsor: University of Illinois http://illinois.edu/
+Sponsor: University of Illinois CITES http://cosmos.cites.illinois.edu/
 IPv6: no
-Bandwidth: 10Mbps
+Bandwidth: 100Mbps
 
 Site: mirrors.telianet.dk
 Alias: mirrors.dk.telia.net
@@ -8210,7 +8232,7 @@ Archive-upstream: ftp.br.debian.org
 Archive-method: push
 IPv6: no
 Updates: push
-Maintainer: Budiwijaya <budiw_1@yahoo.com>
+Maintainer: Budiwijaya <budiw_1@yahoo.com>, mirror-admin@ubaya.ac.id
 Country: ID Indonesia
 Location: Surabaya, Indonesia
 Sponsor: Universitas Surabaya http://www.ubaya.ac.id
