@@ -56,7 +56,8 @@
 
     <vproposer />
     <p>Wouter Verhelst [<email wouter@debian.org>]
-      [<a href='http://lists.debian.org/debian-vote/2014/02/msg00002.html'>text of proposal</a>]
+	[<a href='http://lists.debian.org/debian-vote/2014/02/msg00002.html'>text of proposal</a>]
+	[<a href='http://lists.debian.org/debian-vote/2014/03/msg00149.html'>Accepting amendement</a>]
     </p>
 
     <vseconds />
@@ -71,14 +72,11 @@
 	<li>Lars Wirzenius [<email lars@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00146.html'>mail</a>] </li>
     </ol>
     <vtext />
-	<h3>Choice 1: DPL can update, replace mailling list code of conduct</h3>
+	<h3>Choice 1: Accept CoC, DPL can update it</h3>
 <ol>
 <li>The Debian project decides to accept a code of conduct for
    participants to its mailinglists, IRC channels, and other modes of
    communication within the project.
-
-<li>The initial text of this code of conduct replaces the "mailinglist
-   code of conduct" at http://www.debian.org/MailingLists/#codeofconduct
 
 <li>Updates to this code of conduct should be made by the DPL or the
    DPL's delegates after consultation with the project, or by the Debian
@@ -89,7 +87,11 @@
 	<hr />
 
     <vamendmentproposera />
-    <p>Neil McGovern [<email neilm@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00113.html'>mail</a>] </p>
+    <p>Neil McGovern [<email neilm@debian.org>]
+	[<a href='http://lists.debian.org/debian-vote/2014/03/msg00113.html'>Text of original amendements</a>]
+	[<a href='http://lists.debian.org/debian-vote/2014/03/msg00160.html'>Accepting amendements</a>]
+	[<a href='http://lists.debian.org/debian-vote/2014/03/msg00166.html'>confirm accepting amendements</a>]
+    </p>
 
     <vamendmentsecondsa />
     <ol>
@@ -101,48 +103,16 @@
     </ol>
 
     <vamendmenttexta />
-	<h3>Choice 2: DPL can update, don't replace mailinglist code of conduct</h3>
+	<h3>Choice 2: Accept CoC, updates via GR</h3>
 <ol>
 <li>The Debian project decides to accept a code of conduct for
    participants to its mailinglists, IRC channels, and other modes of
    communication within the project.
 
-<li>Updates to this code of conduct should be made by the DPL or the
-   DPL's delegates after consultation with the project, or by the Debian
-   Developers as a whole through the general resolution procedure.
-
-<li>The initial text of the code of conduct follows, in markdown format.
-</ol>
-
-It adds the following text at the end of the initial text:
-<pre>
-- The [Mailing list code of
-  conduct](http://www.debian.org/MailingLists/#codeofconduct) is useful for
-  advice specific to Debian mailing lists
-</pre>
-	<hr />
-
-    <vamendmentproposerb />
-    <p>Neil McGovern [<email neilm@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00113.html'>mail</a>] </p>
-
-    <vamendmentsecondsb />
-    <ol>
-	<li>Thijs Kinkhorst [<email thijs@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00115.html'>mail</a>] </li>
-	<li>Paul Tagliamonte [<email paultag@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00116.html'>mail</a>] </li>
-	<li>Sylvestre Ledru [<email sylvestre@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00120.html'>mail</a>] </li>
-	<li>Stuart Prescott [<email stuart@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00136.html'>mail</a>] </li>
-	<li>Lars Wirzenius [<email lars@debian.org>] [<a href='http://lists.debian.org/debian-vote/2014/03/msg00146.html'>mail</a>] </li>
-    </ol>
-
-    <vamendmenttextb />
-	<h3>Choice 3: Updates should be done by GR, replace mailinglist code of conduct</h3>
-<ol>
-<li>The Debian project decides to accept a code of conduct for
-   participants to its mailinglists, IRC channels, and other modes of
-   communication within the project.
-
-<li>The initial text of this code of conduct replaces the "mailinglist
-   code of conduct" at http://www.debian.org/MailingLists/#codeofconduct
+<li>Updates to this code of conduct should follow the normal GR
+   procedure. However, the DPL (or the DPL's delegates) can add or
+   remove links to other documents in the "Further reading" section
+   after consultation with the project and without requiring a GR.
 
 <li>The initial text of the code of conduct follows, in markdown format.
 </ol>
@@ -150,7 +120,7 @@ It adds the following text at the end of the initial text:
 
 
 
-<p><h3>Initial text of the code of conduct</h3></p>
+<h3>Initial text of the code of conduct</h3>
 <pre>
 \# Debian Code of Conduct
 
@@ -242,6 +212,9 @@ oneself on our communication channels.
 - Debian has a [diversity statement](http://www.debian.org/intro/diversity)
 - The [Debian Community Guidelines](http://people.debian.org/~enrico/dcg/)
   by Enrico Zini contain some advice on how to communicate effectively.
+- The [Mailing list code of
+  conduct](http://www.debian.org/MailingLists/#codeofconduct) is useful for
+  advice specific to Debian mailing lists
 </pre>
 
 
