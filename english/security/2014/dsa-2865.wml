@@ -50,6 +50,7 @@
    library contained these vulnerabilities along with some of its own.</p></li>
 
  <li><a href="http://security-tracker.debian.org/tracker/CVE-2014-0064">CVE-2014-0064</a>
+   <a href="http://security-tracker.debian.org/tracker/CVE-2014-2669">CVE-2014-2669</a>
    Prevent buffer overrun due to integer overflow in size calculations 
    (Noah Misch, Heikki Linnakangas)
 
@@ -101,4 +102,4 @@ version 9.3.3-1 of the postgresql-9.3 package.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2865.data"
-# $Id: dsa-2865.wml,v 1.2 2014/02/21 07:12:32 kaare Exp $
+# $Id: dsa-2865.wml,v 1.3 2014/03/29 09:34:33 thijs Exp $

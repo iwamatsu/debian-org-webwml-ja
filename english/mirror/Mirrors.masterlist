@@ -935,9 +935,9 @@ IPv6: no
 Site: ftp.dti.ad.jp
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-ftp: /pub/Linux/debian/
-Archive-http: /pub/Linux/debian/
-Archive-upstream: ftp.jp.debian.org
+X-Archive-ftp: /pub/Linux/debian/
+X-Archive-http: /pub/Linux/debian/
+X-Archive-upstream: ftp.jp.debian.org
 NonUS-ftp: /pub/Linux/debian-non-US/
 Maintainer: ftp-admin@dti.ad.jp
 Country: JP Japan
@@ -5541,20 +5541,19 @@ Comment: One of the cdn.debian.or.jp backends. Please access via cdn.debian.or.j
 Site: ftp.df.lth.se
 Type: leaf
 Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
+Archive-ftp: /pub/debian/
+Archive-http: /pub/debian/
 Archive-rsync: debian/
 Archive-upstream: ftp.se.debian.org
-Backports-http: /debian-backports/
+Backports-ftp: /pub/debian-backports/
+Backports-http: /pub/debian-backports/
 Backports-rsync: debian-backports/
 Backports-upstream: ftp.de.debian.org
 Backports-method: push
-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
+CDImage-ftp: /pub/debian-iso/
+CDImage-http: /pub/debian-iso/
 CDImage-rsync: debian-iso/
 CDImage-upstream: ftp.se.debian.org
-Old-ftp: /debian-archive/
-Old-http: /debian-archive/
 IPv6: no
 Maintainer: Tobias Lundquist and Hakan Kvist <ftp@df.lth.se>
 Country: SE Sweden
@@ -5712,20 +5711,6 @@ X-Archive-upstream: debian.org.ua
 Maintainer: Anton Slobodskoy <root@watson.zp.ua>
 Country: UA Ukraine
 Sponsor: WatsonHome http://watson.zp.ua/
-
-Site: ftp.cse.yzu.edu.tw
-Alias: ftp.oss.tw
-Type: leaf
-Archive-architecture: amd64 armel i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390 sparc
-Archive-ftp: /pub/Linux/debian/debian/
-Archive-http: /pub/Linux/debian/debian/
-Archive-upstream: ftp.tw.debian.org
-X-CDImage-ftp: /pub/Linux/debian/debian-cd/
-X-CDImage-http: /pub/Linux/debian/debian-cd/
-Maintainer: Cheng-Yu, Wang <yzcswang@gmail.com>
-Country: TW Taiwan
-Location: Taoyuan, Taiwan
-Sponsor: Department of Computer Science and Engineering at University of Yuan Ze http://www.cse.yzu.edu.tw/
 
 Site: ftp.ca.debian.org
 Includes: debian.mirror.iweb.ca ftp3.nrc.ca debian.mirror.rafal.ca
