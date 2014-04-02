@@ -52,7 +52,7 @@ issues:</p>
     combination with the PdfHandler extension) was enabled.
     Neither file type is enabled by default in MediaWiki.</p></li>
 
-<li><p>(ID assignment pending)</p>
+<li><a href="http://security-tracker.debian.org/tracker/CVE-2014-2665">CVE-2014-2665</a>
 
     <p>Cross site request forgery in login form: an attacker could login
     a victim as the attacker.</p></li>
@@ -72,4 +72,4 @@ mediawiki-extensions package.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2891.data"
-# $Id: dsa-2891.wml,v 1.4 2014/03/31 05:34:14 kaare Exp $
+# $Id: dsa-2891.wml,v 1.5 2014/04/01 20:38:59 carnil Exp $
