@@ -27,7 +27,7 @@
 
     <p>When processing a request submitted using the chunked transfer encoding, 
     Tomcat ignored but did not limit any extensions that were included. This allows 
-    a client to perform a limited denial of service. by streaming an unlimited amount 
+    a client to perform a limited denial of service by streaming an unlimited amount 
     of data to the server.</p></li>
 
 <li><a href="http://security-tracker.debian.org/tracker/CVE-2014-0050">CVE-2014-0050</a>
@@ -51,4 +51,4 @@ version 7.0.52-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2897.data"
-# $Id: dsa-2897.wml,v 1.1 2014/04/09 04:59:26 kaare Exp $
+# $Id: dsa-2897.wml,v 1.2 2014/04/09 10:14:47 kaare Exp $
