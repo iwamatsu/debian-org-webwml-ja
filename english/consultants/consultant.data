@@ -1071,6 +1071,18 @@ rates, it depends on your needs.>
 <rates   Negotiable.>
 </p>
 
+# Consultant: BR
+# added on 13.04.2014
+<p>
+<name	 Marcelo Sandro Alves>
+<company Independent consultant>
+<address Av. Saramenha 1928, Bloco 29 Apt 102, Bairro 
+Guarani - BH - MG, <country-name BR>>
+<phone   +55-31-3347-0220 / +55-31-9305-5060>
+<email	 bmsandro@gmail.com>
+<rates   Call me.>
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -4398,7 +4410,7 @@ projects negotiable.>
 <phone   +1-256-764-4035>
 <fax     +1-480-247-5307>
 <email   sales@ocstech.com>
-#<url     "http://www.ocssolutions.com/">
+<url     "http://www.ocssolutions.com/debian-consulting.php">
 <rates   Depending on project, call or e-mail for quotes.>
 </p>
 
@@ -4740,6 +4752,19 @@ contact me for a free consultation and quote.>
 <rates   $75/hr. Negotiable rates availible for non-profits &amp; low
 income parties such as seniors and those with disabilities.>
 <additional_info compton_networks>
+</p>
+
+# Consultant: US
+# added on 13.04.2014
+<p>
+<name	 David Retz>
+<company Comware International, Inc.>
+<address P.O.Box 410, Solvang, CA 93464, <country-name US>>
+<phone   (805) 686-1262>
+<email	 dretz@comware.us>
+<URL     "http://comware.us/Content/linuxconsulting">
+<rates   US$225/hour unless otherwise by contract/project.>
+<additional_info comware>
 </p>
 
 
