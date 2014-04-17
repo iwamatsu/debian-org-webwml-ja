@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-04-14" SUMMARY="Results of the DPL elections, debsources stats, reports from Mini-DebConf Barcelona, CAcert removed from Debian, discussion of a fully functional RTC/VoIP client for <q>Jessie</q>"
 
-# $Id: index.wml,v 1.3 2014/04/15 18:52:20 jipege1-guest Exp $
+# $Id: index.wml,v 1.4 2014/04/16 19:16:17 boutil Exp $
 # $Rev: 5566 $
 # Status: freeze
 
@@ -129,7 +129,7 @@ the best choice for <q>Jessie</q>.
 <toc-add-entry name="interviews">Interviews</toc-add-entry>
 
         <p>There has been a
-<q><a href="http://people.skolelinux.org/pere/blog/tags/intervju/">DebianEdu interview</a><q>
+<q><a href="http://people.skolelinux.org/pere/blog/tags/intervju/">DebianEdu interview</a></q>
 with
 <a href="http://people.skolelinux.org/pere/blog/Debian_Edu_interview__Roger_Marsal.html">Roger Marsal</a> (in English)
 who describes, among other things, how he got involved in Debian Edu and his views about it.
