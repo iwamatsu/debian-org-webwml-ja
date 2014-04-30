@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-09-19" SUMMARY="Debian's 18th birthday, bits from the DPL, Debian BSP at MIT, Squeeze backports for X"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:05 pabs Exp $
+# $Id: index.wml,v 1.7 2014/04/30 07:42:06 pabs Exp $
 # $Rev: 2665 $
 # Status: [content-frozen]
 
@@ -14,7 +14,7 @@ Debian community. Topics covered in this issue include:</p>
 <p>
 On August 16 <a href="$(HOME)/News/2011/20110816">the
 Debian Project turned 18</a>: for that occasion, across the world there
-were various <a href="http://wiki.debian.org/DebianDay2011">parties</a>
+were various <a href="https://wiki.debian.org/DebianDay2011">parties</a>
 organised by Debian Developers, Maintainers, Contributors and Users.
 Pictures of these parties can be viewed at the <a
 href="http://thank-you.debian.net/">Debian Birthday website</a>, where
@@ -74,7 +74,7 @@ Gregor, one of the most active developers in this initiative, observed
 that in this phase of the development cycle there are plenty of RC bugs, <a
 href="http://info.comodo.priv.at/blog/archives/2011/09/#e2011-09-11T23_26_22.txt">\
 some of them really easy to fix</a>. It's possible to use the <a
-href="http://udd.debian.org/bugs.cgi">UDD bugs page</a> to search in the
+href="https://udd.debian.org/bugs.cgi">UDD bugs page</a> to search in the
 BTS for RC bugs.
 If fixing bugs is too much for you, you can help triaging them, as
 explained in the <a
@@ -161,14 +161,14 @@ aiming to create a single point of contact for issues with Debian
 infrastructure services.
 In addition, Enrico promoted a census of those services: you can consult
 the first results of the census on the <a
-href="http://wiki.debian.org/Services">related wiki page</a>.
+href="https://wiki.debian.org/Services">related wiki page</a>.
 </p>
 
 <p>Fernando C. Estrada announced <a
 href="https://lists.debian.org/debian-user-spanish/2011/09/msg00123.html">the
 launch of the spam cleaning effort</a> on Spanish language lists. For
 more information, you can visit the <a
-href="http://wiki.debian.org/I18n/SpanishSpamClean">relevant wiki
+href="https://wiki.debian.org/I18n/SpanishSpamClean">relevant wiki
 page</a>.
 </p>
 
@@ -187,7 +187,7 @@ architecture-specific overrides, and test coverage of over 75% of tags.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-22 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+22 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome Thomas Bechtold,
 	Theodore Lytras, Ivo De Decker, Tim
@@ -247,27 +247,27 @@ list</a>, for <q>Lenny</q>, the oldstable distribution) for announcements.</p>
 
 <p>
 100 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/boinc-cgi-stripchart">\
+<li><a href="https://packages.debian.org/unstable/main/boinc-cgi-stripchart">\
 	boinc-cgi-stripchart &mdash; CGI script for plotting basic statistical graphs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-jura">\
+<li><a href="https://packages.debian.org/unstable/main/fonts-jura">\
 	fonts-jura &mdash; monospaced, sans-serif font</a></li>
-<li><a href="http://packages.debian.org/unstable/main/git-daemon-sysvinit">\
+<li><a href="https://packages.debian.org/unstable/main/git-daemon-sysvinit">\
 	git-daemon-sysvinit &mdash; fast, scalable, distributed revision control system (git-daemon service)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/itstool">\
+<li><a href="https://packages.debian.org/unstable/main/itstool">\
 	itstool &mdash; tool for translating XML documents with PO files</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jcadencii">\
+<li><a href="https://packages.debian.org/unstable/main/jcadencii">\
 	jcadencii &mdash; piano roll editor for singing synthesis</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vdpauinfo">\
+<li><a href="https://packages.debian.org/unstable/main/vdpauinfo">\
 	vdpauinfo &mdash; video decode and presentation API for UNIX (vdpauinfo utility)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xpra">\
+<li><a href="https://packages.debian.org/unstable/main/xpra">\
 	xpra &mdash; tool to detach and reattach running X programs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-cookie-monster">\
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-cookie-monster">\
 	xul-ext-cookie-monster &mdash; very easy cookies management in a whitelist-based way</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-status4evar">\
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-status4evar">\
 	xul-ext-status4evar &mdash; status bar widgets and progress indicators</a></li>
 </ul>
 
@@ -285,7 +285,7 @@ many others</a> are:</p>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

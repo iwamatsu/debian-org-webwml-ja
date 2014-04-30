@@ -5,12 +5,12 @@ routing daemon:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-2236">CVE-2013-2236</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-2236">CVE-2013-2236</a>
 
     <p>A buffer overflow was found in the OSPF API-server (exporting the LSDB 
     and allowing announcement of Opaque-LSAs).</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-6051">CVE-2013-6051</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-6051">CVE-2013-6051</a>
 
     <p>bgpd could be crashed through BGP updates. This only affects Wheezy/stable.</p></li>
 
@@ -30,4 +30,4 @@ version 0.99.22.4-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2803.data"
-# $Id: dsa-2803.wml,v 1.1 2013/11/26 16:29:42 gusnan-guest Exp $
+# $Id: dsa-2803.wml,v 1.2 2014/04/30 07:16:32 pabs Exp $

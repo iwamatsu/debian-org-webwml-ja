@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.6"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -9,12 +9,12 @@ project は以下の問題を認識しています。</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-4377">CVE-2009-4377</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-4377">CVE-2009-4377</a>
 
    <p>SMB/SMB2 ディスセクタに NULL ポインタ参照が発見されました。</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-0304">CVE-2010-0304</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-0304">CVE-2010-0304</a>
 
    <p>LWRES ディスセクタに複数のバッファオーバフローが発見されました。</p></li>
 
@@ -32,4 +32,4 @@ project は以下の問題を認識しています。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1983.data"
-# $Id: dsa-1983.wml,v 1.4 2011-03-26 14:06:30 taffit-guest Exp $
+# $Id: dsa-1983.wml,v 1.5 2014/04/30 07:17:16 pabs Exp $

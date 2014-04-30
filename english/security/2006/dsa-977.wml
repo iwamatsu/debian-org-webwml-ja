@@ -6,12 +6,12 @@ Exposures project identifies the following vulnerabilities:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0582">CVE-2006-0582</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0582">CVE-2006-0582</a>
 
     <p>Privilege escalation in the rsh server allows an authenticated
     attacker to overwrite arbitrary files and gain ownership of them.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0677">CVE-2006-0677</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0677">CVE-2006-0677</a>
 
     <p>A remote attacker could force the telnet server to crash before
     the user logged in, resulting in inetd turning telnetd off because
@@ -31,4 +31,4 @@ version 0.6.3-10sarge2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-977.data"
-# $Id: dsa-977.wml,v 1.2 2010-12-17 15:40:17 taffit-guest Exp $
+# $Id: dsa-977.wml,v 1.3 2014/04/30 07:16:10 pabs Exp $

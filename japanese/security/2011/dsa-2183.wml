@@ -1,10 +1,10 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>バッファオーバフロー</define-tag>
 
 <define-tag moreinfo>
 
 <p>ネットワークブロックデバイスサーバ nbd のバッファオーバフロー
-(<a href="http://security-tracker.debian.org/tracker/CVE-2005-3534">CVE-2005-3534</a>) 
+(<a href="https://security-tracker.debian.org/tracker/CVE-2005-3534">CVE-2005-3534</a>) 
 の修正にバグの作り込みがあり、巨大なリクエストで
 NBD サーバに任意のコードの実行を行わせることができることが発見されま
 した。</p>
@@ -22,4 +22,4 @@ NBD サーバに任意のコードの実行を行わせることができるこ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2183.data"
-# $Id: dsa-2183.wml,v 1.1 2011-03-22 02:49:27 kmuto Exp $
+# $Id: dsa-2183.wml,v 1.2 2014/04/30 07:17:17 pabs Exp $

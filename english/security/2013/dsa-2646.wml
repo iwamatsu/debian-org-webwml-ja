@@ -4,14 +4,14 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-1842">CVE-2013-1842</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-1842">CVE-2013-1842</a>
 
     <p>Helmut Hummel and Markus Opahle discovered that the Extbase database layer
     was not correctly sanitizing user input when using the Query object model.
     This can lead to SQL injection by a malicious user inputing crafted
     relation values.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-1843">CVE-2013-1843</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-1843">CVE-2013-1843</a>
 
     <p>Missing user input validation in the access tracking mechanism could lead
     to arbitrary URL redirection.
@@ -36,4 +36,4 @@ version 4.5.19+dfsg1-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2646.data"
-# $Id: dsa-2646.wml,v 1.1 2013-03-16 01:29:20 taffit Exp $
+# $Id: dsa-2646.wml,v 1.2 2014/04/30 07:16:32 pabs Exp $

@@ -8,19 +8,19 @@ following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-0668">CVE-2010-0668</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-0668">CVE-2010-0668</a>
 
 <p>Multiple security issues in MoinMoin related to configurations that have
 a non-empty superuser list, the xmlrpc action enabled, the SyncPages
 action enabled, or OpenID configured.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-0669">CVE-2010-0669</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-0669">CVE-2010-0669</a>
 
 <p>MoinMoin does not properly sanitize user profiles.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-0717">CVE-2010-0717</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-0717">CVE-2010-0717</a>
 
 <p>The default configuration of cfg.packagepages_actions_excluded in MoinMoin
 does not prevent unsafe package actions.</p></li>
@@ -44,4 +44,4 @@ shortly.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2014.data"
-# $Id: dsa-2014.wml,v 1.2 2010-12-17 14:26:39 taffit-guest Exp $
+# $Id: dsa-2014.wml,v 1.3 2014/04/30 07:16:22 pabs Exp $

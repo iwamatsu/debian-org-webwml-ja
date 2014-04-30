@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-10-01" SUMMARY="Update for Debian 6.0: 6.0.6 released, reports from the last BSPs, results from Debian's Google Summer of Code, Mini DebConf in Paris"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:17 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:28:56 pabs Exp $
 # $Rev: 4302 $
 # Status: [frozen]
 
@@ -123,12 +123,12 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 
 	<p>
 Eight applicants have been
-<a href="http://nm.debian.org/public/nmlist#done">accepted</a>
+<a href="https://nm.debian.org/public/nmlist#done">accepted</a>
 	as Debian Developers,
 six applicants have been
 <a href="https://lists.debian.org/debian-project/2012/09/msg00047.html">accepted</a>
 	as Debian Maintainers, and
-two people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+two people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 # DD
@@ -188,15 +188,15 @@ list</a>) for announcements.
 
 <p>
 114 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/hdav">hdav — command-line WebDAV client</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jvm-7-avian-jre">jvm-7-avian-jre — lightweight virtual machine using the OpenJDK class library</a></li>
-<li><a href="http://packages.debian.org/unstable/main/libglyr1">glyr — search engine for music-related metadata</a></li>
-<li><a href="http://packages.debian.org/unstable/main/openstreetmap-client">openstreetmap-client — OpenStreetMap client for the GNOME Desktop</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-reloadevery">xul-ext-reloadevery — Iceweasel extension to reload web pages in regular intervals</a></li>
+<li><a href="https://packages.debian.org/unstable/main/hdav">hdav — command-line WebDAV client</a></li>
+<li><a href="https://packages.debian.org/unstable/main/jvm-7-avian-jre">jvm-7-avian-jre — lightweight virtual machine using the OpenJDK class library</a></li>
+<li><a href="https://packages.debian.org/unstable/main/libglyr1">glyr — search engine for music-related metadata</a></li>
+<li><a href="https://packages.debian.org/unstable/main/openstreetmap-client">openstreetmap-client — OpenStreetMap client for the GNOME Desktop</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-reloadevery">xul-ext-reloadevery — Iceweasel extension to reload web pages in regular intervals</a></li>
 </ul>
 
 

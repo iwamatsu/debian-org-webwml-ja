@@ -148,8 +148,8 @@ mailing list, and later also on the general <a
 href="https://lists.debian.org/1299747535.3524.12.camel@havelock.lan">debian-devel</a>
 list.  Various pros and cons were exchanged including possible
 problems with DNSSEC and different approaches based upon <a
-href="http://packages.debian.org/apt-spy">apt-spy</a> or <a
-href="http://packages.debian.org/netselect-apt">netselect-apt</a>, or DNS
+href="https://packages.debian.org/apt-spy">apt-spy</a> or <a
+href="https://packages.debian.org/netselect-apt">netselect-apt</a>, or DNS
 based approaches.  APT developer Michael Vogt posted some hints that apt
 recently had a <a
 href="https://lists.debian.org/20110310195547.GA24278@localhost">useful
@@ -180,7 +180,7 @@ at ARM offices in Cambridge for a
 <a href="https://lists.debian.org/20110301110302.GA25977@enorme">Debian Sprint</a>.
 There are lots of things happening on ARM and in embedded land.
 There is an ongoing effort to build a new Debian port (named
-<a href="http://wiki.debian.org/ArmHardFloatPort">armhf</a>)
+<a href="https://wiki.debian.org/ArmHardFloatPort">armhf</a>)
 which will provide a more efficient userland, suitable for modern ARM
 chips (v7), as found in recent netbooks, tablets, nettops, and smartphones.
 </p>
@@ -216,7 +216,7 @@ maintainer</a>.</p>
 <toc-add-entry name="twid">Further <q>This week in Debian</q> interviews</toc-add-entry>
 
 	<p>Since the last issue of the Debian Project News, 
-three new issues of the <a href="http://wiki.debian.org/ThisWeekInDebian"><q>This week in
+three new issues of the <a href="https://wiki.debian.org/ThisWeekInDebian"><q>This week in
 	Debian</q> podcast</a> have been published:  with
 <a
 href="http://frostbitemedia.libsyn.com/this-week-in-debian-episode-19">Stefano
@@ -285,7 +285,7 @@ of flags to enable and disable services</a> via their configuration snippets in
 <tt>/etc/default</tt>.  Others added in the thread that there could also be
 better (UI-)tools to do so, or to customize runlevels.  It was also
 pointed out that the interface has been complicated by the introduction of <a
-href="http://packages.debian.org/insserv">insserv</a>.</p>
+href="https://packages.debian.org/insserv">insserv</a>.</p>
 
 
 
@@ -298,7 +298,7 @@ href="http://packages.debian.org/insserv">insserv</a>.</p>
 5 applicants have been
 <a href="https://lists.debian.org/E1PvEnU-0002h8-Cq@franck.debian.org">accepted</a>
 	as Debian Maintainers, and
-4 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+4 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Fr&eacute;d&eacute;ric-Emmanuel Picca, Stephen Kitt,
@@ -356,53 +356,53 @@ list</a>, for <q>Lenny</q>, the oldstable distribution) for announcements.</p>
 <toc-add-entry name="nnwp">New and noteworthy packages</toc-add-entry>
 
 <p>The following packages were added to the unstable Debian archive
-recently (<a href="http://packages.debian.org/unstable/main/newpkg">among
+recently (<a href="https://packages.debian.org/unstable/main/newpkg">among
 many others</a>):</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-ampache">banshee-extension-ampache &mdash; Ampache extension for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-clutterflow">banshee-extension-clutterflow &mdash; CoverFlow functionality for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-jamendo">banshee-extension-jamendo &mdash; Jamendo extension for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-lastfmfingerprint">banshee-extension-lastfmfingerprint &mdash; Last.FM fingerprinting extension for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-openvp">banshee-extension-openvp &mdash; visualizations extension for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-randombylastfm">banshee-extension-randombylastfm &mdash; random by Last.FM extension for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/banshee-extension-zeitgeistdataprovider">banshee-extension-zeitgeistdataprovider &mdash; Zeitgeist data provider extension for Banshee</a></li>
-<li><a href="http://packages.debian.org/unstable/main/classads">classads &mdash; Condor's classad utilities</a></li>
-<li><a href="http://packages.debian.org/unstable/main/comixcursors-lefthanded">comixcursors-lefthanded &mdash; X11 mouse pointer themes with a comic art feeling (LH, translucent)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/comixcursors-lefthanded-opaque">comixcursors-lefthanded-opaque &mdash; X11 mouse pointer themes with a comic art feeling (LH, opaque)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/comixcursors-righthanded">comixcursors-righthanded &mdash; X11 mouse pointer themes with a comic art feeling (RH, translucent)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/comixcursors-righthanded-opaque">comixcursors-righthanded-opaque &mdash; X11 mouse pointer themes with a comic art feeling (RH, opaque)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/cpm">cpm &mdash; curses based password manager using PGP-encryption</a></li>
-<li><a href="http://packages.debian.org/unstable/main/doxygen-latex">doxygen-latex &mdash; documentation system for C, C++, Java, Python and other languages</a></li>
-<li><a href="http://packages.debian.org/unstable/main/drupal6-mod-views-charts">drupal6-mod-views-charts &mdash; views_charts modules for Drupal 6</a></li>
-<li><a href="http://packages.debian.org/unstable/main/drupal6-mod-views-groupby">drupal6-mod-views-groupby &mdash; views_groupby modules for Drupal 6</a></li>
-<li><a href="http://packages.debian.org/unstable/main/eq10q">eq10q &mdash; LV2 equalizer</a></li>
-<li><a href="http://packages.debian.org/unstable/main/failmalloc">failmalloc &mdash; memory allocation failure crash-test tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/git-el">git-el &mdash; fast, scalable, distributed revision control system (Emacs support)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/grub-imageboot">grub-imageboot &mdash; boot ISO and floppy images with GRUB 2 and Syslinux MEMDISK</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gscanbus">gscanbus &mdash; scan IEEE1394 (FireWire/i.Link) bus</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ibus-sunpinyin">ibus-sunpinyin &mdash; SunPinyin engine for IBus</a></li>
-<li><a href="http://packages.debian.org/unstable/main/kdesrc-build">kdesrc-build &mdash; tool for building KDE from its source repositories</a></li>
-<li><a href="http://packages.debian.org/unstable/main/live-config-systemd">live-config-systemd &mdash; Debian Live - system configuration scripts (systemd backend)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/live-tools">live-tools &mdash; Debian Live - system support scripts</a></li>
-<li><a href="http://packages.debian.org/unstable/main/miniupnpc">miniupnpc &mdash; UPnP IGD client lightweight library client</a></li>
-<li><a href="http://packages.debian.org/unstable/main/nagircbot">nagircbot &mdash; IRC bot that announces Nagios status</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pd-hcs">pd-hcs &mdash; Pd library of experiments in UNIX, the Pd GUI, and more</a></li>
-<li><a href="http://packages.debian.org/unstable/main/python2.7">python2.7 &mdash; interactive high-level object-oriented language (version 2.7)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qt-assistant-compat">qt-assistant-compat &mdash; Qt Assistant compatibility binary (legacy)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qt4-qmlviewer">qt4-qmlviewer &mdash; Qt 4 QML viewer</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qtmobility-examples">qtmobility-examples &mdash; Qt Mobility examples</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ranger">ranger &mdash; file manager with an ncurses frontend written in Python</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rgbpaint">rgbpaint &mdash; simple pixel-based painting program</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rhythmbox-ampache">rhythmbox-ampache &mdash; play audio streams from an Ampache server</a></li>
-<li><a href="http://packages.debian.org/unstable/main/scim-sunpinyin">scim-sunpinyin &mdash; SunPinyin engine for SCIM</a></li>
-<li><a href="http://packages.debian.org/unstable/main/servicefw">servicefw &mdash; Qt Mobility Service Framework tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sunpinyin-utils">sunpinyin-utils &mdash; simplified Chinese input method from Sun (utilities)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/termit">termit &mdash; simple terminal emulator based on VTE library, embedded Lua</a></li>
-<li><a href="http://packages.debian.org/unstable/main/tryton-proteus">tryton-proteus &mdash; Tryton application platform (Proteus)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xsunpinyin">xsunpinyin &mdash; standalone XIM server for SunPinyin</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-firetray">xul-ext-firetray &mdash; system tray extension for thunderbird/firefox alike apps</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-ubiquity">xul-ext-ubiquity &mdash; browser interface based on natural language input</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-ampache">banshee-extension-ampache &mdash; Ampache extension for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-clutterflow">banshee-extension-clutterflow &mdash; CoverFlow functionality for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-jamendo">banshee-extension-jamendo &mdash; Jamendo extension for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-lastfmfingerprint">banshee-extension-lastfmfingerprint &mdash; Last.FM fingerprinting extension for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-openvp">banshee-extension-openvp &mdash; visualizations extension for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-randombylastfm">banshee-extension-randombylastfm &mdash; random by Last.FM extension for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/banshee-extension-zeitgeistdataprovider">banshee-extension-zeitgeistdataprovider &mdash; Zeitgeist data provider extension for Banshee</a></li>
+<li><a href="https://packages.debian.org/unstable/main/classads">classads &mdash; Condor's classad utilities</a></li>
+<li><a href="https://packages.debian.org/unstable/main/comixcursors-lefthanded">comixcursors-lefthanded &mdash; X11 mouse pointer themes with a comic art feeling (LH, translucent)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/comixcursors-lefthanded-opaque">comixcursors-lefthanded-opaque &mdash; X11 mouse pointer themes with a comic art feeling (LH, opaque)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/comixcursors-righthanded">comixcursors-righthanded &mdash; X11 mouse pointer themes with a comic art feeling (RH, translucent)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/comixcursors-righthanded-opaque">comixcursors-righthanded-opaque &mdash; X11 mouse pointer themes with a comic art feeling (RH, opaque)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/cpm">cpm &mdash; curses based password manager using PGP-encryption</a></li>
+<li><a href="https://packages.debian.org/unstable/main/doxygen-latex">doxygen-latex &mdash; documentation system for C, C++, Java, Python and other languages</a></li>
+<li><a href="https://packages.debian.org/unstable/main/drupal6-mod-views-charts">drupal6-mod-views-charts &mdash; views_charts modules for Drupal 6</a></li>
+<li><a href="https://packages.debian.org/unstable/main/drupal6-mod-views-groupby">drupal6-mod-views-groupby &mdash; views_groupby modules for Drupal 6</a></li>
+<li><a href="https://packages.debian.org/unstable/main/eq10q">eq10q &mdash; LV2 equalizer</a></li>
+<li><a href="https://packages.debian.org/unstable/main/failmalloc">failmalloc &mdash; memory allocation failure crash-test tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/git-el">git-el &mdash; fast, scalable, distributed revision control system (Emacs support)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/grub-imageboot">grub-imageboot &mdash; boot ISO and floppy images with GRUB 2 and Syslinux MEMDISK</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gscanbus">gscanbus &mdash; scan IEEE1394 (FireWire/i.Link) bus</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ibus-sunpinyin">ibus-sunpinyin &mdash; SunPinyin engine for IBus</a></li>
+<li><a href="https://packages.debian.org/unstable/main/kdesrc-build">kdesrc-build &mdash; tool for building KDE from its source repositories</a></li>
+<li><a href="https://packages.debian.org/unstable/main/live-config-systemd">live-config-systemd &mdash; Debian Live - system configuration scripts (systemd backend)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/live-tools">live-tools &mdash; Debian Live - system support scripts</a></li>
+<li><a href="https://packages.debian.org/unstable/main/miniupnpc">miniupnpc &mdash; UPnP IGD client lightweight library client</a></li>
+<li><a href="https://packages.debian.org/unstable/main/nagircbot">nagircbot &mdash; IRC bot that announces Nagios status</a></li>
+<li><a href="https://packages.debian.org/unstable/main/pd-hcs">pd-hcs &mdash; Pd library of experiments in UNIX, the Pd GUI, and more</a></li>
+<li><a href="https://packages.debian.org/unstable/main/python2.7">python2.7 &mdash; interactive high-level object-oriented language (version 2.7)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/qt-assistant-compat">qt-assistant-compat &mdash; Qt Assistant compatibility binary (legacy)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/qt4-qmlviewer">qt4-qmlviewer &mdash; Qt 4 QML viewer</a></li>
+<li><a href="https://packages.debian.org/unstable/main/qtmobility-examples">qtmobility-examples &mdash; Qt Mobility examples</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ranger">ranger &mdash; file manager with an ncurses frontend written in Python</a></li>
+<li><a href="https://packages.debian.org/unstable/main/rgbpaint">rgbpaint &mdash; simple pixel-based painting program</a></li>
+<li><a href="https://packages.debian.org/unstable/main/rhythmbox-ampache">rhythmbox-ampache &mdash; play audio streams from an Ampache server</a></li>
+<li><a href="https://packages.debian.org/unstable/main/scim-sunpinyin">scim-sunpinyin &mdash; SunPinyin engine for SCIM</a></li>
+<li><a href="https://packages.debian.org/unstable/main/servicefw">servicefw &mdash; Qt Mobility Service Framework tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sunpinyin-utils">sunpinyin-utils &mdash; simplified Chinese input method from Sun (utilities)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/termit">termit &mdash; simple terminal emulator based on VTE library, embedded Lua</a></li>
+<li><a href="https://packages.debian.org/unstable/main/tryton-proteus">tryton-proteus &mdash; Tryton application platform (Proteus)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xsunpinyin">xsunpinyin &mdash; standalone XIM server for SunPinyin</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-firetray">xul-ext-firetray &mdash; system tray extension for thunderbird/firefox alike apps</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-ubiquity">xul-ext-ubiquity &mdash; browser interface based on natural language input</a></li>
 </ul>
 
 
@@ -421,7 +421,7 @@ many others</a>):</p>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-11-12" SUMMARY="Code search engine for Debian, bits from the DPL, one step closer to <q>Wheezy</q>"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:19 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:28:57 pabs Exp $
 # $Rev: 4375 $
 # Status: [frozen]
 
@@ -45,7 +45,7 @@ Neil McGovern sent an
 on the state of the <q>Wheezy</q> freeze</a>, explaining that
 the Release Team is now particularly focused on managing unblock
 requests (where these comply with the
-<a href="http://release.debian.org/wheezy/freeze_policy.html">freeze
+<a href="https://release.debian.org/wheezy/freeze_policy.html">freeze
 policy</a>) and removing buggy leaf packages.
 Meanwhile, the Release Critical bug count is decreasing, thanks also to the
 great number of Bug Squashing Parties held during recent months.
@@ -92,7 +92,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-Two people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+Two people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome Hendrik Jaeger and Steven Chamberlain
 into our project!</p>
@@ -100,7 +100,7 @@ into our project!</p>
 
 <toc-add-entry name="rcstats">Release-Critical bugs statistics for the upcoming release</toc-add-entry>
 <p>
-According to the <a href="http://udd.debian.org/bugs.cgi">Bugs Search
+According to the <a href="https://udd.debian.org/bugs.cgi">Bugs Search
 interface of the Ultimate Debian Database</a>, the upcoming release,
 Debian <q>Wheezy</q>, is currently affected by 425 Release-Critical bugs.
 

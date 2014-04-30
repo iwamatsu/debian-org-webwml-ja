@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-06-10" SUMMARY="Debian welcomes GSoC students, results of the OPW experiment, bits from the DPL, expiration of debian-multimedia.org"
 
-# $Id: index.wml,v 1.2 2014/04/29 15:27:27 pabs Exp $
+# $Id: index.wml,v 1.4 2014/04/30 07:42:16 pabs Exp $
 # $Rev: 5059 $
 # Status: [frozen]
 
@@ -36,7 +36,7 @@ mentors directly.
 <p>
 Mònica Ramírez Arceda <a href="https://lists.debian.org/debian-project/2013/06/msg00002.html">announced
 the result</a> of Debian participation in the
-<a href="http://wiki.debian.org/OutreachProgramForWomen">Outreach Program for
+<a href="https://wiki.debian.org/OutreachProgramForWomen">Outreach Program for
 Women</a>. One of the four applicants was accepted, but also received a
 slot for the Google Summer of Code. As a consequence, this internship was not used.
 Since the Outreach Program for Women is run twice a year, Mònica has opened the
@@ -57,7 +57,7 @@ requests that are being received following the publication of the
 <a href="$(HOME)/trademark#policy">Debian trademark policy</a>. He also
 mentioned that discussions which occurred during the last DPL campaign have
 been summarised by Brian Gupta on a
-<a href="http://wiki.debian.org/Teams/DPL/Ideas">dedicated
+<a href="https://wiki.debian.org/Teams/DPL/Ideas">dedicated
 page of the Debian Wiki</a>, and encouraged people to contribute to maintaining
 this page when ideas are raised on Debian lists.
 </p>
@@ -139,20 +139,20 @@ list</a>) for announcements.
 
 <p>
 612 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/choreonoid">choreonoid — integrated robotics GUI environment</a></li>
-<li><a href="http://packages.debian.org/unstable/main/clonezilla">clonezilla — bare metal backup and recovery of disk drives</a></li>
-<li><a href="http://packages.debian.org/unstable/main/dconf-editor">dconf-editor — simple configuration storage system</a></li>
-<li><a href="http://packages.debian.org/unstable/main/emscripten">emscripten — LLVM-to-JavaScript compiler</a></li>
-<li><a href="http://packages.debian.org/unstable/main/hoogle">hoogle — Haskell API Search for Debian system</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pybik-bin">pybik-bin — 3D Rubik's cube game - binary files</a></li>
-<li><a href="http://packages.debian.org/unstable/main/python-pelican">python-pelican — blog aware, static website generator</a></li>
-<li><a href="http://packages.debian.org/unstable/main/shaarli">shaarli — personal, minimalist, super-fast and no-database Delicious clone</a></li>
-<li><a href="http://packages.debian.org/unstable/main/systemd-ui">systemd-ui — graphical fronted for systemd</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-deejayd-webui">xul-ext-deejayd-webui — Deejayd web user interface XUL extension</a></li>
+<li><a href="https://packages.debian.org/unstable/main/choreonoid">choreonoid — integrated robotics GUI environment</a></li>
+<li><a href="https://packages.debian.org/unstable/main/clonezilla">clonezilla — bare metal backup and recovery of disk drives</a></li>
+<li><a href="https://packages.debian.org/unstable/main/dconf-editor">dconf-editor — simple configuration storage system</a></li>
+<li><a href="https://packages.debian.org/unstable/main/emscripten">emscripten — LLVM-to-JavaScript compiler</a></li>
+<li><a href="https://packages.debian.org/unstable/main/hoogle">hoogle — Haskell API Search for Debian system</a></li>
+<li><a href="https://packages.debian.org/unstable/main/pybik-bin">pybik-bin — 3D Rubik's cube game - binary files</a></li>
+<li><a href="https://packages.debian.org/unstable/main/python-pelican">python-pelican — blog aware, static website generator</a></li>
+<li><a href="https://packages.debian.org/unstable/main/shaarli">shaarli — personal, minimalist, super-fast and no-database Delicious clone</a></li>
+<li><a href="https://packages.debian.org/unstable/main/systemd-ui">systemd-ui — graphical fronted for systemd</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-deejayd-webui">xul-ext-deejayd-webui — Deejayd web user interface XUL extension</a></li>
 </ul>
 
 

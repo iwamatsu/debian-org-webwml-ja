@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-01-27" SUMMARY="Bits from the DPL, Debian France online shop open, Valve games for Debian Members and Maintainers, Debian real-time communication"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:33 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:42:19 pabs Exp $
 # $Rev: 5383 $
 # Status: [freeze]
 
@@ -80,7 +80,7 @@ for people wanting to reach Debian Members
 through this service.
 
 For more information on how to use this service, please consult the
-<a href="http://wiki.debian.org/UnifiedCommunications/DebianDevelopers">dedicated
+<a href="https://wiki.debian.org/UnifiedCommunications/DebianDevelopers">dedicated
 wiki page</a>.
 
 This service has been made possible by a significant effort by the DSA
@@ -111,8 +111,8 @@ has been released and covers the following topics:</p>
 <p>
 Lucas Nussbaum <a href="http://www.lucas-nussbaum.net/blog/?p=805">mentioned on his blog</a>
 that thanks to Christophe Siraut, the
-<a href="http://udd.debian.org/dmd.cgi?">Debian Maintainer Dashboard</a> (a service based on the
-<a href="http://udd.debian.org/">Ultimate Debian Database</a>) now provides RSS feeds for
+<a href="https://udd.debian.org/dmd.cgi?">Debian Maintainer Dashboard</a> (a service based on the
+<a href="https://udd.debian.org/">Ultimate Debian Database</a>) now provides RSS feeds for
 recently added tasks.
 </p>
 
@@ -135,7 +135,7 @@ types, lengths, and hash algorithms.
 <p>There are several upcoming Debian-related events:</p>
 <ul>
  <li>February 1-2, Brussels, Belgium — Debian booth at
-    <a href="http://wiki.debian.org/DebianEvents/be/2014/FOSDEM">FOSDEM</a>
+    <a href="https://wiki.debian.org/DebianEvents/be/2014/FOSDEM">FOSDEM</a>
  </li>
  <li>February 14-16, Minsk, Belarus — <a href="http://lvee.org/en/main">LVEE</a>
     <a href="https://lists.debian.org/debian-events-eu/2014/01/msg00002.html">conference</a>, Winter Edition
@@ -143,7 +143,7 @@ types, lengths, and hash algorithms.
 </ul>
 <p>
 You can find more information about Debian-related events and talks
-on the <a href="http://wiki.debian.org/DebianEvents">events section</a> of the Debian wiki,
+on the <a href="https://wiki.debian.org/DebianEvents">events section</a> of the Debian wiki,
 or subscribe to one of our events mailing lists for different regions:
 <a href="https://lists.debian.org/debian-events-eu">Europe</a>, 
 <a href="https://lists.debian.org/debian-events-nl">Netherlands</a>, 
@@ -167,7 +167,7 @@ Two applicants have been
 nine applicants have been
 <a href="https://lists.debian.org/debian-project/2014/01/msg00057.html">accepted</a>
 	as Debian Maintainer, and
-eleven people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+eleven people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DDs
@@ -234,21 +234,21 @@ list</a>) for announcements.
 
 <p>
 369 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/entr">entr — tool to run arbitrary commands when files change</a></li>
-<li><a href="http://packages.debian.org/unstable/main/htcondor">htcondor — distributed workload management system</a></li>
-<li><a href="http://packages.debian.org/unstable/main/init-select">init-select — init system selection tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jmtpfs">jmtpfs — FUSE based filesystem for accessing MTP devices</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jscommunicator-web-phone">jscommunicator-web-phone — basic SIP video-phone web page using WebRTC</a></li>
-<li><a href="http://packages.debian.org/unstable/main/kdeconnect">kdeconnect — tool to connect smartphones to your KDE Plasma Workspace</a></li>
-<li><a href="http://packages.debian.org/unstable/main/menulibre">menulibre — advanced FreeDesktop.org compliant menu editor</a></li>
-<li><a href="http://packages.debian.org/unstable/main/noblenote">noblenote — Qt program for taking notes</a></li>
-<li><a href="http://packages.debian.org/unstable/main/simpleburn">simpleburn — minimalistic application for burning and extracting CDs and DVDs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/thc-ipv6">thc-ipv6 — The Hacker Choice's IPv6 attack toolkit</a></li>
-<li><a href="http://packages.debian.org/unstable/main/thermald">thermald — thermal monitoring and controlling daemon</a></li>
+<li><a href="https://packages.debian.org/unstable/main/entr">entr — tool to run arbitrary commands when files change</a></li>
+<li><a href="https://packages.debian.org/unstable/main/htcondor">htcondor — distributed workload management system</a></li>
+<li><a href="https://packages.debian.org/unstable/main/init-select">init-select — init system selection tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/jmtpfs">jmtpfs — FUSE based filesystem for accessing MTP devices</a></li>
+<li><a href="https://packages.debian.org/unstable/main/jscommunicator-web-phone">jscommunicator-web-phone — basic SIP video-phone web page using WebRTC</a></li>
+<li><a href="https://packages.debian.org/unstable/main/kdeconnect">kdeconnect — tool to connect smartphones to your KDE Plasma Workspace</a></li>
+<li><a href="https://packages.debian.org/unstable/main/menulibre">menulibre — advanced FreeDesktop.org compliant menu editor</a></li>
+<li><a href="https://packages.debian.org/unstable/main/noblenote">noblenote — Qt program for taking notes</a></li>
+<li><a href="https://packages.debian.org/unstable/main/simpleburn">simpleburn — minimalistic application for burning and extracting CDs and DVDs</a></li>
+<li><a href="https://packages.debian.org/unstable/main/thc-ipv6">thc-ipv6 — The Hacker Choice's IPv6 attack toolkit</a></li>
+<li><a href="https://packages.debian.org/unstable/main/thermald">thermald — thermal monitoring and controlling daemon</a></li>
 </ul>
 
 

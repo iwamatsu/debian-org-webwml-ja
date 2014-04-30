@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-10-30" SUMMARY="RMS, Hurd, MPEG, LSB"
-# $Id: index.wml,v 1.12 2014/04/29 15:24:07 pabs Exp $
+# $Id: index.wml,v 1.13 2014/04/30 06:30:02 pabs Exp $
 
 <p><strong>MPEG in a Console.</strong> Last week we mentioned that Uwe
 Herrman had announced an <a href="https://bugs.debian.org/116359">Intent to
@@ -106,11 +106,11 @@ report</a>.</p>
 </p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/admin/brltty">brltty</a>
+<li><a href="https://packages.debian.org/unstable/admin/brltty">brltty</a>
     -- Access software for a blind person using a soft braille terminal.
-<li><a href="http://packages.debian.org/unstable/sound/xmms-jess">xmms-jess</a>
+<li><a href="https://packages.debian.org/unstable/sound/xmms-jess">xmms-jess</a>
     -- A "funky" visualisation plugin for XMMS.
-<li><a href="http://packages.debian.org/unstable/math/pari-gp">pari-gp</a>
+<li><a href="https://packages.debian.org/unstable/math/pari-gp">pari-gp</a>
     -- A computer algebra system. Formerly under a non-free license, now released under
     the GPL.
 </ul>

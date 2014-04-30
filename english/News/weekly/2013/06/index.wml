@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-03-18" SUMMARY="Debian Edu Squeeze updated, started the campaign for DPL election 2013, a deeper look inside the freeze, birth of Kali Linux"
 
-# $Id: index.wml,v 1.2 2014/04/29 15:27:24 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 07:42:14 pabs Exp $
 # $Rev: 4750 $
 # Status: [frozen]
 
@@ -111,11 +111,11 @@ through a VCS repository (mostly Git), and packaged using <tt>dh</tt>.
 Luca Falavigna blogged about 
 <a href="http://dktrkranz.wordpress.com/2013/03/11/on-participation/">his
 experience in one of Debian's core teams</a>, the 
-<a href="http://wiki.debian.org/Teams/FTPMaster">FTP Team</a>.
+<a href="https://wiki.debian.org/Teams/FTPMaster">FTP Team</a>.
 </p>
 
 <p>
-According to the <a href="http://udd.debian.org/">Ultimate Debian
+According to the <a href="https://udd.debian.org/">Ultimate Debian
 Database (UDD)</a>, the top 10 RC-bug closers during March are:
 </p>
 
@@ -218,13 +218,13 @@ and Alexandre Raymond into our project.
 ## num-newpkg="number-of-new-packages"
 <nnwp-intro
 	num-newpkg="16"
-	url-newpkg="http://packages.debian.org/unstable/main/newpkg"
+	url-newpkg="https://packages.debian.org/unstable/main/newpkg"
 />
 
 ## and here goes the list of packages:
 ## translators: you need to add the translation of the package manually
 #
-<nnwp-list base="http://packages.debian.org/unstable/main/">
+<nnwp-list base="https://packages.debian.org/unstable/main/">
 <nnwp-item "adequate">Debian package quality testing tool</nnwp-item>
 <nnwp-item "openms">data management and analysis tools for liquid chromatography and mass spectrography</nnwp-item>
 <nnwp-item "seascope">source code navigation tool</nnwp-item>

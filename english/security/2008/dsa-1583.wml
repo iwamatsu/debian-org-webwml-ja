@@ -7,14 +7,14 @@ following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-6454">CVE-2007-6454</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-6454">CVE-2007-6454</a>
 
     <p>Luigi Auriemma discovered that PeerCast is vulnerable to a heap
     overflow in the HTTP server code, which allows remote attackers to
     cause a denial of service and possibly execute arbitrary code via a
     long SOURCE request.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-2040">CVE-2008-2040</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-2040">CVE-2008-2040</a>
 
     <p>Nico Golde discovered that PeerCast, a P2P audio and video streaming
     server, is vulnerable to a buffer overflow in the HTTP Basic
@@ -33,4 +33,4 @@ version 0.5.4-1.1etch0.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1583.data"
-# $Id: dsa-1583.wml,v 1.4 2010-12-17 15:02:31 taffit-guest Exp $
+# $Id: dsa-1583.wml,v 1.5 2014/04/30 07:16:15 pabs Exp $

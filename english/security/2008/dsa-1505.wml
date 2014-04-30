@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>Takashi Iwai supplied a fix for a memory leak in the snd_page_alloc module.
 Local users could exploit this issue to obtain sensitive information from
-the kernel (<a href="http://security-tracker.debian.org/tracker/CVE-2007-4571">CVE-2007-4571</a>).</p>
+the kernel (<a href="https://security-tracker.debian.org/tracker/CVE-2007-4571">CVE-2007-4571</a>).</p>
 
 <p>For the oldstable distribution (sarge), this problem has been fixed in
 version 1.0.8-7sarge1. The prebuilt modules provided by alsa-modules-i386
@@ -22,4 +22,4 @@ packages.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1505.data"
-# $Id: dsa-1505.wml,v 1.2 2010-12-17 15:01:55 taffit-guest Exp $
+# $Id: dsa-1505.wml,v 1.3 2014/04/30 07:16:15 pabs Exp $

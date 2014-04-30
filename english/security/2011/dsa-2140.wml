@@ -6,7 +6,7 @@ following problem:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-3872">CVE-2010-3872</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-3872">CVE-2010-3872</a>
 
   <p>A stack overflow could allow an untrusted FCGI application to cause
   a server crash or possibly to execute arbitrary code as the user
@@ -29,4 +29,4 @@ found at: <a href="$(HOME)/security/">http://www.debian.org/security/</a></p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2140.data"
-# $Id: dsa-2140.wml,v 1.2 2011-01-06 09:31:16 kaare Exp $
+# $Id: dsa-2140.wml,v 1.3 2014/04/30 07:16:24 pabs Exp $

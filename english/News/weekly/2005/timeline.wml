@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2005 Timeline"
-# $Id: timeline.wml,v 1.11 2014/04/29 15:25:39 pabs Exp $
+# $Id: timeline.wml,v 1.13 2014/04/30 07:41:32 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2005 in the Debian community.  This is
@@ -190,7 +190,7 @@ about 610&nbsp;kB and the Debian project attended more than 30 events.</p>
 <li> Andreas Barth <a
      href="https://lists.debian.org/debian-devel-announce/2005/06/msg00019.html">\
      announced</a> changes in the <a
-     href="http://release.debian.org/etch_rc_policy.txt">release policy</a> for the
+     href="https://release.debian.org/etch_rc_policy.txt">release policy</a> for the
      etch release.</li>
 
 <li> Norbert Preining <a
@@ -290,7 +290,7 @@ about 610&nbsp;kB and the Debian project attended more than 30 events.</p>
 <li> Anthony Towns <a
      href="https://lists.debian.org/debian-devel-announce/2005/09/msg00002.html">\
      announced</a> the availability of <a
-     href="http://wiki.debian.org/bugs.debian.org/usertags">user tags</a> for the
+     href="https://wiki.debian.org/bugs.debian.org/usertags">user tags</a> for the
      <a href="$(HOME)/Bugs/">bug tracking system</a>.</li>
 
 <li> Marc Brockschmidt <a
@@ -390,10 +390,10 @@ about 610&nbsp;kB and the Debian project attended more than 30 events.</p>
      code-named sarge.</li>
 
 <li> Steve Langasek, member of the
-     Debian <a href="http://release.debian.org/">release team</a>, <a
+     Debian <a href="https://release.debian.org/">release team</a>, <a
      href="https://lists.debian.org/debian-devel-announce/2005/12/msg00013.html">\
      informed</a> about the end of the architecture requalification <a
-     href="http://release.debian.org/etch_arch_qualify.html">phase</a>.</li>
+     href="https://release.debian.org/etch_arch_qualify.html">phase</a>.</li>
 
 <li> The City of Munich <a
      href="http://www.muenchen.de/vip8/prod2/mde/_de/rubriken/Rathaus/40_dir/presse/2005/ru/246.pdf">\

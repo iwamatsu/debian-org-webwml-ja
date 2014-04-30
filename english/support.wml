@@ -26,10 +26,10 @@ refer to the <a href="doc/">Debian documentation</a> web page.</p>
 notes</a> and the <a href="releases/stable/errata">errata</a>.</p>
 
 
-<toc-add-entry name="wiki" href="http://wiki.debian.org/">Wiki</toc-add-entry>
+<toc-add-entry name="wiki" href="https://wiki.debian.org/">Wiki</toc-add-entry>
 
 <p>Solutions to common problems, howto's, guides, tips and other documentation
-can be found at the <a href="http://wiki.debian.org/">Debian Wiki</a>.  Like
+can be found at the <a href="https://wiki.debian.org/">Debian Wiki</a>.  Like
 all wikis, this wiki is constantly changing and we welcome your edits.</p>
 
 
@@ -194,11 +194,11 @@ IRC channels dedicated to Debian can be found on
 <a href="http://www.oftc.net/">OFTC</a>.</p>
 
 <p>To connect, you need an IRC client. Some of the most popular clients are
-<a href="http://packages.debian.org/stable/net/xchat">XChat</a>,
-<a href="http://packages.debian.org/stable/net/ircii">ircII</a>,
-<a href="http://packages.debian.org/stable/net/irssi">irssi</a>,
-<a href="http://packages.debian.org/stable/net/epic5">epic5</a> and
-<a href="http://packages.debian.org/stable/net/kvirc">KVIrc</a>,
+<a href="https://packages.debian.org/stable/net/xchat">XChat</a>,
+<a href="https://packages.debian.org/stable/net/ircii">ircII</a>,
+<a href="https://packages.debian.org/stable/net/irssi">irssi</a>,
+<a href="https://packages.debian.org/stable/net/epic5">epic5</a> and
+<a href="https://packages.debian.org/stable/net/kvirc">KVIrc</a>,
 all of which have been packaged for
 Debian. Once you have the client installed, you need to tell it to connect
 to the server. In most clients, you can do that by typing:</p>
@@ -227,7 +227,7 @@ for joining servers/channels.</p>
 <p>At this point you will find yourself among the friendly crowd of
 <code>#debian</code> inhabitants. You're welcome to ask questions about
 Debian there. You can find the channel's faq at 
-<url "http://wiki.debian.org/DebianIRC" />.</p>
+<url "https://wiki.debian.org/DebianIRC" />.</p>
 
 
 <p>There's a number of other IRC networks where you can chat about Debian,

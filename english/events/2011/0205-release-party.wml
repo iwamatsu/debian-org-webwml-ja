@@ -4,7 +4,7 @@
 <define-tag where>Worldwide</define-tag>
 <define-tag startdate>2011-02-05</define-tag>
 <define-tag enddate>2011-02-06</define-tag>
-<define-tag infolink>http://wiki.debian.org/ReleasePartySqueeze</define-tag>
+<define-tag infolink>https://wiki.debian.org/ReleasePartySqueeze</define-tag>
 <define-tag coord>Local Volunteers</define-tag>
 
 <define-tag intro>
@@ -35,9 +35,9 @@ account.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0205-release-party.wml,v 1.3 2011-02-21 20:45:01 taffit-guest Exp $
+# $Id: 0205-release-party.wml,v 1.4 2014/04/30 07:42:32 pabs Exp $
 #Related Links here (free form)
 <ul>
- <li><a href='http://wiki.debian.org/ReleasePartySqueeze'>Release Party Wiki Page</a></li>
+ <li><a href='https://wiki.debian.org/ReleasePartySqueeze'>Release Party Wiki Page</a></li>
  <li><a href="http://identi.ca/debian">Debian on identi.ca</a></li>
 </ul>

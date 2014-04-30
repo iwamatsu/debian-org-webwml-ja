@@ -7,12 +7,12 @@ connects to directly could learn which other relays that user is
 connected to directly. In combination with other attacks, this issue
 can lead to deanonymizing the user.  The Common Vulnerabilities and
 Exposures project has assigned <a
-href="http://security-tracker.debian.org/tracker/CVE-2011-2768">\
+href="https://security-tracker.debian.org/tracker/CVE-2011-2768">\
 CVE-2011-2768</a> to this issue.</p>
 
 <p>In addition to fixing the above mentioned issues, the updates to oldstable
 and stable fix a number of less critical issues (<a
-href="http://security-tracker.debian.org/tracker/CVE-2011-2769">\
+href="https://security-tracker.debian.org/tracker/CVE-2011-2769">\
 CVE-2011-2769</a>). Please
 see the <a
 href="https://blog.torproject.org/blog/tor-02234-released-security-patches">\
@@ -38,4 +38,4 @@ version 0.2.2.34-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2331.data"
-# $Id: dsa-2331.wml,v 1.1 2011-10-28 17:48:58 taffit Exp $
+# $Id: dsa-2331.wml,v 1.2 2014/04/30 07:16:25 pabs Exp $

@@ -25,7 +25,7 @@ world-readable permissions before restricting the permissions, which
 allows local users to read the file and obtain sensitive information
 such as credentials for the debian-sys-maint to perform
 administration tasks. 
-(<a href="http://security-tracker.debian.org/tracker/CVE-2013-2162">\
+(<a href="https://security-tracker.debian.org/tracker/CVE-2013-2162">\
 CVE-2013-2162</a>)</p>
 
 <p>Matthias Reichl reported that the mysql-5.5 package misses the patches
@@ -49,4 +49,4 @@ be fixed soon.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2818.data"
-# $Id: dsa-2818.wml,v 1.2 2013/12/17 17:25:03 gusnan-guest Exp $
+# $Id: dsa-2818.wml,v 1.3 2014/04/30 07:16:33 pabs Exp $

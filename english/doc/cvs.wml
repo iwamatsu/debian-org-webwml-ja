@@ -4,7 +4,7 @@
 <p>The Debian Documentation Project stores its web pages and much of the
 manual text on the Debian Subversion server at <strong>svn.debian.org</strong>.
 svn.debian.org is part of the Gforge installation on alioth.debian.org.
-Please read the <a href="http://wiki.debian.org/Alioth">Alioth documentation</a>
+Please read the <a href="https://wiki.debian.org/Alioth">Alioth documentation</a>
 for more information about how this service works.
 </p>
 
@@ -20,7 +20,7 @@ see changes to them at <url "http://anonscm.debian.org/viewvc/ddp/manuals/trunk/
 
 <p>For downloading an entire manual, direct access to the SVN server
 is often a better option. You need the
-<tt><a href="http://packages.debian.org/subversion">subversion</a></tt> package on your
+<tt><a href="https://packages.debian.org/subversion">subversion</a></tt> package on your
 own machine.</p>
 
 <h3>Connecting anonymously (read-only) to the SVN server</h3>

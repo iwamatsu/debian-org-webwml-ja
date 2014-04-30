@@ -17,7 +17,7 @@ discouraged and should be carefully verified.</p>
 <p>Additionally, a vulnerability has been found in the ECDHE_ECDS cipher
 where timing attacks make it easier to determine private keys. The
 Common Vulnerabilities and Exposures project identifies it as
-<a href="http://security-tracker.debian.org/tracker/CVE-2011-1945">CVE-2011-1945</a>.</p>
+<a href="https://security-tracker.debian.org/tracker/CVE-2011-1945">CVE-2011-1945</a>.</p>
 
 <p>For the oldstable distribution (lenny), these problems have been fixed in
 version 0.9.8g-15+lenny12.</p>
@@ -35,4 +35,4 @@ version 1.0.0e-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2309.data"
-# $Id: dsa-2309.wml,v 1.1 2011-09-13 23:55:56 taffit Exp $
+# $Id: dsa-2309.wml,v 1.2 2014/04/30 07:16:25 pabs Exp $

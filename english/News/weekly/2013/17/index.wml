@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-09-30" SUMMARY="A summary of Debian GSoC 2013, coming updates for Wheezy and Squeeze"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:30 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:42:17 pabs Exp $
 # $Rev: 5218 $
 # Status: [frozen]
 
@@ -80,8 +80,8 @@ based on Debian 7 <q>Wheezy</q>,
 <toc-add-entry name="events">Upcoming events</toc-add-entry>
 <p>There are several upcoming Debian-related events:</p>
 <ul>
- <li>October 3-5, Montrouge, France — Debian booth at the <a href="http://wiki.debian.org/DebianEvents/fr/2013/OWF">Open World Forum</a>;</li>
- <li>October 10-12, Oslo, Norway — <a href="http://wiki.debian.org/BSP/2013/10/12/no/Oslo">Bug squashing party for Debian and Ubuntu</a>.</li>
+ <li>October 3-5, Montrouge, France — Debian booth at the <a href="https://wiki.debian.org/DebianEvents/fr/2013/OWF">Open World Forum</a>;</li>
+ <li>October 10-12, Oslo, Norway — <a href="https://wiki.debian.org/BSP/2013/10/12/no/Oslo">Bug squashing party for Debian and Ubuntu</a>.</li>
 </ul>
 <p>
 You can find more information about Debian-related events and talks
@@ -106,7 +106,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 One applicant has been
 <a href="https://nm.debian.org/public/nmlist#done">accepted</a>
 	as Debian Developer, and
-seven people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+seven people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Jacob Appelbaum,
@@ -150,23 +150,23 @@ list</a>) for announcements.
 
 <p>
 213 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/anomaly">anomaly — detection of anomalous data in a numeric stream</a></li>
-<li><a href="http://packages.debian.org/unstable/main/catch">catch — C++ Automated Test Cases in Headers</a></li>
-<li><a href="http://packages.debian.org/unstable/main/clang-modernize-3.4">clang-modernize-3.4 — tool to convert C++98 and C++03 code to C++11</a></li>
-<li><a href="http://packages.debian.org/unstable/main/cubemap">cubemap — scalable video reflector, designed to be used with VLC</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-ebgaramond-extra">fonts-ebgaramond-extra — EB Garamond Initials and TrueType fonts</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gpg-remailer">gpg-remailer — tool to forward re-encrypted PGP/GPG mail to a group</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ipv6toolkit">ipv6toolkit — security assessment and troubleshooting tool for the IPv6 protocols</a></li>
-<li><a href="http://packages.debian.org/unstable/main/keysync">keysync — synchronization of OTR identities between the different chat programs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/musl">musl — standard C library</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rel2gpx">rel2gpx — creation of GPX-track from OSM relation</a></li>
-<li><a href="http://packages.debian.org/unstable/main/squishyball">squishyball — audio sample comparison testing tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ssh-agent-filter">ssh-agent-filter — filtering proxy for ssh-agent</a></li>
-<li><a href="http://packages.debian.org/unstable/main/view3dscene">view3dscene — VRML / X3D browser, and a viewer for other 3D model formats</a></li>
+<li><a href="https://packages.debian.org/unstable/main/anomaly">anomaly — detection of anomalous data in a numeric stream</a></li>
+<li><a href="https://packages.debian.org/unstable/main/catch">catch — C++ Automated Test Cases in Headers</a></li>
+<li><a href="https://packages.debian.org/unstable/main/clang-modernize-3.4">clang-modernize-3.4 — tool to convert C++98 and C++03 code to C++11</a></li>
+<li><a href="https://packages.debian.org/unstable/main/cubemap">cubemap — scalable video reflector, designed to be used with VLC</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fonts-ebgaramond-extra">fonts-ebgaramond-extra — EB Garamond Initials and TrueType fonts</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gpg-remailer">gpg-remailer — tool to forward re-encrypted PGP/GPG mail to a group</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ipv6toolkit">ipv6toolkit — security assessment and troubleshooting tool for the IPv6 protocols</a></li>
+<li><a href="https://packages.debian.org/unstable/main/keysync">keysync — synchronization of OTR identities between the different chat programs</a></li>
+<li><a href="https://packages.debian.org/unstable/main/musl">musl — standard C library</a></li>
+<li><a href="https://packages.debian.org/unstable/main/rel2gpx">rel2gpx — creation of GPX-track from OSM relation</a></li>
+<li><a href="https://packages.debian.org/unstable/main/squishyball">squishyball — audio sample comparison testing tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ssh-agent-filter">ssh-agent-filter — filtering proxy for ssh-agent</a></li>
+<li><a href="https://packages.debian.org/unstable/main/view3dscene">view3dscene — VRML / X3D browser, and a viewer for other 3D model formats</a></li>
 </ul>
 
 <toc-add-entry name="wnpp">Work-needing packages</toc-add-entry>

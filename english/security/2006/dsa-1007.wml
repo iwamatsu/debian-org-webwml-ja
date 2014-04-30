@@ -8,23 +8,23 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1225">CVE-2006-1225</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1225">CVE-2006-1225</a>
 
     <p>Due to missing input sanitising a remote attacker could inject
     headers of outgoing e-mail messages and use Drupal as a spam
     proxy.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1226">CVE-2006-1226</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1226">CVE-2006-1226</a>
 
     <p>Missing input sanity checks allows attackers to inject arbitrary
     web script or HTML.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1227">CVE-2006-1227</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1227">CVE-2006-1227</a>
 
     <p>Menu items created with the menu.module lacked access control,
     which might allow remote attackers to access administrator pages.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1228">CVE-2006-1228</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1228">CVE-2006-1228</a>
 
     <p>Markus Petrux discovered a bug in the session fixation which may
     allow remote attackers to gain Drupal user privileges.</p></li>
@@ -44,4 +44,4 @@ version 4.5.8-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1007.data"
-# $Id: dsa-1007.wml,v 1.3 2010-12-17 15:39:16 taffit-guest Exp $
+# $Id: dsa-1007.wml,v 1.4 2014/04/30 07:16:09 pabs Exp $

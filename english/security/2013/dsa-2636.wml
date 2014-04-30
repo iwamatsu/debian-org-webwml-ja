@@ -6,23 +6,23 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-4544">CVE-2012-4544</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-4544">CVE-2012-4544</a>
 
     <p>Insufficient validation of kernel or ramdisk sizes in the Xen PV
     domain builder could result in denial of service.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-5511">CVE-2012-5511</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-5511">CVE-2012-5511</a>
 
     <p>Several HVM control operations performed insufficient validation of
     input, which could result in denial of service through resource
     exhaustion.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-5634">CVE-2012-5634</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-5634">CVE-2012-5634</a>
 
     <p>Incorrect interrupt handling when using VT-d hardware could result
     in denial of service.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-0153">CVE-2013-0153</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-0153">CVE-2013-0153</a>
 
     <p>Insufficient restriction of interrupt access could result in denial
     of service.</p></li>
@@ -43,4 +43,4 @@ version 4.1.4-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2636.data"
-# $Id: dsa-2636.wml,v 1.2 2013-03-03 11:55:08 victory-guest Exp $
+# $Id: dsa-2636.wml,v 1.3 2014/04/30 07:16:31 pabs Exp $

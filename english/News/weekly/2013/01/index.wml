@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-07" SUMMARY="<tt>wiki.debian.org</tt> security breach, bits from the DPL"
 
-# $Id: index.wml,v 1.2 2014/04/29 15:27:21 pabs Exp $
+# $Id: index.wml,v 1.4 2014/04/30 07:42:13 pabs Exp $
 # $Rev: 4529 $
 # Status: [frozen]
 
@@ -19,7 +19,7 @@ href="https://lists.debian.org/debian-devel-announce/2013/01/msg00000.html">all
 <tt>wiki.debian.org</tt> account passwords are being reset</a>.
 In order to regain access to your wiki account, you'll need to
 follow the
-<a href="http://wiki.debian.org/FrontPage?action=recoverpass">password
+<a href="https://wiki.debian.org/FrontPage?action=recoverpass">password
 recovery process</a>.
 In the mail, Steve explained that the Debian Security Team recently
 found a
@@ -78,7 +78,7 @@ have been updated, and now include all of 2012.
 <newcontributors
 	dd-url="https://nm.debian.org/public/nmlist#done"
 	dm-url="https://lists.debian.org/E1Sta5X-0005lb-Ap@franck.debian.org"
-	uploader-url="http://udd.debian.org/cgi-bin/new-maintainers.cgi"
+	uploader-url="https://udd.debian.org/cgi-bin/new-maintainers.cgi"
 	post-name=""
 >
 ## here the name of the new dds, dms, uploaders

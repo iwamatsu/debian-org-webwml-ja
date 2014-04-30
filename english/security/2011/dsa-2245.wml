@@ -5,42 +5,42 @@ The Common Vulnerabilities and Exposures project identifies the
 following problems:</p>
 
 <ul>
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1292">CVE-2011-1292</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1292">CVE-2011-1292</a>
 
   <p>Use-after-free vulnerability in the frame-loader implementation in Google
   Chrome allows remote attackers to cause a denial of service or possibly
   have unspecified other impact via unknown vectors.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1293">CVE-2011-1293</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1293">CVE-2011-1293</a>
 
   <p>Use-after-free vulnerability in the HTMLCollection implementation in Google
   Chrome allows remote attackers to cause a denial of service or possibly have
   unspecified other impact via unknown vectors.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1440">CVE-2011-1440</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1440">CVE-2011-1440</a>
 
   <p>Use-after-free vulnerability in Google Chrome allows remote attackers to cause
   a denial of service or possibly have unspecified other impact via vectors
   related to the Ruby element and Cascading Style Sheets (CSS) token sequences.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1444">CVE-2011-1444</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1444">CVE-2011-1444</a>
 
   <p>Race condition in the sandbox launcher implementation in Google Chrome on
   Linux allows remote attackers to cause a denial of service or possibly have
   unspecified other impact via unknown vectors.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1797">CVE-2011-1797</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1797">CVE-2011-1797</a>
 
   <p>Google Chrome does not properly render tables, which allows remote attackers
   to cause a denial of service or possibly have unspecified other impact via
   unknown vectors that lead to a <q>stale pointer</q>.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1799">CVE-2011-1799</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1799">CVE-2011-1799</a>
 
   <p>Google Chrome does not properly perform casts of variables during interaction
   with the WebKit engine, which allows remote attackers to cause a denial of
@@ -60,4 +60,4 @@ version 11.0.696.68~r84545-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2245.data"
-# $Id: dsa-2245.wml,v 1.1 2011-05-29 12:23:06 taffit Exp $
+# $Id: dsa-2245.wml,v 1.2 2014/04/30 07:16:24 pabs Exp $

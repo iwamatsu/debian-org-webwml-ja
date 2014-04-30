@@ -1,8 +1,8 @@
 <define-tag description>cross-site scripting</define-tag>
 <define-tag moreinfo>
 <p>Josh Triplett discovered that ikiwiki did not block Javascript in
-URLs, leading to cross-site scripting vulnerabilities (<a href="http://security-tracker.debian.org/tracker/CVE-2008-0808">CVE-2008-0808</a>,
-<a href="http://security-tracker.debian.org/tracker/CVE-2008-0809">CVE-2008-0809</a>).</p>
+URLs, leading to cross-site scripting vulnerabilities (<a href="https://security-tracker.debian.org/tracker/CVE-2008-0808">CVE-2008-0808</a>,
+<a href="https://security-tracker.debian.org/tracker/CVE-2008-0809">CVE-2008-0809</a>).</p>
 
 <p>The old stable distribution (sarge) did not contain an ikiwiki package.</p>
 
@@ -17,4 +17,4 @@ version 2.31.1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1523.data"
-# $Id: dsa-1523.wml,v 1.2 2010-12-17 15:02:00 taffit-guest Exp $
+# $Id: dsa-1523.wml,v 1.3 2014/04/30 07:16:15 pabs Exp $

@@ -7,7 +7,7 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1895">CVE-2009-1895</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1895">CVE-2009-1895</a>
 
     <p>Julien Tinnes and Tavis Ormandy reported an issue in the Linux
     personality code. Local users can take advantage of a setuid
@@ -16,15 +16,15 @@ problems:</p>
     user to bypass mmap_min_addr restrictions which can be exploited
     to execute arbitrary code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-2287">CVE-2009-2287</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-2287">CVE-2009-2287</a>
 
     <p>Matt T. Yourst discovered an issue in the kvm subsystem. Local
     users with permission to manipulate /dev/kvm can cause a denial
     of service (hang) by providing an invalid cr3 value to the
     KVM_SET_SREGS call.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-2406">CVE-2009-2406</a>
-<a href="http://security-tracker.debian.org/tracker/CVE-2009-2407">CVE-2009-2407</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-2406">CVE-2009-2406</a>
+<a href="https://security-tracker.debian.org/tracker/CVE-2009-2407">CVE-2009-2407</a>
 
     <p>Ramon de Carvalho Valle discovered two issues with the eCryptfs
     layered filesystem using the fsfuzzer utility. A local user with
@@ -54,4 +54,4 @@ released in a staggered or "leap-frog" fashion.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1845.data"
-# $Id: dsa-1845.wml,v 1.2 2010-12-17 14:39:59 taffit-guest Exp $
+# $Id: dsa-1845.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

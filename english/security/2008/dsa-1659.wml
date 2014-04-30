@@ -3,7 +3,7 @@
 <p>Dan Kaminsky discovered that libspf2, an implementation of the Sender
 Policy Framework (SPF) used by mail servers for mail filtering, handles
 malformed TXT records incorrectly, leading to a buffer overflow
-condition (<a href="http://security-tracker.debian.org/tracker/CVE-2008-2469">CVE-2008-2469</a>).</p>
+condition (<a href="https://security-tracker.debian.org/tracker/CVE-2008-2469">CVE-2008-2469</a>).</p>
 
 <p>Note that the SPF configuration template in Debian's Exim configuration
 recommends to use libmail-spf-query-perl, which does not suffer from
@@ -22,4 +22,4 @@ version 1.2.5.dfsg-5+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1659.data"
-# $Id: dsa-1659.wml,v 1.2 2010-12-17 15:03:15 taffit-guest Exp $
+# $Id: dsa-1659.wml,v 1.3 2014/04/30 07:16:16 pabs Exp $

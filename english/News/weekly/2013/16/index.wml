@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-09-16" SUMMARY="Debian Women IRC meeting, bits from the Release Team, bits from the DPL, videos of Debconf13 available"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:29 pabs Exp $
+# $Id: index.wml,v 1.7 2014/04/30 07:42:16 pabs Exp $
 # $Rev: 5174 $
 # Status: [published]
 
@@ -43,7 +43,7 @@ architecture qualification for Jessie.
 In related news, Jonathan Wiltshire 
 <a href="https://lists.debian.org/debian-devel-announce/2013/09/msg00001.html">called
 for release goals for Jessie</a>.
-To propose a goal, <a href="http://wiki.debian.org/ReleaseGoals">create
+To propose a goal, <a href="https://wiki.debian.org/ReleaseGoals">create
 a wiki page</a> before September 30 with a short description of the goal,
 details of the advocate(s) and how the goal will be achieved.
 </p>
@@ -136,7 +136,7 @@ virtualization servers.
 <a href="https://lists.debian.org/debian-project/2013/07/msg00024.html">been</a>
 <a href="https://lists.debian.org/debian-project/2013/09/msg00038.html">accepted</a>
 	as Debian Maintainers, and
-33 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+33 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DDs
@@ -257,45 +257,45 @@ list</a>) for announcements.
 
 <p>
 1598 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/apt-listdifferences">\
+<li><a href="https://packages.debian.org/unstable/main/apt-listdifferences">\
 	apt-listdifferences — source differences notification tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ben">\
+<li><a href="https://packages.debian.org/unstable/main/ben">\
 	ben — toolbox for Debian maintainers</a></li>
-<li><a href="http://packages.debian.org/unstable/main/berusky2">\
+<li><a href="https://packages.debian.org/unstable/main/berusky2">\
 	berusky2 — logic game Bugs Escape 3D</a></li>
-<li><a href="http://packages.debian.org/unstable/main/calypso">\
+<li><a href="https://packages.debian.org/unstable/main/calypso">\
 	calypso — CalDAV/CardDAV server with git backend</a></li>
-<li><a href="http://packages.debian.org/unstable/main/codesearch">\
+<li><a href="https://packages.debian.org/unstable/main/codesearch">\
 	codesearch — regular expression search over large bodies of source code</a></li>
-<li><a href="http://packages.debian.org/unstable/main/curseofwar">\
+<li><a href="https://packages.debian.org/unstable/main/curseofwar">\
 	curseofwar — fast-paced action strategy game for Linux based on ncurses</a></li>
-<li><a href="http://packages.debian.org/unstable/main/cyclograph">\
+<li><a href="https://packages.debian.org/unstable/main/cyclograph">\
 	cyclograph — route altimetry plotting application</a></li>
-<li><a href="http://packages.debian.org/unstable/main/dateutils">\
+<li><a href="https://packages.debian.org/unstable/main/dateutils">\
 	dateutils — nifty command line date and time utilities</a></li>
-<li><a href="http://packages.debian.org/unstable/main/dgit">\
+<li><a href="https://packages.debian.org/unstable/main/dgit">\
 	dgit — git interoperability with the Debian archive</a></li>
-<li><a href="http://packages.debian.org/unstable/main/dianara">\
+<li><a href="https://packages.debian.org/unstable/main/dianara">\
 	dianara — client for the pump.io federated social network</a></li>
-<li><a href="http://packages.debian.org/unstable/main/git-remote-gcrypt">\
+<li><a href="https://packages.debian.org/unstable/main/git-remote-gcrypt">\
 	git-remote-gcrypt — encrypted git repositories</a></li>
-<li><a href="http://packages.debian.org/unstable/main/how-can-i-help">\
+<li><a href="https://packages.debian.org/unstable/main/how-can-i-help">\
 	how-can-i-help — opportunities for contributing to Debian</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iwyu">\
+<li><a href="https://packages.debian.org/unstable/main/iwyu">\
 	iwyu — tool to analyze #includes in C and C++ source files</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jitsi">\
+<li><a href="https://packages.debian.org/unstable/main/jitsi">\
 	jitsi — VoIP and Instant Messaging client</a></li>
-<li><a href="http://packages.debian.org/unstable/main/mnemonicode">\
+<li><a href="https://packages.debian.org/unstable/main/mnemonicode">\
 	mnemonicode — tool to convert binary data into a sequence of words</a></li>
-<li><a href="http://packages.debian.org/unstable/main/morris">\
+<li><a href="https://packages.debian.org/unstable/main/morris">\
 	morris — nine men's morris game</a></li>
-<li><a href="http://packages.debian.org/unstable/main/seahorse-adventures">\
+<li><a href="https://packages.debian.org/unstable/main/seahorse-adventures">\
 	seahorse-adventures — help Barbie the seahorse float on bubbles to the moon</a></li>
-<li><a href="http://packages.debian.org/unstable/main/stegsnow">\
+<li><a href="https://packages.debian.org/unstable/main/stegsnow">\
 	stegsnow — steganography using ASCII files</a></li>
 </ul>
 

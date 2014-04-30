@@ -5,12 +5,12 @@ hotplug management daemon.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1185">CVE-2009-1185</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1185">CVE-2009-1185</a>
 
     <p>udev does not check the origin of NETLINK messages, allowing local
     users to gain root privileges.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1186">CVE-2009-1186</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1186">CVE-2009-1186</a>
 
     <p>udev suffers from a buffer overflow condition in path encoding,
     potentially allowing arbitrary code execution.</p></li>
@@ -30,4 +30,4 @@ version 0.125-7+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1772.data"
-# $Id: dsa-1772.wml,v 1.2 2010-12-17 14:39:37 taffit-guest Exp $
+# $Id: dsa-1772.wml,v 1.3 2014/04/30 07:16:18 pabs Exp $

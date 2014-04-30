@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 5.0 updated</define-tag>
 <define-tag release_date>2009-09-05</define-tag>
 #use wml::debian::news
-# $Id: 20090905.wml,v 1.3 2011-01-24 09:21:20 dmn Exp $
+# $Id: 20090905.wml,v 1.4 2014/04/30 06:29:31 pabs Exp $
 
 <define-tag release>5.0</define-tag>
 <define-tag codename>lenny</define-tag>
@@ -12,17 +12,17 @@
         <td align="center"><:
     my @p = ();
     for my $p (split (/,\s*/, "%2")) {
-	push (@p, sprintf ('<a href="http://packages.debian.org/src:%s">%s</a>', $p, $p));
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
     }
     print join (", ", @p);
 :></td><td align="left">%3</td></tr>
 </define-tag>
 
 <define-tag correction>
-    <tr><td><a href="http://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
 </define-tag>
 
-<define-tag srcpkg><a href="http://packages.debian.org/src:%0">%0</a></define-tag>
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
 
 <p>The Debian project is pleased to announce the third update of its stable
 distribution Debian GNU/Linux <release> (codename <codename>).  This update mainly

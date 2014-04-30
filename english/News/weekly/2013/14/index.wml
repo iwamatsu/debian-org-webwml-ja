@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-07-08" SUMMARY="Browsable Debian source code, updating delegations, Debian trademark team, architectures supported in Jessie"
 
-# $Id: index.wml,v 1.2 2014/04/29 15:27:28 pabs Exp $
+# $Id: index.wml,v 1.4 2014/04/30 07:29:00 pabs Exp $
 # $Rev: 5116 $
 # Status: [freezed]
 
@@ -70,7 +70,7 @@ has been released, covering the following topics:</p>
   <li>the release of the source code of the search engine behind
       <a href="http://codesearch.debian.net">codesearch.debian.net</a>
   </li>
-  <li>a <a href="http://udd.debian.org/cgi-bin/nobugs.cgi">list of packages
+  <li>a <a href="https://udd.debian.org/cgi-bin/nobugs.cgi">list of packages
       that have never had a bug filed against them</a>, and which can serve as a
       starting point to get more involved in Debian quality assurance work
   </li>
@@ -87,7 +87,7 @@ has been released, covering the following topics:</p>
 Seven applicants have been
 <a href="https://nm.debian.org/public/nmlist#done">accepted</a>
 	as Debian Developers, and
-six people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+six people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DD
@@ -137,16 +137,16 @@ list</a>) for announcements.
 
 <p>
 235 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/adcli">adcli — tool for performing actions on an Active Directory domain</a></li>
-<li><a href="http://packages.debian.org/unstable/main/exempi">exempi — command line tool to manipulate XMP metadata</a></li>
-<li><a href="http://packages.debian.org/unstable/main/kazam">kazam — screencast and screenshot application created with design in mind</a></li>
-<li><a href="http://packages.debian.org/unstable/main/php-horde-trean">php-horde-trean — web-based bookmarks application</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sat-xmpp-core">sat-xmpp-core — Salut à Toi XMPP-based communication and sharing tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/scilab-metanet">scilab-metanet — Scilab graphs and networks computations module</a></li>
+<li><a href="https://packages.debian.org/unstable/main/adcli">adcli — tool for performing actions on an Active Directory domain</a></li>
+<li><a href="https://packages.debian.org/unstable/main/exempi">exempi — command line tool to manipulate XMP metadata</a></li>
+<li><a href="https://packages.debian.org/unstable/main/kazam">kazam — screencast and screenshot application created with design in mind</a></li>
+<li><a href="https://packages.debian.org/unstable/main/php-horde-trean">php-horde-trean — web-based bookmarks application</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sat-xmpp-core">sat-xmpp-core — Salut à Toi XMPP-based communication and sharing tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/scilab-metanet">scilab-metanet — Scilab graphs and networks computations module</a></li>
 </ul>
 
 

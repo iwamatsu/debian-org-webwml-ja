@@ -31,7 +31,7 @@ and <a href="http://www.michaelandkrissy.com/node/87">Debian Developers</a>
 congratulated, sometimes
 <a href="http://www.itwire.com/content/view/20064/53/">just happy</a>, sometimes
 <a href="http://itmanagement.earthweb.com/features/article.php/3765826/Debian+GNU/Linux:+15+Years+Old+and+at+the+Crossroads.htm">thoughtfully</a>,
-and celebrated the birthday of the Debian project <a href="http://wiki.debian.org/DebianDay2008">worldwide</a> with parties and
+and celebrated the birthday of the Debian project <a href="https://wiki.debian.org/DebianDay2008">worldwide</a> with parties and
 single day conferences (sometimes even with live streams of the sessions). Even
 a <a href="http://www.freeandopenisland.org/wiki/index.php?title=Debian_Day_2008">virtual
 birthday party</a> was held in Second Life (a virtual world powered by
@@ -83,7 +83,7 @@ Aires.</p>
 Breitner announces</a> the start of an official Debian port to the
 OpenMoko FreeRunner, a smartphone that was designed and developed in a free and
 open manner. This enables Debian users to use the distribution of their choice
-even on their telephone. <a href="http://wiki.debian.org/DebianOnFreeRunner">Installation
+even on their telephone. <a href="https://wiki.debian.org/DebianOnFreeRunner">Installation
 instructions</a> can be found on the Debian wiki.</p>
 
 
@@ -112,7 +112,7 @@ debian-x@lists.debian.org.</p>
 <p>Ben Armstrong
 <a href="https://lists.debian.org/debian-devel-announce/2008/08/msg00004.html">is
 looking for someone</a>  to take over the
-<a href="http://wiki.debian.org/DebianJr">Debian Jr.</a> project, since he is
+<a href="https://wiki.debian.org/DebianJr">Debian Jr.</a> project, since he is
 currently too involved with other Debian-internal projects and can no longer
 spend the necessary time on it. He recommends several measures to move the
 project forward and hopes to find a new leader for the project who will tackle
@@ -220,9 +220,9 @@ release of Debian GNU/Linux 5.0 <q>Lenny</q> started during
 <a href="http://lists.debconf.org/lurker/message/20080804.231055.943faaa6.en.html">DebCamp</a>,
 the hacking session before the annual Debian Conference. In the meantime an
 <a href="https://lists.debian.org/debian-desktop/2008/08/msg00068.html">updated
-version</a> of the <a href="http://packages.debian.org/desktop-base">desktop-base</a>
+version</a> of the <a href="https://packages.debian.org/desktop-base">desktop-base</a>
 package has been uploaded including a new default theme as
-well as an <a href="http://wiki.debian.org/DebianArtThemesNightly">extra 
+well as an <a href="https://wiki.debian.org/DebianArtThemesNightly">extra 
 alternative theme</a>.</p>
 
 
@@ -255,7 +255,7 @@ translators to prepare versions of the project news in their own language, to
 be sent out simultaneously with the original news.  But most importantly more
 people are needed to contribute to the Debian Project News by writing small
 texts on the noteworthy news collected at each issue's
-<a href="http://wiki.debian.org/ProjectNews/Issues/Current">development page</a>.</p>
+<a href="https://wiki.debian.org/ProjectNews/Issues/Current">development page</a>.</p>
 
 
 
@@ -281,11 +281,11 @@ the way how to deal with <q>non maintainer uploads</q> (NMUs).</p>
 that the #debian-devel@OFTC channel topic is often used to give status messages
 in the case of severe or exceptional situations (outages, downtimes, etc). In
 order to stay informed even if not connected to oftc he recommends subscribing
-to the <a href="http://wiki.debian.org/TopicDebianDevel">Debian Wiki page that
+to the <a href="https://wiki.debian.org/TopicDebianDevel">Debian Wiki page that
 mirrors that channel's topic</a>.</p>
 
 <p>Neil Williams <a href="http://www.linux.codehelp.co.uk/serendipity/index.php?/archives/129-po4a-translation-support-from-any-format.html">summarized</a>
-the usage of <a href="http://packages.debian.org/po4a">PO for anything</a> for
+the usage of <a href="https://packages.debian.org/po4a">PO for anything</a> for
 maintaining translations of various documents, including manpages.</p>
 
 <p>Nicolas Francois <a href="https://lists.debian.org/debian-i18n/2008/08/msg00041.html">announced</a>
@@ -297,7 +297,7 @@ too.</p>
 <a href="http://upsilon.cc/~zack/blog/posts/2008/08/PTS_integrated_with_mentors_and_gifts/">improvements</a>
 he did for the <a href="http://packages.qa.debian.org">package tracking
 system</a>. He fixed several bugs and feature request including tighter
-integration with <a href="http://packages.debian.org/lintian">lintian</a>, a
+integration with <a href="https://packages.debian.org/lintian">lintian</a>, a
 tool for checking Debian packages for common errors, and <a
 href="http://mentors.debian.net">mentors.debian.net</a>, a service used by
 package maintainers searching for Debian Developers to <q>sponsor</q>
@@ -328,30 +328,30 @@ released by the Debian Security Team, please subscribe to the
 
 
 <p><strong>New and noteworthy packages</strong></p>
-<p>The following packages were added to the unstable Debian archive recently (<a href="http://packages.debian.org/unstable/main/newpkg">among others</a>):</p>
+<p>The following packages were added to the unstable Debian archive recently (<a href="https://packages.debian.org/unstable/main/newpkg">among others</a>):</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/autorun4linuxcd">
+<li><a href="https://packages.debian.org/unstable/main/autorun4linuxcd">
 	autorun4linuxcd -- Menu for Debian Live under Windows</a></li>
-<li><a href="http://packages.debian.org/unstable/main/bluemindo">
+<li><a href="https://packages.debian.org/unstable/main/bluemindo">
 	bluemindo -- really simple but powerful audio player</a></li>
-<li><a href="http://packages.debian.org/unstable/main/cdebconf-gtk-terminal">
+<li><a href="https://packages.debian.org/unstable/main/cdebconf-gtk-terminal">
 	cdebconf-gtk-terminal -- cdebconf gtk plugin displaying a terminal</a></li>
-<li><a href="http://packages.debian.org/unstable/main/daptup">
+<li><a href="https://packages.debian.org/unstable/main/daptup">
 	daptup -- reporter of changes in list of available packages from repositories</a></li>
-<li><a href="http://packages.debian.org/unstable/main/etherpuppet">
+<li><a href="https://packages.debian.org/unstable/main/etherpuppet">
 	etherpuppet -- create a virtual interface from a remote Ethernet interface</a></li>
-<li><a href="http://packages.debian.org/unstable/main/freealchemist">
+<li><a href="https://packages.debian.org/unstable/main/freealchemist">
 	freealchemist -- simpler figure block game</a></li>
-<li><a href="http://packages.debian.org/unstable/main/guake">
+<li><a href="https://packages.debian.org/unstable/main/guake">
 	guake -- A drop-down terminal for GNOME Desktop Environment</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ink-generator">
+<li><a href="https://packages.debian.org/unstable/main/ink-generator">
 	ink-generator -- Inkscape extension to automatically generate files from a template</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jaranalyzer">
+<li><a href="https://packages.debian.org/unstable/main/jaranalyzer">
 	jaranalyzer -- Dependency management utility for jar files</a></li>
-<li><a href="http://packages.debian.org/unstable/main/uboot-envtools">
+<li><a href="https://packages.debian.org/unstable/main/uboot-envtools">
 	uboot-envtools -- read/modify the environment for the bootloader U-Boot</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xorriso">
+<li><a href="https://packages.debian.org/unstable/main/xorriso">
 	xorriso -- command line iso9660+RR manipulation tool</a></li>
 </ul>
 
@@ -369,7 +369,7 @@ you are interested in or view the complete list of
 <p>Please help us create this newsletter.
 We still need more volunteer writers to watch the Debian community 
 and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing page</a> to find out how to
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing page</a> to find out how to
 help. We're looking forward to receiving your mail at
 <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

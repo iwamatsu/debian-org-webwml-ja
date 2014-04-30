@@ -6,22 +6,22 @@ the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0903">CVE-2006-0903</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0903">CVE-2006-0903</a>
 
     <p>Improper handling of SQL queries containing the NULL character
     allows local users to bypass logging mechanisms.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1516">CVE-2006-1516</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1516">CVE-2006-1516</a>
 
     <p>Usernames without a trailing null byte allow remote attackers to
     read portions of memory.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1517">CVE-2006-1517</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1517">CVE-2006-1517</a>
 
     <p>A request with an incorrect packet length allows remote attackers
     to obtain sensitive information.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-1518">CVE-2006-1518</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-1518">CVE-2006-1518</a>
 
     <p>Specially crafted request packets with invalid length values allow
     the execution of arbitrary code.</p></li>
@@ -69,4 +69,4 @@ which distribution has this problem fixed:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1079.data"
-# $Id: dsa-1079.wml,v 1.4 2010-12-17 15:39:30 taffit-guest Exp $
+# $Id: dsa-1079.wml,v 1.5 2014/04/30 07:16:09 pabs Exp $

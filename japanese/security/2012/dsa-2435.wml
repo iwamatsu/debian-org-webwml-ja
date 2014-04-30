@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -8,7 +8,7 @@ GNU Flash プレーヤ Gnash に複数の欠陥が発見されました。
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-1175">CVE-2012-1175</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-1175">CVE-2012-1175</a>
 
 <p>
 Georgia Tech Information Security Center の Tielei Wang さんにより、
@@ -17,7 +17,7 @@ GNU Gnash に整数オーバフローに起因する欠陥が発見されまし�
 ファオーバフローを起こす攻撃が可能です。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-4328">CVE-2011-4328</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-4328">CVE-2011-4328</a>
 
 <p>
 Alexander Kurtz さんにより、HTTP クッキーの管理が安全でないことが発
@@ -27,7 +27,7 @@ Alexander Kurtz さんにより、HTTP クッキーの管理が安全でない�
 を起こします。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-4337">CVE-2010-4337</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-4337">CVE-2010-4337</a>
 
 <p>
 Jakub Wilk さんにより、build の際の一時ファイルの管理が安全でないこ
@@ -56,4 +56,4 @@ Jakub Wilk さんにより、build の際の一時ファイルの管理が安全
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2435.data"
-# $Id: dsa-2435.wml,v 1.2 2012-03-23 20:18:09 victory-guest Exp $
+# $Id: dsa-2435.wml,v 1.3 2014/04/30 07:17:19 pabs Exp $

@@ -1,5 +1,5 @@
 # Status: sent
-# $Id: 20110318.wml,v 1.2 2011-03-21 13:22:49 taffit-guest Exp $
+# $Id: 20110318.wml,v 1.3 2014/04/30 07:41:23 pabs Exp $
 # $Rev: 1849 $
 
 <define-tag pagetitle>Debian Derivatives Exchange project
@@ -19,7 +19,7 @@ eases the workload of the derivatives by reducing the differences
 derivatives have to maintain themselves.</p>
 
 <p>The DEX project complements the already existing <a
-href="http://wiki.debian.org/DerivativesFrontDesk">Debian derivatives front
+href="https://wiki.debian.org/DerivativesFrontDesk">Debian derivatives front
 desk</a> by organizing cross-distribution working groups and projects to
 monitor and merge changes from derivatives into Debian proper. In DEX,
 developers from both Debian and derivatives work side-by-side to merge

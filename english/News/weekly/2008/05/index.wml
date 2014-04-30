@@ -43,7 +43,7 @@ mean to export a version from a version control system. During this process
 timestamps of files are included, causing different checksums, even if the
 files haven't changed. Calling gzip with the -n switch didn't solve the
 problem entirely, but
-<a href="http://packages.debian.org/pristine-tar">pristine-tar</a> seems to be the
+<a href="https://packages.debian.org/pristine-tar">pristine-tar</a> seems to be the
 solution to the problem.</p>
 
 <p><strong>Usefulness of Debian Release Goals?</strong></p>
@@ -155,7 +155,7 @@ you are interested in or view the complete archive of packages requesting
 <p><strong>Want to continue reading DPN?</strong> Please help us create
 this newsletter. We still need more volunteer writers who watch the
 Debian community and report about what is going on. Please see our
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute"><q>HOWTO
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute"><q>HOWTO
 contribute</q> page</a> to find out how to help. We're looking forward
 to receiving your mail at
 <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>

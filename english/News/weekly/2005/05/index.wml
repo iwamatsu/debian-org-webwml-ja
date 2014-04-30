@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-01" SUMMARY="FOSDEM, Dependencies, Libraries, MySQL, Upgrade, Gettext, Archive, BSP, DebConf, Release"
-# $Id: index.wml,v 1.9 2014/04/29 15:25:45 pabs Exp $
+# $Id: index.wml,v 1.11 2014/04/30 07:09:25 pabs Exp $
 
 <p>Welcome to this year's 5th issue of DWN, the weekly newsletter for the
 Debian community.  Andreas Schuldei <a
@@ -30,7 +30,7 @@ that they are used to distinguish the significance of the various guidelines.
 Jeroen van Wolffelaar <a
 href="https://lists.debian.org/debian-devel/2005/01/msg01670.html">explained</a>
 that the significance for the sarge release is defined in the <a
-href="http://release.debian.org/sarge_rc_policy.txt">release policy</a>.</p>
+href="https://release.debian.org/sarge_rc_policy.txt">release policy</a>.</p>
 
 <p><strong>Library Packaging Guideline.</strong> Pierre Ancelot <a
 href="https://lists.debian.org/debian-devel/2005/01/msg01646.html">wondered</a>
@@ -63,11 +63,11 @@ that circular dependencies prevent a normal upgrade from woody to sarge using
 the length of the argument list fed into <code>dpkg</code>.  Steve Langasek <a
 href="https://lists.debian.org/debian-devel/2005/01/msg01821.html">added</a>
 that the release notes recommend to use <a
-href="http://packages.debian.org/aptitude">aptitude</a> for upgrading.</p>
+href="https://packages.debian.org/aptitude">aptitude</a> for upgrading.</p>
 
 <p><strong>Gettext Script in Binary Directory.</strong> Jochen Voss <a
 href="https://lists.debian.org/debian-devel/2005/01/msg01797.html">noticed</a>
-that the <a href="http://packages.debian.org/gettext">gettext</a> package
+that the <a href="https://packages.debian.org/gettext">gettext</a> package
 installs a shell script component in the <code>/usr/bin</code> directory with
 execute permissions removed.  In <a href="https://bugs.debian.org/284637">\
 Bug#284637</a> Bruno Haible <a
@@ -135,19 +135,19 @@ that you update your systems if you have any of these packages installed.</p>
 
 <p><strong>New or Noteworthy Packages.</strong> The following packages were
 added to the unstable Debian archive <a
-href="http://packages.debian.org/unstable/newpkg_main">recently</a> or contain
+href="https://packages.debian.org/unstable/newpkg_main">recently</a> or contain
 important updates.</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/graphics/graphviz">graphviz</a>
+<li><a href="https://packages.debian.org/unstable/graphics/graphviz">graphviz</a>
     -- Rich set of graph drawing tools.
-<li><a href="http://packages.debian.org/unstable/doc/lg-issue108">lg-issue108</a>
+<li><a href="https://packages.debian.org/unstable/doc/lg-issue108">lg-issue108</a>
     -- Issue 108 of the Linux Gazette.
-<li><a href="http://packages.debian.org/unstable/doc/lg-issue109">lg-issue109</a>
+<li><a href="https://packages.debian.org/unstable/doc/lg-issue109">lg-issue109</a>
     -- Issue 109 of the Linux Gazette.
-<li><a href="http://packages.debian.org/unstable/doc/lg-issue110">lg-issue110</a>
+<li><a href="https://packages.debian.org/unstable/doc/lg-issue110">lg-issue110</a>
     -- Issue 110 of the Linux Gazette.
-<li><a href="http://packages.debian.org/unstable/utils/vbetool">vbetool</a>
+<li><a href="https://packages.debian.org/unstable/utils/vbetool">vbetool</a>
     -- Run real-mode video BIOS code to alter hardware state.
 </ul>
 
@@ -159,15 +159,15 @@ the full list, and please add a note to the bug report and retitle it to ITA:
 if you plan to take over a package.</p>
 
 <ul>
-<li> <a href="http://packages.debian.org/unstable/utils/binstats">binstats</a>
+<li> <a href="https://packages.debian.org/unstable/utils/binstats">binstats</a>
      -- Statistics tool for installed programs.
      (<a href="https://bugs.debian.org/292019">Bug#292019</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/perl/libcpanplus-perl">libcpanplus-perl</a>
+<li> <a href="https://packages.debian.org/unstable/perl/libcpanplus-perl">libcpanplus-perl</a>
      -- Download and install perl modules from CPAN - in a modern way.
      (<a href="https://bugs.debian.org/292754">Bug#292754</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/perl/liblog-agent-logger-perl">liblog-agent-logger-perl</a>
+<li> <a href="https://packages.debian.org/unstable/perl/liblog-agent-logger-perl">liblog-agent-logger-perl</a>
      -- Log::Agent::Logger perl module.
      (<a href="https://bugs.debian.org/292916">Bug#292916</a>)
      </li>

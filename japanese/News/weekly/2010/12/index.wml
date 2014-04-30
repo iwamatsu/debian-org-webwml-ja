@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-09-21" SUMMARY="Linux Mint Debian エディション、<q>重大な</q>ソフトウェアバグ、Debian はパッケージ作業以外を行う貢献者を歓迎します"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.8"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl
@@ -53,7 +53,7 @@ Debian を基にしたエディションが人気を獲得をしたことを意�
 
 <p>Linux Mint が Debian 派生物の仲間入りをすることは喜ばしいことで、Linux Mint
 開発者は Debian との連携を期待するでしょう。Linux Mint 開発者を<a
-href="http://wiki.debian.org/DerivativesFrontDesk">Debian
+href="https://wiki.debian.org/DerivativesFrontDesk">Debian
 派生物フロントデスク</a>で暖かく歓迎することが提案されました。</p>
 
 
@@ -121,7 +121,7 @@ API の安定性、パッケージ分割の必要性、パフォーマンス問�
 <p>上の投稿に対して反応があり、Ruby のパッケージ化作業の<a
 href="http://www.lucas-nussbaum.net/blog/?p=575">支援に数名が名乗りを上げた</a>ため、Lucas
 さんはガイドラインを示した<a
-href="http://wiki.debian.org/Teams/Ruby">チームのウィキページ</a>を更新しました。</p>
+href="https://wiki.debian.org/Teams/Ruby">チームのウィキページ</a>を更新しました。</p>
 
 
 <toc-add-entry name="contrib">Debian はパッケージ作業以外を行う貢献者を歓迎します</toc-add-entry>
@@ -187,8 +187,8 @@ href="http://www.perrier.eu.org/weblog/2010/09/09#samba-3.5.4"><q>Sid</q> への
 のアップロードがリリースチームによって公認されたこと</a>をお知らせしています。Christian さんはこのバージョンを <q>Squeeze</q>
 で提供可能な品質にするために、ユーザとシステム管理者が新しいパッケージをテストしてバグを報告することを呼びかけました。</p>
 
-<p>Lucas Nussbaum さんが <a href ="http://udd.debian.org/">Ultimate Debian Database</a>
-に<a href="http://udd.debian.org/cgi-bin/bugs.cgi">バグ検索インターフェイス</a>を<a
+<p>Lucas Nussbaum さんが <a href ="https://udd.debian.org/">Ultimate Debian Database</a>
+に<a href="https://udd.debian.org/cgi-bin/bugs.cgi">バグ検索インターフェイス</a>を<a
 href="http://www.lucas-nussbaum.net/blog/?p=571">追加しました</a>。<br />これにはさらに多くの機能が提供されており、<a
 href="http://bts.turmzimmer.net/details.php">非公式のリリースクリティカルバグトラッカー</a>を置き換えるものになりそうです。</p>
 
@@ -203,7 +203,7 @@ href="http://www.itp.tuwien.ac.at/~mattems/blog/2010/08/28#klibc_1.5.20"><tt>kli
 
 <p>前回の Debian プロジェクトニュースが発行された後に、1 人の応募者が Debian 開発者として<a
 href="https://nm.debian.org/nmlist.php#newmaint">認められ</a>、、1 人が<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテナンスを始めました</a>。
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテナンスを始めました</a>。
 Luke Faraone さん、Andreas Beckmann さんを私たちのプロジェクトに歓迎しましょう!</p>
 
 
@@ -217,7 +217,7 @@ Debian 6.0 <q>Squeeze</q> には今のところ 317 のリリースクリティ�
 
 <p><a
 href="http://blog.schmehl.info/Debian/rc-stats/2010-37">より詳しい統計</a>と、これらの数字を<a
-href="http://wiki.debian.org/ProjectNews/RC-Stats">解釈する方法のヒント</a>を参照できます。</p>
+href="https://wiki.debian.org/ProjectNews/RC-Stats">解釈する方法のヒント</a>を参照できます。</p>
 
 
 <toc-add-entry name="dsa">重要な Debian セキュリティ勧告</toc-add-entry>
@@ -242,25 +242,25 @@ href="https://lists.debian.org/debian-security-announce/">セキュリティメ�
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、以下のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/browser-plugin-gnash">browser-plugin-gnash &mdash; GNU Shockwave Flash (SWF) プレイヤー - Mozilla と派生物用のプラグイン</a></li>
-<li><a href="http://packages.debian.org/unstable/main/code-aster-gui">code-aster-gui &mdash; Code_Aster 用グラフィカルユーザインターフェイス - クライアント</a></li>
-<li><a href="http://packages.debian.org/unstable/main/code-aster-run">code-aster-run &mdash; Code_Aster 用グラフィカルユーザインターフェイス - サーバ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-amd64">debian-installer-6.0-netboot-amd64 &mdash; amd64 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-armel">debian-installer-6.0-netboot-armel &mdash; armel 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-hppa">debian-installer-6.0-netboot-hppa &mdash; hppa 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-i386">debian-installer-6.0-netboot-i386 &mdash; i386 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-ia64">debian-installer-6.0-netboot-ia64 &mdash; ia64 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mips">debian-installer-6.0-netboot-mips &mdash; mips 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mipsel">debian-installer-6.0-netboot-mipsel &mdash; mipsel 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-powerpc">debian-installer-6.0-netboot-powerpc &mdash; powerpc 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-sparc">debian-installer-6.0-netboot-sparc &mdash; sparc 用 Debian-installer ネットワークブートイメージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-dz-bt">iceweasel-l10n-dz-bt &mdash; Iceweasel 用ゾンカ語言語パッケージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-fa-ir">iceweasel-l10n-fa-ir &mdash; Iceweasel 用ペルシア語言語パッケージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-fur-it">iceweasel-l10n-fur-it &mdash; Iceweasel 用フリウリ語言語パッケージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-ne-np">iceweasel-l10n-ne-np &mdash; Iceweasel 用ネパール語言語パッケージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/browser-plugin-gnash">browser-plugin-gnash &mdash; GNU Shockwave Flash (SWF) プレイヤー - Mozilla と派生物用のプラグイン</a></li>
+<li><a href="https://packages.debian.org/unstable/main/code-aster-gui">code-aster-gui &mdash; Code_Aster 用グラフィカルユーザインターフェイス - クライアント</a></li>
+<li><a href="https://packages.debian.org/unstable/main/code-aster-run">code-aster-run &mdash; Code_Aster 用グラフィカルユーザインターフェイス - サーバ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-amd64">debian-installer-6.0-netboot-amd64 &mdash; amd64 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-armel">debian-installer-6.0-netboot-armel &mdash; armel 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-hppa">debian-installer-6.0-netboot-hppa &mdash; hppa 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-i386">debian-installer-6.0-netboot-i386 &mdash; i386 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-ia64">debian-installer-6.0-netboot-ia64 &mdash; ia64 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mips">debian-installer-6.0-netboot-mips &mdash; mips 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mipsel">debian-installer-6.0-netboot-mipsel &mdash; mipsel 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-powerpc">debian-installer-6.0-netboot-powerpc &mdash; powerpc 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-sparc">debian-installer-6.0-netboot-sparc &mdash; sparc 用 Debian-installer ネットワークブートイメージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-dz-bt">iceweasel-l10n-dz-bt &mdash; Iceweasel 用ゾンカ語言語パッケージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-fa-ir">iceweasel-l10n-fa-ir &mdash; Iceweasel 用ペルシア語言語パッケージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-fur-it">iceweasel-l10n-fur-it &mdash; Iceweasel 用フリウリ語言語パッケージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-ne-np">iceweasel-l10n-ne-np &mdash; Iceweasel 用ネパール語言語パッケージ</a></li>
 </ul>
 
 <p><a href="http://www.debian.org/News/2010/20100806">次期 Debian 6.0
@@ -281,7 +281,7 @@ href="https://lists.debian.org/E1OwOon-0006iP-9v@merkel.debian.org">報告</a>�
 
 <p>この会報の作成を手伝ってみませんか? 我々は、Debian コミュニティの活動を眺め、\
 何が起きているのかを報告してくれるボランティアのライターを募集しています。<a
-href="http://wiki.debian.org/ProjectNews/HowToContribute">\
+href="https://wiki.debian.org/ProjectNews/HowToContribute">\
 貢献に関するページ</a>をご覧になって、\
 手助けの具体的な方法をご確認ください。我々はあなたからのメールを <a
 href="mailto:debian-publicity@lists.debian.org">\

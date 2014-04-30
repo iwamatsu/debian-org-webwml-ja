@@ -6,12 +6,12 @@ the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-0758">CVE-2009-0758</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-0758">CVE-2009-0758</a>
 
     <p>Rob Leslie discovered a denial of service vulnerability in the
     code used to reflect unicast mDNS traffic.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-2244">CVE-2010-2244</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-2244">CVE-2010-2244</a>
 
     <p>Ludwig Nussel discovered a denial of service vulnerability in
     the processing of malformed DNS packets.</p></li>
@@ -29,4 +29,4 @@ version 0.6.26-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2086.data"
-# $Id: dsa-2086.wml,v 1.2 2010-12-17 14:27:11 taffit-guest Exp $
+# $Id: dsa-2086.wml,v 1.3 2014/04/30 07:16:22 pabs Exp $

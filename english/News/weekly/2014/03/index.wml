@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-02-10" SUMMARY="Call for projects and mentors for Debian GSoC 2014, bits from the Release Team, reports from recent Debian Sprints"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:34 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:29:04 pabs Exp $
 # $Rev: 5414 $
 # Status: [content-frozen]
 
@@ -57,8 +57,8 @@ will now display a warning for packages that are about to be
 auto-removed from testing. The auto-removals are also listed,
 <a href="https://lists.debian.org/debian-devel/2014/01/msg00574.html">thanks
 to Lucas Nussbaum</a>,
-on the <a href="http://udd.debian.org/dmd/">Debian Maintainer Dashboard</a>
-and by the <a href="http://packages.debian.org/unstable/how-can-i-help">how-can-i-help</a>
+on the <a href="https://udd.debian.org/dmd/">Debian Maintainer Dashboard</a>
+and by the <a href="https://packages.debian.org/unstable/how-can-i-help">how-can-i-help</a>
 package.
 </p>
 
@@ -147,7 +147,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-Seven people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+Seven people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DC
@@ -190,20 +190,20 @@ list</a>) for announcements.
 
 <p>
 246 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/drupal7-mod-drucall">drupal7-mod-drucall — WebRTC SIP module for the Drupal CMS</a></li>
-<li><a href="http://packages.debian.org/unstable/main/etm-qt">etm-qt — tool to manage events and tasks using simple text files</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-noto">fonts-noto — "No Tofu" font families with large Unicode coverage</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gnome-shell-pomodoro">gnome-shell-pomodoro — GNOME Shell time-management app</a></li>
-<li><a href="http://packages.debian.org/unstable/main/hash-slinger">hash-slinger — tools to generate special DNS records</a></li>
-<li><a href="http://packages.debian.org/unstable/main/mugshot">mugshot — lightweight user-configuration application</a></li>
-<li><a href="http://packages.debian.org/unstable/main/optcomp">optcomp — syntax extension for optional compilation with cpp-like directives (tools)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rurple-ng">rurple-ng — learn programming in Python with a robot</a></li>
-<li><a href="http://packages.debian.org/unstable/main/tetgen">tetgen — quality tetrahedral mesh generator</a></li>
-<li><a href="http://packages.debian.org/unstable/main/udevil">udevil — alternative storage media interface</a></li>
+<li><a href="https://packages.debian.org/unstable/main/drupal7-mod-drucall">drupal7-mod-drucall — WebRTC SIP module for the Drupal CMS</a></li>
+<li><a href="https://packages.debian.org/unstable/main/etm-qt">etm-qt — tool to manage events and tasks using simple text files</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fonts-noto">fonts-noto — "No Tofu" font families with large Unicode coverage</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gnome-shell-pomodoro">gnome-shell-pomodoro — GNOME Shell time-management app</a></li>
+<li><a href="https://packages.debian.org/unstable/main/hash-slinger">hash-slinger — tools to generate special DNS records</a></li>
+<li><a href="https://packages.debian.org/unstable/main/mugshot">mugshot — lightweight user-configuration application</a></li>
+<li><a href="https://packages.debian.org/unstable/main/optcomp">optcomp — syntax extension for optional compilation with cpp-like directives (tools)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/rurple-ng">rurple-ng — learn programming in Python with a robot</a></li>
+<li><a href="https://packages.debian.org/unstable/main/tetgen">tetgen — quality tetrahedral mesh generator</a></li>
+<li><a href="https://packages.debian.org/unstable/main/udevil">udevil — alternative storage media interface</a></li>
 </ul>
 
 

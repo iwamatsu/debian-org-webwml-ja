@@ -6,12 +6,12 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-0642">CVE-2009-0642</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-0642">CVE-2009-0642</a>
 
   <p>The return value from the OCSP_basic_verify function was not checked
   properly, allowing continued use of a revoked certificate.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1904">CVE-2009-1904</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1904">CVE-2009-1904</a>
 
   <p>An issue in parsing BigDecimal numbers can result in a
   denial-of-service condition (crash).</p></li>
@@ -33,4 +33,4 @@ problems:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1860.data"
-# $Id: dsa-1860.wml,v 1.2 2010-12-17 14:40:00 taffit-guest Exp $
+# $Id: dsa-1860.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

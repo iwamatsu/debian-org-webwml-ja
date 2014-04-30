@@ -6,13 +6,13 @@ the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1300">CVE-2009-1300</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1300">CVE-2009-1300</a>
 
     <p>In time zones where daylight savings time occurs at midnight,
     the apt cron.daily script fails, stopping new security updates
     from being applied automatically.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1358">CVE-2009-1358</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1358">CVE-2009-1358</a>
 
     <p>A repository that has been signed with an expired or revoked
     OpenPGP key would still be considered valid by APT.</p></li>
@@ -33,4 +33,4 @@ version 0.7.21.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1779.data"
-# $Id: dsa-1779.wml,v 1.2 2010-12-17 14:39:37 taffit-guest Exp $
+# $Id: dsa-1779.wml,v 1.3 2014/04/30 07:16:18 pabs Exp $

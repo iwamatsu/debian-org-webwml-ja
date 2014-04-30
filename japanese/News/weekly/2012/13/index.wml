@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-25" SUMMARY="フリーズ、ミラーリダイレクトサービス、DebConf11 会計報告とその他のイベントの報告"
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.6"
 
 # $Rev: 3956 $
 # Status: [freeze]
@@ -71,7 +71,7 @@ href="http://bzed.de//posts/2012/06/Report_from_the_Bug_Squashing_Party_in_Salzb
 
 <p>Victor Nițu さんが、Debian プロジェクトの哲学と成果、
 グローバルコミュニティとルーマニアコミュニティについて、<a
-href="http://wiki.debian.org/Presentations#A2012">\
+href="https://wiki.debian.org/Presentations#A2012">\
 世界的コミュニティを持つユニバーサルプロジェクト</a>というタイトルでプレゼンテーションを実施しました。
 これは、オンラインで結成されてから 1 年半、ルーマニアで初めてのローカルな Debian
 のイベントです。地域のフリーソフトウェアおよびフリーカルチャー組織である <a
@@ -88,7 +88,7 @@ href="https://lists.debian.org/debian-ctte/2012/05/msg00072.html">技術委員�
 IRC 会議</a>を開催し、そこで IRC 月次定例会議が計画され、6 月まで定例会議が開催されています。また、Stefano
 さんは <a href="http://lists.alioth.debian.org/pipermail/pkg-multimedia-maintainers/2012-May/026678.html">\
 debian-multimedia.org アーカイブメンテナとのアーカイブ統合に関する合意に</a>に失敗したことと、進行中の <a
-href="http://wiki.debian.org/Sprints/2012/ScienceSprint">Debian Science スプリント</a> が主催する <a
+href="https://wiki.debian.org/Sprints/2012/ScienceSprint">Debian Science スプリント</a> が主催する <a
 href="http://www.esrf.eu/events/conferences/debian-for-scientific-facilities-days-1/">Debian for
 Scientific Facilities Days</a> カンファレンスについて述べました。DPL の仕事手伝い募集に対して返信をした
 3 人と、定例 IRC 公開会議の予定は近日公開予定です。もし興味があれば、まだ応募締切までは時間があります。</p>
@@ -141,7 +141,7 @@ href="https://nm.debian.org/nmlist.php#newmaint">受理</a>され、4
 人の応募者が Debian メンテナとして<a
 href="https://lists.debian.org/debian-project/2012/06/msg00139.html">受理</a>され、6
 人がパッケージのメンテナンスを<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">開始</a>しました。
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">開始</a>しました。
 # DD
 Daniel Leidert さん、
 Ulrich Dangel さん、
@@ -196,19 +196,19 @@ href="https://lists.debian.org/debian-stable-announce/">stable-updates セクシ
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、393 のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/blhc">blhc — ビルドログの hardening チェック</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ciderwebmail">ciderwebmail — IMAP のウェブメールサービス</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debpear">debpear — PHP の PEAR パッケージを自動で Debian パッケージにしてインストールするツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/http-icons">http-icons — クラシックな MIME アイコン集</a></li>
-<li><a href="http://packages.debian.org/unstable/main/icinga-web">icinga-web — モダンなウェブインターフェースを持つホストおよびネットワークモニタリングシステム</a></li>
-<li><a href="http://packages.debian.org/unstable/main/juju">juju — 次世代のサービス編成システム</a></li>
-<li><a href="http://packages.debian.org/unstable/main/looptools">looptools — 1 ループファインマンダイアグラムの積分評価器</a></li>
-<li><a href="http://packages.debian.org/unstable/main/misery">misery — グループ、クラブ、休日向けのシンプルな会計パッケージ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sushi">sushi — D-Bus ベースの IRC ツール群 (suite)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/veromix">veromix — PulseAudio サウンドサーバ用のミキサー (GUI)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/blhc">blhc — ビルドログの hardening チェック</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ciderwebmail">ciderwebmail — IMAP のウェブメールサービス</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debpear">debpear — PHP の PEAR パッケージを自動で Debian パッケージにしてインストールするツール</a></li>
+<li><a href="https://packages.debian.org/unstable/main/http-icons">http-icons — クラシックな MIME アイコン集</a></li>
+<li><a href="https://packages.debian.org/unstable/main/icinga-web">icinga-web — モダンなウェブインターフェースを持つホストおよびネットワークモニタリングシステム</a></li>
+<li><a href="https://packages.debian.org/unstable/main/juju">juju — 次世代のサービス編成システム</a></li>
+<li><a href="https://packages.debian.org/unstable/main/looptools">looptools — 1 ループファインマンダイアグラムの積分評価器</a></li>
+<li><a href="https://packages.debian.org/unstable/main/misery">misery — グループ、クラブ、休日向けのシンプルな会計パッケージ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sushi">sushi — D-Bus ベースの IRC ツール群 (suite)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/veromix">veromix — PulseAudio サウンドサーバ用のミキサー (GUI)</a></li>
 </ul>
 
 

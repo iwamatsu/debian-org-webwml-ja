@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-09-03" SUMMARY="RMLL 2012 への Debian の参加、64-bit PC: 最も人気がある Debian アーキテクチャ"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.8"
 
 # $Rev: 4213 $
 # Status: [content-frozen]
@@ -76,8 +76,8 @@ href="https://lists.debian.org/debian-devel/2012/08/msg00702.html">debdelta
 <p>今後、いくつかの Debian 関連のイベントが予定されています。</p>
 
 <ul>
- <li>9 月 8 - 9 日、ダブリン、アイルランド — <a href="http://wiki.debian.org/BSP/2012/09/ie/Dublin">Debian バグ退治パーティ</a></li>
- <li>9 月 14 - 16 日、ベルリン、ドイツ — <a href="http://wiki.debian.org/BSP/2012/09/de/Berlin">Debian バグ退治パーティ</a></li>
+ <li>9 月 8 - 9 日、ダブリン、アイルランド — <a href="https://wiki.debian.org/BSP/2012/09/ie/Dublin">Debian バグ退治パーティ</a></li>
+ <li>9 月 14 - 16 日、ベルリン、ドイツ — <a href="https://wiki.debian.org/BSP/2012/09/de/Berlin">Debian バグ退治パーティ</a></li>
 </ul>
 
 <p>Debian 関連のイベントや会議に関するより多くの情報を得るには、Debian
@@ -101,7 +101,7 @@ href="$(HOME)/events/talks">講演のページ</a>にリンクを貼りたい De
 <p>前号の Debian プロジェクトニュースより後に、3 名の応募者が Debian 開発者として<a
 href="https://nm.debian.org/nmlist.php#newmaint">受理され</a>、2
 名がパッケージのメンテナンスを<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">開始しました</a>。
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">開始しました</a>。
 我々のプロジェクトに Praveen Arimbrathodiyil さん、Cleto Martín Angelina さん、Benjamin
 Mesing さん、Andreas Rütten さん、Zang MingJie さんを歓迎しましょう!</p>
 
@@ -134,10 +134,10 @@ href="https://lists.debian.org/debian-stable-announce/">stable-updates セクシ
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、2 個のパッケージが Debian 不安定版アーカイブに<a
-href="http://packages.debian.org/unstable/main/newpkg">追加されました</a>。
+href="https://packages.debian.org/unstable/main/newpkg">追加されました</a>。
 新たに公式サポートになった 2 つのアーキテクチャ、<a
-href="http://packages.debian.org/unstable/main/armhf">armhf</a> と <a
-href="http://packages.debian.org/unstable/main/s390x">s390x</a> のインストールガイドです。</p>
+href="https://packages.debian.org/unstable/main/armhf">armhf</a> と <a
+href="https://packages.debian.org/unstable/main/s390x">s390x</a> のインストールガイドです。</p>
 
 
 <toc-add-entry name="wnpp">作業が必要なパッケージ</toc-add-entry>

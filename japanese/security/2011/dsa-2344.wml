@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>deserialization に関する欠陥</define-tag>
 <define-tag moreinfo>
 
@@ -7,7 +7,7 @@
 Piston フレームワークに、信用できない YAML や Pickle データをデシリア
 ライズできるため、リモートからのコードの実行に繋がるという欠陥が発見
 されました 
-(<a href="http://security-tracker.debian.org/tracker/CVE-2011-4103">CVE-2011-4103</a>)
+(<a href="https://security-tracker.debian.org/tracker/CVE-2011-4103">CVE-2011-4103</a>)
 。
 </p>
 
@@ -35,4 +35,4 @@ Piston フレームワークに、信用できない YAML や Pickle データ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2344.data"
-# $Id: dsa-2344.wml,v 1.1 2011-11-14 10:33:03 kmuto Exp $
+# $Id: dsa-2344.wml,v 1.2 2014/04/30 07:17:18 pabs Exp $

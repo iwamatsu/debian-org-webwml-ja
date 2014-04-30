@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-03-03" SUMMARY="Debian Technical Committee chooses systemd, Debian selected for Google Summer of Code 2014, DebConf14 organising team needs your help to raise funds, Barcelona Debian Women mini-DebConf"
-# $Id: index.wml,v 1.3 2014/04/29 15:27:34 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:42:19 pabs Exp $
 # $Rev: 5445 $
 # Status: [content-frozen]
 
@@ -79,9 +79,9 @@ Mònica Ramírez Arceda
 a public invitation</a> for the mini-DebConf in Barcelona on 15–16 March organised
 by <a href="$(HOME)/women">Debian Women</a>.
 
-The <a href="http://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/Talks">schedule
+The <a href="https://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/Talks">schedule
 of talks</a> is already available. 
-<a href="http://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/Participants">Registration</a> of participants is recommended.
+<a href="https://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/Participants">Registration</a> of participants is recommended.
 
 The organisers are still raising funds to cover the costs of running the
 conference and to offer travel sponsorship to people who can't pay for it.
@@ -110,7 +110,7 @@ scope of the projects is much smaller than a Google Summer of Code (from about
 16 to 32 hours of work).
 
 If you want to mentor such a project, submit your ideas
-on the <a href="http://wiki.debian.org/DebianFrance/NewContributorGame">dedicated
+on the <a href="https://wiki.debian.org/DebianFrance/NewContributorGame">dedicated
 wiki page</a>.
 </p>
 
@@ -128,7 +128,7 @@ that <a href="https://bugs.debian.org/740000">bug #740000</a> was reported on
 February 24 by Miguel Landaeta, 3 months and 4 days after
 <a href="https://bugs.debian.org/730000">bug #730000</a>.
 Only time will tell who will win the
-<a href="http://wiki.debian.org/800000thBugContest">contest</a>
+<a href="https://wiki.debian.org/800000thBugContest">contest</a>
 to guess when bugs #800000 and #1000000 will be reported.
 </p>
 
@@ -145,7 +145,7 @@ Martin Zobel-Helas and Enrico Zini
 <a href="https://lists.debian.org/debian-devel-announce/2014/02/msg00006.html">started
 a census</a> in order to gather information about software services for the
 Debian community. The list of known services so far is available
-<a href="http://wiki.debian.org/Services">on the wiki</a>. If you maintain or
+<a href="https://wiki.debian.org/Services">on the wiki</a>. If you maintain or
 simply know a service that is not yet on the list, please edit the wiki page
 to add relevant information.
 </p>
@@ -176,7 +176,7 @@ that a Debian Bug Squashing Party is being organised for 25–27 April in the of
 <a href="http://www.conova.com/de/kontakt/anfahrtsplan-salzburg/">conova
 communications GmbH</a> in Salzburg, Austria.
 Information and a registration form are available on the
-<a href="http://wiki.debian.org/BSP/2014/04/at/Salzburg">wiki</a>.
+<a href="https://wiki.debian.org/BSP/2014/04/at/Salzburg">wiki</a>.
 </p>
 
 
@@ -184,7 +184,7 @@ Information and a registration form are available on the
 <p>There are several upcoming Debian-related events:</p>
 <ul>
  <li>15–16 March, Barcelona, Spain — <a href="http://bcn2014.mini.debconf.org/">Debian Women Mini-DebConf</a></li>
- <li>15–16 March, Chemnitz, Germany — Debian booth at the <a href="http://wiki.debian.org/DebianEvents/de/2014/ChemnitzerLinuxTage">Chemnitz Linux Days</a></li>
+ <li>15–16 March, Chemnitz, Germany — Debian booth at the <a href="https://wiki.debian.org/DebianEvents/de/2014/ChemnitzerLinuxTage">Chemnitz Linux Days</a></li>
 </ul>
 <p>
 You can find more information about Debian-related events and talks
@@ -206,7 +206,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-15 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+15 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Jerome Charaoui,
@@ -270,21 +270,21 @@ list</a>) for announcements.
 
 <p>
 352 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/cura-engine">cura-engine — commandline slicer program for 3-D printers</a></li>
-<li><a href="http://packages.debian.org/unstable/main/dh-php5">dh-php5 — debhelper add-on to handle PHP PECL extensions</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fdroidserver">fdroidserver — F-Droid build server and repository tools for Android</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gnome-maps">gnome-maps — map application for GNOME</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gnuhealth">gnuhealth — electronic medical record and hospital information system</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sa-compile">sa-compile — tools for compiling SpamAssassin rules into C</a></li>
-<li><a href="http://packages.debian.org/unstable/main/simple-tpm-pk11">simple-tpm-pk11 — simple library for using the TPM chip to secure SSH keys</a></li>
-<li><a href="http://packages.debian.org/unstable/main/tmperamental">tmperamental — LD_PRELOADable library to detect rogue writes to /tmp/</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vim-fugitive">vim-fugitive — Vim plugin to work with Git</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xinput-calibrator">xinput-calibrator — generic touchscreen calibration program for X.Org</a></li>
-<li><a href="http://packages.debian.org/unstable/main/zfsnap">zfsnap — automatic snapshot creation and removal for ZFS</a></li>
+<li><a href="https://packages.debian.org/unstable/main/cura-engine">cura-engine — commandline slicer program for 3-D printers</a></li>
+<li><a href="https://packages.debian.org/unstable/main/dh-php5">dh-php5 — debhelper add-on to handle PHP PECL extensions</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fdroidserver">fdroidserver — F-Droid build server and repository tools for Android</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gnome-maps">gnome-maps — map application for GNOME</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gnuhealth">gnuhealth — electronic medical record and hospital information system</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sa-compile">sa-compile — tools for compiling SpamAssassin rules into C</a></li>
+<li><a href="https://packages.debian.org/unstable/main/simple-tpm-pk11">simple-tpm-pk11 — simple library for using the TPM chip to secure SSH keys</a></li>
+<li><a href="https://packages.debian.org/unstable/main/tmperamental">tmperamental — LD_PRELOADable library to detect rogue writes to /tmp/</a></li>
+<li><a href="https://packages.debian.org/unstable/main/vim-fugitive">vim-fugitive — Vim plugin to work with Git</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xinput-calibrator">xinput-calibrator — generic touchscreen calibration program for X.Org</a></li>
+<li><a href="https://packages.debian.org/unstable/main/zfsnap">zfsnap — automatic snapshot creation and removal for ZFS</a></li>
 </ul>
 
 

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -11,21 +11,21 @@ The Common Vulnerabilities and Exposures project は以下の問題を認識し�
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1752">CVE-2011-1752</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1752">CVE-2011-1752</a>
 
 <p>
 mod_dav_svn Apache HTTPD サーバモジュールを、ベースラインの
 WebDAV リソース提供の要求でクラッシュさせることが可能です。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1783">CVE-2011-1783</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1783">CVE-2011-1783</a>
 
 <p>
 mod_dav_svn Apache HTTPD サーバモジュールを、システムのメモリを
 全て使い果たすループに落とすことが可能です。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1921">CVE-2011-1921</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1921">CVE-2011-1921</a>
 
 <p>
 mod_dav_svn Apache HTTPD サーバモジュールをもちいて、リモートの
@@ -58,4 +58,4 @@ mod_dav_svn Apache HTTPD サーバモジュールをもちいて、リモート�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2251.data"
-# $Id: dsa-2251.wml,v 1.1 2011-06-13 04:50:25 kmuto Exp $
+# $Id: dsa-2251.wml,v 1.2 2014/04/30 07:17:18 pabs Exp $

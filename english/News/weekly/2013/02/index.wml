@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-21" SUMMARY="Bits from Debian Med, a look into the Linux kernel of Debian <q>Wheezy</q>"
 
-# $Id: index.wml,v 1.2 2014/04/29 15:27:21 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 07:42:13 pabs Exp $
 # $Rev: 4557 $
 # Status: [content-frozen]
 
@@ -16,10 +16,10 @@ Andreas Tille sent some <a
 href="https://lists.debian.org/debian-devel-announce/2013/01/msg00004.html">bits
 from the Debian Med team</a>, reporting some recent
 initiatives of the team, such as the <a
-href="http://wiki.debian.org/DebianMed/MoM">Mentoring of the Month</a>
+href="https://wiki.debian.org/DebianMed/MoM">Mentoring of the Month</a>
 efforts.
 Andreas also announced that in February there will be a <a
-href="http://wiki.debian.org/DebianMed/Meeting/Kiel2013">real life meeting
+href="https://wiki.debian.org/DebianMed/Meeting/Kiel2013">real life meeting
 of Debian Med developers and users</a>, in Kiel (Germany); all interested
 people are invited to join.
 </p>
@@ -75,7 +75,7 @@ There is one upcoming Debian-related event:
 
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 <p>
-One person has <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+One person has <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
 to maintain packages</a> since the previous issue of the Debian Project News.
 Please welcome Alexandre Raymond into our project!</p>
 
@@ -141,13 +141,13 @@ Please welcome Alexandre Raymond into our project!</p>
 ## num-newpkg="number-of-new-packages"
 <nnwp-intro
 	num-newpkg="35"
-	url-newpkg="http://packages.debian.org/unstable/main/newpkg"
+	url-newpkg="https://packages.debian.org/unstable/main/newpkg"
 />
 
 ## and here goes the list of packages:
 ## translators: you need to add the translation of the package manually
 #
-<nnwp-list base="http://packages.debian.org/unstable/main/">
+<nnwp-list base="https://packages.debian.org/unstable/main/">
 <nnwp-item "liblingua-en-findnumber-perl">module for locating (written) numbers in English text</nnwp-item>
 <nnwp-item "libmath-prime-util-perl">utilities related to prime numbers, including fast sieves and factoring</nnwp-item>
 <nnwp-item "libsgml-dtdparse-perl">Perl modules and scripts for manipulating SGML and XML DTDs</nnwp-item>

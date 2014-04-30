@@ -48,7 +48,7 @@ attendees. <a
 href="http://meetbot.debian.net/debian-women/2011/debian-women.2011-05-07-22.02.log.html">\
 A log is available</a> for those who couldn't be present at the
 event, as well as a <a
-href="http://wiki.debian.org/BuildingTutorial">Building Tutorial</a>
+href="https://wiki.debian.org/BuildingTutorial">Building Tutorial</a>
 based on the log and already translated into Spanish &mdash; volunteers welcome
 for further translations!
 </p>
@@ -65,9 +65,9 @@ href="http://identi.ca/notice/72779036">10,000 members</a>.
 Beside the Debian group, founded on January 2009, there is also an
 official <a href="http://identi.ca/debian">Debian account</a> (from which
 various news items and announcements are broadcast) and <a
-href="http://wiki.debian.org/Teams/Publicity/Identica#accounts">some
+href="https://wiki.debian.org/Teams/Publicity/Identica#accounts">some
 accounts</a> and <a
-href="http://wiki.debian.org/Teams/Publicity/Identica#groups">groups</a>
+href="https://wiki.debian.org/Teams/Publicity/Identica#groups">groups</a>
 for specific teams.</p>
 
 <p>The latest official Identi.ca Debian team account
@@ -151,7 +151,7 @@ provide fixes in <q>rolling</q> directly.
 
 <p>
 Since the last issue of the Debian Project News, a
-new issue of the <a href="http://wiki.debian.org/ThisWeekInDebian"><q>This week in
+new issue of the <a href="https://wiki.debian.org/ThisWeekInDebian"><q>This week in
 Debian</q> podcast</a> has been published: with
 <a
 href="http://frostbitemedia.libsyn.com/this-week-in-debian-episode-26">Phillip
@@ -174,7 +174,7 @@ Qt3 is looking for new maintainers</a>.
 You're invited to <a
 href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=625502">\
 step up to adopt it</a> or help to figure out <a
-href="http://wiki.debian.org/qt3-x11-freeRemoval">\
+href="https://wiki.debian.org/qt3-x11-freeRemoval">\
 what to do with packages depending on Qt3</a>.
 </p>
 
@@ -224,7 +224,7 @@ users could be tracked via their devices.</p>
 7 applicants have been
 <a href="https://lists.debian.org/debian-project/2011/05/msg00008.html">accepted</a>
 	as Debian Maintainers and
-11 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+11 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Liang Guo, Nicolas Boulenguez, Nicolas Lopez de Lerma Aymerich,
@@ -275,30 +275,30 @@ list</a>, for <q>Lenny</q>, the oldstable distribution) for announcements.</p>
 
 <p>
 270 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/collabtive">collabtive &mdash; web-based project management software</a></li>
-<li><a href="http://packages.debian.org/unstable/main/crtmpserver">crtmpserver &mdash; high performance RTMP/RTSP streaming server</a></li>
-<li><a href="http://packages.debian.org/unstable/main/edisplay">edisplay &mdash; fast image manipulation programs (image viewer)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/exabgp">exabgp &mdash; BGP route injector</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-horai-umefont">fonts-horai-umefont &mdash; Japanese TrueType font, Ume-font</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-pagul">fonts-pagul &mdash; TrueType font for the Sourashtra language</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-yozvox-yozfont">fonts-yozvox-yozfont &mdash; Japanese proportional handwriting OpenType font</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fookebox">fookebox &mdash; web-based jukebox frontend to MPD</a></li>
-<li><a href="http://packages.debian.org/unstable/main/goldencheetah">goldencheetah &mdash; set of analysis tools for cycling performance</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jsonbot">jsonbot &mdash; framework for building bots for IRC, XMPP and the web</a></li>
-<li><a href="http://packages.debian.org/unstable/main/kate-syntax-go">kate-syntax-go &mdash; syntax files to highlight Go in Kate</a></li>
-<li><a href="http://packages.debian.org/unstable/main/mangler">mangler &mdash; Ventrilo compatible client for Linux</a></li>
-<li><a href="http://packages.debian.org/unstable/main/nautilus-image-manipulator">nautilus-image-manipulator &mdash; resize and send images from Nautilus</a></li>
-<li><a href="http://packages.debian.org/unstable/main/nwchem">nwchem &mdash; high-performance computational chemistry software</a></li>
-<li><a href="http://packages.debian.org/unstable/main/paprass">paprass &mdash; manager of electronic documents</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pcsxr">pcsxr &mdash; Sony PlayStation emulator</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vim-syntax-go">vim-syntax-go &mdash; syntax files to highlight Go in Vim</a></li>
-<li><a href="http://packages.debian.org/unstable/main/wavesurfer">wavesurfer &mdash; sound manipulation program</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xnbd-client">xnbd-client &mdash; network block device client with support for live migration</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xnbd-server">xnbd-server &mdash; network block device server with support for live migration</a></li>
+<li><a href="https://packages.debian.org/unstable/main/collabtive">collabtive &mdash; web-based project management software</a></li>
+<li><a href="https://packages.debian.org/unstable/main/crtmpserver">crtmpserver &mdash; high performance RTMP/RTSP streaming server</a></li>
+<li><a href="https://packages.debian.org/unstable/main/edisplay">edisplay &mdash; fast image manipulation programs (image viewer)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/exabgp">exabgp &mdash; BGP route injector</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fonts-horai-umefont">fonts-horai-umefont &mdash; Japanese TrueType font, Ume-font</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fonts-pagul">fonts-pagul &mdash; TrueType font for the Sourashtra language</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fonts-yozvox-yozfont">fonts-yozvox-yozfont &mdash; Japanese proportional handwriting OpenType font</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fookebox">fookebox &mdash; web-based jukebox frontend to MPD</a></li>
+<li><a href="https://packages.debian.org/unstable/main/goldencheetah">goldencheetah &mdash; set of analysis tools for cycling performance</a></li>
+<li><a href="https://packages.debian.org/unstable/main/jsonbot">jsonbot &mdash; framework for building bots for IRC, XMPP and the web</a></li>
+<li><a href="https://packages.debian.org/unstable/main/kate-syntax-go">kate-syntax-go &mdash; syntax files to highlight Go in Kate</a></li>
+<li><a href="https://packages.debian.org/unstable/main/mangler">mangler &mdash; Ventrilo compatible client for Linux</a></li>
+<li><a href="https://packages.debian.org/unstable/main/nautilus-image-manipulator">nautilus-image-manipulator &mdash; resize and send images from Nautilus</a></li>
+<li><a href="https://packages.debian.org/unstable/main/nwchem">nwchem &mdash; high-performance computational chemistry software</a></li>
+<li><a href="https://packages.debian.org/unstable/main/paprass">paprass &mdash; manager of electronic documents</a></li>
+<li><a href="https://packages.debian.org/unstable/main/pcsxr">pcsxr &mdash; Sony PlayStation emulator</a></li>
+<li><a href="https://packages.debian.org/unstable/main/vim-syntax-go">vim-syntax-go &mdash; syntax files to highlight Go in Vim</a></li>
+<li><a href="https://packages.debian.org/unstable/main/wavesurfer">wavesurfer &mdash; sound manipulation program</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xnbd-client">xnbd-client &mdash; network block device client with support for live migration</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xnbd-server">xnbd-server &mdash; network block device server with support for live migration</a></li>
 </ul>
 
 
@@ -315,7 +315,7 @@ many others</a> are:</p>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

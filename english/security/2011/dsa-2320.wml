@@ -1,7 +1,7 @@
 <define-tag description>regression fix</define-tag>
 <define-tag moreinfo>
 <p>The DokuWiki update included in Debian Lenny 5.0.9 to address a cross
-site scripting issue (<a href="http://security-tracker.debian.org/tracker/CVE-2011-2510">CVE-2011-2510</a>) had a regression rendering links
+site scripting issue (<a href="https://security-tracker.debian.org/tracker/CVE-2011-2510">CVE-2011-2510</a>) had a regression rendering links
 to external websites broken. This update corrects that regression.</p>
 
 <p>For the oldstable distribution (lenny), this problem has been fixed in
@@ -12,4 +12,4 @@ version 0.0.20080505-4+lenny4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2320.data"
-# $Id: dsa-2320.wml,v 1.1 2011-10-08 14:49:29 taffit Exp $
+# $Id: dsa-2320.wml,v 1.2 2014/04/30 07:16:25 pabs Exp $

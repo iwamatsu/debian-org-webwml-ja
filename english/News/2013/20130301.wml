@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20130301.wml,v 1.1 2013-03-01 17:01:41 madamezou Exp $
+# $Id: 20130301.wml,v 1.2 2014/04/30 07:41:24 pabs Exp $
 # $Rev: 4691 $
 
 <define-tag pagetitle>Discover Debian's hassle-free trademarks, use them
@@ -45,7 +45,7 @@ will be donated to Debian.</q>
 As the arrival of the new stable release, Debian 7.0 <q>Wheezy</q>, approaches,
 vendors are encouraged to create Wheezy-themed merchandise (t-shirts,
 stickers, mugs, etc.), using the 
-<a href="http://wiki.debian.org/DebianArt/Themes/Joy">upcoming 
+<a href="https://wiki.debian.org/DebianArt/Themes/Joy">upcoming 
 release's artwork</a>.
 </p>
 

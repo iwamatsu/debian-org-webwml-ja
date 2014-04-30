@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 4.0 updated</define-tag>
 <define-tag release_date>2009-04-08</define-tag>
 #use wml::debian::news
-# $Id: 20090408.wml,v 1.3 2009-05-14 19:02:51 kreutzm Exp $
+# $Id: 20090408.wml,v 1.5 2014/04/30 07:09:25 pabs Exp $
 
 <define-tag release>4.0</define-tag>
 <define-tag codename>etch</define-tag>
@@ -12,17 +12,17 @@
         <td align="center"><:
     my @p = ();
     for my $p (split (/,\s*/, "%2")) {
-	push (@p, sprintf ('<a href="http://packages.debian.org/src:%s">%s</a>', $p, $p));
+	push (@p, sprintf ('<a href="https://packages.debian.org/src:%s">%s</a>', $p, $p));
     }
     print join (", ", @p);
 :></td><td align="left">%3</td></tr>
 </define-tag>
 
 <define-tag correction>
-    <tr><td><a href="http://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
+    <tr><td><a href="https://packages.debian.org/src:%0">%0</a></td>              <td>%1</td></tr>
 </define-tag>
 
-<define-tag srcpkg><a href="http://packages.debian.org/src:%0">%0</a></define-tag>
+<define-tag srcpkg><a href="https://packages.debian.org/src:%0">%0</a></define-tag>
 
 <p>The Debian project is pleased to announce the eighth update of its
 oldstable distribution Debian GNU/Linux <release> (codename <codename>).  This update
@@ -112,7 +112,7 @@ updates:</p>
 rationale is on the preparation page for this revision:</p>
 
 <div class="center">
-  <url "http://release.debian.org/oldstable/<release>/<revision>/">
+  <url "https://release.debian.org/oldstable/<release>/<revision>/">
 </div>
 
 <h2>URLs</h2>

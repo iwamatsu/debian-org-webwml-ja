@@ -1,11 +1,11 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>ポリシーの矛盾</define-tag>
 <define-tag moreinfo>
 <p>
 DSA-1603-1 で Debian プロジェクトは BIND 9 ドメインネームサーバの更新を
 行い、UDP ソースポートランダムを導入しました。これは DNS キャッシュ汚染
 攻撃 (The Common Vulnerabilities and Exposures project では
-<a href="http://security-tracker.debian.org/tracker/CVE-2008-1447">CVE-2008-1447</a> として登録されています) の脅威に対応したものです。この修
+<a href="https://security-tracker.debian.org/tracker/CVE-2008-1447">CVE-2008-1447</a> として登録されています) の脅威に対応したものです。この修
 正は正しいものではありますが、Debian Etch で配布された SELinux のリファ
 レンスポリシーと互換性がありません。このポリシーでは、named_t ドメイン
 で走るプロセスが UDP ポートにバインドできるソケットに、標準の DNS ポー
@@ -31,7 +31,7 @@ Debian の refpolicy パッケージでは、ポリシーモジュールの更�
 に置かれます。この bind サービスポリシーを利用したい管理者は、ポリシー
 の非互換性を修正し、その後手動で更新してください。修正手順についての詳
 しい説明は、以下を参照ください。
-<a href="http://wiki.debian.org/SELinux/Issues/BindPortRandomization">http://wiki.debian.org/SELinux/Issues/BindPortRandomization</a></p>
+<a href="https://wiki.debian.org/SELinux/Issues/BindPortRandomization">https://wiki.debian.org/SELinux/Issues/BindPortRandomization</a></p>
 
 <p>
 安定版 (stable) ディストリビューション (etch) では、この問題はバージョン
@@ -51,4 +51,4 @@ Debian の refpolicy パッケージでは、ポリシーモジュールの更�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1617.data"
-# $Id: dsa-1617.wml,v 1.3 2010-12-17 15:08:33 taffit-guest Exp $
+# $Id: dsa-1617.wml,v 1.5 2014/04/30 07:46:58 pabs Exp $

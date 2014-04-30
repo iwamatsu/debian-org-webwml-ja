@@ -49,7 +49,7 @@ href="$(HOME)/events/keysigning">key signing</a>.  Although the almost 900
 Debian developers are distributed all around the world, it is often hard to find
 one nearby.  In order to facilitate the coordination of GPG key signing
 meetings, Martin Michlmayr has created a <a
-href="http://wiki.debian.org/Keysigning">web page</a> where prospective and existing
+href="https://wiki.debian.org/Keysigning">web page</a> where prospective and existing
 developers can sign up and enter their location.  Prospective developers can now
 see at a glance whether someone nearby is willing to meet for a key signing or
 sign up so existing developers can contact them.</p>
@@ -200,11 +200,11 @@ upgrade ASAP.
 
 <ul>
 
-	<li><a href="http://packages.debian.org/unstable/x11/x-window-system">x-window-system</a> and <a href="http://packages.debian.org/unstable/x11/x-window-system-core">x-window-system-core</a> -- New X packages, yum!
-	<li><a href="http://packages.debian.org/unstable/doc/lskb">lskb</a> -- The Linux Security Knowledge Base, includes info on Linux-specific security issues.
-	<li><a href="http://packages.debian.org/unstable/admin/samhain">samhain</a> -- Integrity checker and intrusion detection system, because a little paranoia is a Good Thing.
-	<li><a href="http://packages.debian.org/unstable/net/kinkatta">kinkatta</a> -- QT client for AOL Instant Messenger.
-	<li><a href="http://packages.debian.org/unstable/math/kgeo">kgeo</a> -- The program formerly known as KEuklid, a geometry program for KDE.
+	<li><a href="https://packages.debian.org/unstable/x11/x-window-system">x-window-system</a> and <a href="https://packages.debian.org/unstable/x11/x-window-system-core">x-window-system-core</a> -- New X packages, yum!
+	<li><a href="https://packages.debian.org/unstable/doc/lskb">lskb</a> -- The Linux Security Knowledge Base, includes info on Linux-specific security issues.
+	<li><a href="https://packages.debian.org/unstable/admin/samhain">samhain</a> -- Integrity checker and intrusion detection system, because a little paranoia is a Good Thing.
+	<li><a href="https://packages.debian.org/unstable/net/kinkatta">kinkatta</a> -- QT client for AOL Instant Messenger.
+	<li><a href="https://packages.debian.org/unstable/math/kgeo">kgeo</a> -- The program formerly known as KEuklid, a geometry program for KDE.
 
 </ul>
 

@@ -8,13 +8,13 @@ project identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-0385">CVE-2009-0385</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-0385">CVE-2009-0385</a>
 
 <p>It was discovered that watching a malformed 4X movie file could lead to
 the execution of arbitrary code.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-3162">CVE-2008-3162</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-3162">CVE-2008-3162</a>
 
 <p>It was discovered that using a crafted STR file can lead to the
 execution of arbitrary code.</p></li>
@@ -36,4 +36,4 @@ version 0.svn20080206-17+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1781.data"
-# $Id: dsa-1781.wml,v 1.4 2010-12-17 14:39:39 taffit-guest Exp $
+# $Id: dsa-1781.wml,v 1.5 2014/04/30 07:16:18 pabs Exp $

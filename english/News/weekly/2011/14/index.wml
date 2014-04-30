@@ -112,7 +112,7 @@ at <a href="mailto:nm@debian.org">nm@debian.org</a>.
 <toc-add-entry name="twid">Further interviews</toc-add-entry>
 
 	<p>Since the last issue of the Debian Project News, 
-two new issues of the <a href="http://wiki.debian.org/ThisWeekInDebian"><q>This week in
+two new issues of the <a href="https://wiki.debian.org/ThisWeekInDebian"><q>This week in
 	Debian</q> podcast</a> have been published: with
 <a href="http://frostbitemedia.libsyn.com/this-week-in-debian-episode-28">Jonathan
 Nadeau</a>, who talks about the Ohio LinuxFest and his internship at the FSF; and with
@@ -132,16 +132,16 @@ is now Python 2.7</a>.
 
 <p>
 Meike Reichle officially announced the <a
-href="http://wiki.debian.org/BSPMarathonWheezy">Wheezy
+href="https://wiki.debian.org/BSPMarathonWheezy">Wheezy
 Bug Squashing Party Marathon</a>, starting <a
-href="http://wiki.debian.org/BSP2011/Hildesheim">in Hildesheim on December
+href="https://wiki.debian.org/BSP2011/Hildesheim">in Hildesheim on December
 2, 2011</a>.
 </p>
 
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-Twenty-four people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+Twenty-four people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Harish Badrinath,
@@ -241,29 +241,29 @@ list</a>, for <q>Lenny</q>, the oldstable distribution) for announcements.</p>
 
 <p>
 Hundreds of packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/dff">\
+<li><a href="https://packages.debian.org/unstable/main/dff">\
 dff &mdash; powerful, efficient and modular digital forensic framework</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ebook-speaker">\
+<li><a href="https://packages.debian.org/unstable/main/ebook-speaker">\
 ebook-speaker &mdash; eBook reader that reads aloud in a synthetic voice</a></li>
-<li><a href="http://packages.debian.org/unstable/main/openteacher">\
+<li><a href="https://packages.debian.org/unstable/main/openteacher">\
 openteacher &mdash; learn words in a foreign language</a></li>
-<li><a href="http://packages.debian.org/unstable/main/openxenmanager">\
+<li><a href="https://packages.debian.org/unstable/main/openxenmanager">\
 openxenmanager &mdash; full-featured graphical management tool for Xen using XenApi</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ptex2tex">\
+<li><a href="https://packages.debian.org/unstable/main/ptex2tex">\
 ptex2tex &mdash; easy generation of (possibly complex) LaTeX environments</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qxw">\
+<li><a href="https://packages.debian.org/unstable/main/qxw">\
 qxw &mdash; advanced interactive crossword construction tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rbenv">\
+<li><a href="https://packages.debian.org/unstable/main/rbenv">\
 rbenv &mdash; simple per-user Ruby version manager</a></li>
-<li><a href="http://packages.debian.org/unstable/main/shinken">\
+<li><a href="https://packages.debian.org/unstable/main/shinken">\
 shinken &mdash; flexible monitoring tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/unbound-anchor">\
+<li><a href="https://packages.debian.org/unstable/main/unbound-anchor">\
 unbound-anchor &mdash; utility to securely fetch the root DNS trust anchor</a></li>
-<li><a href="http://packages.debian.org/unstable/main/x2">\
+<li><a href="https://packages.debian.org/unstable/main/x2">\
 x2 &mdash; brand new text editor for the GNOME desktop</a></li>
 </ul>
 
@@ -281,7 +281,7 @@ x2 &mdash; brand new text editor for the GNOME desktop</a></li>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

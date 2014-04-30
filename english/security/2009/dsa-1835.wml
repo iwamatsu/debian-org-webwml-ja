@@ -6,12 +6,12 @@ project identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-2285">CVE-2009-2285</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-2285">CVE-2009-2285</a>
 
    <p>It was discovered that malformed TIFF images can lead to a crash
    in the decompression code, resulting in denial of service.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-2347">CVE-2009-2347</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-2347">CVE-2009-2347</a>
 
    <p>Andrea Barisani discovered several integer overflows, which
    can lead to the execution of arbitrary code if malformed
@@ -32,4 +32,4 @@ version 3.8.2-11.2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1835.data"
-# $Id: dsa-1835.wml,v 1.2 2010-12-17 14:39:58 taffit-guest Exp $
+# $Id: dsa-1835.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

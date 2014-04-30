@@ -5,19 +5,19 @@ an unbranded version of Seamonkey:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-1948">CVE-2012-1948</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-1948">CVE-2012-1948</a>
 
     <p>Benoit Jacob, Jesse Ruderman, Christian Holler, and Bill McCloskey
     identified several memory safety problems that may lead to the execution of 
     arbitrary code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-1954">CVE-2012-1954</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-1954">CVE-2012-1954</a>
 
     <p>Abhishek Arya discovered a use-after-free problem in 
     nsDocument::AdoptNode that may lead to the execution of arbitrary 
     code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-1967">CVE-2012-1967</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-1967">CVE-2012-1967</a>
 
     <p><q>moz_bug_r_a4</q> discovered that in certain cases, javascript: URLs 
     can be executed so that scripts can escape the JavaScript sandbox and run
@@ -37,4 +37,4 @@ will be fixed soon.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2513.data"
-# $Id: dsa-2513.wml,v 1.2 2012-07-21 16:12:58 tvincent-guest Exp $
+# $Id: dsa-2513.wml,v 1.3 2014/04/30 07:16:29 pabs Exp $

@@ -1,7 +1,7 @@
 <define-tag pagetitle>(Pre)-Announcing a Debian Custom Distribution for NonProfit Organizations</define-tag>
 <define-tag release_date>2003-07-04</define-tag>
 #use wml::debian::news
-# $Id: 20030704.wml,v 1.5 2014/04/29 15:27:54 pabs Exp $
+# $Id: 20030704.wml,v 1.6 2014/04/30 07:42:28 pabs Exp $
 
 <p>Benjamin Mako Hill and Micah Anderson sent <a
 href="https://lists.debian.org/debian-devel-announce/2003/debian-devel-announce-200307/msg00002.html">a
@@ -57,4 +57,4 @@ sites wiki.</p>
 
 <p><a href="$(HOME)/devel/debian-nonprofit/">Debian-Nonprofit Homepage</a><br>
 <a href="https://lists.debian.org/debian-nonprofit/">Debian-Nonprofit Mailing List</a><br>
-<a href="http://wiki.debian.org/DebianNonProfit">Debian-Nonprofit Wiki</a></p>
+<a href="https://wiki.debian.org/DebianNonProfit">Debian-Nonprofit Wiki</a></p>

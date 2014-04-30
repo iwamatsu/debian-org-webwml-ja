@@ -5,7 +5,7 @@
 <p>Philipp Reisner fixed an issue in the drbd kernel module that allows
 local users to send netlink packets to perform actions that should be
 restricted to users with CAP_SYS_ADMIN privileges. This is a similar
-issue to those described by <a href="http://security-tracker.debian.org/tracker/CVE-2009-3725">CVE-2009-3725</a>.</p>
+issue to those described by <a href="https://security-tracker.debian.org/tracker/CVE-2009-3725">CVE-2009-3725</a>.</p>
 
 <p>This update also fixes an ABI compatibility issue which was introduced
 by linux-2.6 (2.6.26-21lenny3). The prebuilt drbd module packages listed
@@ -39,4 +39,4 @@ for the changes to take effect:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2015.data"
-# $Id: dsa-2015.wml,v 1.2 2010-12-17 14:26:40 taffit-guest Exp $
+# $Id: dsa-2015.wml,v 1.3 2014/04/30 07:16:22 pabs Exp $

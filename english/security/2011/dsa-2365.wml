@@ -6,27 +6,27 @@ hosting services:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3195">CVE-2011-3195</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3195">CVE-2011-3195</a>
 
     <p>A possible shell insertion has been found in the mailing list
     handling.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3196">CVE-2011-3196</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3196">CVE-2011-3196</a>
 
     <p>Unix rights for the apache2.conf were set incorrectly (world
     readable).</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3197">CVE-2011-3197</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3197">CVE-2011-3197</a>
 
     <p>Incorrect input sanitising for the $_SERVER["addrlink"] parameter
     could lead to SQL insertion.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3198">CVE-2011-3198</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3198">CVE-2011-3198</a>
 
     <p>DTC was using the -b option of htpasswd, possibly revealing
     password in clear text using ps or reading /proc.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3199">CVE-2011-3199</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3199">CVE-2011-3199</a>
 
     <p>A possible HTML/JavaScript insertion vulnerability has been found
     in the DNS &amp; MX section of the user panel.</p></li>
@@ -65,4 +65,4 @@ version 0.34.1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2365.data"
-# $Id: dsa-2365.wml,v 1.1 2011-12-18 21:21:17 taffit Exp $
+# $Id: dsa-2365.wml,v 1.2 2014/04/30 07:16:26 pabs Exp $

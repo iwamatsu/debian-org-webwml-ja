@@ -1,8 +1,8 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>DNS レスポンススプーフィング</define-tag>
 <define-tag moreinfo>
 <p>Brian Dowling さんは、PowerDNS の権限サーバ (authoritative server) が特定の
-文字を含む DNS クエリーに返答せず、DNS スプーフィング(<a href="http://security-tracker.debian.org/tracker/CVE-2008-3337">CVE-2008-3337</a>) が
+文字を含む DNS クエリーに返答せず、DNS スプーフィング(<a href="https://security-tracker.debian.org/tracker/CVE-2008-3337">CVE-2008-3337</a>) が
 成功するリスクを高めてしまうことを発見しました。　この更新では、PowerDNS
 が SERVFAIL を返すように変更します。</p>
 
@@ -17,4 +17,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1628.data"
-# $Id: dsa-1628.wml,v 1.4 2010-12-17 15:08:37 taffit-guest Exp $
+# $Id: dsa-1628.wml,v 1.5 2014/04/30 07:17:14 pabs Exp $

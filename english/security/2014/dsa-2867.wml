@@ -6,14 +6,14 @@ identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2014-1694">CVE-2014-1694</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-1694">CVE-2014-1694</a>
 
     <p>Norihiro Tanaka reported missing challenge token checks. An attacker
     that managed to take over the session of a logged in customer could
     create tickets and/or send follow-ups to existing tickets due to
     these missing checks.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2014-1471">CVE-2014-1471</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-1471">CVE-2014-1471</a>
 
     <p>Karsten Nielsen from Vasgard GmbH discovered that an attacker with a
     valid customer or agent login could inject SQL code through the
@@ -35,4 +35,4 @@ version 3.1.7+dfsg1-8+deb7u4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2867.data"
-# $Id: dsa-2867.wml,v 1.2 2014/02/24 08:27:42 carnil Exp $
+# $Id: dsa-2867.wml,v 1.3 2014/04/30 07:16:34 pabs Exp $

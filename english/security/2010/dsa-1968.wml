@@ -4,12 +4,12 @@
 server, contains several vulnerabilities:</p>
 
 <ul>
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-4009">CVE-2009-4009</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-4009">CVE-2009-4009</a>
 
 <p>A buffer overflow can be exploited to crash the daemon, or potentially
 execute arbitrary code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-4010">CVE-2009-4010</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-4010">CVE-2009-4010</a>
 
 <p>A cache poisoning vulnerability may allow attackers to trick the
 server into serving incorrect DNS data.</p></li>
@@ -29,4 +29,4 @@ version 3.1.7.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1968.data"
-# $Id: dsa-1968.wml,v 1.2 2010-12-17 14:26:29 taffit-guest Exp $
+# $Id: dsa-1968.wml,v 1.3 2014/04/30 07:16:22 pabs Exp $

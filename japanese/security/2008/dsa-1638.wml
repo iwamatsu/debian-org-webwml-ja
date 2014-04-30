@@ -1,11 +1,11 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>サービス拒否</define-tag>
 <define-tag moreinfo>
 <p>Debian 版の OpenSSH サーバでログインタイムアウトを実装するシグナルハンド
 ラが非同期シグナルに対応しておらず、サービス拒否攻撃が可能であることが発
-見されました (<a href="http://security-tracker.debian.org/tracker/CVE-2008-4109">CVE-2008-4109</a>)。</p>
+見されました (<a href="https://security-tracker.debian.org/tracker/CVE-2008-4109">CVE-2008-4109</a>)。</p>
 
-<p>この問題は元々は OpenSSH 4.4p1 (<a href="http://security-tracker.debian.org/tracker/CVE-2006-5051">CVE-2006-5051</a>) で修正されたものでしたが、
+<p>この問題は元々は OpenSSH 4.4p1 (<a href="https://security-tracker.debian.org/tracker/CVE-2006-5051">CVE-2006-5051</a>) で修正されたものでしたが、
 etch の版に対応してバックポートされたパッチが誤っていました。 </p>
 
 <p>この問題に影響を受けたシステムでは、多数の sshd プロセスのゾンビに悩まさ
@@ -26,4 +26,4 @@ etch の版に対応してバックポートされたパッチが誤っていま
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1638.data"
-# $Id: dsa-1638.wml,v 1.3 2010-12-17 15:08:39 taffit-guest Exp $
+# $Id: dsa-1638.wml,v 1.4 2014/04/30 07:17:14 pabs Exp $

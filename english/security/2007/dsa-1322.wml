@@ -6,15 +6,15 @@ Vulnerabilities and Exposures project identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-3390">CVE-2007-3390</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-3390">CVE-2007-3390</a>
 
     <p>Off-by-one overflows were discovered in the iSeries dissector.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-3392">CVE-2007-3392</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-3392">CVE-2007-3392</a>
 
     <p>The MMS and SSL dissectors could be forced into an infinite loop.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-3393">CVE-2007-3393</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-3393">CVE-2007-3393</a>
 
     <p>An off-by-one overflow was discovered in the DHCP/BOOTP dissector.</p></li>
 
@@ -35,4 +35,4 @@ version 0.99.6pre1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2007/dsa-1322.data"
-# $Id: dsa-1322.wml,v 1.3 2010-12-17 15:22:12 taffit-guest Exp $
+# $Id: dsa-1322.wml,v 1.4 2014/04/30 07:16:12 pabs Exp $

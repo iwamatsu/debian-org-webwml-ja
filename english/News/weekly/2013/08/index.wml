@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-04-15" SUMMARY="New project leader, Google Summer of Code, Outreach Program for Women"
 
-# $Id: index.wml,v 1.2 2014/04/29 15:27:25 pabs Exp $
+# $Id: index.wml,v 1.4 2014/04/30 07:42:15 pabs Exp $
 # $Rev: 4851 $
 # Status: [content-frozen]
 
@@ -36,10 +36,10 @@ Summer of Code</a> (SoC), proposing a number of stipends for students aged 18 or
 older to write code for selected free and open source software projects.
 
 Eligible students for this program may consult the 
-<a href="http://wiki.debian.org/SummerOfCode2013/Projects">list of projects</a>
+<a href="https://wiki.debian.org/SummerOfCode2013/Projects">list of projects</a>
 proposed by Debian and contact mentors in order to prepare their application.
 More information is available on the dedicated
-<a href="http://wiki.debian.org/SummerOfCode2013">wiki page</a>. 
+<a href="https://wiki.debian.org/SummerOfCode2013">wiki page</a>. 
 
 If you are interested in applying to this program, send an email to the 
 <a href="mailto:soc-coordination@lists.alioth.debian.org">SoC coordination mailing
@@ -67,7 +67,7 @@ All women who are not yet Debian Developers or Debian Maintainers are encouraged
 There are no age restrictions and applicants don't need to be students.
 
 Please consult the dedicated 
-<a href="http://wiki.debian.org/OutreachProgramForWomen">wiki page</a> for details.
+<a href="https://wiki.debian.org/OutreachProgramForWomen">wiki page</a> for details.
 </p>
 
 
@@ -135,17 +135,17 @@ list</a>) for announcements.
 
 <p>
 228 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/brainparty">brainparty — 36 puzzle games for all the family</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ebook2cw">ebook2cw — conversion of ebooks to Morse MP3s/Oggs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/flowblade">flowblade — non-linear video editor</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-opendyslexic">fonts-opendyslexic — font designed to increase readability for readers with dyslexia</a></li>
-<li><a href="http://packages.debian.org/unstable/main/isenkram">isenkram — tool suggesting packages to install when new hardware is inserted</a></li>
-<li><a href="http://packages.debian.org/unstable/main/laborejo">laborejo — music notation workshop</a></li>
-<li><a href="http://packages.debian.org/unstable/main/marionnet">marionnet — virtual network laboratory</a></li>
+<li><a href="https://packages.debian.org/unstable/main/brainparty">brainparty — 36 puzzle games for all the family</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ebook2cw">ebook2cw — conversion of ebooks to Morse MP3s/Oggs</a></li>
+<li><a href="https://packages.debian.org/unstable/main/flowblade">flowblade — non-linear video editor</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fonts-opendyslexic">fonts-opendyslexic — font designed to increase readability for readers with dyslexia</a></li>
+<li><a href="https://packages.debian.org/unstable/main/isenkram">isenkram — tool suggesting packages to install when new hardware is inserted</a></li>
+<li><a href="https://packages.debian.org/unstable/main/laborejo">laborejo — music notation workshop</a></li>
+<li><a href="https://packages.debian.org/unstable/main/marionnet">marionnet — virtual network laboratory</a></li>
 </ul>
 
 

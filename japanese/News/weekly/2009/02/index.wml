@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2009-02-09" SUMMARY="リリースアップデート、2008 年の Debian Summer of Code: 採択プロジェクトの現状、Debian GNU/Linux 5.0 <q>Lenny</q> を Thiemo <q>ths</q> Seufer さんに捧げます、Heise Open の実施したオープンソースの調査"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.13"
+#use wml::debian::translation-check translation="1.15"
 
 <!--
  Copyright (c) 2009 Andre Felipe Machado
@@ -104,7 +104,7 @@ James Troup さんの長期間にわたる貢献に感謝しました。</p>
 
 <p>さらに Steve さんは Lenny
 のリリースの後に、体制の明確化や組織の変化などの問題についてコミュニティで議論を行う必要性を指摘しました。議論の進展を追うために 
-Miriam Ruiz さんは<a href="http://wiki.debian.org/DiscussionsAfterLenny">ウィキページ</a>を作成しました。</p>
+Miriam Ruiz さんは<a href="https://wiki.debian.org/DiscussionsAfterLenny">ウィキページ</a>を作成しました。</p>
 
 <p>最後に Steve さんは内部で議論する際に利用される debian-private
 メーリングリストアーカイブの機密解除について言及しました。debian-private
@@ -138,7 +138,7 @@ Debian を実行する場合に正しい方法 (d-i を修正し、インスト�
 href="https://lists.debian.org/debian-qa/2009/02/msg00006.html">まとめました</a>。セッションでは以下の話題が議論されました:
 別のパッケージチームのメンバーとの共同作業; 様々な作業の流れ、ツール、挑戦の概要; 広く役立つ '成功事例モデル';
 協力のできる領域と相互利益のある仕事の定義。パッケージチームに必要なツールをまとめる目的で<a
-href="http://wiki.debian.org/Teams/Resources">ウィキページ</a>が用意されました。</p>
+href="https://wiki.debian.org/Teams/Resources">ウィキページ</a>が用意されました。</p>
 
 
 <toc-add-entry name="DDPortfolio">DDPortfolio サービスが利用可能に</toc-add-entry>
@@ -280,52 +280,52 @@ href="https://lists.debian.org/debian-security-announce/">セキュリティメ�
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、以下のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/hardlink">\
+<li><a href="https://packages.debian.org/unstable/main/hardlink">\
 	hardlink &mdash; 同じファイルの複数コピーをハードリンクで置き換える</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gksu-polkit">\
+<li><a href="https://packages.debian.org/unstable/main/gksu-polkit">\
 	gksu-polkit &mdash; root でコマンドを実行するコマンドラインユーティリティ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/google-gadgets-gst">\
+<li><a href="https://packages.debian.org/unstable/main/google-gadgets-gst">\
 	google-gadgets-gst &mdash; Google ガジェットの GStreamer モジュール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/google-gadgets-gtk">\
+<li><a href="https://packages.debian.org/unstable/main/google-gadgets-gtk">\
 	google-gadgets-gtk &mdash; Google ガジェットの GTK+ 版</a></li>
-<li><a href="http://packages.debian.org/unstable/main/google-gadgets-qt">\
+<li><a href="https://packages.debian.org/unstable/main/google-gadgets-qt">\
 	google-gadgets-qt &mdash; Google ガジェットの QT4 版</a></li>
-<li><a href="http://packages.debian.org/unstable/main/google-gadgets-xul">\
+<li><a href="https://packages.debian.org/unstable/main/google-gadgets-xul">\
 	google-gadgets-xul &mdash; Google ガジェットの XULRunner モジュール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gsmartcontrol">\
+<li><a href="https://packages.debian.org/unstable/main/gsmartcontrol">\
 	gsmartcontrol &mdash; smartctl のグラフィカルユーザインターフェイス</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gtkperf">\
+<li><a href="https://packages.debian.org/unstable/main/gtkperf">\
 	gtkperf &mdash; GTK+ の性能ベンチマーク</a></li>
-<li><a href="http://packages.debian.org/unstable/main/halevt">\
+<li><a href="https://packages.debian.org/unstable/main/halevt">\
 	halevt &mdash; HAL イベントの一般的ハンドラ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iw">\
+<li><a href="https://packages.debian.org/unstable/main/iw">\
 	iw &mdash; Linux ワイヤレスデバイスの設定ツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jigzo">\
+<li><a href="https://packages.debian.org/unstable/main/jigzo">\
 	jigzo &mdash; 子供用の写真パズルゲーム</a></li>
-<li><a href="http://packages.debian.org/unstable/main/linkchecker-gui">\
+<li><a href="https://packages.debian.org/unstable/main/linkchecker-gui">\
 	linkchecker-gui &mdash; ウェブサイトと HTML 文書に含まれるリンク切れを確認 (GUI クライアント)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/maven-debian-helper">\
+<li><a href="https://packages.debian.org/unstable/main/maven-debian-helper">\
 	maven-debian-helper &mdash; Maven で Debian パッケージをビルドする際の支援ツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/quassel-client">\
+<li><a href="https://packages.debian.org/unstable/main/quassel-client">\
 	quassel-client &mdash; 中核コンポーネントを用いる分散型 IRC クライアント</a></li>
-<li><a href="http://packages.debian.org/unstable/main/r-cran-rjava">\
+<li><a href="https://packages.debian.org/unstable/main/r-cran-rjava">\
 	r-cran-rjava &mdash; GNU R 用の Java に対する低レベルインターフェイス</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sagemath">\
+<li><a href="https://packages.debian.org/unstable/main/sagemath">\
 	sagemath &mdash; Python で書かれた数学ソフトウェア</a></li>
-<li><a href="http://packages.debian.org/unstable/main/snakefood">\
+<li><a href="https://packages.debian.org/unstable/main/snakefood">\
 	snakefood &mdash; Python の依存関係の可視化</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sockstat">\
+<li><a href="https://packages.debian.org/unstable/main/sockstat">\
 	sockstat &mdash; open 状態の接続に関する詳細情報を表示</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sup-mail">\
+<li><a href="https://packages.debian.org/unstable/main/sup-mail">\
 	sup-mail &mdash; タグ付けと高速検索が可能なスレッド型メーラ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ticgit">\
+<li><a href="https://packages.debian.org/unstable/main/ticgit">\
 	ticgit &mdash; Git を使うチケットシステム</a></li>
-<li><a href="http://packages.debian.org/unstable/main/themonospot">\
+<li><a href="https://packages.debian.org/unstable/main/themonospot">\
 	themonospot &mdash; 動画ファイルを調べるアプリケーション</a></li>
-<li><a href="http://packages.debian.org/unstable/main/tuxcmd">\
+<li><a href="https://packages.debian.org/unstable/main/tuxcmd">\
 	tuxcmd &mdash; GTK+ 2 を用いた 2 画面型 (commander スタイル) ファイルマネージャ</a></li>
 </ul>
 
@@ -353,7 +353,7 @@ href="https://lists.debian.org/debian-devel/2009/02/msg00104.html">を</a>ご覧
 
 <p>この会報の作成を手伝ってみませんか? 我々は、Debian コミュニティの活動を眺め、\
 何が起きているのかを報告してくれるボランティアのライターを募集しています。<a
-href="http://wiki.debian.org/ProjectNews/HowToContribute">\
+href="https://wiki.debian.org/ProjectNews/HowToContribute">\
 貢献に関するページ</a>をご覧になって、\
 手助けの具体的な方法をご確認ください。我々はあなたからのメールを <a
 href="mailto:debian-publicity@lists.debian.org">\

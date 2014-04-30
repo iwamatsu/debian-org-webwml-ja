@@ -3,8 +3,8 @@
 <p>Two cross site scripting vulnerabilities were been discovered in
 Mailman, a web-based mailing list manager. These allowed an attacker
 to retrieve session cookies via inserting crafted JavaScript into
-confirmation messages (<a href="http://security-tracker.debian.org/tracker/CVE-2011-0707">CVE-2011-0707</a>) and in the list admin interface
-(<a href="http://security-tracker.debian.org/tracker/CVE-2010-3089">CVE-2010-3089</a>; oldstable only).</p>
+confirmation messages (<a href="https://security-tracker.debian.org/tracker/CVE-2011-0707">CVE-2011-0707</a>) and in the list admin interface
+(<a href="https://security-tracker.debian.org/tracker/CVE-2010-3089">CVE-2010-3089</a>; oldstable only).</p>
 
 <p>For the oldstable distribution (lenny), these problems have been fixed in
 version 1:2.1.11-11+lenny2.</p>
@@ -20,4 +20,4 @@ has been fixed in version 1:2.1.14-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2170.data"
-# $Id: dsa-2170.wml,v 1.1 2011-02-20 19:25:54 spaillard Exp $
+# $Id: dsa-2170.wml,v 1.2 2014/04/30 07:16:24 pabs Exp $

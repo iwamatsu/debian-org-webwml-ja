@@ -1,12 +1,12 @@
 #use wml::debian::ddp title="Debian ドキュメンテーションプロジェクトの SVN"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.35"
+#use wml::debian::translation-check translation="1.37"
 
 <p>The Debian Documentation Project では、
 ウェブページや多くのマニュアル文書を
 <strong>svn.debian.org</strong> の Debian Subversion サーバに置いています。
 svn.debian.org は alioth.debian.org の Gforge インストレーションの一部です。
-このサービスがどのように動作しているかについての詳細は、<a href="http://wiki.debian.org/Alioth">Alioth ドキュメント</a>
+このサービスがどのように動作しているかについての詳細は、<a href="https://wiki.debian.org/Alioth">Alioth ドキュメント</a>
 を参照してください。
 </p>
 
@@ -24,7 +24,7 @@ Debian Documentation Project のメンバーだけです。</p>
 
 <p>マニュアル全部をダウンロードしたい場合には、
 SVN サーバに直接アクセスするほうが良いでしょう。
-この場合にはマシンに <tt><a href="http://packages.debian.org/subversion">subversion</a></tt>
+この場合にはマシンに <tt><a href="https://packages.debian.org/subversion">subversion</a></tt>
 パッケージを入れておく必要があります。</p>
 
 <h3>匿名での (リードオンリーの) SVN サーバ への接続</h3>

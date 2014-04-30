@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.5 2014/04/29 15:26:55 pabs Exp $
+$Id: index.wml,v 1.8 2014/04/30 07:41:59 pabs Exp $
 $Rev: 844 $
 Status: content-freeze
   -->
@@ -81,14 +81,14 @@ software for Debian, and there are currently 11 female Debian Developers
 and 1 Debian Maintainer.  The group would like to raise those numbers to 50
 packagers by the end of 2011, and 20 Debian Developers by the end of
 2012.  There are also some other <a
-href="http://wiki.debian.org/DebianWomen/Statistics">interesting
+href="https://wiki.debian.org/DebianWomen/Statistics">interesting
 statistics</a> about the current female participation in Debian.</p> 
 
 <p>The project is also interested in getting more women to translate
 debconf templates or package descriptions and contribute to the release
 notes, as well as participate in any other areas of the Debian project.
 In order to do this, we will be holding some <a
-href="http://wiki.debian.org/DebianWomen/TrainingSessions">IRC training
+href="https://wiki.debian.org/DebianWomen/TrainingSessions">IRC training
 sessions</a> in the near future, in order to help people get started. We are
 currently making the list of subjects and trainers, we'll publish more
 news about this once the first sessions are scheduled.</p>
@@ -135,7 +135,7 @@ mirrors.  Current users of the old backports.org service should change their
 (but compatibility symlinks are available for now).  More <a
 href="http://backports.debian.org/Instructions/">details for users
 are available on the web page</a>.  The
-<a href="http://wiki.debian.org/Teams/Backports">backports team</a>
+<a href="https://wiki.debian.org/Teams/Backports">backports team</a>
 also published some information for
 <a href="https://lists.debian.org/20100905211658.GH7615@lisa.snow-crash.org">package
 maintainers</a>.</p>
@@ -147,7 +147,7 @@ maintainers</a>.</p>
 <p>A new <a href="http://www.debian.org/News/2010/20100904">update release
 for Debian GNU/Linux 5.0 <q>Lenny</q></a> has been released.  All recent security
 updates have been added as well as some fixes for critical issues.  The
-<a href="http://packages.debian.org/linux-2.6">linux-2.6</a> package was
+<a href="https://packages.debian.org/linux-2.6">linux-2.6</a> package was
 also updated for increased hardware support.  New CD and DVD images as well
 as update CDs and DVDs will be available soon.</p>
 
@@ -165,7 +165,7 @@ packages with release critical bugs will be removed from the release,
 should there be no progress made on their issues.  Work on the release
 notes is on its way.  Anything that should be documented in the release
 notes should be reported as a bug report against the <tt>release-notes</tt>
-pseudo-package, while <a href="http://wiki.debian.org/NewInSqueeze">new and
+pseudo-package, while <a href="https://wiki.debian.org/NewInSqueeze">new and
 noteworthy things</a> should be collected in the wiki.  Finally he announced
 the codename of Debian 7.0: Wheezy, the rubber toy penguin with a red bow
 tie.</p>
@@ -228,7 +228,7 @@ Fund-raising</a></q>.
 href="https://lists.debian.org/87d3t3as2k.fsf@gkar.ganneff.de">details of
 the new signing key for the Debian archive</a>. The new key has already
 been added to the <a
-href="http://packages.debian.org/debian-archive-keyring">debian-archive-keyring</a>
+href="https://packages.debian.org/debian-archive-keyring">debian-archive-keyring</a>
 package, which was also updated in the recent Debian GNU/Linux 5.0.6
 <q>Lenny</q> release.  The new key will be used once Debian 6.0
 <q>Squeeze</q> is released or the old key is expired (by the end of 2012).
@@ -278,7 +278,7 @@ and Czech</a>.  For Debian 5.0 <q>Lenny</q> only French and German made the 100%
 7 applicants have been
 <a href="https://lists.debian.org/E1OsAC5-00065x-HX@franck.debian.org">accepted</a>
 	as Debian Maintainer and
-6 people <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+6 people <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Javier Merino Cacho, Kurashiki Satoru, Sebastien Noel, Maia Kozheva, Tanguy
@@ -302,7 +302,7 @@ Marco Rodrigues
 	<p>There are also <a
 href="http://blog.schmehl.info/Debian/rc-stats/#2010-35">more detailed
 	statistics</a> as well as some <a
-	href="http://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
+	href="https://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
 	interpret</a> these numbers.</p>
 
 
@@ -334,16 +334,16 @@ list</a> for announcements.</p>
 <toc-add-entry name="nnwp">New and noteworthy packages</toc-add-entry>
 
 <p>The following packages were added to the unstable Debian archive
-recently (<a href="http://packages.debian.org/unstable/main/newpkg">among
+recently (<a href="https://packages.debian.org/unstable/main/newpkg">among
 others</a>):</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/ejabberd-mod-shared-roster-ldap">ejabberd-mod-shared-roster-ldap &mdash; shared roster via LDAP for ejabberd</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fai-setup-storage">fai-setup-storage &mdash; automatically prepare storage devices</a></li>
-<li><a href="http://packages.debian.org/unstable/main/openttd-openmsx">openttd-openmsx &mdash; free music set for use with the OpenTTD game</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sugar-turtleart-activity">sugar-turtleart-activity &mdash; LOGO-like tool for teaching programming - Sugar activity</a></li>
-<li><a href="http://packages.debian.org/unstable/main/system-config-printer-udev">system-config-printer-udev &mdash; utilities to detect and configure printers automatically</a></li>
-<li><a href="http://packages.debian.org/unstable/main/turtleart">turtleart &mdash; LOGO-like tool for teaching programming</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ejabberd-mod-shared-roster-ldap">ejabberd-mod-shared-roster-ldap &mdash; shared roster via LDAP for ejabberd</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fai-setup-storage">fai-setup-storage &mdash; automatically prepare storage devices</a></li>
+<li><a href="https://packages.debian.org/unstable/main/openttd-openmsx">openttd-openmsx &mdash; free music set for use with the OpenTTD game</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sugar-turtleart-activity">sugar-turtleart-activity &mdash; LOGO-like tool for teaching programming - Sugar activity</a></li>
+<li><a href="https://packages.debian.org/unstable/main/system-config-printer-udev">system-config-printer-udev &mdash; utilities to detect and configure printers automatically</a></li>
+<li><a href="https://packages.debian.org/unstable/main/turtleart">turtleart &mdash; LOGO-like tool for teaching programming</a></li>
 </ul>
 
 <p>Please note that due to the <a
@@ -369,7 +369,7 @@ Debian 6.0 <q>Squeeze</q></a> acceptance of new packages has almost ceased.</p>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

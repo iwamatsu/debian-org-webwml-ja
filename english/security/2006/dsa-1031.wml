@@ -8,7 +8,7 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0146">CVE-2006-0146</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0146">CVE-2006-0146</a>
 
     <p>Andreas Sandblad discovered that improper user input sanitisation
     results in a potential remote SQL injection vulnerability enabling
@@ -17,18 +17,18 @@ problems:</p>
     This requires the MySQL root password to be empty.  It is fixed by
     limiting access to the script in question.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0147">CVE-2006-0147</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0147">CVE-2006-0147</a>
 
     <p>A dynamic code evaluation vulnerability allows remote attackers to
     execute arbitrary PHP functions via the 'do' parameter.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0410">CVE-2006-0410</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0410">CVE-2006-0410</a>
 
     <p>Andy Staudacher discovered an SQL injection vulnerability due to
     insufficient input sanitising that allows remote attackers to
     execute arbitrary SQL commands.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-0806">CVE-2006-0806</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-0806">CVE-2006-0806</a>
 
     <p>GulfTech Security Research discovered multiple cross-site
     scripting vulnerabilities due to improper user-supplied input
@@ -51,4 +51,4 @@ version 0.8.6c-7sarge3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1031.data"
-# $Id: dsa-1031.wml,v 1.2 2010-12-17 15:39:22 taffit-guest Exp $
+# $Id: dsa-1031.wml,v 1.3 2014/04/30 07:16:09 pabs Exp $

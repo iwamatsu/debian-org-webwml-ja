@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-04-15" SUMMARY="新しいプロジェクトリーダ、Google Summer of Code、女性用の雇用促進プログラム"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.4"
 
 # $Rev: 4851 $
 # Status: [content-frozen]
@@ -30,9 +30,9 @@ href="http://bits.debian.org/2013/04/call-for-students-gsoc-2013.html">\
 とは指定されたフリーソフトウェアやオープンソースソフトウェアプロジェクトのコードを
 18 歳以上の学生が書くことに対して様々な賞金を支払うプログラムです。
 このプログラムの対象となる学生は申請書を準備するために、Debian が提案する<a
-href="http://wiki.debian.org/SummerOfCode2013/Projects">プロジェクトのリスト</a>を閲覧したり、
+href="https://wiki.debian.org/SummerOfCode2013/Projects">プロジェクトのリスト</a>を閲覧したり、
 指導者に連絡することができます。詳しい情報は専用の <a
-href="http://wiki.debian.org/SummerOfCode2013">wiki
+href="https://wiki.debian.org/SummerOfCode2013">wiki
 ページ</a>をご覧ください。このプログラムへの応募に興味のある方は
 <a href="mailto:soc-coordination@lists.alioth.debian.org">SoC
 coordination メーリングリスト</a>にメールを出すか、IRC の #debian-soc
@@ -55,7 +55,7 @@ href="http://bits.debian.org/2013/04/joining-opw.html">Debian は
 ウェブ開発などを含む、プロジェクトに関する様々な取り組みが行われます。Debian
 開発者もしくは Debian メンテナでない女性なら誰でも参加することを推奨されています。
 年齢制限はなく、参加者は学生でなくても構いません。詳しい内容は専用の<a
-href="http://wiki.debian.org/OutreachProgramForWomen">ウィキページ</a>を参照してください。</p>
+href="https://wiki.debian.org/OutreachProgramForWomen">ウィキページ</a>を参照してください。</p>
 
 
 <toc-add-entry name="other">その他のニュース</toc-add-entry>
@@ -110,22 +110,22 @@ href="https://lists.debian.org/debian-stable-announce/">stable-updates セクシ
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、228 のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/brainparty">brainparty —
+<li><a href="https://packages.debian.org/unstable/main/brainparty">brainparty —
     子供も大人も楽しめる 36 個のパズルゲーム</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ebook2cw">ebook2cw —
+<li><a href="https://packages.debian.org/unstable/main/ebook2cw">ebook2cw —
     e ブックをモールス符号 MP3s/Oggs に変換</a></li>
-<li><a href="http://packages.debian.org/unstable/main/flowblade">flowblade —
+<li><a href="https://packages.debian.org/unstable/main/flowblade">flowblade —
     ノンリニアビデオ編集</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-opendyslexic">fonts-opendyslexic —
+<li><a href="https://packages.debian.org/unstable/main/fonts-opendyslexic">fonts-opendyslexic —
     Dyslexia の読者に読みやすくするために設計されたフォント</a></li>
-<li><a href="http://packages.debian.org/unstable/main/isenkram">isenkram —
+<li><a href="https://packages.debian.org/unstable/main/isenkram">isenkram —
     新規ハードウェアの挿入時に、インストールをするパッケージ群を提案するツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/laborejo">laborejo —
+<li><a href="https://packages.debian.org/unstable/main/laborejo">laborejo —
     楽譜作業用ソフト</a></li>
-<li><a href="http://packages.debian.org/unstable/main/marionnet">marionnet —
+<li><a href="https://packages.debian.org/unstable/main/marionnet">marionnet —
     仮想ネットワーク実験室</a></li>
 </ul>
 

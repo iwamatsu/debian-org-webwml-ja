@@ -21,10 +21,10 @@ them.</p>
 <p>
 You will need a BitTorrent client to download Debian CD/DVD images
 this way. The Debian distribution includes
-<a href="http://packages.debian.org/azureus">Azureus</a>,
-<a href="http://packages.debian.org/bittornado">BitTornado</a>,
-<a href="http://packages.debian.org/ktorrent">KTorrent</a> and the original 
-<a href="http://packages.debian.org/bittorrent">BitTorrent</a> tools.
+<a href="https://packages.debian.org/azureus">Azureus</a>,
+<a href="https://packages.debian.org/bittornado">BitTornado</a>,
+<a href="https://packages.debian.org/ktorrent">KTorrent</a> and the original 
+<a href="https://packages.debian.org/bittorrent">BitTorrent</a> tools.
 Other operating systems are supported by <a
 href="http://azureus.sourceforge.net/download.php">Azureus</a>, <a
 href="http://www.bittornado.com/download.html">BitTornado</a> and <a
@@ -52,7 +52,7 @@ walkthrough of the installation process. Other useful documentation includes:
 <ul>
 <li><a href="$(HOME)/releases/stable/installmanual">Installation Guide</a>,
     the detailed installation instructions</li>
-<li><a href="http://wiki.debian.org/DebianInstaller">Debian-Installer
+<li><a href="https://wiki.debian.org/DebianInstaller">Debian-Installer
     Documentation</a>, including the FAQ with common questions and answers</li>
 <li><a href="$(HOME)/releases/stable/debian-installer/#errata">Debian-Installer
     Errata</a>, the list of known problems in the installer</li>

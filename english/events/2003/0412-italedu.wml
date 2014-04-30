@@ -18,12 +18,12 @@ administrations, under EU sponsorship.</p>
 <define-tag involve>
 
 <p>The Debian project and its initiatives for education and youth,
-i.e. mainly <a href="http://wiki.debian.org/DebianEdu">Debian-Edu</a>
+i.e. mainly <a href="https://wiki.debian.org/DebianEdu">Debian-Edu</a>
 and <a href="$(HOME)/devel/debian-jr/">Debian Jr.</a> projects, will
 be presented during a talk by Marco Presi. </p>
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0412-italedu.wml,v 1.5 2005-10-08 23:25:56 jfs Exp $
+# $Id: 0412-italedu.wml,v 1.6 2014/04/30 07:42:30 pabs Exp $
 #Related Links here (free form)

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-05-13" SUMMARY="Debian 7.0 <q>Wheezy</q> released, DebConf11 and 12 videos, Debian beyond the cloud, Debian in Google Compute Engine"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:26 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 07:42:15 pabs Exp $
 # $Rev: 5008 $
 # Status: [content-frozen]
 
@@ -39,7 +39,7 @@ href="http://rgeissert.blogspot.com/2013/05/almost-one-million-requests-per-day.
 that <q>in the first 48 hours after its log files were rotated last Sunday, <a
 href="http://http.debian.net">http.debian.net</a> handled almost 2 million
 requests, for an average of 11 requests per second</q>.  <br />
-Meanwhile, <a href="http://wiki.debian.org/ReleasePartyWheezy">Debian users and
+Meanwhile, <a href="https://wiki.debian.org/ReleasePartyWheezy">Debian users and
 enthusiasts from all over the world are organising parties</a> to celebrate the
 release of <q>Wheezy</q>: the <a
 href="http://dunetna.probeta.net/doku.php/blog:debian_wheezy_party_barcelona">Catalan
@@ -221,21 +221,21 @@ list</a>) for announcements.
 
 <p>
 373 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/corekeeper">corekeeper — tool to enable core files and report crashes to the sysadmin</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-lan-config">debian-lan-config — FAI config space for the Debian-LAN system</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ext4magic">ext4magic — tool to recover deleted files from ext3 or ext4 partitions</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gmsl">gmsl — extra functions to extend functionality of GNU Makefiles</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceowl">iceowl — standalone calendar application</a></li>
-<li><a href="http://packages.debian.org/unstable/main/nsnake">nsnake — classic snake game with textual interface</a></li>
-<li><a href="http://packages.debian.org/unstable/main/python-odf">python-odf — complete API for OpenDocument in Python</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qupzilla">qupzilla — lightweight web browser based on libqtwebkit</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sanewall">sanewall — easy to use but powerful iptables stateful firewall</a></li>
-<li><a href="http://packages.debian.org/unstable/main/watchcatd">watchcatd — process monitoring daemon</a></li>
-<li><a href="http://packages.debian.org/unstable/main/wfrog">wfrog — web-based customizable weather station software</a></li>
+<li><a href="https://packages.debian.org/unstable/main/corekeeper">corekeeper — tool to enable core files and report crashes to the sysadmin</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-lan-config">debian-lan-config — FAI config space for the Debian-LAN system</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ext4magic">ext4magic — tool to recover deleted files from ext3 or ext4 partitions</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gmsl">gmsl — extra functions to extend functionality of GNU Makefiles</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceowl">iceowl — standalone calendar application</a></li>
+<li><a href="https://packages.debian.org/unstable/main/nsnake">nsnake — classic snake game with textual interface</a></li>
+<li><a href="https://packages.debian.org/unstable/main/python-odf">python-odf — complete API for OpenDocument in Python</a></li>
+<li><a href="https://packages.debian.org/unstable/main/qupzilla">qupzilla — lightweight web browser based on libqtwebkit</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sanewall">sanewall — easy to use but powerful iptables stateful firewall</a></li>
+<li><a href="https://packages.debian.org/unstable/main/watchcatd">watchcatd — process monitoring daemon</a></li>
+<li><a href="https://packages.debian.org/unstable/main/wfrog">wfrog — web-based customizable weather station software</a></li>
 </ul>
 
 

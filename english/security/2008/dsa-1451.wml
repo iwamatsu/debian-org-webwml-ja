@@ -8,7 +8,7 @@ identifies the following problems:
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-3781">CVE-2007-3781</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-3781">CVE-2007-3781</a>
 
     <p>
     It was discovered that the privilege validation for the source table
@@ -17,7 +17,7 @@ identifies the following problems:
     authenticated users.
     </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-5969">CVE-2007-5969</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-5969">CVE-2007-5969</a>
 
     <p>
     It was discovered that symbolic links were handled insecurely during
@@ -26,7 +26,7 @@ identifies the following problems:
     data. This is only exploitable by authenticated users.
     </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-6304">CVE-2007-6304</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-6304">CVE-2007-6304</a>
 
     <p>
     It was discovered that queries to data in a FEDERATED table can
@@ -58,4 +58,4 @@ We recommend that you upgrade your mysql-dfsg-5.0 packages.
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1451.data"
-# $Id: dsa-1451.wml,v 1.4 2010-12-17 15:01:36 taffit-guest Exp $
+# $Id: dsa-1451.wml,v 1.5 2014/04/30 07:16:14 pabs Exp $

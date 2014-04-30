@@ -55,7 +55,7 @@ edition as a popular move. </p>
 <p>The addition of Linux Mint to the Debian derivatives family is a
 welcome one, and should the Linux Mint developers wish to be in
 contact with Debian it has been suggested that they will be warmly welcomed
-at the <a href="http://wiki.debian.org/DerivativesFrontDesk">Debian
+at the <a href="https://wiki.debian.org/DerivativesFrontDesk">Debian
 Derivatives Front Desk</a>.
 </p>
 
@@ -153,7 +153,7 @@ they are quite understaffed.</p>
 In response to this initial post, <a
 href="http://www.lucas-nussbaum.net/blog/?p=575">some people
 volunteered to help</a> on Ruby's packaging, so Lucas updated
-the <a href="http://wiki.debian.org/Teams/Ruby">corresponding
+the <a href="https://wiki.debian.org/Teams/Ruby">corresponding
 wiki page</a> for guidance.
 </p>
 
@@ -248,8 +248,8 @@ quality one to be provided in <q>Squeeze</q>.
 
 <p>
 Lucas Nussbaum <a href ="http://www.lucas-nussbaum.net/blog/?p=571">added</a>
-a <a href ="http://udd.debian.org/cgi-bin/bugs.cgi">bugs search interface</a>
-to the <a href ="http://udd.debian.org/">Ultimate Debian Database</a>.<br />
+a <a href ="https://udd.debian.org/cgi-bin/bugs.cgi">bugs search interface</a>
+to the <a href ="https://udd.debian.org/">Ultimate Debian Database</a>.<br />
 It thus may replace the <a
 href="http://bts.turmzimmer.net/details.php">unofficial release-critical
 bugs tracker</a>, while providing many more features.
@@ -270,7 +270,7 @@ saw several fixes in order to procure more reliable netboot.</p>
 1 applicant has been
 <a href="https://nm.debian.org/nmlist.php#newmaint">accepted</a>
 	as a Debian Developer and
-1 person <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+1 person <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Luke Faraone and Andreas Beckmann
@@ -291,7 +291,7 @@ Luke Faraone and Andreas Beckmann
 	<p>There are also <a
 href="http://blog.schmehl.info/Debian/rc-stats/2010-37">more detailed
 	statistics</a> as well as some <a
-	href="http://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
+	href="https://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
 	interpret</a> these numbers.</p>
 
 
@@ -322,26 +322,26 @@ list</a> for announcements.</p>
 <toc-add-entry name="nnwp">New and noteworthy packages</toc-add-entry>
 
 <p>The following packages were added to the unstable Debian archive
-recently (<a href="http://packages.debian.org/unstable/main/newpkg">among
+recently (<a href="https://packages.debian.org/unstable/main/newpkg">among
 others</a>):</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/browser-plugin-gnash">browser-plugin-gnash &mdash; GNU Shockwave Flash (SWF) player - plugin for Mozilla and derivatives</a></li>
-<li><a href="http://packages.debian.org/unstable/main/code-aster-gui">code-aster-gui &mdash; graphical user interface for Code_Aster - client</a></li>
-<li><a href="http://packages.debian.org/unstable/main/code-aster-run">code-aster-run &mdash; graphical user interface for Code_Aster - server</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-amd64">debian-installer-6.0-netboot-amd64 &mdash; Debian-installer network boot images for amd64</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-armel">debian-installer-6.0-netboot-armel &mdash; Debian-installer network boot images for armel</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-hppa">debian-installer-6.0-netboot-hppa &mdash; Debian-installer network boot images for hppa</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-i386">debian-installer-6.0-netboot-i386 &mdash; Debian-installer network boot images for i386</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-ia64">debian-installer-6.0-netboot-ia64 &mdash; Debian-installer network boot images for ia64</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mips">debian-installer-6.0-netboot-mips &mdash; Debian-installer network boot images for mips</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mipsel">debian-installer-6.0-netboot-mipsel &mdash; Debian-installer network boot images for mipsel</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-powerpc">debian-installer-6.0-netboot-powerpc &mdash; Debian-installer network boot images for powerpc</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debian-installer-6.0-netboot-sparc">debian-installer-6.0-netboot-sparc &mdash; Debian-installer network boot images for sparc</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-dz-bt">iceweasel-l10n-dz-bt &mdash; Dzongkha language package for Iceweasel</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-fa-ir">iceweasel-l10n-fa-ir &mdash; Persian language package for Iceweasel</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-fur-it">iceweasel-l10n-fur-it &mdash; Furlan language package for Iceweasel</a></li>
-<li><a href="http://packages.debian.org/unstable/main/iceweasel-l10n-ne-np">iceweasel-l10n-ne-np &mdash; Nepali language package for Iceweasel</a></li>
+<li><a href="https://packages.debian.org/unstable/main/browser-plugin-gnash">browser-plugin-gnash &mdash; GNU Shockwave Flash (SWF) player - plugin for Mozilla and derivatives</a></li>
+<li><a href="https://packages.debian.org/unstable/main/code-aster-gui">code-aster-gui &mdash; graphical user interface for Code_Aster - client</a></li>
+<li><a href="https://packages.debian.org/unstable/main/code-aster-run">code-aster-run &mdash; graphical user interface for Code_Aster - server</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-amd64">debian-installer-6.0-netboot-amd64 &mdash; Debian-installer network boot images for amd64</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-armel">debian-installer-6.0-netboot-armel &mdash; Debian-installer network boot images for armel</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-hppa">debian-installer-6.0-netboot-hppa &mdash; Debian-installer network boot images for hppa</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-i386">debian-installer-6.0-netboot-i386 &mdash; Debian-installer network boot images for i386</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-ia64">debian-installer-6.0-netboot-ia64 &mdash; Debian-installer network boot images for ia64</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mips">debian-installer-6.0-netboot-mips &mdash; Debian-installer network boot images for mips</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-mipsel">debian-installer-6.0-netboot-mipsel &mdash; Debian-installer network boot images for mipsel</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-powerpc">debian-installer-6.0-netboot-powerpc &mdash; Debian-installer network boot images for powerpc</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debian-installer-6.0-netboot-sparc">debian-installer-6.0-netboot-sparc &mdash; Debian-installer network boot images for sparc</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-dz-bt">iceweasel-l10n-dz-bt &mdash; Dzongkha language package for Iceweasel</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-fa-ir">iceweasel-l10n-fa-ir &mdash; Persian language package for Iceweasel</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-fur-it">iceweasel-l10n-fur-it &mdash; Furlan language package for Iceweasel</a></li>
+<li><a href="https://packages.debian.org/unstable/main/iceweasel-l10n-ne-np">iceweasel-l10n-ne-np &mdash; Nepali language package for Iceweasel</a></li>
 </ul>
 
 <p>Please note that due to the <a
@@ -367,7 +367,7 @@ Debian 6.0 <q>Squeeze</q></a> acceptance of new packages has almost ceased.</p>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

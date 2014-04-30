@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Investigation Report after Server Compromises</define-tag>
 <define-tag release_date>2003-12-02</define-tag>
 #use wml::debian::news
-# $Id: 20031202.wml,v 1.11 2014/04/29 12:36:08 pabs Exp $
+# $Id: 20031202.wml,v 1.12 2014/04/30 06:29:27 pabs Exp $
 
 <p>The Debian administration team and security experts are finally able
 to pinpoint the method used to break-in into four project machines.
@@ -77,7 +77,7 @@ experiencing exactly the same problems, which made the admins
 suspicious.</p>
 
 <p>Also, klecker, murphy and gluck have "Advanced Intrusion Detection
-Environment" (package <a href="http://packages.debian.org/aide">aide</a>) installed to monitor filesystem changes
+Environment" (package <a href="https://packages.debian.org/aide">aide</a>) installed to monitor filesystem changes
 and at around the same time it started warning that <code>/sbin/init</code> had
 been replaced and that the mtime and ctime values for
 <code>/usr/lib/locale/en_US</code> had changed.</p>

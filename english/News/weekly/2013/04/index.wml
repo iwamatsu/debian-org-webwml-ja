@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-02-18" SUMMARY="Debian Installer 7.0 RC1 released, 700,000th bug reported, bits from the DPL, reports from FOSDEM"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:22 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 07:42:14 pabs Exp $
 # $Rev: 4642 $
 # Status: [content-frozen]
 
@@ -43,7 +43,7 @@ which was recently reported by Cédric Boutillier.
 He now
 <a href="https://lists.debian.org/debian-devel-announce/2013/02/msg00002.html">invites
 everyone to participate</a> in contests to predict the dates when Debian's
-<a href="http://wiki.debian.org/800000thBugContest">800,000th and
+<a href="https://wiki.debian.org/800000thBugContest">800,000th and
 1,000,000th bug reports will be filed</a>.
 </p>
 

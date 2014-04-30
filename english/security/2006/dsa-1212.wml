@@ -6,14 +6,14 @@ following vulnerabilities:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-4924">CVE-2006-4924</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-4924">CVE-2006-4924</a>
 
     <p>The sshd support for ssh protocol version 1 does not properly
     handle duplicate incoming blocks. This could allow a remote
     attacker to cause sshd to consume significant CPU resources
     leading to a denial of service.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2006-5051">CVE-2006-5051</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2006-5051">CVE-2006-5051</a>
 
     <p>A signal handler race condition could potentially allow a remote
     attacker to crash sshd and could theoretically lead to the
@@ -32,4 +32,4 @@ fixed in version 1:4.3p2-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1212.data"
-# $Id: dsa-1212.wml,v 1.3 2010-12-17 15:39:58 taffit-guest Exp $
+# $Id: dsa-1212.wml,v 1.4 2014/04/30 07:16:10 pabs Exp $

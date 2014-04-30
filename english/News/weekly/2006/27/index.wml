@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-07-04" SUMMARY="Python, Spanish Planet, DWN, Debian Live, DPL, Flash, LSB"
-# $Id: index.wml,v 1.7 2014/04/29 15:26:27 pabs Exp $
+# $Id: index.wml,v 1.9 2014/04/30 07:41:43 pabs Exp $
 
 <p>Welcome to this year's 27th issue of DWN, the weekly newsletter for the
 Debian community.  Andreas Barth <a
@@ -17,7 +17,7 @@ now consists of four full members.</p>
 href="https://lists.debian.org/debian-devel-announce/2006/06/msg00014.html">\
 reported</a> that the infrastructure for the Python <a
 href="$(HOME)/doc/packaging-manuals/python-policy/">policy</a> transition is
-in place.  The <a href="http://wiki.debian.org/DebianPython/NewPolicy">\
+in place.  The <a href="https://wiki.debian.org/DebianPython/NewPolicy">\
 instructions</a> contain detailed descriptions how to update existing Python
 packages.  About 60&nbsp;% of the Python modules have already been updated and only
 about 100 packages are left.</p>
@@ -59,7 +59,7 @@ announced a report about the trip of David Moreno Garza to Cuba.</p>
 
 <p><strong>Debian Flash Group.</strong> Paul Wise <a
 href="https://lists.debian.org/debian-devel/2006/06/msg00021.html">announced</a>
-the creation of the Debian <a href="http://wiki.debian.org/Flash">flash
+the creation of the Debian <a href="https://wiki.debian.org/Flash">flash
 group</a> that aims to support the free flash <a href="http://osflash.org/">\
 community</a>.  For Debian packages the <a
 href="http://alioth.debian.org/projects/pkg-flash/">pkg-flash</a> project on
@@ -83,47 +83,47 @@ that you update your systems if you have any of these packages installed.</p>
 
 <p><strong>New or Noteworthy Packages.</strong> The following packages were
 added to the unstable Debian archive <a
-href="http://packages.debian.org/unstable/newpkg_main">recently</a> or contain
+href="https://packages.debian.org/unstable/newpkg_main">recently</a> or contain
 important updates.</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/web/cvschangelogbuilder">cvschangelogbuilder</a>
+<li><a href="https://packages.debian.org/unstable/web/cvschangelogbuilder">cvschangelogbuilder</a>
     &mdash; Perl utility to generate ChangeLogs or HTML CVS reports.</li>
-<li><a href="http://packages.debian.org/unstable/net/democracyplayer">democracyplayer</a>
+<li><a href="https://packages.debian.org/unstable/net/democracyplayer">democracyplayer</a>
     &mdash; GTK+ based RSS video aggregator.</li>
-<li><a href="http://packages.debian.org/unstable/science/dialign">dialign</a>
+<li><a href="https://packages.debian.org/unstable/science/dialign">dialign</a>
     &mdash; Segment-based multiple sequence alignment.</li>
-<li><a href="http://packages.debian.org/unstable/net/emacs-jabber">emacs-jabber</a>
+<li><a href="https://packages.debian.org/unstable/net/emacs-jabber">emacs-jabber</a>
     &mdash; Jabber client for Emacsen.</li>
-<li><a href="http://packages.debian.org/unstable/science/kalign">kalign</a>
+<li><a href="https://packages.debian.org/unstable/science/kalign">kalign</a>
     &mdash; Global and progressive multiple sequence alignment.</li>
-<li><a href="http://packages.debian.org/unstable/kde/kscope">kscope</a>
+<li><a href="https://packages.debian.org/unstable/kde/kscope">kscope</a>
     &mdash; Source editing environment for KDE.</li>
-<li><a href="http://packages.debian.org/unstable/tex/latexmk">latexmk</a>
+<li><a href="https://packages.debian.org/unstable/tex/latexmk">latexmk</a>
     &mdash; Perl script for running LaTeX the correct number of times.</li>
-<li><a href="http://packages.debian.org/unstable/sound/mp3val">mp3val</a>
+<li><a href="https://packages.debian.org/unstable/sound/mp3val">mp3val</a>
     &mdash; Program for MPEG audio stream validation.</li>
-<li><a href="http://packages.debian.org/unstable/games/nexuiz">nexuiz</a>
+<li><a href="https://packages.debian.org/unstable/games/nexuiz">nexuiz</a>
     &mdash; 3D network deathmatch game.</li>
-<li><a href="http://packages.debian.org/unstable/math/num-utils">num-utils</a>
+<li><a href="https://packages.debian.org/unstable/math/num-utils">num-utils</a>
     &mdash; Programs for dealing with numbers from the command line.</li>
-<li><a href="http://packages.debian.org/unstable/web/otrs2">otrs2</a>
+<li><a href="https://packages.debian.org/unstable/web/otrs2">otrs2</a>
     &mdash; Open Ticket Request System Version 2.</li>
-<li><a href="http://packages.debian.org/unstable/misc/postgis">postgis</a>
+<li><a href="https://packages.debian.org/unstable/misc/postgis">postgis</a>
     &mdash; Geographic objects support for PostgreSQL.</li>
-<li><a href="http://packages.debian.org/unstable/science/probcons">probcons</a>
+<li><a href="https://packages.debian.org/unstable/science/probcons">probcons</a>
     &mdash; PROBabilistic CONSistency-based multiple sequence alignment.</li>
-<li><a href="http://packages.debian.org/unstable/devel/rcov">rcov</a>
+<li><a href="https://packages.debian.org/unstable/devel/rcov">rcov</a>
     &mdash; Code coverage tool for Ruby.</li>
-<li><a href="http://packages.debian.org/unstable/admin/swapspace">swapspace</a>
+<li><a href="https://packages.debian.org/unstable/admin/swapspace">swapspace</a>
     &mdash; Dynamic swap space manager.</li>
-<li><a href="http://packages.debian.org/unstable/tex/texlive">texlive</a>
+<li><a href="https://packages.debian.org/unstable/tex/texlive">texlive</a>
     &mdash; TeX Live: A decent selection of the TeX live packages.</li>
-<li><a href="http://packages.debian.org/unstable/games/tworld">tworld</a>
+<li><a href="https://packages.debian.org/unstable/games/tworld">tworld</a>
     &mdash; Chip's Challenge Game Engine Emulation.</li>
-<li><a href="http://packages.debian.org/unstable/x11/xprintidle">xprintidle</a>
+<li><a href="https://packages.debian.org/unstable/x11/xprintidle">xprintidle</a>
     &mdash; Small utility that prints user's idle time in X.</li>
-<li><a href="http://packages.debian.org/unstable/hamradio/xwota">xwota</a>
+<li><a href="https://packages.debian.org/unstable/hamradio/xwota">xwota</a>
     &mdash; GTK client to the WOTA Database.</li>
 </ul>
 
@@ -137,7 +137,7 @@ installed on your system the <code>wnpp-alert</code> program from <code>
 devscripts</code> may be helpful.</p>
 
 <ul>
-<li> <a href="http://packages.debian.org/unstable/devel/pythoncard">pythoncard</a>
+<li> <a href="https://packages.debian.org/unstable/devel/pythoncard">pythoncard</a>
      &mdash; wxPython-based GUI construction framework.
      (<a href="https://bugs.debian.org/375610">Bug#375610</a>)
      (<a href="https://bugs.debian.org/375781">Bug#375781</a>)

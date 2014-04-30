@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-02-15" SUMMARY="DAM, Installer, Packaging, DebConf, udev, Config, History, Bounces"
-# $Id: index.wml,v 1.10 2014/04/29 15:25:46 pabs Exp $
+# $Id: index.wml,v 1.12 2014/04/30 07:41:33 pabs Exp $
 
 <p>Welcome to this year's 7th issue of DWN, the weekly newsletter for the
 Debian community.  Legal professionals in Australia have <a
@@ -52,7 +52,7 @@ href="https://lists.debian.org/debian-devel/2005/02/msg00380.html">noticed</a>
 a strange directory <code>/.dev</code> and removed its content which left his
 system unbootable.  Sam Morris <a
 href="https://lists.debian.org/debian-devel/2005/02/msg00384.html">\
-explained</a> that when <a href="http://packages.debian.org/udev">udev</a>
+explained</a> that when <a href="https://packages.debian.org/udev">udev</a>
 starts, the real <code>/dev</code> is mounted to <code>/.dev</code> so it can
 still be accessed.  This is only the case if the directory exists, however, so
 removing the mount point is fine.</p>
@@ -60,9 +60,9 @@ removing the mount point is fine.</p>
 <p><strong>Configuration under Revision Control.</strong> Enrico Zini <a
 href="https://lists.debian.org/debian-devel/2005/02/msg00495.html">reported</a>
 that he has put his <code>/etc/</code> under <a
-href="http://packages.debian.org/svk">svk</a> control, which is a distributed
+href="https://packages.debian.org/svk">svk</a> control, which is a distributed
 revision control system based on <a
-href="http://packages.debian.org/subversion">subversion</a>.  Florian Weimer
+href="https://packages.debian.org/subversion">subversion</a>.  Florian Weimer
 <a href="https://lists.debian.org/debian-devel/2005/02/msg00558.html">\
 added</a> that it supports symbolic links natively as well.</p>
 
@@ -105,7 +105,7 @@ leader (DPL) <a href="$(HOME)/vote/2005/vote_001">elections</a>.  Before
 standing again, he would <a
 href="http://people.debian.org/~branden/dpl/to_run_or_not_to_run_in_2005.html">\
 like</a> to hear 100 developers support this action.  A wiki <a
-href="http://wiki.debian.org/DraftBranden">page</a> has been set up to track
+href="https://wiki.debian.org/DraftBranden">page</a> has been set up to track
 the feedback.  51 people have stated their support so far.</p>
 
 <p><strong>Security Updates.</strong> You know the drill.  Please make sure
@@ -138,13 +138,13 @@ that you update your systems if you have any of these packages installed.</p>
 
 <p><strong>New or Noteworthy Packages.</strong> The following packages were
 added to the unstable Debian archive <a
-href="http://packages.debian.org/unstable/newpkg_main">recently</a> or contain
+href="https://packages.debian.org/unstable/newpkg_main">recently</a> or contain
 important updates.</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/net/apache2-utils">apache2-utils</a>
+<li><a href="https://packages.debian.org/unstable/net/apache2-utils">apache2-utils</a>
     -- Utility programs for webservers.
-<li><a href="http://packages.debian.org/unstable/games/xblast-tnt-musics">xblast-tnt-musics</a>
+<li><a href="https://packages.debian.org/unstable/games/xblast-tnt-musics">xblast-tnt-musics</a>
     -- Music files for xblast-tnt.
 </ul>
 

@@ -5,22 +5,22 @@ version of the Thunderbird mail/news client.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0455">CVE-2012-0455</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0455">CVE-2012-0455</a>
 
    <p>Soroush Dalili discovered that a cross-site scripting countermeasure
    related to Javascript URLs could be bypassed.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0456">CVE-2012-0456</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0456">CVE-2012-0456</a>
 
    <p>Atte Kettunen discovered an out of bounds read in the SVG Filters,
    resulting in memory disclosure.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0458">CVE-2012-0458</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0458">CVE-2012-0458</a>
 
    <p>Mariusz Mlynski discovered that privileges could be escalated through
    a Javascript URL as the home page.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0461">CVE-2012-0461</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0461">CVE-2012-0461</a>
 
    <p>Bob Clary discovered memory corruption bugs, which may lead to the
    execution of arbitrary code.</p></li>
@@ -37,4 +37,4 @@ version 3.0.11-1+squeeze8.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2437.data"
-# $Id: dsa-2437.wml,v 1.1 2012-03-21 19:31:20 taffit Exp $
+# $Id: dsa-2437.wml,v 1.2 2014/04/30 07:16:28 pabs Exp $

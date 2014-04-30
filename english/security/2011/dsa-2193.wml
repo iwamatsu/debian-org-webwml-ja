@@ -5,13 +5,13 @@ and monitor control groups:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1006">CVE-2011-1006</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1006">CVE-2011-1006</a>
 
    <p>Heap-based buffer overflow by converting list of controllers for
    given task into an array of strings could lead to privilege
    escalation by a local attacker.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1022">CVE-2011-1022</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1022">CVE-2011-1022</a>
 
     <p>libcgroup did not properly check the origin of Netlink messages,
     allowing a local attacker to send crafted Netlink messages which
@@ -32,4 +32,4 @@ this problem will be fixed soon.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2193.data"
-# $Id: dsa-2193.wml,v 1.2 2011-03-17 11:40:46 taffit-guest Exp $
+# $Id: dsa-2193.wml,v 1.3 2014/04/30 07:16:24 pabs Exp $

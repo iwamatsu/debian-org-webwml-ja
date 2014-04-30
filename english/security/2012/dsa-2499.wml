@@ -3,10 +3,10 @@
 <p>Several vulnerabilities have been discovered in Icedove, the Debian
 version of the Mozilla Thunderbird mail/news client.  There were
 miscellaneous memory safety hazards 
-(<a href="http://security-tracker.debian.org/tracker/CVE-2012-1937">CVE-2012-1937</a>,
-<a href="http://security-tracker.debian.org/tracker/CVE-2012-1939">CVE-2012-1939</a>) and
+(<a href="https://security-tracker.debian.org/tracker/CVE-2012-1937">CVE-2012-1937</a>,
+<a href="https://security-tracker.debian.org/tracker/CVE-2012-1939">CVE-2012-1939</a>) and
 a use-after-free issue
-(<a href="http://security-tracker.debian.org/tracker/CVE-2012-1940">CVE-2012-1940</a>).</p>
+(<a href="https://security-tracker.debian.org/tracker/CVE-2012-1940">CVE-2012-1940</a>).</p>
 
 <p>For the stable distribution (squeeze), these problems have been fixed
 in version 3.0.11-1+squeeze11.</p>
@@ -16,4 +16,4 @@ in version 3.0.11-1+squeeze11.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2499.data"
-# $Id: dsa-2499.wml,v 1.1 2012-06-24 12:26:18 taffit Exp $
+# $Id: dsa-2499.wml,v 1.2 2014/04/30 07:16:29 pabs Exp $

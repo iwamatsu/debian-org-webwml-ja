@@ -8,17 +8,17 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-4298">CVE-2008-4298</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-4298">CVE-2008-4298</a>
     <p>A memory leak in the http_request_parse function could be used by
     remote attackers to cause lighttpd to consume memory, and cause a
     denial of service attack.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-4359">CVE-2008-4359</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-4359">CVE-2008-4359</a>
     <p>Inconsistant handling of URL patterns could lead to the disclosure
     of resources a server administrator did not anticipate when using
     rewritten URLs.</p></li>
     
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-4360">CVE-2008-4360</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-4360">CVE-2008-4360</a>
     <p>Upon filesystems which don't handle case-insensitive paths differently
     it might be possible that unanticipated resources could be made available
     by mod_userdir.</p></li>
@@ -35,4 +35,4 @@ problems:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1645.data"
-# $Id: dsa-1645.wml,v 1.3 2010-12-17 15:03:00 taffit-guest Exp $
+# $Id: dsa-1645.wml,v 1.4 2014/04/30 07:16:16 pabs Exp $

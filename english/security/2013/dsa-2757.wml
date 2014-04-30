@@ -13,28 +13,28 @@ before doing the upgrade.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4338">CVE-2013-4338</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4338">CVE-2013-4338</a>
 
     <p>Unsafe PHP unserialization in wp-includes/functions.php could cause
     arbitrary code execution.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4339">CVE-2013-4339</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4339">CVE-2013-4339</a>
 
     <p>Insufficient input validation could result in redirecting or leading
     a user to another website.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4340">CVE-2013-4340</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4340">CVE-2013-4340</a>
 
     <p>Privilege escalation allowing an user with an author role to create
     an entry appearing as written by another user.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-5738">CVE-2013-5738</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-5738">CVE-2013-5738</a>
 
     <p>Insufficient capabilities were required for uploading .html/.html
     files, making it easier for authenticated users to conduct cross-site
     scripting attacks (XSS) using crafted html file uploads.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-5739">CVE-2013-5739</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-5739">CVE-2013-5739</a>
 
     <p>Default Wordpress configuration allowed file upload for .swf/.exe
     files, making it easier for authenticated users to conduct cross-site
@@ -59,4 +59,4 @@ version 3.6.1+dfsg-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2757.data"
-# $Id: dsa-2757.wml,v 1.1 2013/09/14 15:44:09 tvincent-guest Exp $
+# $Id: dsa-2757.wml,v 1.2 2014/04/30 07:16:32 pabs Exp $

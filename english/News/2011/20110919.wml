@@ -1,5 +1,5 @@
 # Status: [sent]
-# $Id: 20110919.wml,v 1.3 2014/04/29 10:55:10 pabs Exp $
+# $Id: 20110919.wml,v 1.5 2014/04/30 07:41:23 pabs Exp $
 # $Rev: 2663 $
 
 ##
@@ -24,7 +24,7 @@ including bug fixes from the Linux <q>longterm</q> series up to
 from Broadcom, Intel and Realtek.
 New packages for 32-bit PC, 64-bit PC and PowerPC are already available
 for installation from the <a
-href="http://wiki.debian.org/StableProposedUpdates"><q>stable-proposed-updates</q>
+href="https://wiki.debian.org/StableProposedUpdates"><q>stable-proposed-updates</q>
 suite</a>.
 The Debian Project invites interested users to test these
 packages before their release, especially on systems that use the updated drivers.
@@ -60,7 +60,7 @@ The drivers being updated are:
 <p>
 Any problems found in the course of these tests should be
 <a href="http://www.debian.org/Bugs/Reporting">reported to the Debian bug
-tracking system</a> using the <q><a href="http://packages.debian.org/source/stable/reportbug">reportbug</a></q> tool.
+tracking system</a> using the <q><a href="https://packages.debian.org/source/stable/reportbug">reportbug</a></q> tool.
 Reports should preferably be sent before September 24, but later
 reports of serious issues will still be taken into consideration.
 In case of regressions in 

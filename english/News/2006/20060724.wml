@@ -1,7 +1,7 @@
 <define-tag pagetitle>Upcoming Release of Debian GNU/Linux 4.0</define-tag>
 <define-tag release_date>2006-07-24</define-tag>
 #use wml::debian::news
-# $Id: 20060724.wml,v 1.4 2011-05-26 10:04:17 rhonda Exp $
+# $Id: 20060724.wml,v 1.5 2014/04/30 07:41:21 pabs Exp $
 
 <p>The Debian project confirms December 2006 as the date for the next
 release of its distribution which will be named Debian GNU/Linux 4.0
@@ -17,7 +17,7 @@ October.</p>
 <p>New features of this release include the GNU Compiler Collection 4.1
 as default compiler.  X.Org will replace XFree86 as implementation of
 the X Window System X11.  Secure <a
-href="http://wiki.debian.org/SecureApt">APT</a> will add extra
+href="https://wiki.debian.org/SecureApt">APT</a> will add extra
 security by easily
 supporting strong cryptography and digital signatures to validate
 downloaded packages.</p>
@@ -49,7 +49,7 @@ and participate online.</p>
 
 </dl>
 
-<p><a href="http://wiki.debian.org/BSPMarathon">Details</a></p>
+<p><a href="https://wiki.debian.org/BSPMarathon">Details</a></p>
 
 <h2>About Debian</h2>
 

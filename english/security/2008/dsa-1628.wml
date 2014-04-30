@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>Brian Dowling discovered that the PowerDNS authoritative name server
 does not respond to DNS queries which contain certain characters,
-increasing the risk of successful DNS spoofing (<a href="http://security-tracker.debian.org/tracker/CVE-2008-3337">CVE-2008-3337</a>).  This
+increasing the risk of successful DNS spoofing (<a href="https://security-tracker.debian.org/tracker/CVE-2008-3337">CVE-2008-3337</a>).  This
 update changes PowerDNS to respond with SERVFAIL responses instead.</p>
 
 <p>For the stable distribution (etch), this problem has been fixed in version 
@@ -16,4 +16,4 @@ version 2.9.21.1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1628.data"
-# $Id: dsa-1628.wml,v 1.3 2010-12-17 15:02:44 taffit-guest Exp $
+# $Id: dsa-1628.wml,v 1.4 2014/04/30 07:16:15 pabs Exp $

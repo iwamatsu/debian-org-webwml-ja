@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-06" SUMMARY="Update for Debian 6.0: 6.0.4 released, bits from the Release Team, bits from the piuparts maintainers, report from Debian Med sprint"
 
-# $Id: index.wml,v 1.5 2014/04/29 15:27:08 pabs Exp $
+# $Id: index.wml,v 1.9 2014/04/30 07:42:07 pabs Exp $
 # $Rev: 3093 $
 # Status: [content frozen]
 
@@ -71,7 +71,7 @@ href="https://lists.debian.org/debian-med/2012/01/msg00452.html">report
 from the Debian Med sprint</a> held in Southport, UK on 27-29 January.
 Among other activities, the Debian Med team fixed some bugs, mentored
 new members and students (consolidating the effort
-made via the <a href="http://wiki.debian.org/DebianMed/MoM"><q>Mentoring of
+made via the <a href="https://wiki.debian.org/DebianMed/MoM"><q>Mentoring of
 the Month</q> initiative</a>) and packaged new software.
 <br />
 For more information on Debian Med activity, you can check their <a
@@ -100,7 +100,7 @@ href="http://raphaelhertzog.com/2012/01/24/answering-questions-of-debian-users-o
 to answer the questions of Debian users</a> and, in general, how to support
 new users. There are many places for helping users (<a
 href="https://lists.debian.org/users.html#debian-user">mailing lists</a>,
-<a href="http://wiki.debian.org/IRC">IRC channels</a>, <a
+<a href="https://wiki.debian.org/IRC">IRC channels</a>, <a
 href="http://ask.debian.net">questions &amp; answers websites</a>, etc.) each
 with different characteristics, but the golden rule for every support channel is to
 be respectful and courteous (as stated in the <a
@@ -114,15 +114,15 @@ Guidelines</a>).
 Paul Wise announced a <a 
 href="http://bonedaddy.net/pabs3/log/2012/02/03/debian-ubuntu-games-screenshot-party/">Debian/Ubuntu
 games screenshot party</a> to be held on 25 and 26 February and
-organised by the <a href="http://wiki.debian.org/Games/Team">Games
+organised by the <a href="https://wiki.debian.org/Games/Team">Games
 Team</a>. The idea is to create screenshots for as many games in
 Debian/Ubuntu as possible and upload them to <a
 href="http://screenshots.debian.net/">screenshots.debian.net</a> in order
 to have them available to <a
-href="http://packages.debian.org/unstable/goplay">goplay</a> (a games package browser).
+href="https://packages.debian.org/unstable/goplay">goplay</a> (a games package browser).
 <br />
 For more information, you can visit the <a
-href="http://wiki.debian.org/Games/Parties/Screenshots">related wiki
+href="https://wiki.debian.org/Games/Parties/Screenshots">related wiki
 page</a>.
 </p>
 
@@ -184,15 +184,15 @@ href="https://lists.debian.org/debian-mobile">debian-mobile mailing
 list</a> is intended as a place for <q>discussions around packaging
 suitable mobile interfaces for Debian</q>. For more information about
 running Debian on mobile devices, you can visit the <a
-href="http://wiki.debian.org/Mobile">mobile</a> and <a
-href="http://wiki.debian.org/Smartphone">smartphone</a> wiki pages.
+href="https://wiki.debian.org/Mobile">mobile</a> and <a
+href="https://wiki.debian.org/Smartphone">smartphone</a> wiki pages.
 </p>
 
 <p>
 Micheal Gilbert wrote an <a
 href="https://lwn.net/Articles/477062/">article on a recent
 security flaw</a> (<a
-href="http://security-tracker.debian.org/tracker/CVE-2012-0064">\
+href="https://security-tracker.debian.org/tracker/CVE-2012-0064">\
 CVE-2012-0064</a>) and how it was handled by
 distributions. Thanks also to the detailed
 research by the discoverer of the issue, Debian reacted really
@@ -230,14 +230,14 @@ Lior worked in particular on PHP extensions in order to make them compatible wit
  Edu developers meeting</a></li>
  <li>February 10-12, Minsk, Belarus &mdash; Debian contributors and enthusiasts
  will be present at the winter edition of <a
- href="http://wiki.debian.org/DebianEvents/LVEE/2012Winter">Linux
+ href="https://wiki.debian.org/DebianEvents/LVEE/2012Winter">Linux
  Vacation / Eastern Europe</a></li>
  <li>February 15, Redwood Shores, CA, USA &mdash; <a
  href="https://events.linuxfoundation.org/events/embedded-linux-conference/wookey"><q>Multiarch
  and Why You Should Care: Running, Installing and Crossbuilding With
  Multiple Architectures</q></a> by Wookey at Embedded Linux Conference</li>
  <li>February 17-19, Paris, France &mdash; <a
- href="http://wiki.debian.org/BSP2012/Paris">Debian Bug Squashing
+ href="https://wiki.debian.org/BSP2012/Paris">Debian Bug Squashing
  Party</a></li>
 </ul>
 <p>
@@ -262,7 +262,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 	<p>
 Six applicants have been accepted
 	as Debian Maintainer, and
-nine people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+nine people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Neutron Soutmun, Boris Pek, Christian M. Amsüss, Alexandre Mestiashvili,
@@ -275,7 +275,7 @@ and Antono Vasiljev
 
 <toc-add-entry name="rcstats">Release-Critical bugs statistics for the upcoming release</toc-add-entry>
 
-	<p>According to the <a href="http://udd.debian.org/bugs.cgi">Bugs Search
+	<p>According to the <a href="https://udd.debian.org/bugs.cgi">Bugs Search
         interface of the Ultimate Debian Database</a>, the upcoming release,
 	Debian 7.0 <q>Wheezy</q>, is currently affected by
 695 Release-Critical bugs. Ignoring bugs which are easily solved
@@ -286,7 +286,7 @@ and Antono Vasiljev
 	<p>There are also <a
 	href="http://blog.schmehl.info/Debian/rc-stats/7.0-wheezy/2012-05">more detailed
 	statistics</a> as well as some <a
-	href="http://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
+	href="https://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
 	interpret</a> these numbers.</p>
 
 
@@ -331,18 +331,18 @@ list</a>, for <q>Lenny</q>, the oldstable distribution) for announcements.</p>
 
 <p>
 1008 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/clinica">clinica &mdash; simple medical records manager</a></li>
-<li><a href="http://packages.debian.org/unstable/main/coinst">coinst &mdash; computes the co-installability kernel of a deb or RPM repository</a></li>
-<li><a href="http://packages.debian.org/unstable/main/espeak-gui">espeak-gui &mdash; graphical user interface for eSpeak</a></li>
-<li><a href="http://packages.debian.org/unstable/main/instead">instead &mdash; simple text adventures/visual novels engine</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pyformex">pyformex &mdash; program to create 3D geometry from Python scripts</a></li>
-<li><a href="http://packages.debian.org/unstable/main/actionaz">actionaz &mdash; emulate human activity through a powerful GUI and JavaScript</a></li>
-<li><a href="http://packages.debian.org/unstable/main/apper">apper &mdash; KDE package management tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vagrant">vagrant &mdash; tool for building and distributing virtualized development environments</a></li>
+<li><a href="https://packages.debian.org/unstable/main/clinica">clinica &mdash; simple medical records manager</a></li>
+<li><a href="https://packages.debian.org/unstable/main/coinst">coinst &mdash; computes the co-installability kernel of a deb or RPM repository</a></li>
+<li><a href="https://packages.debian.org/unstable/main/espeak-gui">espeak-gui &mdash; graphical user interface for eSpeak</a></li>
+<li><a href="https://packages.debian.org/unstable/main/instead">instead &mdash; simple text adventures/visual novels engine</a></li>
+<li><a href="https://packages.debian.org/unstable/main/pyformex">pyformex &mdash; program to create 3D geometry from Python scripts</a></li>
+<li><a href="https://packages.debian.org/unstable/main/actionaz">actionaz &mdash; emulate human activity through a powerful GUI and JavaScript</a></li>
+<li><a href="https://packages.debian.org/unstable/main/apper">apper &mdash; KDE package management tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/vagrant">vagrant &mdash; tool for building and distributing virtualized development environments</a></li>
 </ul>
 
 
@@ -359,7 +359,7 @@ many others</a> are:</p>
 
 <p>Please help us create this newsletter. We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

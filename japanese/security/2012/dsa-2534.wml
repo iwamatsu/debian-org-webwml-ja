@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -9,13 +9,13 @@ SQLデータベースの PostgreSQL に XML の処理に関係した二つの脆
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-3488">CVE-2012-3488</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-3488">CVE-2012-3488</a>
 <p>
 contrib/xml2 の xslt_process() を使って外部のファイルや URL
 を読み書きできてしまいます。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-3489">CVE-2012-3489</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-3489">CVE-2012-3489</a>
 <p>
 xml_parse() は、DTD と XML の値の中のエンティティ参照を解決
 するために外部のファイルや URL を取得します。
@@ -52,4 +52,4 @@ postgresql-9.1 パッケージのバージョン 9.1.5-1 で修正されてい�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2534.data"
-# $Id: dsa-2534.wml,v 1.1 2012-08-28 12:33:28 kmuto Exp $
+# $Id: dsa-2534.wml,v 1.2 2014/04/30 07:17:19 pabs Exp $

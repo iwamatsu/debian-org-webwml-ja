@@ -5,7 +5,7 @@ denial-of-service vulnerabilities in its BGP implementation:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-1674">CVE-2010-1674</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-1674">CVE-2010-1674</a>
 
     <p>A crafted Extended Communities attribute triggers a NULL
     pointer dereference which causes the BGP daemon to crash.
@@ -13,7 +13,7 @@ denial-of-service vulnerabilities in its BGP implementation:</p>
     core, so only explicitly configured direct peers are able
     to exploit this vulnerability in typical configurations.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-1675">CVE-2010-1675</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-1675">CVE-2010-1675</a>
 
     <p>The BGP daemon resets BGP sessions when it encounters
     malformed AS_PATHLIMIT attributes, introducing a distributed
@@ -43,4 +43,4 @@ in version 0.99.17-2+squeeze2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2197.data"
-# $Id: dsa-2197.wml,v 1.2 2011-03-21 20:27:11 taffit-guest Exp $
+# $Id: dsa-2197.wml,v 1.3 2014/04/30 07:16:24 pabs Exp $

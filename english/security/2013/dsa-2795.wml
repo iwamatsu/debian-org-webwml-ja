@@ -9,19 +9,19 @@ client certificate verification.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4508">CVE-2013-4508</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4508">CVE-2013-4508</a>
 
     <p>It was discovered that lighttpd uses weak ssl ciphers when SNI (Server
     Name Indication) is enabled.  This issue was solved by ensuring that
     stronger ssl ciphers are used when SNI is selected.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4559">CVE-2013-4559</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4559">CVE-2013-4559</a>
 
     <p>The clang static analyzer was used to discover privilege escalation
     issues due to missing checks around lighttpd's setuid, setgid, and
     setgroups calls.  Those are now appropriately checked.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4560">CVE-2013-4560</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4560">CVE-2013-4560</a>
 
     <p>The clang static analyzer was used to discover a use-after-free issue
     when the FAM stat cache engine is enabled, which is now fixed.</p></li>
@@ -47,4 +47,4 @@ problem will be fixed soon.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2795.data"
-# $Id: dsa-2795.wml,v 1.4 2013/11/21 17:58:50 kaare Exp $
+# $Id: dsa-2795.wml,v 1.5 2014/04/30 07:16:32 pabs Exp $

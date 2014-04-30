@@ -6,12 +6,12 @@ Exposures project identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-0945">CVE-2009-0945</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-0945">CVE-2009-0945</a>
 <p>It was discovered that the KSVG animation element implementation suffers
 from a null pointer dereference flaw, which could lead to the execution
 of arbitrary code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1709">CVE-2009-1709</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1709">CVE-2009-1709</a>
 <p>It was discovered that the KSVG animation element implementation is
 prone to a use-after-free flaw, which could lead to the execution of
 arbitrary code.</p></li>
@@ -34,4 +34,4 @@ version 4:3.5.9-3+lenny2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1866.data"
-# $Id: dsa-1866.wml,v 1.2 2010-12-17 14:40:05 taffit-guest Exp $
+# $Id: dsa-1866.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

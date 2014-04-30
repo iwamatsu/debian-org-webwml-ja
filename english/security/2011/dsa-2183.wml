@@ -1,6 +1,6 @@
 <define-tag description>buffer overflow</define-tag>
 <define-tag moreinfo>
-<p>It was discovered a regression of a buffer overflow (<a href="http://security-tracker.debian.org/tracker/CVE-2005-3534">CVE-2005-3534</a>) in NBD, 
+<p>It was discovered a regression of a buffer overflow (<a href="https://security-tracker.debian.org/tracker/CVE-2005-3534">CVE-2005-3534</a>) in NBD, 
 the Network Block Device server, that could allow arbitrary code execution
 on the NBD server via a large request.</p>
 
@@ -18,4 +18,4 @@ fixed prior the release of squeeze in version 1:2.9.16-8.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2183.data"
-# $Id: dsa-2183.wml,v 1.1 2011-03-05 12:38:08 taffit-guest Exp $
+# $Id: dsa-2183.wml,v 1.2 2014/04/30 07:16:24 pabs Exp $

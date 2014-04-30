@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-02-07" SUMMARY="FLUG Award, DPL Nominations, Graphical Installer"
-# $Id: index.wml,v 1.5 2014/04/29 15:26:14 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 06:31:54 pabs Exp $
 
 <p>Welcome to this year's 6th issue of DWN, the weekly newsletter for the
 Debian community.  Noèl Köthe <a
@@ -55,7 +55,7 @@ that you update your systems if you have any of these packages installed.</p>
 </ul>
 
 <p><strong>New or Noteworthy Packages.</strong> Due to <a
-href="http://packages.debian.org/">packages.debian.org</a> being down because
+href="https://packages.debian.org/">packages.debian.org</a> being down because
 of performance issues we are unable to provide the regular list of new
 packages.</p>
 

@@ -1,11 +1,11 @@
 <define-tag pagetitle>New build system for metapackages</define-tag>
 <define-tag release_date>2004-10-23</define-tag>
 #use wml::debian::news
-# $Id: 20041023.wml,v 1.3 2008-11-21 21:32:36 tille Exp $
+# $Id: 20041023.wml,v 1.4 2014/04/30 06:33:11 pabs Exp $
 
 <p>A new build system for metapackages is currently under development
 and thus the latest med-* packages are available in the
-<a href="http://packages.debian.org/experimental/">experimental
+<a href="https://packages.debian.org/experimental/">experimental
 distribution</a> until sarge is released. This is to avoid having not
 carefully tested packages in the stable distribution.</p>
 

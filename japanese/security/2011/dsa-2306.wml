@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -10,7 +10,7 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-3908">CVE-2010-3908</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-3908">CVE-2010-3908</a>
 
    <p>
 FFmpeg 0.5.4 以前に、リモートの攻撃者からの不正な形式の WMV ファ
@@ -19,7 +19,7 @@ FFmpeg 0.5.4 以前に、リモートの攻撃者からの不正な形式の WMV
    </p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-4704">CVE-2010-4704</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-4704">CVE-2010-4704</a>
 
    <p>
 ffmpeg の Vorbis デコーダに、vorbis_floor0_decode 関数関連で、リ
@@ -28,7 +28,7 @@ ffmpeg の Vorbis デコーダに、vorbis_floor0_decode 関数関連で、リ
    </p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0480">CVE-2011-0480</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-0480">CVE-2011-0480</a>
 
    <p>
 ffmpeg の Vorbis デコーダの vorbis_dec.c に複数のバッファオーバフ
@@ -39,7 +39,7 @@ ffmpeg の Vorbis デコーダの vorbis_dec.c に複数のバッファオーバ
    </p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0722">CVE-2011-0722</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-0722">CVE-2011-0722</a>
 
    <p>
 FFmpeg に、リモートの攻撃者からの不正な形式の RealMedia ファイルに
@@ -71,4 +71,4 @@ FFmpeg に、リモートの攻撃者からの不正な形式の RealMedia フ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2306.data"
-# $Id: dsa-2306.wml,v 1.1 2011-09-30 00:09:22 kmuto Exp $
+# $Id: dsa-2306.wml,v 1.2 2014/04/30 07:17:18 pabs Exp $

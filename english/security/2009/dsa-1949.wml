@@ -3,7 +3,7 @@
 <p>It was discovered that php-net-ping, a PHP PEAR module to execute ping
 independently of the Operating System, performs insufficient input
 sanitising, which might be used to inject arguments (no CVE yet) or
-execute arbitrary commands (<a href="http://security-tracker.debian.org/tracker/CVE-2009-4024">CVE-2009-4024</a>) on a system that uses
+execute arbitrary commands (<a href="https://security-tracker.debian.org/tracker/CVE-2009-4024">CVE-2009-4024</a>) on a system that uses
 php-net-ping.</p>
 
 
@@ -25,4 +25,4 @@ version 2.4.2-1.1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1949.data"
-# $Id: dsa-1949.wml,v 1.2 2010-12-17 14:40:43 taffit-guest Exp $
+# $Id: dsa-1949.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20120425.wml,v 1.5 2014/04/29 10:55:11 pabs Exp $
+# $Id: 20120425.wml,v 1.7 2014/04/30 07:41:23 pabs Exp $
 # $Rev: 3631 $
 
 <define-tag pagetitle>Deploy your own <q>cloud</q> with Debian <q>Wheezy</q></define-tag>
@@ -69,17 +69,17 @@ encourage interested users to test them. In particular:
 <li>
    You can set up a minimal but fully functional OpenStack cluster using two
    computers by following
-   the <a href="http://wiki.debian.org/OpenStackHowto">HOWTO on the Debian
+   the <a href="https://wiki.debian.org/OpenStackHowto">HOWTO on the Debian
    wiki</a>
 </li>
 <li>
    You can test XCP installation and deployment by installing the
-   <a href="http://packages.debian.org/wheezy/xcp-xapi">xcp-xapi
+   <a href="https://packages.debian.org/wheezy/xcp-xapi">xcp-xapi
    package</a> and following the instructions in its README.Debian file
 </li>
 <li>
   You can test OpenStack using XCP by installing 
-  <a href="http://packages.debian.org/wheezy/nova-xcp-plugins">nova-xcp-plugins</a> 
+  <a href="https://packages.debian.org/wheezy/nova-xcp-plugins">nova-xcp-plugins</a> 
   in your XCP server, and following the instructions in its README.xcp_and_OpenStack file
 </li>
 </ul>

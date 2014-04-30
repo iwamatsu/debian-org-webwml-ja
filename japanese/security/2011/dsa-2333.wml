@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -8,7 +8,7 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-4074">CVE-2011-4074</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-4074">CVE-2011-4074</a>
 
 <p>
 cmd.php で URL に付加される入力 (<q>cmd</q> が <q>_debug</q> にセットされている場合)
@@ -17,7 +17,7 @@ cmd.php で URL に付加される入力 (<q>cmd</q> が <q>_debug</q> にセッ
 ションに任意の HTML やスクリプトコードを挿入し実行可能です。
 </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-4075">CVE-2011-4075</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-4075">CVE-2011-4075</a>
 
 <p>
 cmd.php で orderby パラメータに渡される入力 (<q>cmd</q> が <q>query_engine</q> にセ
@@ -57,4 +57,4 @@ lib/functions.php 内で適切にサニタイズされていません。この�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2333.data"
-# $Id: dsa-2333.wml,v 1.2 2011-11-02 00:45:12 kmuto Exp $
+# $Id: dsa-2333.wml,v 1.3 2014/04/30 07:17:18 pabs Exp $

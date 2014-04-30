@@ -6,12 +6,12 @@ project identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-2855">CVE-2009-2855</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-2855">CVE-2009-2855</a>
 
 <p>Bastian Blank discovered that it is possible to cause a denial of
 service via a crafted auth header with certain comma delimiters.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-0308">CVE-2010-0308</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-0308">CVE-2010-0308</a>
 
 <p>Tomas Hoger discovered that it is possible to cause a denial of service
 via invalid DNS header-only packets.</p></li>
@@ -36,4 +36,4 @@ of the squid3 package.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-1991.data"
-# $Id: dsa-1991.wml,v 1.2 2010-12-17 14:26:34 taffit-guest Exp $
+# $Id: dsa-1991.wml,v 1.3 2014/04/30 07:16:22 pabs Exp $

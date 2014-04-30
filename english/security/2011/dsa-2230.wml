@@ -5,12 +5,12 @@ virtualization on x86 hardware:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-0011">CVE-2011-0011</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-0011">CVE-2011-0011</a>
 
    <p>Setting the VNC password to an empty string silently disabled
    all authentication.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-1750">CVE-2011-1750</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-1750">CVE-2011-1750</a>
 
    <p>The virtio-blk driver performed insufficient validation of
    read/write I/O from the guest instance, which could lead to
@@ -31,4 +31,4 @@ version 0.12.5+dfsg-5+squeeze1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2230.data"
-# $Id: dsa-2230.wml,v 1.1 2011-05-01 21:23:18 taffit-guest Exp $
+# $Id: dsa-2230.wml,v 1.2 2014/04/30 07:16:24 pabs Exp $

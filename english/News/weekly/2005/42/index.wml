@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-10-18" SUMMARY="Installer, GNOME, Lists, OpenSolaris, Security, License, binutils, Wiki, Firewall"
-# $Id: index.wml,v 1.15 2014/04/29 15:26:05 pabs Exp $
+# $Id: index.wml,v 1.17 2014/04/30 07:41:37 pabs Exp $
 
 <p>Welcome to this year's 42nd issue of DWN, the weekly newsletter for the
 Debian community.  Flavio Villanustre <a
@@ -14,8 +14,8 @@ ignored for the propagation of packages from unstable into testing.</p>
 href="https://lists.debian.org/debian-boot/2005/10/msg00227.html">reported</a>
 about his trial building the <a href="$(HOME)/devel/debian-installer/">\
 debian-installer</a> with the build daemon network.  A few of the <a
-href="http://wiki.debian.org/DebianInstaller/Today">issues</a>
-<a href="http://wiki.debian.org/DebianInstallerEtchBeta1Prep">\
+href="https://wiki.debian.org/DebianInstaller/Today">issues</a>
+<a href="https://wiki.debian.org/DebianInstallerEtchBeta1Prep">\
 include</a> building on HPPA, reducing the size of
 boot images on sparc and mipsel, and creating CD image builds.</p>
 
@@ -84,8 +84,8 @@ would have to link to them statically instead.</p>
 
 <p><strong>License for Debian Wiki Content.</strong> John Dowland <a
 href="https://lists.debian.org/debian-legal/2005/09/msg00565.html">requested</a>
-a clear <a href="http://wiki.debian.org/DebianWiki/LicencingTerms">license
-statement</a> to be added to the new <a href="http://wiki.debian.org/">Debian
+a clear <a href="https://wiki.debian.org/DebianWiki/LicencingTerms">license
+statement</a> to be added to the new <a href="https://wiki.debian.org/">Debian
 Wiki</a>.  Francesco Poli <a
 href="https://lists.debian.org/debian-legal/2005/10/msg00001.html">proposed</a>
 to use the <a href="http://www.jclark.com/xml/copying.txt">Expat</a>, <a
@@ -99,10 +99,10 @@ href="https://lists.debian.org/debian-devel/2005/09/msg00952.html">wrote</a> a
 script to load and activate firewall rules during the system boot process.
 Matthew Palmer <a
 href="https://lists.debian.org/debian-devel/2005/09/msg00959.html">suggested</a>
-looking at the existing <a href="http://packages.debian.org/shorewall">\
+looking at the existing <a href="https://packages.debian.org/shorewall">\
 shorewall</a> package instead.  Steve Langasek <a
 href="https://lists.debian.org/debian-devel/2005/09/msg00970.html">pointed
-out</a> the current <a href="http://wiki.debian.org/FirewallByDefault">\
+out</a> the current <a href="https://wiki.debian.org/FirewallByDefault">\
 proposal</a>.  Javier Fernández-Sanguino Peña <a
 href="https://lists.debian.org/debian-devel/2005/09/msg00999.html">added</a>
 a note about the <a
@@ -123,35 +123,35 @@ that you update your systems if you have any of these packages installed.</p>
 
 <p><strong>New or Noteworthy Packages.</strong> The following packages were
 added to the unstable Debian archive <a
-href="http://packages.debian.org/unstable/newpkg_main">recently</a> or contain
+href="https://packages.debian.org/unstable/newpkg_main">recently</a> or contain
 important updates.</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/web/acidbase">acidbase</a>
+<li><a href="https://packages.debian.org/unstable/web/acidbase">acidbase</a>
     -- Basic Analysis and Security Engine.</li>
-<li><a href="http://packages.debian.org/unstable/hamradio/aldo">aldo</a>
+<li><a href="https://packages.debian.org/unstable/hamradio/aldo">aldo</a>
     -- Portable Morse code trainer.</li>
-<li><a href="http://packages.debian.org/unstable/x11/amule-daemon">amule-daemon</a>
+<li><a href="https://packages.debian.org/unstable/x11/amule-daemon">amule-daemon</a>
     -- aMule daemon.</li>
-<li><a href="http://packages.debian.org/unstable/admin/aptsh">aptsh</a>
+<li><a href="https://packages.debian.org/unstable/admin/aptsh">aptsh</a>
     -- APT interactive shell.</li>
-<li><a href="http://packages.debian.org/unstable/tex/asymptote">asymptote</a>
+<li><a href="https://packages.debian.org/unstable/tex/asymptote">asymptote</a>
     -- Script-based vector graphics language inspired by MetaPost.</li>
-<li><a href="http://packages.debian.org/unstable/otherosfs/aylet">aylet</a>
+<li><a href="https://packages.debian.org/unstable/otherosfs/aylet">aylet</a>
     -- Ncurses-based player for Spectrum '.ay' music files.</li>
-<li><a href="http://packages.debian.org/unstable/utils/bsdtar">bsdtar</a>
+<li><a href="https://packages.debian.org/unstable/utils/bsdtar">bsdtar</a>
     -- tar(1) from FreeBSD, using libarchive.</li>
-<li><a href="http://packages.debian.org/unstable/gnome/gcolor2">gcolor2</a>
+<li><a href="https://packages.debian.org/unstable/gnome/gcolor2">gcolor2</a>
     -- GTK2 colour selector and picker.</li>
-<li><a href="http://packages.debian.org/unstable/gnome/gspot">gspot</a>
+<li><a href="https://packages.debian.org/unstable/gnome/gspot">gspot</a>
     -- GNOME applet to query the network.</li>
-<li><a href="http://packages.debian.org/unstable/kde/krita">krita</a>
+<li><a href="https://packages.debian.org/unstable/kde/krita">krita</a>
     -- Pixel-based image manipulation program for the KDE Office Suite.</li>
-<li><a href="http://packages.debian.org/unstable/sound/orpheus">orpheus</a>
+<li><a href="https://packages.debian.org/unstable/sound/orpheus">orpheus</a>
     -- Light-weight text mode menu- and window-driven audio player.</li>
-<li><a href="http://packages.debian.org/unstable/sound/peercast">peercast</a>
+<li><a href="https://packages.debian.org/unstable/sound/peercast">peercast</a>
     -- P2P audio and video streaming server metapackage.</li>
-<li><a href="http://packages.debian.org/unstable/graphics/shanty">shanty</a>
+<li><a href="https://packages.debian.org/unstable/graphics/shanty">shanty</a>
     -- Creates Postscript file from an image and some text.</li>
 </ul>
 
@@ -163,23 +163,23 @@ the full list, and please add a note to the bug report and retitle it to ITA:
 if you plan to take over a package.</p>
 
 <ul>
-<li> <a href="http://packages.debian.org/unstable/tex/bibcursed">bibcursed</a>
+<li> <a href="https://packages.debian.org/unstable/tex/bibcursed">bibcursed</a>
      -- Interactive program to edit BibTeX bibliographies.
      (<a href="https://bugs.debian.org/334244">Bug#334244</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/sound/juke">juke</a>
+<li> <a href="https://packages.debian.org/unstable/sound/juke">juke</a>
      -- Curses-based jukebox program.
      (<a href="https://bugs.debian.org/334375">Bug#334375</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/kde/okle">okle</a>
+<li> <a href="https://packages.debian.org/unstable/kde/okle">okle</a>
      -- DVD player for KDE.
      (<a href="https://bugs.debian.org/333816">Bug#333816</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/math/r-cran-xml">r-cran-xml</a>
+<li> <a href="https://packages.debian.org/unstable/math/r-cran-xml">r-cran-xml</a>
      -- XML package for the R language.
      (<a href="https://bugs.debian.org/334323">Bug#334323</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/math/octave-statdataml">statdataml</a>
+<li> <a href="https://packages.debian.org/unstable/math/octave-statdataml">statdataml</a>
      -- XML-based data exchange format StatDataML.
      (<a href="https://bugs.debian.org/333683">Bug#333683</a>)
      </li>

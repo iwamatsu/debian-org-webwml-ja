@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-03-20" SUMMARY="DPL Elections 2012, first <q>Squeeze</q> based Debian Edu released, report from recent Bug Squashing Parties"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:10 pabs Exp $
+# $Id: index.wml,v 1.7 2014/04/30 07:42:08 pabs Exp $
 # $Rev: 3435 $
 # Status: [frozen]
 
@@ -85,7 +85,7 @@ Philipp Kern announced the availability of
 <a href="http://debblog.philkern.de/2012/02/gobbydebianorg.html">a <q>Gobby</q>
 server hosted by Debian</a>. Gobby is a realtime collaborative editor
 which works as a standalone desktop application. To use it, install the
-<a href="http://packages.debian.org/squeeze/gobby-0.5">gobby-0.5
+<a href="https://packages.debian.org/squeeze/gobby-0.5">gobby-0.5
 package</a> and then just connect to the server at <tt>gobby.debian.org</tt>.
 </p>
 
@@ -150,7 +150,7 @@ The Debian Project
 <a href="http://ekaia.org/blog/2012/03/17/debian-accepted-for-the-google-summer-of-code-2012-students-wanted/">will
 participate, for the seventh consecutive year,
 in the <q>Google Summer of Code</q></a>. Further information can
-be found on the <a href="http://wiki.debian.org/SummerOfCode2012">Debian
+be found on the <a href="https://wiki.debian.org/SummerOfCode2012">Debian
 wiki</a>.
 </p>
 
@@ -158,7 +158,7 @@ wiki</a>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-Eight people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+Eight people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 	Raúl Benencia, AbdulKarim Memon, Keith Winstein,
@@ -214,27 +214,27 @@ list</a>) for announcements.
 
 <p>
 315 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/fstransform">\
+<li><a href="https://packages.debian.org/unstable/main/fstransform">\
 	fstransform — tool for in-place filesystem conversion</a></li>
-<li><a href="http://packages.debian.org/unstable/main/github-backup">\
+<li><a href="https://packages.debian.org/unstable/main/github-backup">\
 	github-backup — backs up data from GitHub</a></li>
-<li><a href="http://packages.debian.org/unstable/main/httpcode">\
+<li><a href="https://packages.debian.org/unstable/main/httpcode">\
 	httpcode — explain the meaning of an HTTP status code on the command line</a></li>
-<li><a href="http://packages.debian.org/unstable/main/httpie">\
+<li><a href="https://packages.debian.org/unstable/main/httpie">\
 	httpie — CLI, cURL-like tool for humans</a></li>
-<li><a href="http://packages.debian.org/unstable/main/lammps">\
+<li><a href="https://packages.debian.org/unstable/main/lammps">\
 	lammps — molecular dynamics simulator</a></li>
-<li><a href="http://packages.debian.org/unstable/main/morsegen">\
+<li><a href="https://packages.debian.org/unstable/main/morsegen">\
 	morsegen — convert text file to ASCII morse code</a></li>
-<li><a href="http://packages.debian.org/unstable/main/paulstretch">\
+<li><a href="https://packages.debian.org/unstable/main/paulstretch">\
 	paulstretch — extreme sound time-stretch</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pspp">\
+<li><a href="https://packages.debian.org/unstable/main/pspp">\
 	pspp — statistical analysis tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xcrysden">\
+<li><a href="https://packages.debian.org/unstable/main/xcrysden">\
 	xcrysden — crystalline and molecular structure visualizer</a></li>
 </ul>
 

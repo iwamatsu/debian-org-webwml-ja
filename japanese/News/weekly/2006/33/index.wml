@@ -1,9 +1,9 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-15" SUMMARY="パッケージング, リリース, Python, 誕生日, DPL からの報告, インストーラ"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="1.11"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 33 号へようこそ。今週、Debian は 13 周年を迎えます。
-近くで<a href="http://wiki.debian.org/Debian13th">\
+近くで<a href="https://wiki.debian.org/Debian13th">\
 パーティ</a>がないかどうか確かめてみてください。etch
 のリリースまでに作曲する時間はたっぷりあるので、Julien Danjou
 さんは彼が作詞した etch の歌詞を<a
@@ -15,7 +15,7 @@ href="http://julien.danjou.info/blog/index.php/2006/08/01/312-etch-song">\
 href="http://www.freesoftwaremagazine.com/node/1692">疑問を呈しました</a>。</p>
 
 <p><strong>ディストリビューション全体に渡る追跡ツール。</strong>
-Arnaud Fontaine さんは、<a href="http://wiki.debian.org/DWTT">\
+Arnaud Fontaine さんは、<a href="https://wiki.debian.org/DWTT">\
 ディストリビューション全体に渡る追跡ツール</a> Wotomae の状況について<a
 href="https://lists.debian.org/debian-qa/2006/08/msg00039.html">\
 報告しました</a>。DWTT は、ライブラリの移行やデフォルト Python
@@ -60,7 +60,7 @@ href="http://people.debian.org/~doko/tmp/python-rtupdate.txt">\
 1993 年 8 月 16 日、Ian Murdock さんは新しいタイプのディストリビューションを<a
 href="http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6?output=gplain">\
 発表し</a>、達成したい目標をリストアップしました。13 年後の 16 日、Debian
-コミュニティは世界中でこの誕生日を<a href="http://wiki.debian.org/Debian13th">\
+コミュニティは世界中でこの誕生日を<a href="https://wiki.debian.org/Debian13th">\
 祝います</a>。Ian さんの最初のメールからこれまでに多くのことが起きました。
 プロジェクトは現在、9 人目のリーダーによって率いられ、1000 人を超える開発者が、
 フリーソフトウェアのディストリビューションとしては最大級のものの一つの開発作業に自由意志で参加しています。</p>
@@ -113,52 +113,52 @@ href="$(HOME)/ports/s390">S/390</a> アーキテクチャにおいて、カー�
 </ul>
 
 <p><strong>新規または注目すべきパッケージ。</strong>
-以下のパッケージは、<a href="http://packages.debian.org/unstable/newpkg_main">\
+以下のパッケージは、<a href="https://packages.debian.org/unstable/newpkg_main">\
 最近</a>、不安定版 (unstable) の Debian アーカイブに追加されたか、
 または重要な更新を含んでいます。</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/science/biosquid">biosquid</a>
+<li><a href="https://packages.debian.org/unstable/science/biosquid">biosquid</a>
     &mdash; 生物学の配列解析用ユーティリティ。</li>
-<li><a href="http://packages.debian.org/unstable/otherosfs/cdrskin">cdrskin</a>
+<li><a href="https://packages.debian.org/unstable/otherosfs/cdrskin">cdrskin</a>
     &mdash; フォーマット済データを libburn 経由で CD-R や CD-RW に焼く。</li>
-<li><a href="http://packages.debian.org/unstable/games/ceferino">ceferino</a>
+<li><a href="https://packages.debian.org/unstable/games/ceferino">ceferino</a>
     &mdash; Super Pang 似のアクションゲーム。</li>
-<li><a href="http://packages.debian.org/unstable/x11/dmenu">dmenu</a>
+<li><a href="https://packages.debian.org/unstable/x11/dmenu">dmenu</a>
     &mdash; 動的なメニュー。</li>
-<li><a href="http://packages.debian.org/unstable/utils/elfutils">elfutils</a>
+<li><a href="https://packages.debian.org/unstable/utils/elfutils">elfutils</a>
     &mdash; ELF オブジェクトを扱うユーティリティ集。</li>
-<li><a href="http://packages.debian.org/unstable/net/foff">foff</a>
+<li><a href="https://packages.debian.org/unstable/net/foff">foff</a>
     &mdash; X/GTK+ FTP クライアント - Free Open FTP Face。</li>
-<li><a href="http://packages.debian.org/unstable/kde/kerry">kerry</a>
+<li><a href="https://packages.debian.org/unstable/kde/kerry">kerry</a>
     &mdash; Beagle デスクトップ検索デーモンの KDE 用フロントエンド。</li>
-<li><a href="http://packages.debian.org/unstable/kde/komparator">komparator</a>
+<li><a href="https://packages.debian.org/unstable/kde/komparator">komparator</a>
     &mdash; KDE 用ディレクトリ比較プログラム。</li>
-<li><a href="http://packages.debian.org/unstable/kde/ksystemlog">ksystemlog</a>
+<li><a href="https://packages.debian.org/unstable/kde/ksystemlog">ksystemlog</a>
     &mdash; KDE 用システムログ閲覧ツール。</li>
-<li><a href="http://packages.debian.org/unstable/sound/omins">omins</a>
+<li><a href="https://packages.debian.org/unstable/sound/omins">omins</a>
     &mdash; モジュール式シンセサイザ用の LADSPA プラグイン集。</li>
-<li><a href="http://packages.debian.org/unstable/graphics/oxine">oxine</a>
+<li><a href="https://packages.debian.org/unstable/graphics/oxine">oxine</a>
     &mdash; Xine OSD (オンスクリーンディスプレイ) 用 GUI。</li>
-<li><a href="http://packages.debian.org/unstable/net/pymsnt">pymsnt</a>
+<li><a href="https://packages.debian.org/unstable/net/pymsnt">pymsnt</a>
     &mdash; Jabber 用の MSN 接続プログラム。</li>
-<li><a href="http://packages.debian.org/unstable/web/rest2web">rest2web</a>
+<li><a href="https://packages.debian.org/unstable/web/rest2web">rest2web</a>
     &mdash; 元の内容の書式に ReStructured Text を使うウェブサイトビルダー。</li>
-<li><a href="http://packages.debian.org/unstable/sound/rocklight">rocklight</a>
+<li><a href="https://packages.debian.org/unstable/sound/rocklight">rocklight</a>
     &mdash; IBM 製 ThinkPad の ThinkLight 用 Xmms 視覚化プラグイン。</li>
-<li><a href="http://packages.debian.org/unstable/net/ser">ser</a>
+<li><a href="https://packages.debian.org/unstable/net/ser">ser</a>
     &mdash; Sip Express Router、きわめて高速かつ柔軟な設定が可能な SIP プロキシ。</li>
-<li><a href="http://packages.debian.org/unstable/web/serendipity">serendipity</a>
+<li><a href="https://packages.debian.org/unstable/web/serendipity">serendipity</a>
     &mdash; 拡張可能なテーマやプラグイン対応を備えたウェブログマネージャ。</li>
-<li><a href="http://packages.debian.org/unstable/devel/svn-autoreleasedeb">svn-autoreleasedeb</a>
+<li><a href="https://packages.debian.org/unstable/devel/svn-autoreleasedeb">svn-autoreleasedeb</a>
     &mdash; Debian パッケージを SVN から自動的にリリースまたはアップロード。</li>
-<li><a href="http://packages.debian.org/unstable/x11/ttf-sil-charis">ttf-sil-charis</a>
+<li><a href="https://packages.debian.org/unstable/x11/ttf-sil-charis">ttf-sil-charis</a>
     &mdash; ローマ字やキリル文字ベースな書記体系用の洗練された Unicode フォントファミリ。</li>
-<li><a href="http://packages.debian.org/unstable/x11/ttf-sil-doulos">ttf-sil-doulos</a>
+<li><a href="https://packages.debian.org/unstable/x11/ttf-sil-doulos">ttf-sil-doulos</a>
     &mdash; ラテン文字やキリル文字の草書体用の洗練された Unicode フォント。</li>
-<li><a href="http://packages.debian.org/unstable/devel/unsermake">unsermake</a>
+<li><a href="https://packages.debian.org/unstable/devel/unsermake">unsermake</a>
     &mdash; Makefile 生成ツール、automake の代替品。</li>
-<li><a href="http://packages.debian.org/unstable/web/w3c-linkchecker">w3c-linkchecker</a>
+<li><a href="https://packages.debian.org/unstable/web/w3c-linkchecker">w3c-linkchecker</a>
     &mdash; W3C リンクチェッカー。</li>
 </ul>
 
@@ -174,55 +174,55 @@ href="$(HOME)/ports/s390">S/390</a> アーキテクチャにおいて、カー�
 の <code>wnpp-alert</code> プログラムを使うのが便利でしょう。</p>
 
 <ul>
-<li> <a href="http://packages.debian.org/unstable/web/blogtk">blogtk</a>
+<li> <a href="https://packages.debian.org/unstable/web/blogtk">blogtk</a>
      &mdash; GTK ベースのウェブログクライアント。
      (<a href="https://bugs.debian.org/382797">Bug#382797</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/libclassworlds-java">classworlds</a>
+<li> <a href="https://packages.debian.org/unstable/devel/libclassworlds-java">classworlds</a>
      &mdash; Java ClassLoader フレームワーク。
      (<a href="https://bugs.debian.org/382813">Bug#382813</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/cvsps">cvsps</a>
+<li> <a href="https://packages.debian.org/unstable/devel/cvsps">cvsps</a>
      &mdash; CVS パッチセットの情報を生成するツール。
      (<a href="https://bugs.debian.org/382809">Bug#382809</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/net/d4x">d4x</a>
+<li> <a href="https://packages.debian.org/unstable/net/d4x">d4x</a>
      &mdash; グラフィカルなダウンロードマネージャ。
      (<a href="https://bugs.debian.org/382732">Bug#382732</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/forrest">forrest</a>
+<li> <a href="https://packages.debian.org/unstable/devel/forrest">forrest</a>
      &mdash; XML ベースのドキュメンテーションフレームワーク。
      (<a href="https://bugs.debian.org/382814">Bug#382814</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/gnome/gnome-extra-icons">gnome-extra-icons</a>
+<li> <a href="https://packages.debian.org/unstable/gnome/gnome-extra-icons">gnome-extra-icons</a>
      &mdash; 追加の GNOME アイコン。
      (<a href="https://bugs.debian.org/382810">Bug#382810</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/groovy">groovy</a>
+<li> <a href="https://packages.debian.org/unstable/devel/groovy">groovy</a>
      &mdash; Java 仮想マシン用のアジャイルな動的言語。
      (<a href="https://bugs.debian.org/382815">Bug#382815</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/jswat">jswat</a>
+<li> <a href="https://packages.debian.org/unstable/devel/jswat">jswat</a>
      &mdash; JPDA Java デバッガ。
      (<a href="https://bugs.debian.org/382816">Bug#382816</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/jswat2">jswat2</a>
+<li> <a href="https://packages.debian.org/unstable/devel/jswat2">jswat2</a>
      &mdash; JPDA Java デバッガ。
      (<a href="https://bugs.debian.org/382817">Bug#382817</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/perl/libproc-process-perl">libproc-process-perl</a>
+<li> <a href="https://packages.debian.org/unstable/perl/libproc-process-perl">libproc-process-perl</a>
      &mdash; プロセステーブルの情報にアクセスする Perl ライブラリ。
      (<a href="https://bugs.debian.org/382811">Bug#382811</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/editors/mined">mined</a>
+<li> <a href="https://packages.debian.org/unstable/editors/mined">mined</a>
      &mdash; Unicode および CJK の手広いサポートを備えた強力なテキストエディタ。
      (<a href="https://bugs.debian.org/382750">Bug#382750</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/devel/libmockobjects-java">mockobjects</a>
+<li> <a href="https://packages.debian.org/unstable/devel/libmockobjects-java">mockobjects</a>
      &mdash; モックオブジェクトの開発・利用フレームワーク。
      (<a href="https://bugs.debian.org/382818">Bug#382818</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/games/xearth">xearth</a>
+<li> <a href="https://packages.debian.org/unstable/games/xearth">xearth</a>
      &mdash; X のルート画面上で地球を回転させるツール。
      (<a href="https://bugs.debian.org/382654">Bug#382654</a>)
      </li>

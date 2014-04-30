@@ -7,12 +7,12 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1563">CVE-2009-1563</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1563">CVE-2009-1563</a>
 
     <p>A programming error in the string handling code may lead to the
     execution of arbitrary code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-2463">CVE-2009-2463</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-2463">CVE-2009-2463</a>
 
     <p>An integer overflow in the Base64 decoding functions may lead to
     the execution of arbitrary code.</p></li>
@@ -32,4 +32,4 @@ version 4.8.2-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1931.data"
-# $Id: dsa-1931.wml,v 1.2 2010-12-17 14:40:38 taffit-guest Exp $
+# $Id: dsa-1931.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

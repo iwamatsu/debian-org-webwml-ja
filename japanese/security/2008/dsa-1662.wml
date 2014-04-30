@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>認証のバイパス</define-tag>
 <define-tag moreinfo>
 <p>関係データベースサーバ MySQL にシンボリックリンクトラバーサル脆弱性が発
@@ -8,8 +8,8 @@
 ベースのテーブルに書き込みが可能です。</p>
 
 <p>The Common Vulnerabilities and Exposures project は上記の問題を
-<a href="http://security-tracker.debian.org/tracker/CVE-2008-4098">CVE-2008-4098</a> として認識しています。また、この問題と関連した
-<a href="http://security-tracker.debian.org/tracker/CVE-2008-4097">CVE-2008-4097</a> により DSA-1608-1 でアナウンスされた更新が行えませんでし
+<a href="https://security-tracker.debian.org/tracker/CVE-2008-4098">CVE-2008-4098</a> として認識しています。また、この問題と関連した
+<a href="https://security-tracker.debian.org/tracker/CVE-2008-4097">CVE-2008-4097</a> により DSA-1608-1 でアナウンスされた更新が行えませんでし
 た。この新規の更新はその修正を上書きし、何れの攻撃手段に対しても対処し
 ています。</p>
 
@@ -21,4 +21,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1662.data"
-# $Id: dsa-1662.wml,v 1.4 2010-12-17 15:08:45 taffit-guest Exp $
+# $Id: dsa-1662.wml,v 1.5 2014/04/30 07:17:14 pabs Exp $

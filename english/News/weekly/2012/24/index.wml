@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-12-10" SUMMARY="Record number of participants for Mini Debconf Paris, Debian on mobiles, official Debian images on AWS Marketplace, reports from the latest Bug Squashing Parties"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:20 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:42:13 pabs Exp $
 # $Rev: 4487 $
 # Status: [content-frozen]
 
@@ -64,7 +64,7 @@ anyway. So everyone, please become a kernel developer and help merge all
 of the many many versions of Android Linux into Linux mainline so that
 you can have your favourite distribution on your devices</q>.
 The state of the art of support for running Debian on such devices is
-documented on the <a href="http://wiki.debian.org/Mobile">Mobile wiki page</a>,
+documented on the <a href="https://wiki.debian.org/Mobile">Mobile wiki page</a>,
 while people interested in helping can join the discussion on the <a
 href="https://lists.debian.org/debian-mobile/">debian-mobile mailing
 list</a> or simply join the <tt>#debian-mobile</tt> channel on
@@ -84,7 +84,7 @@ After the first contact between Amazon and DPL Stefano Zacchiroli,
 generate a set of AMIs (Amazon Machine Images) using
 Anders Ingemann’s ec2debian-build-ami script</q>, explained James.
 Those who plan to use it can find the relevant documentation on the
-<a href="http://wiki.debian.org/Cloud/AmazonEC2Image">Amazon EC2
+<a href="https://wiki.debian.org/Cloud/AmazonEC2Image">Amazon EC2
 Image</a> wiki page,
 while the ongoing task of creating and supporting official images is
 coordinated via the <a
@@ -99,12 +99,12 @@ During the third weekend of November, three simultaneous Debian
 Bug Squashing Parties were held in different locations across the world: in <a
 href="http://henrich-on-debian.blogspot.jp/2012/11/debian-bsp-tokyo.html">Tokyo,
 Japan</a>,
-in <a href="http://wiki.debian.org/BSP/2012/11/de/Munich">Munich, Germany</a> and
+in <a href="https://wiki.debian.org/BSP/2012/11/de/Munich">Munich, Germany</a> and
 in <a
 href="http://rhonda.deb.at/blog/debian/bsp-essen-nov-2012-report.html">Essen,
 Germany</a>.
 The next episode of the <a
-href="http://wiki.debian.org/BSPMarathonWheezy">Bug Squashing Marathon
+href="https://wiki.debian.org/BSPMarathonWheezy">Bug Squashing Marathon
 for Wheezy</a> will be on
 <a href="$(HOME)/events/2012/1215-mechelen-bsp">15-16 December in
 Mechelen, Belgium</a>.
@@ -152,7 +152,7 @@ on creating video subtitles</a>.
 <newcontributors
 	dd-url="https://nm.debian.org/public/nmlist#done"
 	dm-url="https://lists.debian.org/E1Sta5X-0005lb-Ap@franck.debian.org"
-	uploader-url="http://udd.debian.org/cgi-bin/new-maintainers.cgi"
+	uploader-url="https://udd.debian.org/cgi-bin/new-maintainers.cgi"
 	post-name=""
 >
 ## here the name of the new dds, dms, uploaders
@@ -210,11 +210,11 @@ on creating video subtitles</a>.
 <toc-add-entry name="nnwp">New and noteworthy packages</toc-add-entry>
 <p>
 5 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/dput-ng">dput-ng &mdash; next generation Debian package upload tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/dput-ng">dput-ng &mdash; next generation Debian package upload tool</a></li>
 </ul>
 
 

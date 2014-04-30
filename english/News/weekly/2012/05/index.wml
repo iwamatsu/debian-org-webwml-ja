@@ -26,7 +26,7 @@ but then slowed down its activity. However, in the two last weeks, the
 group has become active again and they're planning various events
 and meetings aimed at helping people to contribute to Debian.
 You can find more information in the
-<a href="http://wiki.debian.org/DebianPeru">group wiki page</a> or on
+<a href="https://wiki.debian.org/DebianPeru">group wiki page</a> or on
 their <a href="http://listas.apesol.org/listinfo.cgi/debian-apesol.org">mailing
 list</a>.
 </p>
@@ -101,7 +101,7 @@ packages, translations, and the infrastructure.
 Jan Wagner sent out a <a href="http://blog.waja.info/2012/02/26/booth-at-chemnitzer-linux-tage-2012-clt14/">call
 for volunteers to help at the Debian booth</a> during Chemnitzer
 Linux-Tage. For more information, you can visit the
-<a href="http://wiki.debian.org/DebianEventsDe/2012/ChemnitzerLinuxTage2012">organisation
+<a href="https://wiki.debian.org/DebianEventsDe/2012/ChemnitzerLinuxTage2012">organisation
 wiki page</a>.
 </p>
 
@@ -141,7 +141,7 @@ Four applicants have been
 four applicants have been
 <a href="https://lists.debian.org/debian-project/2012/02/msg00135.html">accepted</a>
 	as Debian Maintainers, and
-six people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+six people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 ## new DDs
@@ -156,7 +156,7 @@ Benoit, Cédric Pineau, Jeroen Keiren, and Samuel Bronson
 
 <toc-add-entry name="rcstats">Release-Critical bugs statistics for the upcoming release</toc-add-entry>
 
-	<p>According to the <a href="http://udd.debian.org/bugs.cgi">Bugs Search
+	<p>According to the <a href="https://udd.debian.org/bugs.cgi">Bugs Search
         interface of the Ultimate Debian Database</a>, the upcoming release,
 	Debian 7.0 <q>Wheezy</q>, is currently affected by
 575 Release-Critical bugs. Ignoring bugs which are easily solved
@@ -165,7 +165,7 @@ Benoit, Cédric Pineau, Jeroen Keiren, and Samuel Bronson
 	release to happen.</p>
 
 	<p>There are also some <a
-	href="http://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
+	href="https://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
 	interpret</a> these numbers.</p>
 
 
@@ -203,27 +203,27 @@ list</a>) for announcements.
 
 <p>
 105 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/alt-key">\
+<li><a href="https://packages.debian.org/unstable/main/alt-key">\
 	alt-key &mdash; tool to help developers improve keyboard accelerators</a></li>
-<li><a href="http://packages.debian.org/unstable/main/bookletimposer">\
+<li><a href="https://packages.debian.org/unstable/main/bookletimposer">\
 	bookletimposer &mdash; PDF imposition toolkit</a></li>
-<li><a href="http://packages.debian.org/unstable/main/cde">\
+<li><a href="https://packages.debian.org/unstable/main/cde">\
 	cde &mdash; package everything required to execute a Linux command on another computer</a></li>
-<li><a href="http://packages.debian.org/unstable/main/comparepdf">\
+<li><a href="https://packages.debian.org/unstable/main/comparepdf">\
 	comparepdf &mdash;  command line tool for comparing two PDF files</a></li>
-<li><a href="http://packages.debian.org/unstable/main/dh-lua">\
+<li><a href="https://packages.debian.org/unstable/main/dh-lua">\
 	dh-lua &mdash;  helper tools for maintaining Lua-related packages</a></li>
-<li><a href="http://packages.debian.org/unstable/main/icc-profiles-free">\
+<li><a href="https://packages.debian.org/unstable/main/icc-profiles-free">\
 	icc-profiles-free &mdash;  ICC color profiles for use with color profile aware software</a></li>
-<li><a href="http://packages.debian.org/unstable/main/maitreya">\
+<li><a href="https://packages.debian.org/unstable/main/maitreya">\
 	maitreya &mdash;  software for Vedic and western astrology</a></li>
-<li><a href="http://packages.debian.org/unstable/main/transcode">\
+<li><a href="https://packages.debian.org/unstable/main/transcode">\
 	transcode &mdash;  text console video-stream processing tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vavoom">\
+<li><a href="https://packages.debian.org/unstable/main/vavoom">\
 	vavoom &mdash;  advanced Doom/Heretic/Hexen/Strife engine</a></li>
 </ul>
 
@@ -241,7 +241,7 @@ many others</a> are:</p>
 
 <p>Please help us create this newsletter. We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

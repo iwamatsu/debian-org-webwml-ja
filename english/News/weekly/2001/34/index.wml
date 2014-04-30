@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-12-19" SUMMARY="Hurd CD, Security, Acronyms, Mailing Lists, Quality, Java"
-# $Id: index.wml,v 1.12 2014/04/29 15:24:11 pabs Exp $
+# $Id: index.wml,v 1.13 2014/04/30 06:30:04 pabs Exp $
 
 <p><strong>Archive.debian.org is Back.</strong> The server that holds old
 Debian releases, aliased to archive.debian.org, has been <a
@@ -84,18 +84,18 @@ updated packages were added to the Debian archive since our <a
 href="$(HOME)/News/weekly/2001/33/">last issue</a>.</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/web/chastity-list">\
+<li><a href="https://packages.debian.org/unstable/web/chastity-list">\
 chastity-list</a> -- A "blacklist" package for 
 squidgard for use in public schools and other organizations. 
-<li><a href="http://packages.debian.org/unstable/x11/fluxbox-kde">\
+<li><a href="https://packages.debian.org/unstable/x11/fluxbox-kde">\
 fluxbox-kde</a> -- A low-resource window manager for KDE.
-<li><a href="http://packages.debian.org/unstable/net/guarddog">\
+<li><a href="https://packages.debian.org/unstable/net/guarddog">\
 guarddog</a> -- A firewall configuration utility for KDE. 
-<li><a href="http://packages.debian.org/unstable/libs/libpth14">\
+<li><a href="https://packages.debian.org/unstable/libs/libpth14">\
 libpth14</a> -- GNU Portable Threads.
-<li><a href="http://packages.debian.org/unstable/games/mah-jong">\
+<li><a href="https://packages.debian.org/unstable/games/mah-jong">\
 mah-jong</a> -- Mah-Jong for 1 to 4 players.
-<li><a href="http://packages.debian.org/unstable/graphics/lodju">\
+<li><a href="https://packages.debian.org/unstable/graphics/lodju">\
 lodju</a> -- An image management tool for the X Window System.
 </ul>
 

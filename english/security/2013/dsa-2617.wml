@@ -7,7 +7,7 @@ these vulnerabilities affect to SWAT, the Samba Web Administration Tool.</p>
 <ul>
 
 <li>
-<a href="http://security-tracker.debian.org/tracker/CVE-2013-0213">CVE-2013-0213</a>:
+<a href="https://security-tracker.debian.org/tracker/CVE-2013-0213">CVE-2013-0213</a>:
 Clickjacking issue in SWAT
 <p>
     An attacker can integrate a SWAT page into a malicious web page via a
@@ -16,7 +16,7 @@ Clickjacking issue in SWAT
     might perform unintended changes in the Samba settings.</p></li>
 
 <li>
-<a href="http://security-tracker.debian.org/tracker/CVE-2013-0214">CVE-2013-0214</a>:
+<a href="https://security-tracker.debian.org/tracker/CVE-2013-0214">CVE-2013-0214</a>:
 Potential Cross-site request forgery
 <p>
     An attacker can persuade a valid SWAT user, who is logged in as root,
@@ -40,4 +40,4 @@ version 2:3.6.6-5.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2617.data"
-# $Id: dsa-2617.wml,v 1.2 2013-02-09 15:25:57 luciano Exp $
+# $Id: dsa-2617.wml,v 1.3 2014/04/30 07:16:31 pabs Exp $

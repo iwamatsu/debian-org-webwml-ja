@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-06" SUMMARY="Debian 6.0 のアップデート: 6.0.4 の公開、リリースチームからの一言、piuparts メンテナからの一言、Debian Med スプリントの報告"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.9"
 
 # $Rev: 3093 $
 # Status: [content frozen]
@@ -54,7 +54,7 @@ href="http://piuparts.debian.org/squeeze2wheezy/"><q>Squeeze</q> から
 href="https://lists.debian.org/debian-med/2012/01/msg00452.html">Debian Med
 スプリントの報告</a>を送信しました。例えば、Debian Med
 チームはいくつかのバグを修正し、新しいメンバーと学生を指導し (<a
-href="http://wiki.debian.org/DebianMed/MoM"><q>指導推進月間</q>の構想</a>に基づく努力の一環)、
+href="https://wiki.debian.org/DebianMed/MoM"><q>指導推進月間</q>の構想</a>に基づく努力の一環)、
 新しいソフトウェアのパッケージ化を行いました。
 <br />
 Debian Med の活動に関する詳しい情報は、チームの<a
@@ -80,7 +80,7 @@ href="http://raphaelhertzog.com/2012/01/24/answering-questions-of-debian-users-o
 ユーザの質問に回答する方法</a>、一般的に言えば、新規ユーザをサポートする方法についてブログを書きました。
 ユーザを助ける場所はたくさんあり (<a
 href="https://lists.debian.org/users.html#debian-user">メーリングリスト</a>、<a
-href="http://wiki.debian.org/IRC">IRC チャンネル</a>、<a
+href="https://wiki.debian.org/IRC">IRC チャンネル</a>、<a
 href="http://ask.debian.net">Q &amp; A のウェブサイト</a>、等)
 それぞれ特徴が違います。しかし、どんな場所でも共通の黄金律は (<a
 href="http://people.debian.org/~enrico/dcg/">Debian
@@ -94,14 +94,14 @@ href="http://people.debian.org/~enrico/dcg/">Debian
 <p>Paul Wise さんは <a
 href="http://bonedaddy.net/pabs3/log/2012/02/03/debian-ubuntu-games-screenshot-party/">Debian/Ubuntu
 ゲームのスクリーンショットパーティ</a>が 2 月 25、26 日に<a
-href="http://wiki.debian.org/Games/Team">ゲームチーム</a>の企画により開催されることを発表しました。その構想は、Debian/Ubuntu
+href="https://wiki.debian.org/Games/Team">ゲームチーム</a>の企画により開催されることを発表しました。その構想は、Debian/Ubuntu
 のゲームのスクリーンショットをできるだけたくさん作成し、<a
-href="http://packages.debian.org/unstable/goplay">goplay</a>
+href="https://packages.debian.org/unstable/goplay">goplay</a>
 (ゲームパッケージブラウザ) で見られるようにそれらを <a
 href="http://screenshots.debian.net/">screenshots.debian.net</a>
 にアップロードすることです。
 <br />
-詳しくは<a href="http://wiki.debian.org/Games/Parties/Screenshots">関連の
+詳しくは<a href="https://wiki.debian.org/Games/Parties/Screenshots">関連の
 wiki ページ</a>をご覧ください。</p>
 
 
@@ -156,12 +156,12 @@ href="https://lists.debian.org/debian-mobile">debian-mobile
 における適切な携帯電話用インターフェイスのパッケージングに関する議論</q>
 をする場所になること目的としています。携帯機器上で Debian
 を動かすことに関するより詳しい情報は、<a
-href="http://wiki.debian.org/Mobile">携帯電話</a>と<a
-href="http://wiki.debian.org/Smartphone">スマートフォン</a>のウィキページを参照してください。</p>
+href="https://wiki.debian.org/Mobile">携帯電話</a>と<a
+href="https://wiki.debian.org/Smartphone">スマートフォン</a>のウィキページを参照してください。</p>
 
 <p>Micheal Gilbert さんは<a
 href="https://lwn.net/Articles/477062/">最近のセキュリティ欠陥</a> (<a
-href="http://security-tracker.debian.org/tracker/CVE-2012-0064">CVE-2012-0064</a>)
+href="https://security-tracker.debian.org/tracker/CVE-2012-0064">CVE-2012-0064</a>)
 と、ディストリビューションごとのこの欠陥に対する処理方法に関する記事を書きました。
 欠陥の発見者による詳しい調査のおかげで、Debian は非常に素早く対処し、Debian
 不安定版では欠陥の公開から 6 時間以内に修正を完了しました。</p>
@@ -194,14 +194,14 @@ href="http://liorkaplan.wordpress.com/2012/01/22/php-5-4-debian/">PHP 5.4.0</a>
  href="http://friprogramvareiskolen.no/Gathering/2012-02-10-12-Oslo">Skolelinux/Debian
 Edu 開発者ミーティング</a></li>
  <li>2 月 10 - 12 日、ミンスク、ベラルーシ &mdash; Debian 貢献者と愛好者が<a
- href="http://wiki.debian.org/DebianEvents/LVEE/2012Winter">Linux 休暇 /
+ href="https://wiki.debian.org/DebianEvents/LVEE/2012Winter">Linux 休暇 /
 東ヨーロッパ</a>の冬季版に出席予定。</li>
  <li>2 月 15 日、レッドウッドショアーズ、カリフォルニア州、米国 &mdash; Wookey さんによる <a
  href="https://events.linuxfoundation.org/events/embedded-linux-conference/wookey"><q>Multiarch
 とその注意点: Multiple アーキテクチャを用いた実行、インストール、クロスビルド</q></a>の講演。組み込み
 Linux カンファレンスにて。</li>
  <li>2 月 17 - 19 日、パリ、フランス、&mdash; <a
- href="http://wiki.debian.org/BSP2012/Paris">Debian バグ潰しパーティー</a></li>
+ href="https://wiki.debian.org/BSP2012/Paris">Debian バグ潰しパーティー</a></li>
 </ul>
 
 <p>Debian 関連のイベントや会議に関するより多くの情報を得るには、Debian
@@ -223,7 +223,7 @@ href="$(HOME)/events/talks">講演のページ</a>にリンクを貼りたい De
 <toc-add-entry name="newcontributors">Debian の新しい協力者たち</toc-add-entry>
 
 <p>6 人の応募者が Debian メンテナとして受理され、Debian Project News の前の版以来、9 人が<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテナンスを開始</a>しました。Neutron
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテナンスを開始</a>しました。Neutron
 Soutmun さん、 Boris Pek さん、Christian M. Amsüss さん、Alexandre Mestiashvili
 さん、Emmanuel <q>Kasper</q> Kasprzyk さん、Aleksey Kravchenko さん、Dan
 Stowell さん、Adam Michal Ziaja さん、Sebastian Boehm さん、Cyril Lavier
@@ -233,7 +233,7 @@ Stowell さん、Adam Michal Ziaja さん、Sebastian Boehm さん、Cyril Lavie
 
 <toc-add-entry name="rcstats">次期リリースに関するリリースクリティカルバグの統計</toc-add-entry>
 
-<p><a href="http://udd.debian.org/bugs.cgi">Ultimate Debian Database
+<p><a href="https://udd.debian.org/bugs.cgi">Ultimate Debian Database
 のバグ検索インタフェース</a>によると、次期リリースの Debian 7.0
 <q>Wheezy</q> には、現在 695 個のリリースクリティカルバグが存在します。
 簡単に修正できるか修正作業が始まっているバグを除けば、リリースまでにおよそ 482
@@ -241,7 +241,7 @@ Stowell さん、Adam Michal Ziaja さん、Sebastian Boehm さん、Cyril Lavie
 
 <p><a href="http://blog.schmehl.info/Debian/rc-stats/7.0-wheezy/2012-05">\
 統計の詳細</a>と、これらの数値を<a
-href="http://wiki.debian.org/ProjectNews/RC-Stats">\
+href="https://wiki.debian.org/ProjectNews/RC-Stats">\
 解釈する方法のヒント</a>が参照できます。</p>
 
 
@@ -281,24 +281,24 @@ href="https://lists.debian.org/debian-volatile-announce/">volatile セクショ�
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、1008 のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/clinica">clinica
+<li><a href="https://packages.debian.org/unstable/main/clinica">clinica
 &mdash; シンプルな医療記録管理ソフト</a></li>
-<li><a href="http://packages.debian.org/unstable/main/coinst">coinst
+<li><a href="https://packages.debian.org/unstable/main/coinst">coinst
 &mdash; deb リポジトリ又は RPM リポジトリの co-installability カーネルを計算</a></li>
-<li><a href="http://packages.debian.org/unstable/main/espeak-gui">espeak-gui
+<li><a href="https://packages.debian.org/unstable/main/espeak-gui">espeak-gui
 &mdash; eSpeak のグラフィカルユーザインタフェース</a></li>
-<li><a href="http://packages.debian.org/unstable/main/instead">instead
+<li><a href="https://packages.debian.org/unstable/main/instead">instead
 &mdash; シンプルなアドベンチャー/ビジュアルノベルのテキストエンジン</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pyformex">pyformex
+<li><a href="https://packages.debian.org/unstable/main/pyformex">pyformex
 &mdash; Python スクリプトから 3D 幾何構造を作成するプログラム</a></li>
-<li><a href="http://packages.debian.org/unstable/main/actionaz">actionaz
+<li><a href="https://packages.debian.org/unstable/main/actionaz">actionaz
 &mdash; 人間の活動を強力な GUI と JavaScript でエミュレート</a></li>
-<li><a href="http://packages.debian.org/unstable/main/apper">apper
+<li><a href="https://packages.debian.org/unstable/main/apper">apper
 &mdash; KDE パッケージ管理ツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vagrant">vagrant
+<li><a href="https://packages.debian.org/unstable/main/vagrant">vagrant
 &mdash; 視覚化した開発環境を構築し配布するツール</a></li>
 </ul>
 
@@ -315,7 +315,7 @@ href="$(DEVEL)/wnpp/help_requested">支援が必要なパッケージ</a>の完�
 
 <p>この会報の作成を手伝ってみませんか? 我々は、Debian コミュニティの活動を眺め、\
 何が起きているのかを報告してくれるボランティアのライターを募集しています。<a
-href="http://wiki.debian.org/ProjectNews/HowToContribute">\
+href="https://wiki.debian.org/ProjectNews/HowToContribute">\
 貢献に関するページ</a>をご覧になって、\
 手助けの具体的な方法をご確認ください。我々はあなたからのメールを <a
 href="mailto:debian-publicity@lists.debian.org">\

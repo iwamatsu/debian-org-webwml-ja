@@ -4,26 +4,26 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0217">CVE-2012-0217</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0217">CVE-2012-0217</a>
 
 	<p>Xen does not properly handle uncanonical return addresses on
 	Intel amd64 CPUs, allowing amd64 PV guests to elevate to
 	hypervisor privileges.  AMD processors, HVM and i386 guests
 	are not affected.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0218">CVE-2012-0218</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0218">CVE-2012-0218</a>
 
 	<p>Xen does not properly handle SYSCALL and SYSENTER instructions
 	in PV guests, allowing unprivileged users inside a guest
 	system to crash the guest system.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-2934">CVE-2012-2934</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-2934">CVE-2012-2934</a>
 
 	<p>Xen does not detect old AMD CPUs affected by AMD Erratum #121.</p></li>
 
 </ul>
 
-<p>For <a href="http://security-tracker.debian.org/tracker/CVE-2012-2934">CVE-2012-2934</a>,
+<p>For <a href="https://security-tracker.debian.org/tracker/CVE-2012-2934">CVE-2012-2934</a>,
 Xen refuses to start domUs on affected systems
 unless the <q>allow_unsafe</q> option is passed.</p>
 
@@ -39,4 +39,4 @@ in version 4.0.1-5.2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2501.data"
-# $Id: dsa-2501.wml,v 1.1 2012-06-24 20:36:39 taffit Exp $
+# $Id: dsa-2501.wml,v 1.2 2014/04/30 07:16:29 pabs Exp $

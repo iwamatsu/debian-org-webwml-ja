@@ -6,7 +6,7 @@ project identifies the following problem:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-1669">CVE-2008-1669</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-1669">CVE-2008-1669</a>
 
     <p>Alexander Viro discovered a race condition in the fcntl code that
     may permit local users on multi-processor systems to execute parallel
@@ -27,4 +27,4 @@ user-mode-linux packages.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1575.data"
-# $Id: dsa-1575.wml,v 1.3 2010-12-17 15:02:27 taffit-guest Exp $
+# $Id: dsa-1575.wml,v 1.4 2014/04/30 07:16:15 pabs Exp $

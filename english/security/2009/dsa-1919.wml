@@ -6,12 +6,12 @@ identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-4810">CVE-2008-4810</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-4810">CVE-2008-4810</a>
 
   <p>The _expand_quoted_text function allows for certain restrictions in
   templates, like function calling and PHP execution, to be bypassed.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1669">CVE-2009-1669</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1669">CVE-2009-1669</a>
 
   <p>The smarty_function_math function allows context-dependent attackers
   to execute arbitrary commands via shell metacharacters in the equation
@@ -32,4 +32,4 @@ version 2.6.20-1.2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1919.data"
-# $Id: dsa-1919.wml,v 1.2 2010-12-17 14:40:24 taffit-guest Exp $
+# $Id: dsa-1919.wml,v 1.3 2014/04/30 07:16:19 pabs Exp $

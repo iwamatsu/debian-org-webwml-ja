@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-10-28" SUMMARY="Bits from the Release Team, s390 removed from the archive in favour of s390x, manpages.debian.net now an official service, Debian increases its popularity on web servers"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:31 pabs Exp $
+# $Id: index.wml,v 1.8 2014/04/30 07:42:17 pabs Exp $
 # $Rev: 5281 $
 # Status: [freeze]
 
@@ -23,12 +23,12 @@ in the bits from the Release Team</a> that Jessie, the current testing
 version of Debian, will be frozen next year on 5 November 2014, at 23:59 UTC.
 A draft of the freeze policy, describing the changes that can be considered
 for inclusion in Jessie after the freeze, is already
-<a href="http://release.debian.org/jessie/freeze_policy.html">available</a>.
+<a href="https://release.debian.org/jessie/freeze_policy.html">available</a>.
 
 Niels also summarised the results of the
 <a href="https://lists.debian.org/debian-devel/2013/09/msg00002.html">porter roll-call</a>
 of architectures in unstable and testing, and indicated that the 
-<a href="http://release.debian.org/jessie/arch_qualify.html">architecture qualification page</a>
+<a href="https://release.debian.org/jessie/arch_qualify.html">architecture qualification page</a>
 has been updated to include the names of the current porters.
 
 To conclude, he itemised the list of release goals that have been proposed and
@@ -105,7 +105,7 @@ details, and to give a donation, please see the
 </ul>
 <p>
 You can find more information about Debian-related events and talks
-on the <a href="http://wiki.debian.org/DebianEvents">events section</a> of the Debian wiki,
+on the <a href="https://wiki.debian.org/DebianEvents">events section</a> of the Debian wiki,
 or subscribe to one of our events mailing lists for different regions:
 <a href="https://lists.debian.org/debian-events-eu">Europe</a>, 
 <a href="https://lists.debian.org/debian-events-nl">Netherlands</a>, 
@@ -127,7 +127,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 Two applicants have been
 <a href="https://nm.debian.org/public/nmlist#done">accepted</a>
 	and
-four people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+four people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DDs
@@ -176,17 +176,17 @@ list</a>) for announcements.
 
 <p>
 137 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/acr">acr — autoconf like tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/findbugs">findbugs — static Java code analyzer to find bugs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gnome-session-flashback">gnome-session-flashback — GNOME Flashback session</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ifupdown-multi">ifupdown-multi — multiple default gateway support for ifupdown</a></li>
-<li><a href="http://packages.debian.org/unstable/main/libfaketime">libfaketime — library to report faked system time to programs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/meritous">meritous — action-adventure dungeon crawl game</a></li>
-<li><a href="http://packages.debian.org/unstable/main/weston">weston — reference implementation of a Wayland compositor</a></li>
+<li><a href="https://packages.debian.org/unstable/main/acr">acr — autoconf like tool</a></li>
+<li><a href="https://packages.debian.org/unstable/main/findbugs">findbugs — static Java code analyzer to find bugs</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gnome-session-flashback">gnome-session-flashback — GNOME Flashback session</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ifupdown-multi">ifupdown-multi — multiple default gateway support for ifupdown</a></li>
+<li><a href="https://packages.debian.org/unstable/main/libfaketime">libfaketime — library to report faked system time to programs</a></li>
+<li><a href="https://packages.debian.org/unstable/main/meritous">meritous — action-adventure dungeon crawl game</a></li>
+<li><a href="https://packages.debian.org/unstable/main/weston">weston — reference implementation of a Wayland compositor</a></li>
 </ul>
 
 

@@ -7,12 +7,12 @@ identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-5137">CVE-2007-5137</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-5137">CVE-2007-5137</a>
 
 <p>It was discovered that libtk-img is prone to a buffer overflow via
 specially crafted multi-frame interlaced GIF files.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2007-5378">CVE-2007-5378</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2007-5378">CVE-2007-5378</a>
 
 <p>It was discovered that libtk-img is prone to a buffer overflow via
 specially crafted GIF files with certain subimage sizes.</p></li>
@@ -34,4 +34,4 @@ version 1.3-15etch3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1743.data"
-# $Id: dsa-1743.wml,v 1.3 2010-12-17 14:39:28 taffit-guest Exp $
+# $Id: dsa-1743.wml,v 1.4 2014/04/30 07:16:18 pabs Exp $

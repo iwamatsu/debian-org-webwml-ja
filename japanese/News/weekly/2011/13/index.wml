@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2011-09-19" SUMMARY="Debian 18 歳の誕生日、DPL からの一言、MIT での Debian バグ潰しパーティー、X の Squeeze バックポート"
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1.7"
 
 # $Rev: 2665 $
 # Status: [content-frozen]
@@ -13,7 +13,7 @@
 
 <p>8 月 16 日に、<a href="$(HOME)/News/2011/20110816">Debian
 プロジェクトは 18 歳になりました</a>。そのお祝いに、
-世界中でさまざまな<a href="http://wiki.debian.org/DebianDay2011">\
+世界中でさまざまな<a href="https://wiki.debian.org/DebianDay2011">\
 パーティ</a>が Debian 開発者、メンテナや協力者、
 ユーザ達によって催されました。こういったパーティの写真を <a
 href="http://thank-you.debian.net/">Debian
@@ -73,7 +73,7 @@ Geoffrey Thomas さんによって企画され、大好評でした。
 開発サイクルの中で、非常に多くの RC バグがある段階では<a
 href="http://info.comodo.priv.at/blog/archives/2011/09/#e2011-09-11T23_26_22.txt">\
 いくつかのバグは簡単に修正できる</a>と意見を述べました。RC バグを
-BTS で探すには、<a href="http://udd.debian.org/bugs.cgi">UDD
+BTS で探すには、<a href="https://udd.debian.org/bugs.cgi">UDD
 バグページ</a>を使うことができます。
 あなたが修正中のバグをたくさん抱えている場合は、Raphaël Hertzog
 さんのブログに書かれた<a
@@ -157,13 +157,13 @@ href="https://lists.debian.org/debian-services-admin/">\
 debian-services-admin</a> であり、Debian
 のインフラサービスの問題に関する単独の連絡窓口を作ることを目指しています。
 さらに、Enrico さんはこれらのサービスの調査を推し進めました。<a
-href="http://wiki.debian.org/Services">関連する wiki
+href="https://wiki.debian.org/Services">関連する wiki
 のページ</a>で最初の調査結果を参照できます。</p>
 
 <p>Fernando C. Estrada さんは、スペイン語のメーリングリストで<a
 href="https://lists.debian.org/debian-user-spanish/2011/09/msg00123.html">\
 スパム清掃作業の開始</a>を発表しました。詳細は、<a
-href="http://wiki.debian.org/I18n/SpanishSpamClean">関連の wiki
+href="https://wiki.debian.org/I18n/SpanishSpamClean">関連の wiki
 ページ</a>をご覧ください。</p>
 
 <p>Niels Thykier さんは Lintian 2.5.2 の変更をアナウンスするために、<a
@@ -180,7 +180,7 @@ Debian パッケージをチェックするのに便利な (そして広く使�
 <toc-add-entry name="newcontributors">Debian の新しい協力者たち</toc-add-entry>
 
 <p>22 人の人々が前回の Debian プロジェクトニュースから<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">\
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">\
 パッケージのメンテナンスを開始しました</a>。Thomas Bechtold さん、
 Theodore Lytras さん、Ivo De Decker さん、Tim Booth さん、
 Jessica McKellar さん、Gustavo Goretkin さん、Andrew O. Shadura さん、
@@ -235,26 +235,26 @@ href="https://lists.debian.org/debian-volatile-announce/">volatile セクショ�
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、100 のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/boinc-cgi-stripchart">\
+<li><a href="https://packages.debian.org/unstable/main/boinc-cgi-stripchart">\
 	boinc-cgi-stripchart &mdash; 簡単な統計グラフをプロットする CGI スクリプト</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fonts-jura">\
+<li><a href="https://packages.debian.org/unstable/main/fonts-jura">\
 	fonts-jura &mdash; 等幅、sans-serif フォント</a></li>
-<li><a href="http://packages.debian.org/unstable/main/git-daemon-sysvinit">\
+<li><a href="https://packages.debian.org/unstable/main/git-daemon-sysvinit">\
 	git-daemon-sysvinit &mdash; 高速で拡張性に富む分散型バージョン管理システム (git-daemon サービス)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/itstool">\
+<li><a href="https://packages.debian.org/unstable/main/itstool">\
 	itstool &mdash; PO ファイルを使った XML 文書の翻訳ツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jcadencii">\
+<li><a href="https://packages.debian.org/unstable/main/jcadencii">\
 	jcadencii &mdash; 歌唱合成用のピアノロールエディタ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/vdpauinfo">\
+<li><a href="https://packages.debian.org/unstable/main/vdpauinfo">\
 	vdpauinfo &mdash; UNIX 用の映像デコードとプレゼンテーション API (vdpauinfo ユーティリティ)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xpra">\
+<li><a href="https://packages.debian.org/unstable/main/xpra">\
 	xpra &mdash; 実行中の X プログラムのデタッチと再アタッチを行うツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-cookie-monster">\
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-cookie-monster">\
 	xul-ext-cookie-monster &mdash; ホワイトリストベースの非常に簡単なクッキー管理</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-status4evar">\
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-status4evar">\
 	xul-ext-status4evar &mdash; ステータスバーウィジェットとプログレスインジケータ</a></li>
 </ul>
 
@@ -274,7 +274,7 @@ href="$(DEVEL)/wnpp/rfa">126
 
 <p>この会報の作成を手伝ってみませんか? 我々は、Debian コミュニティの活動を眺め、\
 何が起きているのかを報告してくれるボランティアのライターを募集しています。<a
-href="http://wiki.debian.org/ProjectNews/HowToContribute">\
+href="https://wiki.debian.org/ProjectNews/HowToContribute">\
 貢献に関するページ</a>をご覧になって、\
 手助けの具体的な方法をご確認ください。我々はあなたからのメールを <a
 href="mailto:debian-publicity@lists.debian.org">\

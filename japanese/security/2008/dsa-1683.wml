@@ -1,9 +1,9 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>バッファオーバフロー</define-tag>
 <define-tag moreinfo>
 <p>
 streamripper の、HTTP ヘッダとプレイリストパースコードに複数のバッファオ
-ーバフローが発見されました (<a href="http://security-tracker.debian.org/tracker/CVE-2007-4337">CVE-2007-4337</a>, <a href="http://security-tracker.debian.org/tracker/CVE-2008-4829">CVE-2008-4829</a>)。
+ーバフローが発見されました (<a href="https://security-tracker.debian.org/tracker/CVE-2007-4337">CVE-2007-4337</a>, <a href="https://security-tracker.debian.org/tracker/CVE-2008-4829">CVE-2008-4829</a>)。
 </p>
 
 <p>
@@ -24,4 +24,4 @@ streamripper の、HTTP ヘッダとプレイリストパースコードに複�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1683.data"
-# $Id: dsa-1683.wml,v 1.3 2010-12-17 15:09:03 taffit-guest Exp $
+# $Id: dsa-1683.wml,v 1.4 2014/04/30 07:17:14 pabs Exp $

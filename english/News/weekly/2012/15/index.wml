@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-07-30" SUMMARY="Debian Med team report from LSM, DebConf13 Logo Contest, Raspbian"
 
-# $Id: index.wml,v 1.4 2014/04/29 15:27:15 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 07:28:55 pabs Exp $
 # $Rev: 4098 $
 # Status: [frozen]
 
@@ -103,7 +103,7 @@ Seven applicants have been
 as Debian Developers, nine applicants have been
 <a href="https://lists.debian.org/E1Sta5X-0005lb-Ap@franck.debian.org">accepted</a>
 as Debian Maintainers, and
-six people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+six people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
 to maintain packages</a> since the previous issue of the Debian Project
 News. Please welcome Tristan Seligmann, Thomas Preud'homme, Felix Geyer,
 Josue Abarca, Julián Moreno Patiño, Thadeu Cascardo, Paul Mathijs Gevers,

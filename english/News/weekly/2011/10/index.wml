@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-06-24" SUMMARY="Upcoming Debian update: 6.0.2, New IRC Training Sessions, Planet Debian Derivatives, Graphical installer for Debian GNU/kFreeBSD"
 
-# $Id: index.wml,v 1.6 2014/04/29 15:27:04 pabs Exp $
+# $Id: index.wml,v 1.9 2014/04/30 07:42:05 pabs Exp $
 # $Rev: 2331 $
 # Status: [frozen]
 
@@ -39,7 +39,7 @@ IRC Training Sessions</a>, which will be held on IRC by experienced community me
 This time, there will be two different series: non-technical, called <q>Ask the ...</q> and
 more technical <q>One day with ...</q>. 
 Additional information and scheduled sessions
-are always available on the related <a href="http://wiki.debian.org/IRC/debian-meeting">wiki
+are always available on the related <a href="https://wiki.debian.org/IRC/debian-meeting">wiki
 page</a>.
 </p>
 <p>
@@ -78,7 +78,7 @@ Paul Wise <a href="http://bonedaddy.net/pabs3/log/2011/06/16/planet-debian-deriv
 blogged about creation</a> of <a href="http://planet.debian.org/deriv/"><q>Planet
 Debian Derivatives</q></a> which aggregates the blogs and planets of all the distributions
 represented in the derivatives census. As say Paul it's first concrete outcome from the <a
-href="http://wiki.debian.org/Derivatives/Census">Debian derivatives census</a>. He also
+href="https://wiki.debian.org/Derivatives/Census">Debian derivatives census</a>. He also
 shared his plans about integration of information about derivatives with Debian
 infrastructure and thanks Jörg Jaspert <q>for doing the necessary setup procedures</q>.
 </p>
@@ -180,7 +180,7 @@ or clerks can help Debian!</q>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-14 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+14 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 John T. Nogatch, Matthias Kümmerer, Jonathan Riddell, Alexey S
@@ -219,26 +219,26 @@ list</a>, for <q>Lenny</q>, the oldstable distribution) for announcements.</p>
 
 <p>
 263 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/apt-clone">apt-clone &mdash; Script to create state bundles</a></li>
-<li><a href="http://packages.debian.org/unstable/main/brltty-espeak">brltty-espeak &mdash; Access software for a blind person - espeak driver</a></li>
-<li><a href="http://packages.debian.org/unstable/main/c2esp">c2esp &mdash; Driver for Kodak ESP 5xxx AiO color inkjet printers</a></li>
-<li><a href="http://packages.debian.org/unstable/main/cardstories">cardstories &mdash; multiplayer online card guessing game</a></li>
-<li><a href="http://packages.debian.org/unstable/main/clementine">clementine &mdash; modern music player and library organizer</a></li>
-<li><a href="http://packages.debian.org/unstable/main/espeakup-udeb">espeakup-udeb &mdash; Configure the speech synthesizer voice</a></li>
-<li><a href="http://packages.debian.org/unstable/main/extundelete">extundelete &mdash; utility to recover deleted files from ext3/ext4 partition</a></li>
-<li><a href="http://packages.debian.org/unstable/main/hunspell-ml">hunspell-ml &mdash; Malayalam dictionary for hunspell</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jack-stdio">jack-stdio &mdash; program to pipe audio-data from and to JACK</a></li>
-<li><a href="http://packages.debian.org/unstable/main/letodms">letodms &mdash; open source document management system based on PHP and MySQL</a></li>
-<li><a href="http://packages.debian.org/unstable/main/linux-headers-2.6.39-2-486">linux-headers-2.6.39-2-486 &mdash; Header files for Linux 2.6.39-2-486</a></li>
-<li><a href="http://packages.debian.org/unstable/main/linux-image-2.6.39-2-686-pae">linux-image-2.6.39-2-686-pae &mdash; Linux 2.6.39 for modern PCs</a></li>
-<li><a href="http://packages.debian.org/unstable/main/m2300w">m2300w &mdash; Driver for the Minolta magicolor 2300W/24000W color laser printers</a></li>
-<li><a href="http://packages.debian.org/unstable/main/preprocess">preprocess &mdash; portable multi-language file preprocessor</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rhash">rhash &mdash; utility for computing hash sums and magnet links</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xul-ext-linky">xul-ext-linky &mdash; iceweasel extension to handle web and image links</a></li>
+<li><a href="https://packages.debian.org/unstable/main/apt-clone">apt-clone &mdash; Script to create state bundles</a></li>
+<li><a href="https://packages.debian.org/unstable/main/brltty-espeak">brltty-espeak &mdash; Access software for a blind person - espeak driver</a></li>
+<li><a href="https://packages.debian.org/unstable/main/c2esp">c2esp &mdash; Driver for Kodak ESP 5xxx AiO color inkjet printers</a></li>
+<li><a href="https://packages.debian.org/unstable/main/cardstories">cardstories &mdash; multiplayer online card guessing game</a></li>
+<li><a href="https://packages.debian.org/unstable/main/clementine">clementine &mdash; modern music player and library organizer</a></li>
+<li><a href="https://packages.debian.org/unstable/main/espeakup-udeb">espeakup-udeb &mdash; Configure the speech synthesizer voice</a></li>
+<li><a href="https://packages.debian.org/unstable/main/extundelete">extundelete &mdash; utility to recover deleted files from ext3/ext4 partition</a></li>
+<li><a href="https://packages.debian.org/unstable/main/hunspell-ml">hunspell-ml &mdash; Malayalam dictionary for hunspell</a></li>
+<li><a href="https://packages.debian.org/unstable/main/jack-stdio">jack-stdio &mdash; program to pipe audio-data from and to JACK</a></li>
+<li><a href="https://packages.debian.org/unstable/main/letodms">letodms &mdash; open source document management system based on PHP and MySQL</a></li>
+<li><a href="https://packages.debian.org/unstable/main/linux-headers-2.6.39-2-486">linux-headers-2.6.39-2-486 &mdash; Header files for Linux 2.6.39-2-486</a></li>
+<li><a href="https://packages.debian.org/unstable/main/linux-image-2.6.39-2-686-pae">linux-image-2.6.39-2-686-pae &mdash; Linux 2.6.39 for modern PCs</a></li>
+<li><a href="https://packages.debian.org/unstable/main/m2300w">m2300w &mdash; Driver for the Minolta magicolor 2300W/24000W color laser printers</a></li>
+<li><a href="https://packages.debian.org/unstable/main/preprocess">preprocess &mdash; portable multi-language file preprocessor</a></li>
+<li><a href="https://packages.debian.org/unstable/main/rhash">rhash &mdash; utility for computing hash sums and magnet links</a></li>
+<li><a href="https://packages.debian.org/unstable/main/xul-ext-linky">xul-ext-linky &mdash; iceweasel extension to handle web and image links</a></li>
 </ul>
 
 
@@ -255,7 +255,7 @@ many others</a> are:</p>
 
 <p>Please help us create this newsletter.  We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

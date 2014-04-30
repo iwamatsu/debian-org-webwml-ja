@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 <p>Sebastian Kramer さんにより、/dev およびホットプラグ管理デーモン udev
@@ -6,12 +6,12 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1185">CVE-2009-1185</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1185">CVE-2009-1185</a>
 
     <p>udev が NETLINK メッセージの送信元をチェックしていないため、ローカル
     ユーザが root 特権を取得可能です。</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1186">CVE-2009-1186</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1186">CVE-2009-1186</a>
 
     <p>udev のパスエンコード処理にバッファオーバフローがあり、任意のコードが
     実行可能です。</p></li>
@@ -32,4 +32,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1772.data"
-# $Id: dsa-1772.wml,v 1.3 2010-12-17 14:42:15 taffit-guest Exp $
+# $Id: dsa-1772.wml,v 1.4 2014/04/30 07:17:15 pabs Exp $

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -8,13 +8,13 @@ and Exposures project は以下の問題を認識しています。</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-3696">CVE-2009-3696</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-3696">CVE-2009-3696</a>
 
  <p>クロスサイトスクリプティング攻撃により、リモートの攻撃者が、細工され
  た MySQL テーブル名をつかって任意のウェブスクリプトや HTML を挿入可能
  な欠陥があります。</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-3696">CVE-2009-3697</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-3696">CVE-2009-3697</a>
 
  <p>PDF スキーマジェネレータ機能に SQL インジェクション脆弱性があり、リモ
  ートの攻撃者が任意の SQL コマンドを実行可能です。この問題は Debian
@@ -43,4 +43,4 @@ and Exposures project は以下の問題を認識しています。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1918.data"
-# $Id: dsa-1918.wml,v 1.3 2010-12-17 14:43:02 taffit-guest Exp $
+# $Id: dsa-1918.wml,v 1.4 2014/04/30 07:17:16 pabs Exp $

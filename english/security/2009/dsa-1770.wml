@@ -6,13 +6,13 @@ identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-4182">CVE-2008-4182</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-4182">CVE-2008-4182</a>
 
 <p>It was discovered that imp4 suffers from a cross-site scripting (XSS)
 attack via the user field in an IMAP session, which allows attackers to
 inject arbitrary HTML code.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-0930">CVE-2009-0930</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-0930">CVE-2009-0930</a>
 
 <p>It was discovered that imp4 is prone to several cross-site scripting
 (XSS) attacks via several vectors in the mail code allowing attackers
@@ -35,4 +35,4 @@ version 4.2-4, which was already included in the lenny release.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1770.data"
-# $Id: dsa-1770.wml,v 1.2 2010-12-17 14:39:36 taffit-guest Exp $
+# $Id: dsa-1770.wml,v 1.3 2014/04/30 07:16:18 pabs Exp $

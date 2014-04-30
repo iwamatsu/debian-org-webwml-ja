@@ -6,14 +6,14 @@ project identifies the following issues:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4130">CVE-2013-4130</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4130">CVE-2013-4130</a>
 
   <p>David Gibson of Red Hat discovered that SPICE incorrectly handled
   certain network errors. A remote user able to initiate a SPICE
   connection to an application acting as a SPICE server could use this
   flaw to crash the application.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-4282">CVE-2013-4282</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4282">CVE-2013-4282</a>
 
   <p>Tomas Jamrisko of Red Hat discovered that SPICE incorrectly handled
   long passwords in SPICE tickets. A remote user able to initiate a
@@ -39,4 +39,4 @@ version 0.12.4-0nocelt2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2839.data"
-# $Id: dsa-2839.wml,v 1.2 2014/01/08 17:30:05 kaare Exp $
+# $Id: dsa-2839.wml,v 1.3 2014/04/30 07:16:34 pabs Exp $

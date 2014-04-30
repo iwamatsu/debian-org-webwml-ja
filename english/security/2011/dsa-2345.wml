@@ -5,19 +5,19 @@ based on Thunderbird.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3647">CVE-2011-3647</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3647">CVE-2011-3647</a>
         <p>The JSSubScriptLoader does not properly handle
         XPCNativeWrappers during calls to the loadSubScript method in
         an add-on, which makes it easier for remote attackers to gain
         privileges via a crafted web site that leverages certain
         unwrapping behavior.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3648">CVE-2011-3648</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3648">CVE-2011-3648</a>
 	<p>A cross-site scripting (XSS) vulnerability allows remote
 	attackers to inject arbitrary web script or HTML via crafted
 	text with Shift JIS encoding.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3650">CVE-2011-3650</a> 
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3650">CVE-2011-3650</a> 
         <p>Iceweasel does not properly handle JavaScript files that
 	contain many functions, which allows user-assisted remote
 	attackers to cause a denial of service (memory corruption and
@@ -38,4 +38,4 @@ in version 3.0.11-1+squeeze6.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2345.data"
-# $Id: dsa-2345.wml,v 1.1 2011-11-11 21:54:41 taffit Exp $
+# $Id: dsa-2345.wml,v 1.2 2014/04/30 07:16:25 pabs Exp $

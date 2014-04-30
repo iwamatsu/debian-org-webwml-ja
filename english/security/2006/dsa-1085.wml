@@ -7,14 +7,14 @@ Project identifies the following vulnerabilities:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2004-1617">CVE-2004-1617</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2004-1617">CVE-2004-1617</a>
 
     <p>Michal Zalewski discovered that lynx is not able to grok invalid
     HTML including a TEXTAREA tag with a large COLS value and a large
     tag name in an element that is not terminated, and loops forever
     trying to render the broken HTML.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2005-3120">CVE-2005-3120</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2005-3120">CVE-2005-3120</a>
 
     <p>Ulf Härnhammar discovered a buffer overflow that can be remotely
     exploited. During the handling of Asian characters when connecting
@@ -36,4 +36,4 @@ version 2.8.6-9sarge1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1085.data"
-# $Id: dsa-1085.wml,v 1.5 2011-05-26 10:05:47 rhonda Exp $
+# $Id: dsa-1085.wml,v 1.6 2014/04/30 07:16:09 pabs Exp $

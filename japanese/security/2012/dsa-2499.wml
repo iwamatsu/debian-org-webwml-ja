@@ -1,14 +1,14 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
 <p>
 Mozilla Thunderbird mail/news クライアントの Debian 版 icedove に、複
 数の問題が発見されました。様々なメモリ処理の安全性問題 (
-<a href="http://security-tracker.debian.org/tracker/CVE-2012-1937">CVE-2012-1937</a>,
-<a href="http://security-tracker.debian.org/tracker/CVE-2012-1939">CVE-2012-1939</a>)
+<a href="https://security-tracker.debian.org/tracker/CVE-2012-1937">CVE-2012-1937</a>,
+<a href="https://security-tracker.debian.org/tracker/CVE-2012-1939">CVE-2012-1939</a>)
  と、メモリの開放後使用の問題 (
-<a href="http://security-tracker.debian.org/tracker/CVE-2012-1940">CVE-2012-1940</a>) が修正さ
+<a href="https://security-tracker.debian.org/tracker/CVE-2012-1940">CVE-2012-1940</a>) が修正さ
 れています。
 </p>
 
@@ -25,4 +25,4 @@ Mozilla Thunderbird mail/news クライアントの Debian 版 icedove に、複
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2499.data"
-# $Id: dsa-2499.wml,v 1.1 2012-07-03 01:02:33 kmuto Exp $
+# $Id: dsa-2499.wml,v 1.2 2014/04/30 07:17:19 pabs Exp $

@@ -3,7 +3,7 @@
 <p>It was discovered that Exim, the default mail transport agent in
 Debian, uses DKIM data obtain from DNS directly in a format string,
 potentially allowing malicious mail senders to execute arbitrary code.
-(<a href="http://security-tracker.debian.org/tracker/CVE-2011-1764">CVE-2011-1764</a>)</p>
+(<a href="https://security-tracker.debian.org/tracker/CVE-2011-1764">CVE-2011-1764</a>)</p>
 
 <p>The oldstable distribution (lenny) is not affected by this problem
 because it does not contain DKIM support.</p>
@@ -19,4 +19,4 @@ version 4.75-3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2232.data"
-# $Id: dsa-2232.wml,v 1.1 2011-05-06 20:24:20 taffit-guest Exp $
+# $Id: dsa-2232.wml,v 1.2 2014/04/30 07:16:24 pabs Exp $

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-01" SUMMARY="Release, Cluster, LinuxWorld, Hurd, Packaging, AMD64"
-# $Id: index.wml,v 1.4 2014/04/29 15:25:48 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 07:41:33 pabs Exp $
 
 <p>Welcome to this year's 9th issue of DWN, the weekly newsletter for the
 Debian community.  Harald Welte <a
@@ -50,7 +50,7 @@ first step.</p>
 
 <p><strong>Common Release Questions.</strong> Drew Daniels has <a
 href="https://lists.debian.org/debian-release/2005/02/msg00113.html">set up</a>
-a wiki <a href="http://wiki.debian.org/DebianReleaseFAQ">document</a> that is
+a wiki <a href="https://wiki.debian.org/DebianReleaseFAQ">document</a> that is
 intended to cover most questions that users may have with the upcoming Debian
 release, especially its availability and temporary problems.  It also answers
 questions about new or critical uploads and the inclusion of packages in

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -8,13 +8,13 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-2539">CVE-2010-2539</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-2539">CVE-2010-2539</a>
 
   <p>msTmpFile 関数にスタックベースのバッファオーバフローがあり、特定条件下
   で任意のコードの実行が可能です。</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2010-2540">CVE-2010-2540</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2010-2540">CVE-2010-2540</a>
 
   <p>標準で有効になっている CGI デバッグコマンドライン引数が安全に扱われて
   おらず、リモートの攻撃者から任意のコードの実行が可能です。このため、
@@ -37,4 +37,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2079.data"
-# $Id: dsa-2079.wml,v 1.2 2010-12-17 14:28:01 taffit-guest Exp $
+# $Id: dsa-2079.wml,v 1.3 2014/04/30 07:17:17 pabs Exp $

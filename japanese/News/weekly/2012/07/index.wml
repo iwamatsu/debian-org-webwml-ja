@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-02" SUMMARY="Debian Med チームからの一言、DSA チームスプリントの報告、さようなら、いままでニュースをありがとう"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="1.10"
 
 # $Rev: 3517 $
 # Status: [content-frozen]
@@ -15,7 +15,7 @@ href="https://lists.debian.org/debian-devel-announce/2012/03/msg00009.html">Debi
 Med チームからの一言</a>を送信しました。この中で彼は <a
 href="http://debian-med.alteholz.de/advent/"><q>Debian Med バグ潰しアドベントカレンダー
 2011 年版</q></a>等のチームにおける最近の新たな取り組みと、<a
-href="http://wiki.debian.org/DebianMed/MoM"><q>指導強化月間</q> (MoM)</a>
+href="https://wiki.debian.org/DebianMed/MoM"><q>指導強化月間</q> (MoM)</a>
 プロジェクトについて述べました。また、Andreas さんは 1 月に
 Debian Med プロジェクトが 10 周年に達したことを報告しました。10
 年間で Debian Med はたった 1 人のプロジェクトから、Andreas さんが<a
@@ -28,7 +28,7 @@ Med プロジェクトは生物学や医学用の専門パッケージを提供�
 (ある Blend の専門分野、Debian Med の場合は医学と生物情報学)
 の中に自分の担当分野を見いだして、その後に共通の関心からチームの中で Debian
 のルールを学ぶからです。</q>このように Andreas さんはメールの中で続けました。この見解は <a
-href="http://wiki.debian.org/DebianMed/Developers">Debian Med チームメンバーが Debian
+href="https://wiki.debian.org/DebianMed/Developers">Debian Med チームメンバーが Debian
 開発者になった理由に関する調査</a>の結果から確認されました。</p>
 
 
@@ -157,7 +157,7 @@ href="https://nm.debian.org/public/nmlist#done">受理</a>され、Debian
 メンテナとして 6 人の候補者が<a
 href="https://lists.debian.org/E1SCtPt-0006gV-Au@franck.debian.org">受理</a>され<a
 href="https://lists.debian.org/E1SBckR-0004gS-ES@franck.debian.org">ました</a>。また、6 人のメンバーが<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテを開始</a>しました。
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテを開始</a>しました。
 Arno Töll さん、Mathieu Malaterre さん、Johann Felix Soden さん、Roland Dreier さん、Dmitrijs
 Ledkovs さん、Ana Carolina Comandulli さん、Michael Gilbert さん、Carl
 Chenet さん、Mònica Ramírez Arceda さん、Michael Stapelberg さん、Alessandro
@@ -218,26 +218,26 @@ href="https://lists.debian.org/debian-stable-announce/">stable-updates セクシ
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、207 のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/fonts-dancingscript">\
+<li><a href="https://packages.debian.org/unstable/main/fonts-dancingscript">\
 	fonts-dancingscript — バウンス文字やサイズ可変の活気あるカジュアルな手書きフォント</a></li>
-<li><a href="http://packages.debian.org/unstable/main/keepnote">\
+<li><a href="https://packages.debian.org/unstable/main/keepnote">\
 	keepnote — クロスプラットフォームのメモと構成管理アプリケーション</a></li>
-<li><a href="http://packages.debian.org/unstable/main/kvpm">\
+<li><a href="https://packages.debian.org/unstable/main/kvpm">\
 	kvpm — KDE 用の GUI ベースの論理ボリューム管理とディスクパーティションツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/petitboot">\
+<li><a href="https://packages.debian.org/unstable/main/petitboot">\
 	petitboot — kexec ベースのブートローダ petitboot の ncurses 版</a></li>
-<li><a href="http://packages.debian.org/unstable/main/python-geopy">\
+<li><a href="https://packages.debian.org/unstable/main/python-geopy">\
 	python-geopy — Python 用のジオコーディングツールボックス</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qtscrob">\
+<li><a href="https://packages.debian.org/unstable/main/qtscrob">\
 	qtscrob — Rockbox フォーマットの .scrobbler.log ファイル用 Audioscrobbler サブミッタ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/shelltestrunner">\
+<li><a href="https://packages.debian.org/unstable/main/shelltestrunner">\
 	shelltestrunner — コマンドラインプログラムや任意のシェルコマンドをテスト</a></li>
-<li><a href="http://packages.debian.org/unstable/main/tabble">\
+<li><a href="https://packages.debian.org/unstable/main/tabble">\
 	tabble — X 用のタブ対応したプログラムランチャ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/yagf">\
+<li><a href="https://packages.debian.org/unstable/main/yagf">\
 	yagf — 光学式文字認識ソフトウェアのグラフィカルインターフェイス</a></li>
 </ul>
 

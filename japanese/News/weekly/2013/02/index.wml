@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-21" SUMMARY="Debian Med チームからの一言、Debian <q>Wheezy</q> の Linux カーネルの内容"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.5"
 
 # $Rev: 4557 $
 # Status: [content-frozen]
@@ -13,8 +13,8 @@
 
 <p>Andreas Tille さんは <a
 href="https://lists.debian.org/debian-devel-announce/2013/01/msg00004.html">Debian Med チームからの一言</a>を投稿し、<a
-href="http://wiki.debian.org/DebianMed/MoM">指導強化月間</a>への尽力など、最近のチームの新たな取り組みについて報告しました。また
-Andreas さんは、2 月にキール (ドイツ) で <a href="http://wiki.debian.org/DebianMed/Meeting/Kiel2013">Debian Med
+href="https://wiki.debian.org/DebianMed/MoM">指導強化月間</a>への尽力など、最近のチームの新たな取り組みについて報告しました。また
+Andreas さんは、2 月にキール (ドイツ) で <a href="https://wiki.debian.org/DebianMed/Meeting/Kiel2013">Debian Med
 チーム開発者とユーザのオフラインミーティング</a>が行われることをアナウンスしました。興味をお持ちの方はどなたでも歓迎します。</p>
 
 
@@ -58,7 +58,7 @@ href="$(HOME)/events/2013/0202-fosdem">フリー・オープンソース開発�
 <toc-add-entry name="newcontributors">Debian の新しい協力者たち</toc-add-entry>
 
 <p>前号の Debian プロジェクトニュースより後に、1 名が<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテナンス</a>を開始しました。Alexandre Raymond
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメンテナンス</a>を開始しました。Alexandre Raymond
 さんを歓迎しましょう!</p>
 
 
@@ -124,13 +124,13 @@ href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">パッケージのメ�
 ## num-newpkg="number-of-new-packages"
 <nnwp-intro
 	num-newpkg="35"
-	url-newpkg="http://packages.debian.org/unstable/main/newpkg"
+	url-newpkg="https://packages.debian.org/unstable/main/newpkg"
 />
 
 ## and here goes the list of packages:
 ## translators: you need to add the translation of the package manually
 #
-<nnwp-list base="http://packages.debian.org/unstable/main/">
+<nnwp-list base="https://packages.debian.org/unstable/main/">
 <nnwp-item "liblingua-en-findnumber-perl">英語のテキストに書かれている数字を検索するモジュール</nnwp-item>
 <nnwp-item "libmath-prime-util-perl">高速なふるい法や因数分解を含む素数関連のユーティリティ</nnwp-item>
 <nnwp-item "libsgml-dtdparse-perl">SGML や XML DTD を操作する Perl モジュールとスクリプト</nnwp-item>

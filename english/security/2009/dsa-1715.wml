@@ -2,9 +2,9 @@
 <define-tag moreinfo>
 
 <p>It was discovered that the AttachFile action in moin, a python clone of
-WikiWiki, is prone to cross-site scripting attacks (<a href="http://security-tracker.debian.org/tracker/CVE-2009-0260">CVE-2009-0260</a>).
+WikiWiki, is prone to cross-site scripting attacks (<a href="https://security-tracker.debian.org/tracker/CVE-2009-0260">CVE-2009-0260</a>).
 Another cross-site scripting vulnerability was discovered in the
-antispam feature (<a href="http://security-tracker.debian.org/tracker/CVE-2009-0312">CVE-2009-0312</a>).</p>
+antispam feature (<a href="https://security-tracker.debian.org/tracker/CVE-2009-0312">CVE-2009-0312</a>).</p>
 
 
 <p>For the stable distribution (etch) these problems have been fixed in
@@ -21,4 +21,4 @@ version 1.8.1-1.1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1715.data"
-# $Id: dsa-1715.wml,v 1.2 2010-12-17 14:39:24 taffit-guest Exp $
+# $Id: dsa-1715.wml,v 1.3 2014/04/30 07:16:18 pabs Exp $

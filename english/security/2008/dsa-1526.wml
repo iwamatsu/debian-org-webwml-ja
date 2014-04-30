@@ -8,12 +8,12 @@ problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-0930">CVE-2008-0930</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-0930">CVE-2008-0930</a>
   <p>The xwine command makes unsafe use of local temporary files when
   printing.  This could allow the removal of arbitrary files belonging
   to users who invoke the program.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2008-0931">CVE-2008-0931</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2008-0931">CVE-2008-0931</a>
   <p>The xwine command changes the permissions of the global WINE configuration
   file such that it is world-writable.  This could allow local users to edit
   it such that arbitrary commands could be executed whenever any local user
@@ -29,4 +29,4 @@ problems:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1526.data"
-# $Id: dsa-1526.wml,v 1.5 2010-12-17 15:02:05 taffit-guest Exp $
+# $Id: dsa-1526.wml,v 1.6 2014/04/30 07:16:15 pabs Exp $

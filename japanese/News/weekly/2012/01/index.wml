@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2012-01-09" SUMMARY="Debian Edu/Skolelinux 6.0.3 beta2、DPL からの一言、新しい Debian のインフォグラフィック、Debtags ウェブサイトの新しいインターフェイス"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="1.10"
 
 # $Rev: 2934 $
 # Status: [frozen]
@@ -13,9 +13,9 @@
 <p>Petter Reinholdtsen さんは <a
 href="https://lists.debian.org/debian-edu/2012/01/msg00129.html">Debian
 Edu Squeeze 6.0.3 beta2 の公開</a>を発表しました。<a
-href="http://wiki.debian.org/DebianEdu/Documentation/Squeeze/Installation">\
+href="https://wiki.debian.org/DebianEdu/Documentation/Squeeze/Installation">\
 ダウンロードとインストール方法の説明</a>がウィキと、特に便利な <a
-href="http://wiki.debian.org/DebianEdu/Documentation/Squeeze/GettingStarted"><q>\
+href="https://wiki.debian.org/DebianEdu/Documentation/Squeeze/GettingStarted"><q>\
 Getting Started</q> の章</a>に書かれています。
 この章の中では最初のログイン方法が説明されています。
 フィードバックやインストール報告は <a 
@@ -27,7 +27,7 @@ href="https://lists.debian.org/debian-edu/">Debian Edu
 学校で<q>すぐに使える</q> 完全でフリーなソフトウェアソリューションである <a
 href="http://www.skolelinux.org/">Skolelinux</a> の開発と保守を行っています。
 Debian Edu に関するより詳細な情報を得るには、<a
-href="http://wiki.debian.org/DebianEdu">関連のウィキ</a>をご覧ください。</p>
+href="https://wiki.debian.org/DebianEdu">関連のウィキ</a>をご覧ください。</p>
 
 
 <toc-add-entry name="DPL">DPL からの一言</toc-add-entry>
@@ -60,7 +60,7 @@ href="http://blog.mraw.org/2012/01/01/XServer_1.12RC1/">予定されている X
 href="https://lists.debian.org/debian-project/2011/12/msg00000.html">気付きました</a>。</p>
 
 <p>Debian やそのソフトウェアについて、他にも研究をご存知なら、<a
-href="http://wiki.debian.org/CategoryPublication">関連する wiki
+href="https://wiki.debian.org/CategoryPublication">関連する wiki
 ページ</a>に追加することができます。</p>
 
 
@@ -77,7 +77,7 @@ href="https://lists.debian.org/debian-publicity/2011/12/msg00066.html">Claudio
 href="http://ascendances.files.wordpress.com/2011/10/timeline_debian_1993_20111.png">\
 Stéphane Blondon さん</a>、<a href="http://timeline.debian.net/">Debian
 時系列ウェブサイト</a>と、それに関連した <a
-href="http://packages.debian.org/sid/debian-timeline">Debian
+href="https://packages.debian.org/sid/debian-timeline">Debian
 パッケージ</a>を開発した<a
 href="http://chris-lamb.co.uk/2008/03/09/timeline-of-the-debian-project/">Chris
 Lamb さん</a>によってなされてきました。</p>
@@ -100,7 +100,7 @@ href="http://debtags.debian.net/search/">パッケージの検索</a>、<a
 href="http://debtags.debian.net/statistics/">Debtags の統計</a>の観覧、もちろん<a
 href="http://debtags.debian.net/getting-started/">タグ付け活動の手伝い</a>も出来ます。
 Debtags に関するより詳細な情報を得るには、<a
-href="http://wiki.debian.org/Debtags">関連のウィキ</a>をご覧ください。</p>
+href="https://wiki.debian.org/Debtags">関連のウィキ</a>をご覧ください。</p>
 
 
 <toc-add-entry name="defoma">apt-get purge defoma</toc-add-entry>
@@ -116,13 +116,13 @@ Perrier さんと Paul Wise さんの仕事は素晴らしいものでした。�
 <q>Xorg はまだ fontconfig をサポートしていないので、当面、サーバサイドのフォントに頼っているプログラムは、X
 サーバが知っているディレクトリにフォントを配置する <tt>xfonts-</tt>
 パッケージのみ使用可能です</q>し、加えて <q>Ghostscript とCJK にはいくつか<a
-href="http://wiki.debian.org/gs-undefoma">問題</a>がある</q>と Paul さんは言っています。</p>
+href="https://wiki.debian.org/gs-undefoma">問題</a>がある</q>と Paul さんは言っています。</p>
 
 
 <toc-add-entry name="interviews">インタビューの追加</toc-add-entry>
 
 <p>前回の Debian プロジェクトニュース以降、
-<a href="http://wiki.debian.org/ThisWeekInDebian"><q>今週の Debian</q> ポッドキャスト</a>
+<a href="https://wiki.debian.org/ThisWeekInDebian"><q>今週の Debian</q> ポッドキャスト</a>
 が新たに 2 つ公開されました。
 <a href="http://frostbitemedia.org/node/35">Jonathan Nadeau さん</a>による
 Northeast GNU/Linux Fest に関するものと
@@ -162,7 +162,7 @@ Debian GNU/Linux 上で OpenVPN を利用する簡単な手引き</a>を公開�
 href="http://aceh.tribunnews.com/2011/12/11/ayo-jadi-hacker">\
 インドネシアの新聞 <q>Serambi</q> が彼の Debian
 へのかかわりに関する記事を書いたこと</a>を報告しました。Jonas さんは<a
-href="http://wiki.debian.org/DebianPureBlends">Debian Pure Blends</a>
+href="https://wiki.debian.org/DebianPureBlends">Debian Pure Blends</a>
 に関する一連の講演を行うためにアジアを旅していました。
 彼の旅行に関するより詳細な情報を得るには、関連の<a
 href="http://wiki.jones.dk/DebianAsia2011">ウィキ</a>をご覧ください。</p>
@@ -238,7 +238,7 @@ href="$(HOME)/events/talks">講演のページ</a>にリンクを貼りたい De
 <toc-add-entry name="newcontributors">Debian の新しい協力者たち</toc-add-entry>
 
 <p>前回の Debian プロジェクトニュース発行の後、15 人の方々が<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">\
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">\
 パッケージのメンテナンスを開始しました</a>。
 Werner Detter さん、
 Fredrik Thulin さん、
@@ -259,7 +259,7 @@ Leo Iannaconeさんを私たちのプロジェクトに歓迎します!</p>
 
 <toc-add-entry name="rcstats">次期リリースに関するリリースクリティカルバグの統計</toc-add-entry>
 
-<p><a href="http://udd.debian.org/bugs.cgi">Ultimate Debian Database
+<p><a href="https://udd.debian.org/bugs.cgi">Ultimate Debian Database
 のバグ検索インターフェイス</a>によれば、次期リリースである Debian 7.0
 <q>Wheezy</q> には今のところ 797 のリリースクリティカルバグがあります。
 簡単に修正できるか修正作業が始まっているバグを除けば、
@@ -267,7 +267,7 @@ Leo Iannaconeさんを私たちのプロジェクトに歓迎します!</p>
 
 <p><a href="http://blog.schmehl.info/Debian/rc-stats/7.0-wheezy/2012-01">\
 統計の詳細</a>と、これらの数値を<a
-href="http://wiki.debian.org/ProjectNews/RC-Stats">\
+href="https://wiki.debian.org/ProjectNews/RC-Stats">\
 解釈する方法のヒント</a>を参照できます。</p>
 
 
@@ -329,28 +329,28 @@ href="https://lists.debian.org/debian-volatile-announce/">volatile セクショ�
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、367 のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/coccinella">\
+<li><a href="https://packages.debian.org/unstable/main/coccinella">\
 	coccinella &mdash; ホワイトボードを組み込んだコミュニケーションツール
 	(XMPP/Jabber)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/colorhug-client">\
+<li><a href="https://packages.debian.org/unstable/main/colorhug-client">\
 	colorhug-client &mdash; Hughski ディスプレイキャリブレータ用のツール</a></li>
-<li><a href="http://packages.debian.org/unstable/main/eclipse-gef">\
+<li><a href="https://packages.debian.org/unstable/main/eclipse-gef">\
 	eclipse-gef &mdash; Eclipse 用のグラフィカル編集フレームワーク</a></li>
-<li><a href="http://packages.debian.org/unstable/main/exfat-utils">\
+<li><a href="https://packages.debian.org/unstable/main/exfat-utils">\
 	exfat-utils &mdash; exFAT ファイルシステムの作成、チェック、
 	ラベル編集、ダンプを行うユーティリティ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gnome-documents">\
+<li><a href="https://packages.debian.org/unstable/main/gnome-documents">\
 	gnome-documents &mdash; GNOME 用文書管理ソフト</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ho22bus">\ 
+<li><a href="https://packages.debian.org/unstable/main/ho22bus">\ 
 	ho22bus &mdash; 単語学習用のシンプルなアプリケーション</a></li>
-<li><a href="http://packages.debian.org/unstable/main/jgit-cli">\
+<li><a href="https://packages.debian.org/unstable/main/jgit-cli">\
 	jgit-cli &mdash; git バージョン管理の Java 実装</a></li>
-<li><a href="http://packages.debian.org/unstable/main/xcp-xapi">\
+<li><a href="https://packages.debian.org/unstable/main/xcp-xapi">\
 xcp-xapi &mdash; Xen Cloud Platform 用の XenAPI サーバ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/zanshin">\
+<li><a href="https://packages.debian.org/unstable/main/zanshin">\
 	zanshin &mdash; KDE 用の to-do リスト管理ソフト</a></li>
 </ul>
 
@@ -368,7 +368,7 @@ href="$(DEVEL)/wnpp/help_requested">支援が必要なパッケージ</a>\
 
 <p>この会報の作成を手伝ってみませんか? 我々は、Debian コミュニティの活動を眺め、\
 何が起きているのかを報告してくれるボランティアのライターを募集しています。<a
-href="http://wiki.debian.org/ProjectNews/HowToContribute">\
+href="https://wiki.debian.org/ProjectNews/HowToContribute">\
 貢献に関するページ</a>をご覧になって、\
 手助けの具体的な方法をご確認ください。我々はあなたからのメールを <a
 href="mailto:debian-publicity@lists.debian.org">\

@@ -7,20 +7,20 @@ the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2818">CVE-2011-2818</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-2818">CVE-2011-2818</a>
 
    <p>Use-after-free vulnerability in Google Chrome allows remote attackers to
    cause a denial of service or possibly have unspecified other impact via
    vectors related to display box rendering.</p>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2800">CVE-2011-2800</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-2800">CVE-2011-2800</a>
 
    <p>Google Chrome allows remote attackers to obtain potentially sensitive
    information about client-side redirect targets via a crafted web site.</p></li>
 
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-2359">CVE-2011-2359</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-2359">CVE-2011-2359</a>
 
    <p>Google Chrome does not properly track line boxes during rendering, which
    allows remote attackers to cause a denial of service or possibly have
@@ -49,4 +49,4 @@ version 13.0.782.220~r99552-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2307.data"
-# $Id: dsa-2307.wml,v 1.1 2011-09-11 22:08:01 taffit Exp $
+# $Id: dsa-2307.wml,v 1.2 2014/04/30 07:16:25 pabs Exp $

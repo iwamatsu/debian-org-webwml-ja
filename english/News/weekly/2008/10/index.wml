@@ -122,7 +122,7 @@ available now at <a href="http://kde4.debian.net/">kde4.debian.net</a>.</p>
 the <a href="http://wiki.ffis.de/m68k/Meeting2008">m68k porter
 meeting</a> which took place at the University of Kiel, Germany. The
 Meeting was streamed, so that people unable to attend in person could
-participate via IRC.  The <a href="http://wiki.debian.org/M68k/Meetings/Kiel2008">results</a> include
+participate via IRC.  The <a href="https://wiki.debian.org/M68k/Meetings/Kiel2008">results</a> include
 bits about the port to the coldfire architecture as well as status updates
 for Sid and Lenny.</p>
 
@@ -141,27 +141,27 @@ released by the Debian Security Team, please subscribe to the
 
 
 <p><strong>New and noteworthy packages</strong></p>
-<p>The following packages were added to the unstable Debian archive recently (<a href="http://packages.debian.org/unstable/main/newpkg">among others</a>):</p>
+<p>The following packages were added to the unstable Debian archive recently (<a href="https://packages.debian.org/unstable/main/newpkg">among others</a>):</p>
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/drupal6">\
+<li><a href="https://packages.debian.org/unstable/main/drupal6">\
 	drupal6 -- a fully-featured content management framework</a></li>
-<li><a href="http://packages.debian.org/unstable/main/kde-i18n-uzcyrillic">\
+<li><a href="https://packages.debian.org/unstable/main/kde-i18n-uzcyrillic">\
 	kde-i18n-uzcyrillic -- Cyrillic Uzbek (uz@cyrillic) internationalized (i18n) files for KDE</a></li>
-<li><a href="http://packages.debian.org/unstable/main/openoffice.org-report-builder-bin">\
+<li><a href="https://packages.debian.org/unstable/main/openoffice.org-report-builder-bin">\
 	openoffice.org-report-builder-bin -- OpenOffice.org Report Builder extension - support libraries</a></li>
-<li><a href="http://packages.debian.org/unstable/main/python-hcluster">\
+<li><a href="https://packages.debian.org/unstable/main/python-hcluster">\
 	python-hcluster -- Python functions for agglomerative clustering</a></li>
-<li><a href="http://packages.debian.org/unstable/main/qmmp">\
+<li><a href="https://packages.debian.org/unstable/main/qmmp">\
 	qmmp -- feature-rich audio player with support of many formats</a></li>
-<li><a href="http://packages.debian.org/unstable/main/rapache">\
+<li><a href="https://packages.debian.org/unstable/main/rapache">\
 	rapache -- apache2 graphical configuration tool</a></li>
-<li><a href="http://packages.debian.org/unstable/main/salasaga">\
+<li><a href="https://packages.debian.org/unstable/main/salasaga">\
 	salasaga -- IDE for development of eLearning applications</a></li>
-<li><a href="http://packages.debian.org/unstable/main/topgit">\
+<li><a href="https://packages.debian.org/unstable/main/topgit">\
 	topgit -- a Git patch queue manager</a></li>
-<li><a href="http://packages.debian.org/unstable/main/virt-top">\
+<li><a href="https://packages.debian.org/unstable/main/virt-top">\
 	virt-top -- show stats of virtualized domains</a></li>
-<li><a href="http://packages.debian.org/unstable/main/warzone2100-music">\
+<li><a href="https://packages.debian.org/unstable/main/warzone2100-music">\
 	warzone2100-music -- music for warzone2100</a></li>
 </ul>
 
@@ -179,7 +179,7 @@ you are interested in or view the complete list of
 <p>Please help us create this newsletter.
 We still need more volunteer writers to watch the Debian community 
 and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing page</a> to find out how to
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing page</a> to find out how to
 help. We're looking forward to receiving your mail at
 <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

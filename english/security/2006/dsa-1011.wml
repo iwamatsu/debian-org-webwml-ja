@@ -6,7 +6,7 @@ identifies the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2005-4347">CVE-2005-4347</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2005-4347">CVE-2005-4347</a>
 
     <p>Bjørn Steinbrink discovered that the chroot barrier is not set
     correctly with util-vserver which may result in unauthorised
@@ -17,7 +17,7 @@ identifies the following problems:</p>
     updating the util-vserver package as well and installing a new
     kernel built from the updated kernel-patch-vserver package.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2005-4418">CVE-2005-4418</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2005-4418">CVE-2005-4418</a>
 
     <p>The default policy of util-vserver is set to trust all unknown
     capabilities instead of considering them as insecure.</p></li>
@@ -41,4 +41,4 @@ kernel-patch-vserver packages and build a new kernel immediately.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2006/dsa-1011.data"
-# $Id: dsa-1011.wml,v 1.3 2011-05-26 10:05:46 rhonda Exp $
+# $Id: dsa-1011.wml,v 1.4 2014/04/30 07:16:09 pabs Exp $

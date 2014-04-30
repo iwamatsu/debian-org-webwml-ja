@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-25" SUMMARY="Freeze, mirror redirector, DebConf11 financial and other reports"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:14 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:42:11 pabs Exp $
 # $Rev: 3956 $
 # Status: [freeze]
 
@@ -84,7 +84,7 @@ triaged, patched, fixed, or at least pinged.
 <p>
 Victor Nițu gave a presentation on the Debian Project, its philosophy and
 achievements, and the global and Romanian communities:
-<a href="http://wiki.debian.org/Presentations#A2012">A universal project,
+<a href="https://wiki.debian.org/Presentations#A2012">A universal project,
 with a global community</a>.
 This is the first local Debian event in Romania after a year and a half of online presence.
 <a href="http://ceata.org/">Fundația Ceata</a>, a local Free Software
@@ -109,7 +109,7 @@ to reach an agreement with the debian-multimedia.org archive maintainers</a>,
 and the ongoing
 <a href="http://www.esrf.eu/events/conferences/debian-for-scientific-facilities-days-1/">Debian
 for Scientific Facilities Days</a> conference that is also hosting a
-<a href="http://wiki.debian.org/Sprints/2012/ScienceSprint">Debian
+<a href="https://wiki.debian.org/Sprints/2012/ScienceSprint">Debian
 Science Sprint</a>.
 Three people replied to his call for help with DPL tasks, and a
 calendar of periodic IRC public meetings will be published soon.
@@ -165,7 +165,7 @@ Six applicants have been
 as Debian Developers, four applicants have been
 <a href="https://lists.debian.org/debian-project/2012/06/msg00139.html">accepted</a>
 as Debian Maintainer, and
-six people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+six people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 # DD
@@ -229,20 +229,20 @@ list</a>) for announcements.
 
 <p>
 393 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/blhc">blhc — build log hardening check</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ciderwebmail">ciderwebmail — IMAP webmail service</a></li>
-<li><a href="http://packages.debian.org/unstable/main/debpear">debpear — tool to build and install automatically PHP PEAR packages as Debian packages</a></li>
-<li><a href="http://packages.debian.org/unstable/main/http-icons">http-icons — classic MIME icons</a></li>
-<li><a href="http://packages.debian.org/unstable/main/icinga-web">icinga-web — host and network monitoring system - modern web interface</a></li>
-<li><a href="http://packages.debian.org/unstable/main/juju">juju — next generation service orchestration system</a></li>
-<li><a href="http://packages.debian.org/unstable/main/looptools">looptools — integral evaluator of one-loop Feynman diagram</a></li>
-<li><a href="http://packages.debian.org/unstable/main/misery">misery — simple accounting package for groups, clubs, holidays</a></li>
-<li><a href="http://packages.debian.org/unstable/main/sushi">sushi — D-Bus-based IRC suite (suite)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/veromix">veromix — mixer for the PulseAudio sound server (GUI)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/blhc">blhc — build log hardening check</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ciderwebmail">ciderwebmail — IMAP webmail service</a></li>
+<li><a href="https://packages.debian.org/unstable/main/debpear">debpear — tool to build and install automatically PHP PEAR packages as Debian packages</a></li>
+<li><a href="https://packages.debian.org/unstable/main/http-icons">http-icons — classic MIME icons</a></li>
+<li><a href="https://packages.debian.org/unstable/main/icinga-web">icinga-web — host and network monitoring system - modern web interface</a></li>
+<li><a href="https://packages.debian.org/unstable/main/juju">juju — next generation service orchestration system</a></li>
+<li><a href="https://packages.debian.org/unstable/main/looptools">looptools — integral evaluator of one-loop Feynman diagram</a></li>
+<li><a href="https://packages.debian.org/unstable/main/misery">misery — simple accounting package for groups, clubs, holidays</a></li>
+<li><a href="https://packages.debian.org/unstable/main/sushi">sushi — D-Bus-based IRC suite (suite)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/veromix">veromix — mixer for the PulseAudio sound server (GUI)</a></li>
 </ul>
 
 

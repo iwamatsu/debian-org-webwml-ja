@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-02-20" SUMMARY="Goodbye Lenny, GNU/Hurd on the rails, multiarch-ready dpkg"
 
-# $Id: index.wml,v 1.3 2014/04/29 15:27:09 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 07:42:08 pabs Exp $
 # $Rev: 3226 $
 # Status: [frozen]
 
@@ -36,7 +36,7 @@ with a graphical interface.
 Samuel wants to thank Richard Braun who provided a new and faster 
 Debian porter box, immediately accessible to Debian Developers.
 For more information on Debian GNU/Hurd, you can visit the 
-<a href="http://wiki.debian.org/Debian_GNU/Hurd">Debian wiki</a>.
+<a href="https://wiki.debian.org/Debian_GNU/Hurd">Debian wiki</a>.
 </p>
 
 
@@ -125,7 +125,7 @@ Guido Trotter.
 
 <p>
 Ton Roosendaal, creator of 
-<a href="http://packages.debian.org/squeeze/blender">Blender</a>
+<a href="https://packages.debian.org/squeeze/blender">Blender</a>
 and the head of the Blender Institute, mentioned in an
 <a href="http://letsfollowthewhiterabbit.blogspot.com/2012/02/interviewing-ton-roosendaal-will-it.html">interview</a>
 that they use Debian for the render farm nodes.
@@ -184,7 +184,7 @@ Send an email to the <a href="mailto:events@debian.org">Debian Events Team</a>.
 <toc-add-entry name="newcontributors">New Debian Contributors</toc-add-entry>
 
 	<p>
-Fourteen people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+Fourteen people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 Peter Drysdale,
@@ -215,7 +215,7 @@ Daniel Jared Dominguez
 # in the view of the release managers 637 need to be dealt with for the
 # release to happen.
 
-	<p>According to the <a href="http://udd.debian.org/bugs.cgi">Bugs Search
+	<p>According to the <a href="https://udd.debian.org/bugs.cgi">Bugs Search
         interface of the Ultimate Debian Database</a>, the upcoming release,
 	Debian 7.0 <q>Wheezy</q>, is currently affected by
 613 Release-Critical bugs. Ignoring bugs which are easily solved
@@ -224,7 +224,7 @@ Daniel Jared Dominguez
 	release to happen.</p>
 
 	<p>There are also some <a
-	href="http://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
+	href="https://wiki.debian.org/ProjectNews/RC-Stats">hints on how to
 	interpret</a> these numbers.</p>
 
 
@@ -259,17 +259,17 @@ list</a>) for announcements.
 
 <p>
 572 packages were added to the unstable Debian archive
-recently. <a href="http://packages.debian.org/unstable/main/newpkg">Among
+recently. <a href="https://packages.debian.org/unstable/main/newpkg">Among
 many others</a> are:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/burp">burp &mdash; simple network backup and restore program</a></li>
-<li><a href="http://packages.debian.org/unstable/main/fake-hwclock">fake-hwclock &mdash; save and restore system clock on machines without working realtime clock</a></li>
-<li><a href="http://packages.debian.org/unstable/main/gnome-shell-extensions">gnome-shell-extensions &mdash; extend functionality of GNOME Shell</a></li>
-<li><a href="http://packages.debian.org/unstable/main/ical2html">ical2html &mdash; create an HTML table from icalendar data</a></li>
-<li><a href="http://packages.debian.org/unstable/main/pchar">pchar &mdash; characterize the bandwidth, latency and loss on network links</a></li>
-<li><a href="http://packages.debian.org/unstable/main/smartdimmer">smartdimmer &mdash; change LCD brightness on GeForce cards</a></li>
-<li><a href="http://packages.debian.org/unstable/main/weboob">weboob &mdash; CLI applications to interact with websites</a></li>
+<li><a href="https://packages.debian.org/unstable/main/burp">burp &mdash; simple network backup and restore program</a></li>
+<li><a href="https://packages.debian.org/unstable/main/fake-hwclock">fake-hwclock &mdash; save and restore system clock on machines without working realtime clock</a></li>
+<li><a href="https://packages.debian.org/unstable/main/gnome-shell-extensions">gnome-shell-extensions &mdash; extend functionality of GNOME Shell</a></li>
+<li><a href="https://packages.debian.org/unstable/main/ical2html">ical2html &mdash; create an HTML table from icalendar data</a></li>
+<li><a href="https://packages.debian.org/unstable/main/pchar">pchar &mdash; characterize the bandwidth, latency and loss on network links</a></li>
+<li><a href="https://packages.debian.org/unstable/main/smartdimmer">smartdimmer &mdash; change LCD brightness on GeForce cards</a></li>
+<li><a href="https://packages.debian.org/unstable/main/weboob">weboob &mdash; CLI applications to interact with websites</a></li>
 
 </ul>
 
@@ -287,7 +287,7 @@ many others</a> are:</p>
 
 <p>Please help us create this newsletter. We still need more volunteer writers
 to watch the Debian community and report about what is going on. Please see the
-<a href="http://wiki.debian.org/ProjectNews/HowToContribute">contributing
+<a href="https://wiki.debian.org/ProjectNews/HowToContribute">contributing
 page</a> to find out how to help. We're looking forward to receiving your mail
 at <a href="mailto:debian-publicity@lists.debian.org">debian-publicity@lists.debian.org</a>.</p>
 

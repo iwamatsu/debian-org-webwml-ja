@@ -5,7 +5,7 @@ server:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-2143">CVE-2012-2143</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-2143">CVE-2012-2143</a>
 
 	<p>The crypt(text, text) function in the pgcrypto contrib module
 	did not handle certain passwords correctly when producing
@@ -13,7 +13,7 @@ server:</p>
 	0x80 byte were ignored.</p>
 </li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-2655">CVE-2012-2655</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-2655">CVE-2012-2655</a>
 
 	<p>SECURITY DEFINER and SET attributes for a call handler of a
 	procedural language could crash the database server.</p>
@@ -35,4 +35,4 @@ version 8.4.12-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2491.data"
-# $Id: dsa-2491.wml,v 1.2 2012-06-09 13:45:44 fw Exp $
+# $Id: dsa-2491.wml,v 1.3 2014/04/30 07:16:29 pabs Exp $

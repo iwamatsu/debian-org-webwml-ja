@@ -7,14 +7,14 @@ the following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1169">CVE-2009-1169</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1169">CVE-2009-1169</a>
 
     <p>Security researcher Guido Landi discovered that a XSL stylesheet could
     be used to crash the browser during a XSL transformation. An attacker
     could potentially use this crash to run arbitrary code on a victim's
     computer.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1044">CVE-2009-1044</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1044">CVE-2009-1044</a>
 
     <p>Security researcher Nils reported via TippingPoint's Zero Day Initiative
     that the XUL tree method _moveToEdgeShift was in some cases triggering
@@ -45,4 +45,4 @@ version 1.9.0.8-1</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1756.data"
-# $Id: dsa-1756.wml,v 1.2 2010-12-17 14:39:31 taffit-guest Exp $
+# $Id: dsa-1756.wml,v 1.3 2014/04/30 07:16:18 pabs Exp $

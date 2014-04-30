@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian participates in Google's Summer of Code</define-tag>
 <define-tag release_date>2006-05-08</define-tag>
 #use wml::debian::news
-# $Id: 20060508.wml,v 1.4 2008-11-06 12:22:48 joey Exp $
+# $Id: 20060508.wml,v 1.5 2014/04/30 07:41:21 pabs Exp $
 
 <p>The Debian project participates in this year's Summer of Code.  More
 than 50 development tasks cover general improvements, quality
@@ -25,7 +25,7 @@ list of accepted student proposals.  Participants will work on
 fulfilling the tasks until August 21st.</p>
 
 <p>Debian's task proposals are listed in the <a
-href="http://wiki.debian.org/SummerOfCode2006">Wiki</a>.</p>
+href="https://wiki.debian.org/SummerOfCode2006">Wiki</a>.</p>
 
 <p>The Summer of Code is documented on Google's <a
 href="http://code.google.com/soc/">website</a>.</p>

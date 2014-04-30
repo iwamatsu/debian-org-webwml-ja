@@ -1,5 +1,5 @@
 # Status: content-frozen
-# $Id: 20110330.wml,v 1.1 2011-03-30 10:36:59 tolimar Exp $
+# $Id: 20110330.wml,v 1.2 2014/04/30 07:41:23 pabs Exp $
 # $Rev: 1913 $
 
 <define-tag pagetitle>Debian welcomes student applications for Google Summer of Code 2011</define-tag>
@@ -30,7 +30,7 @@ source projects.</p>
 
 <p>Further information about applying for <em>Google Summer of
 Code</em> at Debian can be found at: <a
-href="http://wiki.debian.org/gsoc">http://wiki.debian.org/gsoc</a></p>
+href="https://wiki.debian.org/gsoc">https://wiki.debian.org/gsoc</a></p>
 
 <h2>About <em>Google Summer of Code</em></h2>
 

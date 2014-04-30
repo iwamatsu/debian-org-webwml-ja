@@ -5,12 +5,12 @@ package for the Java Spring framework.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2014-0054">CVE-2014-0054</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-0054">CVE-2014-0054</a>
 
     <p>Jaxb2RootElementHttpMessageConverter in Spring MVC processes
     external XML entities.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2014-1904">CVE-2014-1904</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-1904">CVE-2014-1904</a>
 
     <p>Spring MVC introduces a cross-site scripting vulnerability if the
     action on a Spring form is not specified.</p></li>
@@ -28,4 +28,4 @@ version 3.0.6.RELEASE-6+deb7u3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2890.data"
-# $Id: dsa-2890.wml,v 1.1 2014/03/30 19:18:25 gusnan-guest Exp $
+# $Id: dsa-2890.wml,v 1.2 2014/04/30 07:16:34 pabs Exp $

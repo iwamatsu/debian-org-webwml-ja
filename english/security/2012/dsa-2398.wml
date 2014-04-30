@@ -6,14 +6,14 @@ following problems:</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2011-3389">CVE-2011-3389</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2011-3389">CVE-2011-3389</a>
 
    <p>This update enables OpenSSL workarounds against the <q>BEAST</q> attack.
    Additional information can be found in the <a
    href="http://curl.haxx.se/docs/adv_20120124B.html">cURL advisory</a>
    </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2012-0036">CVE-2012-0036</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2012-0036">CVE-2012-0036</a>
 
    <p>Dan Fandrich discovered that cURL performs insufficient sanitising
    when extracting the file path part of an URL.</p></li>
@@ -34,4 +34,4 @@ version 7.24.0-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2012/dsa-2398.data"
-# $Id: dsa-2398.wml,v 1.2 2012-03-31 20:39:16 taffit Exp $
+# $Id: dsa-2398.wml,v 1.3 2014/04/30 07:16:28 pabs Exp $

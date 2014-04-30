@@ -1,10 +1,10 @@
-#use wml::debian::translation-check translation="1.1"
+#use wml::debian::translation-check translation="1.2"
 <define-tag description>設計ミス</define-tag>
 <define-tag moreinfo>
 
 <p>キャッシング DNS サーバ Unbound に、細工したクエリ処理後に DNSSEC で
 署名されたゾーンに対する応答を行わなくなるという欠陥が発見されました
-(<a href="http://security-tracker.debian.org/tracker/CVE-2009-4008">CVE-2009-4008</a>)。</p>
+(<a href="https://security-tracker.debian.org/tracker/CVE-2009-4008">CVE-2009-4008</a>)。</p>
 
 <p>加えて今回の更新では lenny 収録版の Unbound の DNSSEC 対応レベルを向
 上させ、ルートゾーンに対するトラストアンカをシステム管理者が設定でき
@@ -21,4 +21,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2243.data"
-# $Id: dsa-2243.wml,v 1.1 2011-05-30 00:37:57 kmuto Exp $
+# $Id: dsa-2243.wml,v 1.2 2014/04/30 07:17:18 pabs Exp $

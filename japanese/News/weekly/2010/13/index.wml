@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2010-10-04" SUMMARY="Constant Usable Testing、FTP チームからの一言、Google Summer of Code、Publicity チームからの一言"
 #use wml::debian::acronyms
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1.7"
 
 <!--
  Copyright (c) 2010 Alexander Reichle-Schmehl
@@ -95,7 +95,7 @@ Summer of Code</q> への Debian の参加に関する報告</a>を書きまし�
 化</q>から<q>バグレポートのデバッグ作業と操作 API</q> までと、<q>Aptitude Qt</q>
 から <q>Neo FreeRunner とハンドヘルドデバイスにおける Debian-Installer</q>
 までに及びました。より詳しい情報は <a
-href="http://wiki.debian.org/gsoc">Debian ウィキ</a>を参照してください。</p>
+href="https://wiki.debian.org/gsoc">Debian ウィキ</a>を参照してください。</p>
 
 
 <toc-add-entry name="pub">Publicity チームからの一言</toc-add-entry>
@@ -105,7 +105,7 @@ href="https://lists.debian.org/20100914103636.GS12469@melusine.alphascorpii.net"
 開発者、貢献者、コミュニティ向けに Publicity チームと連絡を取る最良の方法と、チームを手伝う方法を述べています。Publicity
 チームを手伝うには、Debian プロジェクトニュースを手伝うこと (これを読み続けたいでしょ?)、Debian の公式 <a
 href="http://identi.ca/debian">identi.ca アカウント</a>に<q>投稿</q>を提案すること、<a
-href="http://wiki.debian.org/ThisWeekInDebian">今週の Debian</a> ポッドキャストに参加することなどがあります。</p>
+href="https://wiki.debian.org/ThisWeekInDebian">今週の Debian</a> ポッドキャストに参加することなどがあります。</p>
 
 
 <toc-add-entry name="other">その他のニュース</toc-add-entry>
@@ -156,7 +156,7 @@ debian-installer を基にしたインストーラのアップデートです。
 <toc-add-entry name="newcontributors">Debian の新しい協力者たち</toc-add-entry>
 
 <p>前回のプロジェクトニュースの発行以降、3 人の方々が<a
-href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">\
+href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">\
 パッケージのメンテナンスを始めました</a>。
 Dimitrios Eftaxiopoulos さん、Pierre-Louis Bonicoli さん、Hector Romojaro
 さんを私たちのプロジェクトに歓迎しましょう!</p>
@@ -164,7 +164,7 @@ Dimitrios Eftaxiopoulos さん、Pierre-Louis Bonicoli さん、Hector Romojaro
 
 <toc-add-entry name="rcstats">次期リリースに関するリリースクリティカルバグの統計</toc-add-entry>
 
-<p><a href="http://udd.debian.org/bugs.cgi">Ultimate Debian Database
+<p><a href="https://udd.debian.org/bugs.cgi">Ultimate Debian Database
 のバグ検索インターフェイス</a>によれば、次期リリースである Debian 6.0
 <q>Squeeze</q> には今のところ 301 のリリースクリティカルバグがあります。\
 簡単に修正できるか修正作業が始まっているバグを除けば、およそ 177
@@ -172,7 +172,7 @@ Dimitrios Eftaxiopoulos さん、Pierre-Louis Bonicoli さん、Hector Romojaro
 
 <p><a
 href="http://blog.schmehl.info/Debian/rc-stats/#2010-39">より詳しい統計</a>と、これらの数字を<a
-href="http://wiki.debian.org/ProjectNews/RC-Stats">解釈する方法のヒント</a>を参照できます。</p>
+href="https://wiki.debian.org/ProjectNews/RC-Stats">解釈する方法のヒント</a>を参照できます。</p>
 
 <p>上に挙げた統計は最近新しいデータソースを使うようになり、この統計を前号の統計と比較することはできません。より詳しい情報を得るには <a
 href="http://blog.schmehl.info/2010/09/24#2010-38-2">Alexander さんのブログ</a>を読んで下さい。</p>
@@ -193,14 +193,14 @@ href="https://lists.debian.org/debian-security-announce/">セキュリティメ�
 <toc-add-entry name="nnwp">新規の注目パッケージ</toc-add-entry>
 
 <p>最近、以下のパッケージが不安定版の Debian アーカイブに追加されました。<a
-href="http://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
+href="https://packages.debian.org/unstable/main/newpkg">新規パッケージ</a>からの抜粋:</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/main/dkopp">dkopp &mdash; DVD にフルバックアップやインクリメンタルバックアップ</a></li>
-<li><a href="http://packages.debian.org/unstable/main/input-pad">input-pad &mdash; マウスを使って文字を送信するオンスクリーン入力パッド</a></li>
-<li><a href="http://packages.debian.org/unstable/main/live-manual-html">live-manual-html &mdash; Debian Live - 文書 (HTML)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/live-manual-pdf">live-manual-pdf &mdash; Debian Live - 文書 (PDF)</a></li>
-<li><a href="http://packages.debian.org/unstable/main/postgresql-9.0">postgresql-9.0 &mdash; オブジェクト関係 SQL データベース、バージョン 9.0 サーバ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/dkopp">dkopp &mdash; DVD にフルバックアップやインクリメンタルバックアップ</a></li>
+<li><a href="https://packages.debian.org/unstable/main/input-pad">input-pad &mdash; マウスを使って文字を送信するオンスクリーン入力パッド</a></li>
+<li><a href="https://packages.debian.org/unstable/main/live-manual-html">live-manual-html &mdash; Debian Live - 文書 (HTML)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/live-manual-pdf">live-manual-pdf &mdash; Debian Live - 文書 (PDF)</a></li>
+<li><a href="https://packages.debian.org/unstable/main/postgresql-9.0">postgresql-9.0 &mdash; オブジェクト関係 SQL データベース、バージョン 9.0 サーバ</a></li>
 </ul>
 
 <p><a href="http://www.debian.org/News/2010/20100806">次期 Debian 6.0
@@ -221,7 +221,7 @@ href="https://lists.debian.org/E1OwOon-0006iP-9v@merkel.debian.org">報告</a>�
 
 <p>この会報の作成を手伝ってみませんか? 我々は、Debian コミュニティの活動を眺め、\
 何が起きているのかを報告してくれるボランティアのライターを募集しています。<a
-href="http://wiki.debian.org/ProjectNews/HowToContribute">\
+href="https://wiki.debian.org/ProjectNews/HowToContribute">\
 貢献に関するページ</a>をご覧になって、\
 手助けの具体的な方法をご確認ください。我々はあなたからのメールを <a
 href="mailto:debian-publicity@lists.debian.org">\

@@ -3,7 +3,7 @@
 <p>It was discovered that znc, an IRC proxy/bouncer, does not properly
 sanitize input contained in configuration change requests to the
 webadmin interface.  This allows authenticated users to elevate their
-privileges and indirectly execute arbitrary commands (<a href="http://security-tracker.debian.org/tracker/CVE-2009-0759">CVE-2009-0759</a>).</p>
+privileges and indirectly execute arbitrary commands (<a href="https://security-tracker.debian.org/tracker/CVE-2009-0759">CVE-2009-0759</a>).</p>
 
 <p>For the old stable distribution (etch), this problem has been fixed in
 version 0.045-3+etch2.</p>
@@ -19,4 +19,4 @@ version 0.066-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1735.data"
-# $Id: dsa-1735.wml,v 1.2 2010-12-17 14:39:27 taffit-guest Exp $
+# $Id: dsa-1735.wml,v 1.3 2014/04/30 07:16:18 pabs Exp $

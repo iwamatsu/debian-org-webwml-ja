@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2003 Timeline"
-# $Id: timeline.wml,v 1.15 2014/04/29 15:24:43 pabs Exp $
+# $Id: timeline.wml,v 1.16 2014/04/30 07:41:27 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2003 in the Debian community.  This is
@@ -328,7 +328,7 @@ about 750&nbsp;kB and the Debian project attended about 40 events.</p>
      href="https://lists.debian.org/debian-devel-announce-0309/msg00011.html">\
      announced</a> that the <a
      href="http://www.skolelinux.no/">Skolelinux</a> project and the
-     <a href="http://wiki.debian.org/DebianEdu">Debian-Edu</a>
+     <a href="https://wiki.debian.org/DebianEdu">Debian-Edu</a>
      sub-project will merge.
 
 <li> The first debian-installer <a

@@ -5,13 +5,13 @@ for web application development.</p>
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-0276">CVE-2013-0276</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-0276">CVE-2013-0276</a>
 
 	<p>The blacklist provided by the attr_protected method could be
 	bypassed with crafted requests, having an application-specific
 	impact.</p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2013-0277">CVE-2013-0277</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-0277">CVE-2013-0277</a>
 
 	<p>In some applications, the +serialize+ helper in ActiveRecord
 	could be tricked into deserializing arbitrary YAML data,
@@ -27,4 +27,4 @@ in version 2.3.5-1.2+squeeze7.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2013/dsa-2620.data"
-# $Id: dsa-2620.wml,v 1.1 2013-02-12 21:17:29 victory-guest Exp $
+# $Id: dsa-2620.wml,v 1.2 2014/04/30 07:16:31 pabs Exp $

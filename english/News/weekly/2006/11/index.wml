@@ -1,18 +1,18 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-14" SUMMARY="QA, Backup, Kernel, Stable Updates, GFDL, DPL Role, Haskell"
-# $Id: index.wml,v 1.16 2014/04/29 15:26:17 pabs Exp $
+# $Id: index.wml,v 1.18 2014/04/30 07:41:40 pabs Exp $
 
 <p>Welcome to this year's 11th issue of DWN, the weekly newsletter for the
 Debian community.  Raphaël Hertzog <a
 href="https://lists.debian.org/debian-devel/2006/01/msg01826.html">started</a>
 to write down the design of a <a
-href="http://wiki.debian.org/CollaborativeMaintenance">collaborative
+href="https://wiki.debian.org/CollaborativeMaintenance">collaborative
 maintenance</a> infrastructure and created a mailing list for further
 discussions.</p>
 
 <p><strong>Debian QA Meeting in Extremadura.</strong> Martin Michlmayr <a
 href="https://lists.debian.org/debian-devel-announce/2006/03/msg00006.html">\
 called</a> for participation at the Debian Quality Assurance <a
-href="http://wiki.debian.org/DebianQAExtremadura2006">meeting</a> in December
+href="https://wiki.debian.org/DebianQAExtremadura2006">meeting</a> in December
 in Extremadura, Spain.  It is intended to help coordinate the QA work in
 Debian and is limited to 20 people.  The Region of Extremadura will kindly
 cover travel expenses for attendants from Europe.</p>
@@ -106,31 +106,31 @@ that you update your systems if you have any of these packages installed.</p>
 
 <p><strong>New or Noteworthy Packages.</strong> The following packages were
 added to the unstable Debian archive <a
-href="http://packages.debian.org/unstable/newpkg_main">recently</a> or contain
+href="https://packages.debian.org/unstable/newpkg_main">recently</a> or contain
 important updates.</p>
 
 <ul>
-<li><a href="http://packages.debian.org/unstable/mail/dspam">dspam</a>
+<li><a href="https://packages.debian.org/unstable/mail/dspam">dspam</a>
     -- Scalable, fast and statistical anti-spam filter.</li>
-<li><a href="http://packages.debian.org/unstable/sound/exfalso">exfalso</a>
+<li><a href="https://packages.debian.org/unstable/sound/exfalso">exfalso</a>
     -- Audio tag editor for GTK+.</li>
-<li><a href="http://packages.debian.org/unstable/mail/fullquottel">fullquottel</a>
+<li><a href="https://packages.debian.org/unstable/mail/fullquottel">fullquottel</a>
     -- Tool for recognising mails/postings in tofu/top-posting style.</li>
-<li><a href="http://packages.debian.org/unstable/games/gnudoq">gnudoq</a>
+<li><a href="https://packages.debian.org/unstable/games/gnudoq">gnudoq</a>
     -- Open Source, graphical Su Doku generator and solver with printer support.</li>
-<li><a href="http://packages.debian.org/unstable/admin/gtimelog">gtimelog</a>
+<li><a href="https://packages.debian.org/unstable/admin/gtimelog">gtimelog</a>
     -- Minimal timelogging system.</li>
-<li><a href="http://packages.debian.org/unstable/net/network-manager">network-manager</a>
+<li><a href="https://packages.debian.org/unstable/net/network-manager">network-manager</a>
     -- Network management framework daemon.</li>
-<li><a href="http://packages.debian.org/unstable/admin/nwutil">nwutil</a>
+<li><a href="https://packages.debian.org/unstable/admin/nwutil">nwutil</a>
     -- Netwinder hardware utilities.</li>
-<li><a href="http://packages.debian.org/unstable/admin/pyroman">pyroman</a>
+<li><a href="https://packages.debian.org/unstable/admin/pyroman">pyroman</a>
     -- Firewall configuration tool for complex networks.</li>
-<li><a href="http://packages.debian.org/unstable/admin/selinux-basics">selinux-basics</a>
+<li><a href="https://packages.debian.org/unstable/admin/selinux-basics">selinux-basics</a>
     -- SELinux basic support.</li>
-<li><a href="http://packages.debian.org/unstable/utils/ssft">ssft</a>
+<li><a href="https://packages.debian.org/unstable/utils/ssft">ssft</a>
     -- Shell Scripts Frontend Tool.</li>
-<li><a href="http://packages.debian.org/unstable/games/stroq">stroq</a>
+<li><a href="https://packages.debian.org/unstable/games/stroq">stroq</a>
     -- Polarium/Chokkan Hitofude clone.</li>
 </ul>
 
@@ -142,19 +142,19 @@ the full list, and please add a note to the bug report and retitle it to ITA:
 if you plan to take over a package.</p>
 
 <ul>
-<li> <a href="http://packages.debian.org/unstable/x11/unifont">unifont</a>
+<li> <a href="https://packages.debian.org/unstable/x11/unifont">unifont</a>
      -- X11 dual-width GNU Unicode font.
      (<a href="https://bugs.debian.org/356594">Bug#356594</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/games/visualboyadvance">visualboyadvance</a>
+<li> <a href="https://packages.debian.org/unstable/games/visualboyadvance">visualboyadvance</a>
      -- Full featured Game Boy Advance emulator.
      (<a href="https://bugs.debian.org/355777">Bug#355777</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/net/wmdonkeymon">wmdonkeymon</a>
+<li> <a href="https://packages.debian.org/unstable/net/wmdonkeymon">wmdonkeymon</a>
      -- Shows the status of edonkey's downloads in progress.
      (<a href="https://bugs.debian.org/356667">Bug#356667</a>)
      </li>
-<li> <a href="http://packages.debian.org/unstable/x11/wmmisc">wmmisc</a>
+<li> <a href="https://packages.debian.org/unstable/x11/wmmisc">wmmisc</a>
      -- Dock app that monitors your system.
      (<a href="https://bugs.debian.org/356588">Bug#356588</a>)
      </li>

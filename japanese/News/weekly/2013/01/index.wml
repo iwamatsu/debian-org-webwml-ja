@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-07" SUMMARY="<tt>wiki.debian.org</tt> セキュリティ侵害、DPL からの一言"
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.4"
 
 # $Rev: 4529 $
 # Status: [frozen]
@@ -13,7 +13,7 @@
 <p>Debian ウィキの管理者である Steve McIntyre さんは、セキュリティ侵害が起きたために<a
 href="https://lists.debian.org/debian-devel-announce/2013/01/msg00000.html">すべての <tt>wiki.debian.org</tt>
 アカウントパスワードをリセットしたこと</a>を発表しました。ウィキアカウントを回復させるには<a
-href="http://wiki.debian.org/FrontPage?action=recoverpass">パスワード回復手続き</a>に従ってください。メールの中で
+href="https://wiki.debian.org/FrontPage?action=recoverpass">パスワード回復手続き</a>に従ってください。メールの中で
 Steve さんは Debian セキュリティチームは <tt>wiki.debian.org</tt> で悪用された moin パッケージの<a
 href="http://www.debian.org/security/2012/dsa-2593">脆弱性</a>を最近発見したと説明しました。Debian
 ウィキは別のサーバに移され、古いサーバに対する調査が進められています。</p>
@@ -60,7 +60,7 @@ Debian チームに関する活動統計</a>が更新され、統計に 2012
 <newcontributors
 	dd-url="https://nm.debian.org/public/nmlist#done"
 	dm-url="https://lists.debian.org/E1Sta5X-0005lb-Ap@franck.debian.org"
-	uploader-url="http://udd.debian.org/cgi-bin/new-maintainers.cgi"
+	uploader-url="https://udd.debian.org/cgi-bin/new-maintainers.cgi"
 	post-name=" さん"
 >
 ## here the name of the new dds, dms, uploaders

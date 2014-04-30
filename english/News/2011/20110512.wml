@@ -4,7 +4,7 @@
 #use wml::debian::news
 
 # Status: sent
-# $Id: 20110512.wml,v 1.4 2011-05-12 21:45:01 taffit-guest Exp $
+# $Id: 20110512.wml,v 1.6 2014/04/30 07:41:23 pabs Exp $
 # $Rev: -1 $
 
 
@@ -31,8 +31,8 @@ says Peter.</p>
 <h2>Usage of Domain Name Security Extensions</h2>
 
 <p>Probably the easiest way to use DNSSEC is the usage of the <a
-href="http://packages.debian.org/unbound">unbound</a> package as resolver.
-Please see <a href="http://wiki.debian.org/DNSSEC">wiki page</a> for details on
+href="https://packages.debian.org/unbound">unbound</a> package as resolver.
+Please see <a href="https://wiki.debian.org/DNSSEC">wiki page</a> for details on
 how to use unbound and DNSSEC.</p>
 
 

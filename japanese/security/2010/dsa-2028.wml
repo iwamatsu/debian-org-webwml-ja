@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.2"
+#use wml::debian::translation-check translation="1.3"
 <define-tag description>複数の脆弱性</define-tag>
 <define-tag moreinfo>
 
@@ -10,7 +10,7 @@
 
 <ul>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-1188">CVE-2009-1188</a> and <a href="http://security-tracker.debian.org/tracker/CVE-2009-3603">CVE-2009-3603</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-1188">CVE-2009-1188</a> and <a href="https://security-tracker.debian.org/tracker/CVE-2009-3603">CVE-2009-3603</a>
 
     <p>
    SplashBitmap::SplashBitmap に整数オーバフローがあり、リモートの攻撃
@@ -18,7 +18,7 @@
    ョンのクラッシュを実行可能です。
     </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-3604">CVE-2009-3604</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-3604">CVE-2009-3604</a>
 
     <p>
    NULL pointer dereference or heap-based buffer overflow in
@@ -28,7 +28,7 @@
    を実行可能です。
     </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-3606">CVE-2009-3606</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-3606">CVE-2009-3606</a>
 
 
     <p>
@@ -37,7 +37,7 @@
    ドを実行可能です。
     </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-3608">CVE-2009-3608</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-3608">CVE-2009-3608</a>
 
 
     <p>
@@ -46,7 +46,7 @@
    ドを実行可能です。
     </p></li>
 
-<li><a href="http://security-tracker.debian.org/tracker/CVE-2009-3609">CVE-2009-3609</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2009-3609">CVE-2009-3609</a>
 
 
     <p>
@@ -70,4 +70,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2028.data"
-# $Id: dsa-2028.wml,v 1.2 2010-12-17 14:27:51 taffit-guest Exp $
+# $Id: dsa-2028.wml,v 1.3 2014/04/30 07:17:16 pabs Exp $
