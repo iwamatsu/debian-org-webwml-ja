@@ -4,38 +4,38 @@
 <p>Welcome to this year's 33rd issue of DWN, the weekly newsletter for the
 Debian community.  A lot of work has been done to help release sarge soon.
 Several recommendations and removals were requested on the <a
-href="http://lists.debian.org/debian-release/">debian-release</a> list.  Claus
+href="https://lists.debian.org/debian-release/">debian-release</a> list.  Claus
 Fischer even <a
-href="http://lists.debian.org/debian-release/2004/08/msg00355.html">\
+href="https://lists.debian.org/debian-release/2004/08/msg00355.html">\
 requested</a> to document important issues in the release notes.  Jeroen van
 Wolffelaar <a
-href="http://lists.debian.org/debian-devel-announce/2004/08/msg00009.html">\
+href="https://lists.debian.org/debian-devel-announce/2004/08/msg00009.html">\
 asked</a> maintainers to answer some <a
 href="http://www.wolffelaar.nl/~sarge/">questions</a> if they maintain one or
 more packages with different versions in sarge and sid in order to help the
 release management.</p>
 
 <p><strong>KDE Package Descriptions.</strong> Enrico Zini <a
-href="http://lists.debian.org/debian-devel/2004/08/msg00878.html">noticed</a>
+href="https://lists.debian.org/debian-devel/2004/08/msg00878.html">noticed</a>
 that the description of many packages containing KDE components start with the
 same four line text describing KDE.  He believes that it would make more sense
 to first describe the package and then describe KDE.  This affects 75
 packages.</p>
 
 <p><strong>Reusing a Package Name?</strong> Jesus Gonzalez-Barahona <a
-href="http://lists.debian.org/debian-devel/2004/08/msg00952.html">wondered</a>
+href="https://lists.debian.org/debian-devel/2004/08/msg00952.html">wondered</a>
 if he could reuse <code>cil</code> as package name for the <a
 href="http://manju.cs.berkeley.edu/cil/">C Intermediate Language</a> since
 Debian already ships <a href="http://packages.debian.org/stable/doc/cil">Chess
 in Lisp</a> in its stable release.  Peter Van Eynde <a
-href="http://lists.debian.org/debian-devel/2004/08/msg01043.html">revealed</a>
+href="https://lists.debian.org/debian-devel/2004/08/msg01043.html">revealed</a>
 that the package was renamed.  Thomas Viehmann <a
-href="http://lists.debian.org/debian-devel/2004/08/msg01049.html">explained</a>
+href="https://lists.debian.org/debian-devel/2004/08/msg01049.html">explained</a>
 that most systems upgraded from woody to sarge and only then to etch won't
 have a <code>cil</code> package anymore due to its renaming.</p>
 
 <p><strong>Web Application Maintenance.</strong> Kai Hendry <a
-href="http://lists.debian.org/debian-devel/2004/08/msg01104.html">tried</a> to
+href="https://lists.debian.org/debian-devel/2004/08/msg01104.html">tried</a> to
 unify maintenance of web application in Debian.  He asserted that their
 installation is often painful since they need to modify a database and the
 webserver.  The <a href="http://packages.debian.org/mysql-server">\
@@ -44,24 +44,24 @@ setup users and databases.  A proper mechanism for Apache is not yet
 implemented, though.</p>
 
 <p><strong>Viewing the Buildd Queue.</strong> Andrew Pollock <a
-href="http://lists.debian.org/debian-devel/2004/08/msg01164.html">wondered</a>
+href="https://lists.debian.org/debian-devel/2004/08/msg01164.html">wondered</a>
 if there was an easy way to view the buildd progress other than <a
-href="http://buildd.debian.org/">buildd.debian.org</a> and <a
+href="https://buildd.debian.org/">buildd.debian.org</a> and <a
 href="http://www.buildd.org/">www.buildd.org</a>.  Michael Koch <a
-href="http://lists.debian.org/debian-devel/2004/08/msg01170.html">\
+href="https://lists.debian.org/debian-devel/2004/08/msg01170.html">\
 contributed</a> this <a
 href="http://people.debian.org/~igloo/status.php">page</a> by Ian Lynagh.
 Goswin von Brederlow <a
-href="http://lists.debian.org/debian-devel/2004/08/msg01172.html">mentioned</a>
+href="https://lists.debian.org/debian-devel/2004/08/msg01172.html">mentioned</a>
 the per-architecture index pages that link to more detailed lists of
 packages.</p>
 
 <p><strong>No free Debian Logo?</strong> Roger Leigh recently <a
-href="http://bugs.debian.org/265352">noticed</a> that the <a
+href="https://bugs.debian.org/265352">noticed</a> that the <a
 href="http://packages.debian.org/grub">grub</a> package has splash image
 support but no splash images.  Robert Millan later wondered if the "Open Use"
 logo is <a href="$(HOME)/social_contract#guidelines">DFSG</a>-free.  David
-Schleef <a href="http://lists.debian.org/debian-legal/2004/08/msg00368.html">\
+Schleef <a href="https://lists.debian.org/debian-legal/2004/08/msg00368.html">\
 confirmed</a> that the Debian Open Use Logo License is generally considered to
 be non-DFSG free.</p>
 
@@ -181,75 +181,75 @@ if you plan to take over a package.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/devel/astyle">astyle</a>
      -- Source code indenter for C++/C/Java source code.
-     (<a href="http://bugs.debian.org/266457">Bug#266457</a>)
+     (<a href="https://bugs.debian.org/266457">Bug#266457</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/autogen">autogen</a>
      -- Automated option processing library for autogen - development.
-     (<a href="http://bugs.debian.org/266458">Bug#266458</a>)
+     (<a href="https://bugs.debian.org/266458">Bug#266458</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/beecrypt2">beecrypt</a>
      -- Open source C library of cryptographic algorithms.
-     (<a href="http://bugs.debian.org/266469">Bug#266469</a>)
+     (<a href="https://bugs.debian.org/266469">Bug#266469</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/clig">clig</a>
      -- Command Line Interpreter Generator.
-     (<a href="http://bugs.debian.org/266485">Bug#266485</a>)
+     (<a href="https://bugs.debian.org/266485">Bug#266485</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/gengetopt">gengetopt</a>
      -- Skeleton main.c generator.
-     (<a href="http://bugs.debian.org/266484">Bug#266484</a>)
+     (<a href="https://bugs.debian.org/266484">Bug#266484</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/genparse">genparse</a>
      -- Command line parser generator.
-     (<a href="http://bugs.debian.org/266468">Bug#266468</a>)
+     (<a href="https://bugs.debian.org/266468">Bug#266468</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/gnome/gtktalog">gtktalog</a>
      -- Disk catalog.
-     (<a href="http://bugs.debian.org/266305">Bug#266305</a>)
+     (<a href="https://bugs.debian.org/266305">Bug#266305</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/ifhp">ifhp</a>
      -- Printer filter for HP LaserJet printers.
-     (<a href="http://bugs.debian.org/266467">Bug#266467</a>)
+     (<a href="https://bugs.debian.org/266467">Bug#266467</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libcrypt-cracklib-perl">libcrypt-cracklib-perl</a>
      -- Perl interface to Alec Muffett's Cracklib.
-     (<a href="http://bugs.debian.org/266465">Bug#266465</a>)
+     (<a href="https://bugs.debian.org/266465">Bug#266465</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libdigest-md4-perl">libdigest-md4-perl</a>
      -- MD4 Message Digest for Perl.
-     (<a href="http://bugs.debian.org/266464">Bug#266464</a>)
+     (<a href="https://bugs.debian.org/266464">Bug#266464</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libio-multiplex-perl">libio-multiplex-perl</a>
      -- Object-oriented interface to select() for perl.
-     (<a href="http://bugs.debian.org/266463">Bug#266463</a>)
+     (<a href="https://bugs.debian.org/266463">Bug#266463</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libterm-readpassword-perl">libterm-readpassword-perl</a>
      -- Ask the user for a password.
-     (<a href="http://bugs.debian.org/266461">Bug#266461</a>)
+     (<a href="https://bugs.debian.org/266461">Bug#266461</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libtool1.4">libtool1.4</a>
      -- Generic library support script.
-     (<a href="http://bugs.debian.org/266387">Bug#266387</a>)
+     (<a href="https://bugs.debian.org/266387">Bug#266387</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/penggy">penggy</a>
      -- Allows you to connect to AOL via modem or TCP/IP.
-     (<a href="http://bugs.debian.org/266325">Bug#266325</a>)
+     (<a href="https://bugs.debian.org/266325">Bug#266325</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/sins">sins</a>
      -- Snake game playable with only one key.
-     (<a href="http://bugs.debian.org/266326">Bug#266326</a>)
+     (<a href="https://bugs.debian.org/266326">Bug#266326</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/snmptrapfmt">snmptrapfmt</a>
      -- Configurable snmp trap handler daemon for snmpd.
-     (<a href="http://bugs.debian.org/266820">Bug#266820</a>)
+     (<a href="https://bugs.debian.org/266820">Bug#266820</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/wmtz">wmtz</a>
      -- wmaker dock app that displays the time in different zones.
-     (<a href="http://bugs.debian.org/266462">Bug#266462</a>)
+     (<a href="https://bugs.debian.org/266462">Bug#266462</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/wyg">wyg</a>
      -- (Where's Your Grammar?) command line parser generator.
-     (<a href="http://bugs.debian.org/266460">Bug#266460</a>)
+     (<a href="https://bugs.debian.org/266460">Bug#266460</a>)
      </li>
 </ul>
 

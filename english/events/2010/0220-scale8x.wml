@@ -29,8 +29,8 @@ access pass to the show.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0220-scale8x.wml,v 1.4 2010-03-30 08:43:38 tolimar Exp $
+# $Id: 0220-scale8x.wml,v 1.5 2014/04/29 15:28:04 pabs Exp $
 #Related Links here (free form)
 <ul>
-  <li><a href="http://lists.debian.org/debian-events-na/2010/01/msg00004.html">Announcement for the 50% discount</a></li>
+  <li><a href="https://lists.debian.org/debian-events-na/2010/01/msg00004.html">Announcement for the 50% discount</a></li>
 </ul>

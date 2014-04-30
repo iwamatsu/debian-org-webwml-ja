@@ -11,7 +11,7 @@ Thomas Bliesener and Andreas Schuldei.  However, the new <a
 href="http://www.usk.de/JuSchG/">law</a> in Germany was real.</p>
 
 <p><strong>SPI Resolutions about Donations.</strong> Bdale Garbee <a
-href="http://lists.debian.org/debian-devel-announce-0304/msg00000.html">\
+href="https://lists.debian.org/debian-devel-announce-0304/msg00000.html">\
 reported</a> about the most recent board meeting of <a
 href="http://www.spi-inc.org/">Software in the Public Interest, Inc.</a>
 (SPI).  Donations prior to January 2002 for which not enough documentation
@@ -42,9 +42,9 @@ a fine OS!  In the article Jonathan describes in detail how the installer
 works and how packages are installed.</p>
 
 <p><strong>Policy compliant init Scripts.</strong> Bill Allombert <a
-href="http://lists.debian.org/debian-devel-0304/msg00079.html">noticed</a>
+href="https://lists.debian.org/debian-devel-0304/msg00079.html">noticed</a>
 that a lot of init.d scripts <a
-href="http://lists.debian.org/debian-devel-0304/msg00100.html">fail</a> to
+href="https://lists.debian.org/debian-devel-0304/msg00100.html">fail</a> to
 implement policy properly.  Bill wants all init.d script to behave the same
 and supposed to standardise on the <a
 href="http://www.linuxbase.org/spec/refspecs/LSB_1.3.0/gLSB/gLSB/iniscrptact.html">\
@@ -53,14 +53,14 @@ LSB 1.3</a> which has an extended description of init.d scripts behaviour.</p>
 <p><strong>Debian Usability Research.</strong> After the enthusiasm gathered at
 the <a href="$(HOME)/events/2003/0120-linuxconf">Linux Conference
 Australia</a>, Enrico Zini <a
-href="http://lists.debian.org/debian-devel-0304/msg00127.html">announced</a>
+href="https://lists.debian.org/debian-devel-0304/msg00127.html">announced</a>
 the birth of a new <a href="http://deb-usability.alioth.debian.org">Debian
 effort</a>.  The Debian Usability Research is a volunteer research effort
 focused on identifying and addressing Debian-specific usability issues, not
 necessarily tied to the desktop.</p>
 
 <p><strong>First Metadistros Coordination Meeting.</strong> Teófilo Ruiz Suárez
-<a href="http://lists.debian.org/debian-devel-0304/msg00134.html">\
+<a href="https://lists.debian.org/debian-devel-0304/msg00134.html">\
 announced</a> the first project coordination meeting for <a
 href="http://metadistros.hispalinux.es/">Metadistros</a>, which tries to
 simplify the process of building customized Debian-based distributions (<a
@@ -69,11 +69,11 @@ example live CDs.  Hispalinux organises this meeting on April 14th and 15th at
 the Universidad Autónoma of Madrid, Spain.</p>
 
 <p><strong>Revised LaTeX Project Public License.</strong> Jeff Licquia <a
-href="http://lists.debian.org/debian-legal-0304/msg00006.html">posted</a> a
+href="https://lists.debian.org/debian-legal-0304/msg00006.html">posted</a> a
 new working draft of the LaTeX Project Public License (LPPL).  After the
 debate that took place months ago, Jeff and several members of the LaTeX
 Project worked off and on towards solving the <a
-href="http://lists.debian.org/debian-legal-0207/msg00250.html">problems</a>
+href="https://lists.debian.org/debian-legal-0207/msg00250.html">problems</a>
 that had been raised before.  This version, a near-total rewrite, is the
 result.</p>
 
@@ -86,16 +86,16 @@ limits and files attributes.  He hopes that the article can help people get a
 little bit more interest in GNU/Linux security, and specifically with Debian.</p>
 
 <p><strong>Apt-get for Users.</strong>  Thomas Petazzoni <a
-href="http://lists.debian.org/debian-devel-0304/msg00348.html">wondered</a>
+href="https://lists.debian.org/debian-devel-0304/msg00348.html">wondered</a>
 if it would be possible to enable normal users to install software in their
 home directories with <code>apt-get</code> on systems where only the
 administrator has root access.  Chad Walstrom <a
-href="http://lists.debian.org/debian-devel-0304/msg00385.html">pointed
+href="https://lists.debian.org/debian-devel-0304/msg00385.html">pointed
 out</a> several problems with the idea, including binaries with hardcoded
 paths.  Emile van Bergen <a
-href="http://lists.debian.org/debian-devel-0304/msg00391.html">thought</a>
+href="https://lists.debian.org/debian-devel-0304/msg00391.html">thought</a>
 these could be overcome, although Corrin Lakeland <a
-href="http://lists.debian.org/debian-devel-0304/msg00395.html">suggested</a>
+href="https://lists.debian.org/debian-devel-0304/msg00395.html">suggested</a>
 that it might only be achieved by using <code>apt-src</code> instead of
 <code>apt-get</code> because so many packages need to be configured at
 compile time.</p>
@@ -111,7 +111,7 @@ run <code>winesetup</code> as root.  After installing <code>wine</code>,
 <code>winesetup</code> should be run in normal user mode.</p>
 
 <p><strong>Debconf Template Translation Management.</strong> André Luís Lopes
-<a href="http://lists.debian.org/debian-devel-0304/msg00366.html">\
+<a href="https://lists.debian.org/debian-devel-0304/msg00366.html">\
 planned</a> to provide patches for packages that aren't using po-debconf for
 managing debconf template translations yet.  This, however, requires a build
 dependency against po-debconf.  He wonders if a stronger dependency against
@@ -120,7 +120,7 @@ packages to use po-debconf will actually make things worse for backporters who
 are trying to make packages build correctly on woody.</p>
 
 <p><strong>Familiar Packages for Debian?</strong> Russell Coker <a
-href="http://lists.debian.org/debian-devel-0304/msg00398.html">pondered</a>
+href="https://lists.debian.org/debian-devel-0304/msg00398.html">pondered</a>
 packaging the <a href="http://familiar.handhelds.org/">Familiar
 distribution</a> of Linux for Debian.  It consists of a
 boot loader (non-linux binary), an image of the root file system (JFFS2 file
@@ -188,85 +188,85 @@ if you plan to take over a package.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/text/blatte">blatte</a>
      -- Powerful text markup and transformation language.
-     (<a href="http://bugs.debian.org/188179">Bug#188179</a>)</li>
+     (<a href="https://bugs.debian.org/188179">Bug#188179</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/sound/cdcd">cdcd</a>
      -- Command line or console based CD player.
-     (<a href="http://bugs.debian.org/188044">Bug#188044</a>)</li>
+     (<a href="https://bugs.debian.org/188044">Bug#188044</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/devel/dia2code">dia2code</a>
      -- Dia-UML to C/C++/Java code generator.
-     (<a href="http://bugs.debian.org/187731">Bug#187731</a>)</li>
+     (<a href="https://bugs.debian.org/187731">Bug#187731</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/non-us/exim-tls">exim-tls</a>
      -- Exim Mailer - with TLS (SSL) support.
-     (<a href="http://bugs.debian.org/188170">Bug#188170</a>)</li>
+     (<a href="https://bugs.debian.org/188170">Bug#188170</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/filerunner">filerunner</a>
      -- X-Based FTP program &amp; file manager.
-     (<a href="http://bugs.debian.org/188175">Bug#188175</a>)</li>
+     (<a href="https://bugs.debian.org/188175">Bug#188175</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/text/gnuhtml2latex">gnuhtml2latex</a>
      -- Perl script that converts html files to latex.
-     (<a href="http://bugs.debian.org/188174">Bug#188174</a>)</li>
+     (<a href="https://bugs.debian.org/188174">Bug#188174</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/misc/greg">greg</a>
      -- Tool testing framework.
-     (<a href="http://bugs.debian.org/188103">Bug#188103</a>)</li>
+     (<a href="https://bugs.debian.org/188103">Bug#188103</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/science/gstar">gstar</a>
      -- GTK front-end for the starchart program.
-     (<a href="http://bugs.debian.org/188183">Bug#188183</a>)</li>
+     (<a href="https://bugs.debian.org/188183">Bug#188183</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/misc/hdate">hdate</a>
      -- Prints Hijra (Islamic lunar) dates, calendar, Islamic prayer times.
-     (<a href="http://bugs.debian.org/188178">Bug#188178</a>)</li>
+     (<a href="https://bugs.debian.org/188178">Bug#188178</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/devel/kernel-patch-2.2.18-openwall">kernel-patch-2.2.18-openwall</a>
      -- patch to add extra security-related features.
-     (<a href="http://bugs.debian.org/188172">Bug#188172</a>)</li>
+     (<a href="https://bugs.debian.org/188172">Bug#188172</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/non-us/kernel-patch-int">kernel-patch-int</a>
      -- International patch for the Linux kernel.
-     (<a href="http://bugs.debian.org/188173">Bug#188173</a>)</li>
+     (<a href="https://bugs.debian.org/188173">Bug#188173</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/latte">latte</a>
      -- The Language for Transforming Text (currently to html).
-     (<a href="http://bugs.debian.org/188177">Bug#188177</a>)</li>
+     (<a href="https://bugs.debian.org/188177">Bug#188177</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/libs/libcdaudio0">libcdaudio</a>
      -- Library for controlling a CD-ROM when playing audio CDs.
-     (<a href="http://bugs.debian.org/188104">Bug#188104</a>)</li>
+     (<a href="https://bugs.debian.org/188104">Bug#188104</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/libs/libnids1">libnids</a>
      -- IP defragmentation TCP segment reassembly library.
-     (<a href="http://bugs.debian.org/188171">Bug#188171</a>)</li>
+     (<a href="https://bugs.debian.org/188171">Bug#188171</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/admin/netenv">netenv</a>
      -- Configure your system for different network environments.
-     (<a href="http://bugs.debian.org/188167">Bug#188167</a>)</li>
+     (<a href="https://bugs.debian.org/188167">Bug#188167</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/utils/quickppp">quickppp</a>
      -- PPP configuration tool.
-     (<a href="http://bugs.debian.org/188176">Bug#188176</a>)</li>
+     (<a href="https://bugs.debian.org/188176">Bug#188176</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/sing">sing</a>
      -- Fully programmable ping replacement.
-     (<a href="http://bugs.debian.org/188168">Bug#188168</a>)</li>
+     (<a href="https://bugs.debian.org/188168">Bug#188168</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/libs/libstringlist0">stringlist</a>
      -- StringList - library for handling misc Enlightenment functions.
-     (<a href="http://bugs.debian.org/188182">Bug#188182</a>)</li>
+     (<a href="https://bugs.debian.org/188182">Bug#188182</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/utils/tardy">tardy</a>
      -- tar(5) post-processor.
-     (<a href="http://bugs.debian.org/188105">Bug#188105</a>)</li>
+     (<a href="https://bugs.debian.org/188105">Bug#188105</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/udhcpd">udhcp</a>
      -- Very small DHCP client and server.
-     (<a href="http://bugs.debian.org/188106">Bug#188106</a>)</li>
+     (<a href="https://bugs.debian.org/188106">Bug#188106</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/webbase">webbase</a>
      -- Crawler/indexer for the Internet.
-     (<a href="http://bugs.debian.org/187261">Bug#187261</a>)</li>
+     (<a href="https://bugs.debian.org/187261">Bug#187261</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/xcb">xcb</a>
      -- Pigeon holes for your cut and paste selections.
-     (<a href="http://bugs.debian.org/187732">Bug#187732</a>)</li>
+     (<a href="https://bugs.debian.org/187732">Bug#187732</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/games/xonix-jahu">xonix-jahu</a>
      -- Xonix clone for X11.
-     (<a href="http://bugs.debian.org/188169">Bug#188169</a>)</li>
+     (<a href="https://bugs.debian.org/188169">Bug#188169</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/xpaste">xpaste</a>
      -- Program to display the contents of the primary paste buffer.
-     (<a href="http://bugs.debian.org/188180">Bug#188180</a>)</li>
+     (<a href="https://bugs.debian.org/188180">Bug#188180</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/zcip">zcip</a>
      -- Autonomously obtain an IP address.
-     (<a href="http://bugs.debian.org/188107">Bug#188107</a>)</li>
+     (<a href="https://bugs.debian.org/188107">Bug#188107</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/editors/zed">zed</a>
      -- Powerful, multipurpose, configurable text editor.
-     (<a href="http://bugs.debian.org/188181">Bug#188181</a>)</li>
+     (<a href="https://bugs.debian.org/188181">Bug#188181</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/zope-worldpilot">zope-worldpilot</a>
      -- Web based organizer and messenger built on zope.
-     (<a href="http://bugs.debian.org/187449">Bug#187449</a>)</li>
+     (<a href="https://bugs.debian.org/187449">Bug#187449</a>)</li>
 </ul>
 
 <p><strong>Want to continue reading DWN?</strong> Please help us create this

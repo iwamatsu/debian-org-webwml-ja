@@ -1,4 +1,4 @@
-# $Id: 20120213.wml,v 1.2 2012-04-20 18:40:44 holger-guest Exp $
+# $Id: 20120213.wml,v 1.3 2014/04/29 15:23:08 pabs Exp $
 
 <define-tag pagetitle><q>Wheezy</q> artwork contest: call for proposals</define-tag>
 <define-tag release_date>2012-02-13</define-tag>
@@ -18,7 +18,7 @@ href="http://wiki.debian.org/DebianDesktop/Artwork/Wheezy">wiki page to get
 started</a>.
 You'll see what the requirements are for submitting artwork, as well as a
 form to submit your own work to Debian. You can send questions to the
-<a href="http://lists.debian.org/debian-desktop">debian-desktop mailing list</a>
+<a href="https://lists.debian.org/debian-desktop">debian-desktop mailing list</a>
 if you have any.
 </p>
 <p>

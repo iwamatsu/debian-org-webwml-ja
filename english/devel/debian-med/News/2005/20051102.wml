@@ -1,9 +1,9 @@
 <define-tag pagetitle>Gnumed-client packages entered testing</define-tag>
 <define-tag release_date>2005-11-02</define-tag>
 #use wml::debian::news
-# $Id: 20051102.wml,v 1.2 2008-11-21 21:32:37 tille Exp $
+# $Id: 20051102.wml,v 1.3 2014/04/29 15:27:49 pabs Exp $
 
-<p>Andreas Tille <a href="http://lists.debian.org/debian-med/2005/11/msg00002.html">
+<p>Andreas Tille <a href="https://lists.debian.org/debian-med/2005/11/msg00002.html">
 announced</a> that the gnumed-client packages entered testing (Etch)
 last week. You have to use the public server or install the server
 from CVS at your own, because the server packages are not yet ready.

@@ -1,4 +1,4 @@
-#use wml::debian::translation-check translation="1.3"
+#use wml::debian::translation-check translation="1.4"
 <define-tag description>特権の昇格/サービス拒否攻撃/情報の漏洩</define-tag>
 <define-tag moreinfo>
 
@@ -147,7 +147,7 @@ Vulnerabilities and Exposures project は以下の問題を認識しています
 <p>
 今回の修正では、以前のセキュリティ修正
  <a href="http://security-tracker.debian.org/tracker/CVE-2011-1768">CVE-2011-1768</a>
-(<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=633738">Debian bug #633738</a>)
+(<a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=633738">Debian bug #633738</a>)
  でのエンバグの修正も行われています。
 </p>
 
@@ -186,4 +186,4 @@ Note: Debian では、既知のセキュリティ欠陥は、現在セキュリ�
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2310.data"
-# $Id: dsa-2310.wml,v 1.2 2012-03-23 20:53:08 victory-guest Exp $
+# $Id: dsa-2310.wml,v 1.3 2014/04/29 11:08:05 pabs Exp $

@@ -25,10 +25,10 @@ demonstrate the woody release.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1027-lwe.wml,v 1.4 2003-12-22 09:16:26 joey Exp $
+# $Id: 1027-lwe.wml,v 1.5 2014/04/29 15:28:00 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="1027-lwe-report">Report</a>
  <li><a href="http://www.schmehl.info/linux/lwe2003/index.html">Debian Coordination</a>
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
 </ul>

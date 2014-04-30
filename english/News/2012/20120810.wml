@@ -1,5 +1,5 @@
 # Status: [open-for-edit]
-# $Id: 20120810.wml,v 1.6 2013/09/07 15:21:49 gusnan-guest Exp $
+# $Id: 20120810.wml,v 1.7 2014/04/29 10:55:11 pabs Exp $
 # $Rev: 4126 $
 
 <define-tag pagetitle>Help the Debian Installer team: test the new
@@ -32,10 +32,10 @@ Problems should be reported as an
 report</a>.
 <br />
 More experienced users can help by triaging bugs for
-<a href="http://bugs.debian.org/upgrade-reports">upgrade-reports</a> and
-<a href="http://bugs.debian.org/installation-reports">installation-reports</a>
+<a href="https://bugs.debian.org/upgrade-reports">upgrade-reports</a> and
+<a href="https://bugs.debian.org/installation-reports">installation-reports</a>
 pseudopackages or by proposing texts for problems, which should be documented in the
-<a href="http://bugs.debian.org/release-notes">release-notes</a>.
+<a href="https://bugs.debian.org/release-notes">release-notes</a>.
 Installer CDs, other media and everything else you will need to install
 Debian on one of the thirteen architectures supported, are
 available at the 

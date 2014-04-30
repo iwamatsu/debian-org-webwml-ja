@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-02-18" SUMMARY="Debian Installer 7.0 RC1 released, 700,000th bug reported, bits from the DPL, reports from FOSDEM"
 
-# $Id: index.wml,v 1.2 2013-02-18 12:22:31 madamezou Exp $
+# $Id: index.wml,v 1.4 2014/04/29 15:27:22 pabs Exp $
 # $Rev: 4642 $
 # Status: [content-frozen]
 
@@ -26,9 +26,9 @@ href="$(HOME)/devel/debian-installer">Debian Installer pages</a>.
 </p>
 <p>
 This release was delayed a few weeks because of a
-<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699382#69">technical
+<a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699382#69">technical
 disagreement</a> about one package.
-Thanks to <a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699808">prompt
+Thanks to <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699808">prompt
 action</a> in response to the problem, a solution has now been
 implemented.
 </p>
@@ -38,10 +38,10 @@ implemented.
 Christian Perrier won the
 <a href="http://www.perrier.eu.org/weblog/2013/02/09#bug-700000-now">700,000th
 bug contest</a>, by betting more than two years ago on the date of
-<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700000">bug #700000</a>,
+<a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700000">bug #700000</a>,
 which was recently reported by Cédric Boutillier.
 He now
-<a href="http://lists.debian.org/debian-devel-announce/2013/02/msg00002.html">invites
+<a href="https://lists.debian.org/debian-devel-announce/2013/02/msg00002.html">invites
 everyone to participate</a> in contests to predict the dates when Debian's
 <a href="http://wiki.debian.org/800000thBugContest">800,000th and
 1,000,000th bug reports will be filed</a>.
@@ -51,14 +51,14 @@ everyone to participate</a> in contests to predict the dates when Debian's
 <toc-add-entry name="dplbits">Bits from the DPL</toc-add-entry>
 <p>
 Stefano Zacchiroli sent his
-<a href="http://lists.debian.org/debian-devel-announce/2013/02/msg00003.html">monthly
+<a href="https://lists.debian.org/debian-devel-announce/2013/02/msg00003.html">monthly
 report of DPL activities for January 2013</a>.
 Stefano reminded readers that the election process for the next DPL term will start in early
 March, so there are only a few days left to convince Debian developers to run.
 He confirmed that he will not run again for another term.
 Meanwhile he is also looking for help in organising Debian activities in
 the Google Summer of Code program, and in maintaining an
-<a href="http://lists.debian.org/debian-project/2013/01/msg00023.html">authoritative
+<a href="https://lists.debian.org/debian-project/2013/01/msg00023.html">authoritative
 list of DFSG-free licenses</a>.
 Among other things, Stefano also mentioned an
 <a href="$(HOME)/trademark">updated policy draft for Debian marks</a>.
@@ -93,10 +93,10 @@ href="http://video.fosdem.org/2013/">video recordings</a>.
 Sylvestre Ledru posted an article on his blog about the results of
 <a href="http://sylvestre.ledru.info/blog/sylvestre/2013/02/06/rebuild_of_debian_using_clang_3_2">rebuilding
 the archive using Clang 3.2</a>. To make the results more visible, Paul Wise has
-<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699936">integrated
+<a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=699936">integrated
 them into the Package Tracking System</a>.
 In the meantime, Hideki Yamane has written a
-<a href="http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700290">patch to
+<a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=700290">patch to
 make it easier to use Clang instead of gcc when building with pbuilder</a>.
 You can find more information about current efforts related to building Debian
 with Clang and other alternative compilers in
@@ -109,7 +109,7 @@ FOSDEM talk</a>.
 
 <p>
 Stefano Zacchiroli renewed
-<a href="http://lists.debian.org/debian-devel-announce/2013/02/msg00001.html">Kurt
+<a href="https://lists.debian.org/debian-devel-announce/2013/02/msg00001.html">Kurt
 Roeckx's appointment as Project Secretary</a>.
 </p>
 
@@ -181,15 +181,15 @@ week</a> series, now containing more than ten articles.
 </dsa-list>
 
 <dsa-ml-guide
-	url-dsa="http://lists.debian.org/debian-security-announce/"
-	url-bpo="http://lists.debian.org/debian-backports-announce/"
-	url-stable-announce="http://lists.debian.org/debian-stable-announce/"
+	url-dsa="https://lists.debian.org/debian-security-announce/"
+	url-bpo="https://lists.debian.org/debian-backports-announce/"
+	url-stable-announce="https://lists.debian.org/debian-stable-announce/"
 />
 
 
 <toc-add-entry name="wnpp">Work-needing packages</toc-add-entry>
 
-<wnpp link="http://lists.debian.org/debian-devel/2013/02/msg00250.html"
+<wnpp link="https://lists.debian.org/debian-devel/2013/02/msg00250.html"
 	orphaned="531"
 	rfa="141" />
 

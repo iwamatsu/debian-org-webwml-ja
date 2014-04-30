@@ -3,7 +3,7 @@
 #include "$(ENGLISHDIR)/releases/potato/release.data"
 #include "$(ENGLISHDIR)/releases/arches.data"
 #include "$(ENGLISHDIR)/releases/info"
-# $Id: index.wml,v 1.67 2011-01-08 22:15:19 taffit-guest Exp $
+# $Id: index.wml,v 1.69 2014/04/29 15:28:24 pabs Exp $
 
 <p>Debian GNU/Linux 2.2 (a.k.a. Potato) was released on
 <:=spokendate ("2000-08-14"):>.  The latest point release of Debian 2.2 is
@@ -13,7 +13,7 @@
 <a href="../woody/">Debian GNU/Linux 3.0 ("woody")</a>.
 Security updates are discontinued as of June 30th, 2003.</strong>
 Please see
-<a href="http://lists.debian.org/debian-devel-announce/2003/debian-devel-announce-200302/msg00010.html">\
+<a href="https://lists.debian.org/debian-devel-announce/2003/debian-devel-announce-200302/msg00010.html">\
 the security team survey results</a> for more information.</p>   
 
 <p>For information on the major changes in this release, please refer
@@ -68,7 +68,7 @@ To ensure that all files in the release belong to it, MD5 checksums of all
 <code>Packages</code> files are copied into the
 <code>Release</code> file.  Digital signatures for this file are
 stored in the file <code>Release.gpg</code>, using this key: <a
-href="http://ftp-master.debian.org/ziyi_key_2002.asc">\
+href="https://ftp-master.debian.org/ziyi_key_2002.asc">\
 ftpmaster</a>.</p>
 
 <p>To verify the <code>Release</code> file, you'll have to fetch both

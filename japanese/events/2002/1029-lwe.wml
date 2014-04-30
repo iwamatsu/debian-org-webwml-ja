@@ -5,7 +5,7 @@
 <define-tag date>10 月 29 日 - 31 日</define-tag>
 <define-tag infolink>http://www.linuxworldexpo.de/</define-tag>
 <define-tag coord><a href="mailto:alexander@schmehl.info">Alexander Schmehl</a></define-tag>
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="1.7"
 
 <define-tag intro>
 
@@ -24,10 +24,10 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1029-lwe.wml,v 1.2 2009-08-22 11:08:07 osamu Exp $
+# $Id: 1029-lwe.wml,v 1.3 2014/04/29 15:48:24 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.schmehl.info/linux/lwe2002/index.html">Debian に関する調整</a>
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu メーリングリスト</a>
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu メーリングリスト</a>
  <li><a href="1029-lwe-report">レポート</a>
 </ul>

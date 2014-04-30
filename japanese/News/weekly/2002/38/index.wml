@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-10-01" SUMMARY="Debian の利用, Smart Cards, Manpage 翻訳, Debiandoc, Indy 起動, Hackmeeting"
-#use wml::debian::translation-check translation="1.10"
+#use wml::debian::translation-check translation="1.12"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian 週刊ニュー
 スの今年の第 38 号へようこそ。今回は Ludovic Rousseau さんと Andrew
@@ -16,7 +16,7 @@ distributed.net</a> は RSA セキュリティの 64 ビット暗号化
 Colin Walters さんは、人目を引く Debian の
 <a href="$(HOME)/users/">\
 利用法</a>に関する情報を集めていると
-<a href="http://lists.debian.org/debian-devel-0209/msg01609.html">\
+<a href="https://lists.debian.org/debian-devel-0209/msg01609.html">\
 発表しました</a>。よい例として、総合大学や単科大学での標準的なワーク
 ステーションとしての配備、Sourceforge や Thawte.com のようなよく知ら
 れたウェブサイトのサーバとしての配備、(病院での生命支援システムのよ
@@ -55,19 +55,19 @@ musclatools</a> はスマートカードを管理するコマンドラインの�
 <p><strong>マニュアルページの翻訳に CVS を利用する</strong>。
 Julien Louis さんは、Debian 特有のマニュアルページの翻訳を調整する方
 法についてどうすればよいか
-<a href="http://lists.debian.org/debian-doc-0209/msg00113.html">\
+<a href="https://lists.debian.org/debian-doc-0209/msg00113.html">\
 考えました</a>。この試みは、言語とセクションをキーにしてソートされた
 CVS で管理できるかもしれません。Denis Barbier さんは、既に
 <a href="http://cvs.debian.org/manpages/?cvsroot=debian-doc">\
 cvs ディレクトリ</a>があって、ウェブサイト翻訳の管理に使用しているの
 と同じような方法で利用できると
-<a href="http://lists.debian.org/debian-doc-0209/msg00134.html">\
+<a href="https://lists.debian.org/debian-doc-0209/msg00134.html">\
 付け加えました</a>。</p>
 
 <p><strong>Debiandoc 対 Docbook</strong>。
 Susan Kleinman さんは、全ての Debian ドキュメントは Debiandoc で書か
 れているべきだというポリシーを改定するのは、よい考えだと
-<a href="http://lists.debian.org/debian-doc-0209/msg00094.html">\
+<a href="https://lists.debian.org/debian-doc-0209/msg00094.html">\
 信じていました</a>。Susan さんは、Debian は XML ベースの言語を採用す
 るべきだと提案しました。これに続く議論は、この提案に対して賛否両論を
 示しています。</p>
@@ -86,13 +86,13 @@ GNU/Linux 関連のウェブサイトから、他のディストリビューシ�
 <p><strong>SGI Indy 用の起動可能な ISO イメージ</strong>。
 Florian Lohoff さんは、SGI I2 および SGI Indy マシンで起動可能な
 Debian/mips 用の初の ISO イメージを
-<a href="http://lists.debian.org/debian-mips-0209/msg00055.html">\
+<a href="https://lists.debian.org/debian-mips-0209/msg00055.html">\
 発表しました</a>。PROM を入れて、ローカルの CD-ROM からソフトウェア
 のインストールをクリックするだけで OK です。後は、ふだん通りマシンに
 Debian をインストールします。これは今年の
 <a href="http://oldenburger.linuxtage.de/Oldenburg2002/">\
 開発者会議</a>の期間中に
-<a href="http://lists.debian.org/debian-mips-0209/msg00048.html">\
+<a href="https://lists.debian.org/debian-mips-0209/msg00048.html">\
 開発されました</a>。</p>
 
 <p><strong>Spanish National Hackmeeting での Debian</strong>。
@@ -107,7 +107,7 @@ Spanish National Hackmeeting</a> が開催される予定だと報告しまし�
 Noah Meyerhans さんは、デーモンパッケージをインストー
 ルしておいて起動時にはスタートさせない、という状況が、現在 Debian ではサポートされ
 ていないと
-<a href="http://lists.debian.org/debian-devel-0209/msg01760.html">\
+<a href="https://lists.debian.org/debian-devel-0209/msg01760.html">\
 書きました</a>。Noah さんは、なぜ Debian は各デーモン用の変数を含む
 BSD のような /etc/rc.conf システムをサポートしていないのか疑問に思い
 ました。</p>
@@ -138,61 +138,61 @@ WNPP</a> のページにあります。もしパッケージを引き取るつ�
 <ul>
 <li> <a href="http://packages.debian.org/unstable/net/argus-server">argus</a>
      -- IP network transaction auditing tool.
-     (<a href="http://bugs.debian.org/163005">Bug#163005</a>)</li>
+     (<a href="https://bugs.debian.org/163005">Bug#163005</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/argus-client">argus-client</a>
      -- IP network transaction auditing tool.
-     (<a href="http://bugs.debian.org/163006">Bug#163006</a>)</li>
+     (<a href="https://bugs.debian.org/163006">Bug#163006</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/libs/blt">blt</a>
      -- the BLT libraries for TK/TCL.
-     (<a href="http://bugs.debian.org/162857">Bug#162857</a>)</li>
+     (<a href="https://bugs.debian.org/162857">Bug#162857</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/misc/chkrootkit">chkrootkit</a>
      -- Checks for signs of rootkits on the local system.
-     (<a href="http://bugs.debian.org/163009">Bug#163009</a>)</li>
+     (<a href="https://bugs.debian.org/163009">Bug#163009</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/graphics/eeyes">eeyes</a>
      -- The Electric Eyes graphics viewer/editor.
-     (<a href="http://bugs.debian.org/162305">Bug#162305</a>)</li>
+     (<a href="https://bugs.debian.org/162305">Bug#162305</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/games/generator">generator</a>
      -- Genesis emulator.
-     (<a href="http://bugs.debian.org/162407">Bug#162407</a>)</li>
+     (<a href="https://bugs.debian.org/162407">Bug#162407</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/gnome-vfs-extras">gnome-vfs-extras</a>
      -- GPL gnome-vfs modules, includes SMB support.
-     (<a href="http://bugs.debian.org/162408">Bug#162408</a>)</li>
+     (<a href="https://bugs.debian.org/162408">Bug#162408</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/gnome-vfs-extras2">gnome-vfs-extras2</a>
      -- GPL gnome-vfs modules, includes SMB and Rio500 support.
-     (<a href="http://bugs.debian.org/162409">Bug#162409</a>)</li>
+     (<a href="https://bugs.debian.org/162409">Bug#162409</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/graphics/gtk-engines-cleanice">gtk-engines-cleanice</a>
      -- CleanIce theme for GTK+ 1.2.
-     (<a href="http://bugs.debian.org/162410">Bug#162410</a>)</li>
+     (<a href="https://bugs.debian.org/162410">Bug#162410</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/graphics/gtk-engines-cleanice2">gtk-engines-cleanice2</a>
      -- CleanIce theme for GTK+ 2.x.
-     (<a href="http://bugs.debian.org/162411">Bug#162411</a>)</li>
+     (<a href="https://bugs.debian.org/162411">Bug#162411</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/graphics/gtk-engines-mgicchikn">gtk-engines-mgicchikn</a>
      -- Magic Chicken theme for GTK+ 2.x.
-     (<a href="http://bugs.debian.org/162412">Bug#162412</a>)</li>
+     (<a href="https://bugs.debian.org/162412">Bug#162412</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/libs/libhdf4g">libhdf4g</a>
      -- The Hierarchical Data Format, version 4.
-     (<a href="http://bugs.debian.org/162608">Bug#162608</a>)</li>
+     (<a href="https://bugs.debian.org/162608">Bug#162608</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/math/saml">saml</a>
      -- Simple Algebraic Math Library.
-     (<a href="http://bugs.debian.org/162536">Bug#162536</a>)</li>
+     (<a href="https://bugs.debian.org/162536">Bug#162536</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/screem">screem</a>
      -- GNOME website development environment.
-     (<a href="http://bugs.debian.org/162887">Bug#162887</a>)</li>
+     (<a href="https://bugs.debian.org/162887">Bug#162887</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/admin/tct">tct</a>
      -- Forensics related utilities.
-     (<a href="http://bugs.debian.org/163007">Bug#163007</a>)</li>
+     (<a href="https://bugs.debian.org/163007">Bug#163007</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/thttpd">thttpd</a>
      -- tiny/turbo/throttling HTTP server.
-     (<a href="http://bugs.debian.org/163004">Bug#163004</a>)</li>
+     (<a href="https://bugs.debian.org/163004">Bug#163004</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/utah-glx">utah-glx</a>
      -- Hardware accelerated GLX module for XFree86.
-     (<a href="http://bugs.debian.org/162609">Bug#162609</a>)</li>
+     (<a href="https://bugs.debian.org/162609">Bug#162609</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/xfonts-gimpers">xfonts-gimpers</a>
      -- X11 fonts created by Artwiz, TigerT and Daniel Erat.
-     (<a href="http://bugs.debian.org/162476">Bug#162476</a>)</li>
+     (<a href="https://bugs.debian.org/162476">Bug#162476</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/sound/xwave">xwave</a>
      -- Wave sound file editor.
-     (<a href="http://bugs.debian.org/162607">Bug#162607</a>)</li>
+     (<a href="https://bugs.debian.org/162607">Bug#162607</a>)</li>
 </ul>
 
 <p><strong>DWN を読み続けたいですか</strong>?

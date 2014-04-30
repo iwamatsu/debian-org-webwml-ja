@@ -12,11 +12,11 @@ version 2.53-4woody1.</p>
 package.</p>
 
 <p>For the unstable distribution (sid) this problem will be fixed soon.
-See Debian <a href="http://bugs.debian.org/170747">bug report #170747</a>.</p>
+See Debian <a href="https://bugs.debian.org/170747">bug report #170747</a>.</p>
 
 <p>We recommend that you update your orville-write package.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-326.data"
-# $Id: dsa-326.wml,v 1.2 2003-06-20 20:05:59 peterk Exp $
+# $Id: dsa-326.wml,v 1.3 2014/04/29 10:58:12 pabs Exp $

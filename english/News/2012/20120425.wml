@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20120425.wml,v 1.4 2013-05-05 22:16:04 zobel Exp $
+# $Id: 20120425.wml,v 1.5 2014/04/29 10:55:11 pabs Exp $
 # $Rev: 3631 $
 
 <define-tag pagetitle>Deploy your own <q>cloud</q> with Debian <q>Wheezy</q></define-tag>
@@ -107,7 +107,7 @@ clouds based entirely on Free Software,</q> added Stefano Maffulli, OpenStack
 Technical Community Manager.
 <br />
 Please let us know if you encounter any problem, using
-the <a href="http://bugs.debian.org/">Debian bug tracking system</a>.
+the <a href="https://bugs.debian.org/">Debian bug tracking system</a>.
 </p>
 
 

@@ -51,14 +51,14 @@ libraries.</p>
 <toc-add-entry name="ml">Mailing List</toc-add-entry>
 
 <p>Discussions and development for this port take place on the <a
-href="http://lists.debian.org/debian-amd64/">debian-amd64</a>
+href="https://lists.debian.org/debian-amd64/">debian-amd64</a>
 list.</p>
 
 
 <toc-add-entry name="publicmachines">Public machines</toc-add-entry>
 
 <ul>
-<li> <a href="http://db.debian.org/machines.cgi?host=pergolesi">pergolesi.debian.org</a><br />
+<li> <a href="https://db.debian.org/machines.cgi?host=pergolesi">pergolesi.debian.org</a><br />
      Dual Opteron 240<br />
      Access: Debian developers<br />
      <email debian-admin@lists.debian.org>

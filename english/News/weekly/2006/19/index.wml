@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-05-09" SUMMARY="Terminology, IRC, Release, BTS, Preseeding, Coding, Wiki, Karma"
-# $Id: index.wml,v 1.12 2012-11-01 18:56:39 taffit Exp $
+# $Id: index.wml,v 1.15 2014/04/29 15:26:21 pabs Exp $
 
 <p>Welcome to this year's 19th issue of DWN, the weekly newsletter for the
 Debian community.  Uwe Hermann <a
@@ -12,18 +12,18 @@ will take place and is preceded by a working camp that already started.</p>
 
 <p><strong>Unified Terminology for Distribution Names.</strong> Christian
 Perrier <a
-href="http://lists.debian.org/debian-project/2006/05/msg00000.html">reported</a>
+href="https://lists.debian.org/debian-project/2006/05/msg00000.html">reported</a>
 on a discussion on the <a
-href="http://lists.debian.org/debian-l10n-french/">debian-l10n-french</a>
+href="https://lists.debian.org/debian-l10n-french/">debian-l10n-french</a>
 mailing list covering different terminology in various Debian documents
 referring to <code>stable</code>, <code>sarge</code>, 3.1 etc.  He <a
-href="http://lists.debian.org/debian-project/2006/05/msg00122.html">proposed</a> to
+href="https://lists.debian.org/debian-project/2006/05/msg00122.html">proposed</a> to
 use distribution to refer to the Debian distribution in general and
 suite when talking about <code>stable</code>, <code>testing</code> etc., using
 release for release names and version when referring to the version numbers.</p>
 
 <p><strong>Moving irc.debian.org.</strong> Steve McIntyre <a
-href="http://lists.debian.org/debian-project/2006/04/msg00333.html">asked</a>
+href="https://lists.debian.org/debian-project/2006/04/msg00333.html">asked</a>
 if it would be useful to move the irc.debian.org alias away from the <a
 href="http://www.freenode.net/">Freenode</a> network to the <a
 href="http://www.oftc.net/oftc/">OFTC</a> network, which is a supported
@@ -33,11 +33,11 @@ channels for a lot of open source projects. Steve's intention was seconded
 by a number of developers. This move would have the advantage that all
 Debian related IRC channels could be concentrated on one IRC network.
 Paul Johnson <a
-href="http://lists.debian.org/debian-project/2006/04/msg00342.html">asked</a>
+href="https://lists.debian.org/debian-project/2006/04/msg00342.html">asked</a>
 if it would be better to move to a Jabber-based network instead of IRC.</p>
 
 <p><strong>Etch Release Update.</strong> Andreas Barth <a
-href="http://lists.debian.org/debian-devel-announce/2006/05/msg00000.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/05/msg00000.html">\
 confirmed</a> the timeline to release <a href="$(HOME)/releases/etch/">\
 etch</a> in December.  He stated that the <a href="$(HOME)/ports/arm/">\
 ARM</a> port qualifies as a release architecture again and that the list of
@@ -46,7 +46,7 @@ the release.  The kernel that will be used still needs to be decided upon.  More
 assistants will help keep the release on track.</p>
 
 <p><strong>Tracking forwarded bugs in the BTS.</strong> Pierre Habouzit <a
-href="http://lists.debian.org/debian-devel-announce/2006/05/msg00001.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/05/msg00001.html">\
 announced</a> the creation of a new service called <a
 href="http://svn.debian.org/wsvn/bts-link/trunk/">bts-link</a>. It
 allows Debian maintainers to follow the status of the bugs they
@@ -78,12 +78,12 @@ and the mentoring organisation will receive funding after the tasks have been
 worked on.</p>
 
 <p><strong>Wiki Development.</strong> Petter Reinholdtsen <a
-href="http://lists.debian.org/debian-edu/2006/04/msg00157.html">reported</a> 
+href="https://lists.debian.org/debian-edu/2006/04/msg00157.html">reported</a> 
 about his efforts to write Wiki pages with <a
 href="http://packages.debian.org/openoffice.org">OpenOffice.org</a> which is
 done with the help of a <a href="http://ooowiki.de/Writer2MoinMoin">macro
 set</a> that converts an OpenOffice.org document into MoinMoin syntax.  Later
-he <a href="http://lists.debian.org/debian-edu/2006/05/msg00017.html">\
+he <a href="https://lists.debian.org/debian-edu/2006/05/msg00017.html">\
 reported</a> successful PDF generation from the Wiki page by exporting the
 contents as DocBook XML.</p>
 
@@ -91,7 +91,7 @@ contents as DocBook XML.</p>
 karma page from Dirk Eddelbüttel and the package status page by Takuo Kitame
 (&#21271;&#30446; &#25299;&#37070;).
 To fill the gap he has <a
-href="http://lists.debian.org/debian-devel/2006/04/msg00840.html">created</a>
+href="https://lists.debian.org/debian-devel/2006/04/msg00840.html">created</a>
 a new overview
 page combining both.  This service is hosted on the GNU/kFreeBSD porter
 machine, kindly provided by Aurelien
@@ -141,77 +141,77 @@ if you plan to take over a package.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/utils/f-prot-installer">f-prot-installer</a>
      &mdash; F-Prot(tm) Antivirus installer package.
-     (<a href="http://bugs.debian.org/364731">Bug#364731</a>)
+     (<a href="https://bugs.debian.org/364731">Bug#364731</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/galternatives">galternatives</a>
      &mdash; Graphical setup tool for the alternatives system.
-     (<a href="http://bugs.debian.org/365365">Bug#365365</a>)
+     (<a href="https://bugs.debian.org/365365">Bug#365365</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/gnome/gnobog">gnobog</a>
      &mdash; GNOME Bookmarks Organiser.
-     (<a href="http://bugs.debian.org/366013">Bug#366013</a>)
+     (<a href="https://bugs.debian.org/366013">Bug#366013</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/gnome/gnome-iconedit">gnome-iconedit</a>
      &mdash; Small tool to create icons for the GNOME desktop.
-     (<a href="http://bugs.debian.org/366012">Bug#366012</a>)
+     (<a href="https://bugs.debian.org/366012">Bug#366012</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/qtorrent">qtorrent</a>
      &mdash; Graphical BitTorrent client using Qt 3.x.
-     (<a href="http://bugs.debian.org/365959">Bug#365959</a>)
+     (<a href="https://bugs.debian.org/365959">Bug#365959</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/rtlinux">rtlinux</a>
      &mdash; Real-Time-Linux, a POSIX-compatible hard realtime operating system.
-     (<a href="http://bugs.debian.org/365717">Bug#365717</a>)
+     (<a href="https://bugs.debian.org/365717">Bug#365717</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/svn-arch-mirror">svn-arch-mirror</a>
      &mdash; One-way mirroring from Subversion to Arch revision control.
-     (<a href="http://bugs.debian.org/364859">Bug#364859</a>)
+     (<a href="https://bugs.debian.org/364859">Bug#364859</a>)
      </li>
 </ul>
 
 <p><strong>Removed Packages.</strong> 10 packages have been <a
-href="http://ftp-master.debian.org/removals.txt">removed</a> from the Debian
+href="https://ftp-master.debian.org/removals.txt">removed</a> from the Debian
 archive during the past week:</p>
 
 <ul>
 <li> xmms-alarm-bmp1 -- BMP general plugin using beep-media-player as an alarm clock work
-     <br><a href="http://bugs.debian.org/272859">Bug#272859</a>:
+     <br><a href="https://bugs.debian.org/272859">Bug#272859</a>:
      Request of QA, has never been part of a stable release, RC-buggy, superseded by bmp-alarm.
 </li>
 <li> doc-linux-sv -- Linux HOWTOs in Swedish - HTML version
-     <br><a href="http://bugs.debian.org/273702">Bug#273702</a>:
+     <br><a href="https://bugs.debian.org/273702">Bug#273702</a>:
      Request of QA, orphaned, very very outdated.
 </li>
 <li> libdb2-ruby -- Interface to Berkeley DB for Ruby 1.6
-     <br><a href="http://bugs.debian.org/344725">Bug#344725</a>:
+     <br><a href="https://bugs.debian.org/344725">Bug#344725</a>:
      Request of maintainer, depends on obsolete db2.
 </li>
 <li> libtest-builder-tester-perl -- Helper testing library for Test::Builder tests
-     <br><a href="http://bugs.debian.org/353134">Bug#353134</a>:
+     <br><a href="https://bugs.debian.org/353134">Bug#353134</a>:
      Request of maintainer, superseded by libtest-simple-perl.
 </li>
 <li> xpcd -- PhotoCD tool collection: Base
-     <br><a href="http://bugs.debian.org/357014">Bug#357014</a>:
+     <br><a href="https://bugs.debian.org/357014">Bug#357014</a>:
      Request of maintainer, orphaned; dead upstream.
 </li>
 <li> postgresql-8.0 -- Object-relational SQL database, version 8.0 server
-     <br><a href="http://bugs.debian.org/363963">Bug#363963</a>:
+     <br><a href="https://bugs.debian.org/363963">Bug#363963</a>:
      Request of maintainer, superseded by postgresql-8.1.
 </li>
 <li> kernel-patch-2.4-preempt -- Reduces the latency of the Linux kernel
-     <br><a href="http://bugs.debian.org/361161">Bug#361161</a>:
+     <br><a href="https://bugs.debian.org/361161">Bug#361161</a>:
      Request of maintainer, deprecated due to requiring 2.4 kernel.
 </li>
 <li> zope2.7 -- Open Source Web Application Server
-     <br><a href="http://bugs.debian.org/362283">Bug#362283</a>:
+     <br><a href="https://bugs.debian.org/362283">Bug#362283</a>:
      Request of maintainer, superseded by zope2.
 </li>
 <li> devfsd -- Daemon for the device file system
-     <br><a href="http://bugs.debian.org/363402">Bug#363402</a>:
+     <br><a href="https://bugs.debian.org/363402">Bug#363402</a>:
      Request of maintainer, obsolete.
 </li>
 <li> mozilla-thunderbird -- Mozilla Thunderbird stand-alone mail client
-     <br><a href="http://bugs.debian.org/363270">Bug#363270</a>:
+     <br><a href="https://bugs.debian.org/363270">Bug#363270</a>:
      Request of maintainer, superseded by thunderbird.
 </li>
 </ul>

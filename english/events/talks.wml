@@ -1,5 +1,5 @@
 #use wml::debian::template title="Debian talks"
-# $Id: talks.wml,v 1.25 2014/02/05 21:32:21 aw-guest Exp $
+# $Id: talks.wml,v 1.26 2014/04/29 15:27:57 pabs Exp $
 
 <p>This file intended to list links to talks that were given at various
 conferences and describe the Debian project or a specific angle of the
@@ -32,7 +32,7 @@ href="mailto:events@debian.org?subject=New%20Debian%20talk">events@debian.org</a
 don't change the subject line).
 The submission should be sent in English. If you don't speak English, please
 send your submission to the <a
-href="http://lists.debian.org/i18n.html">appropriate translation list</a>.
+href="https://lists.debian.org/i18n.html">appropriate translation list</a>.
 Notice that your submission mail will be posted to a public mailing list.
 </p>
 

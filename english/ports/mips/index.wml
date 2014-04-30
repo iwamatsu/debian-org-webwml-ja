@@ -53,7 +53,7 @@ installation manual</a> for more information.</p>
 
 gabrielli.debian.org (mips) is available to
 Debian developers for porting work.  Please see the <a href =
-"http://db.debian.org/machines.cgi">machine database</a> for more
+"https://db.debian.org/machines.cgi">machine database</a> for more
 information about this machine.  In general, you will be able to use the
 three chroot environments: stable, testing and unstable.
 You can use the <em>dchroot</em> program to access them. For any
@@ -77,7 +77,7 @@ Debian on MIPS.</p>
 
 <li>debian-mips@lists.debian.org &mdash; This list deals with Debian on MIPS.<br />
 Subscribe via mail to <email debian-mips-request@lists.debian.org>.<br />
-The archive is at <a href="http://lists.debian.org/debian-mips/">lists.debian.org</a>.</li>
+The archive is at <a href="https://lists.debian.org/debian-mips/">lists.debian.org</a>.</li>
 
 <li>linux-mips@linux-mips.org &mdash; This list is for discussions about
 MIPS kernel supports.<br />

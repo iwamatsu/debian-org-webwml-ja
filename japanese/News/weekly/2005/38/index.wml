@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-20" SUMMARY="ボランティア, ドキュメンテーション, リリース, 女性, 起動, スクリプト, バグ, フロントデスク, ライセンス, セキュリティ"
-#use wml::debian::translation-check translation="1.7"
+#use wml::debian::translation-check translation="1.10"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 38 号へようこそ。David Moreno Garza さんが、
@@ -13,7 +13,7 @@ href="http://necrotic.deadbeast.net/~branden/blog/exuberance/Debian/trademark.ht
 出しました</a>。<a href="$(HOME)/ports/m68k/">m68k</a> 移植版が、
 内部的なコンパイラエラーと大量の未処理パッケージによって、テスト版 (testing)
 への移行から外されるという<a
-href="http://lists.debian.org/debian-release/2005/09/msg00139.html">\
+href="https://lists.debian.org/debian-release/2005/09/msg00139.html">\
 危機に瀕しています</a>。</p>
 
 <p><strong>Debian へのボランティア参加。</strong>
@@ -29,7 +29,7 @@ Systems</a> で行われました。これは、過去 7 年に渡る Debian
 <p><strong>non-free なドキュメンテーションの削除。</strong>
 Frank Lichtenheld さんは、リリースチームが etch リリースに向けて non-free
 なドキュメンテーションをどのように扱うかを<a
-href="http://lists.debian.org/debian-devel-announce/2005/09/msg00007.html">\
+href="https://lists.debian.org/debian-devel-announce/2005/09/msg00007.html">\
 発表しました</a>。non-free なドキュメンテーションを含むパッケージの<a
 href="http://release.debian.org/removing-non-free-documentation">状況</a>は、<a
 href="$(HOME)/Bugs/">バグ追跡システム</a>の新しいユーザタグ機能をつかって記録されます。
@@ -48,7 +48,7 @@ href="http://www.yepthatsme.com/2005/09/13/the-longer-i-manage-a-technical-team-
 今年の <a href="http://www.softwarefreedomday.org/">Software Freedom Day</a>
 の席上で、<a href="http://women.alioth.debian.org/">Debian-Women</a>
 プロジェクトはあらゆるレベルの経験をアピールするために、いくつかの<a
-href="http://lists.debian.org/debian-women/2005/08/msg00189.html">\
+href="https://lists.debian.org/debian-women/2005/08/msg00189.html">\
 取り組み</a>を見せました。Debian-Women プロジェクトに参加したいと思いつつ、
 まだ参加していない人のために、新しい IRC チャネル (#debian-women-new)
 が開設されました。もっと経験を積んだメンバー向けには、いつもの #debian-women
@@ -62,38 +62,38 @@ href="http://lists.debian.org/debian-women/2005/08/msg00189.html">\
 <p><strong>パラレルな起動シーケンス。</strong>
 Petter Reinholdtsen さんは、init スクリプトを並行して実行するという<a
 href="http://alioth.debian.org/projects/initscripts-ng/">議論</a>を<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01100.html">再開して</a>、
+href="https://lists.debian.org/debian-devel/2005/08/msg01100.html">再開して</a>、
 単に全部のスクリプトを同じ優先度で並列に実行するだけの <code>rc</code>
 に対する簡単なパッチを提供しました。<a
 href="http://refspecs.freestandards.org/LSB_2.1.0/LSB-generic/LSB-generic/initscrcomconv.html">\
 LSB</a> に基づいて、彼は init スクリプト内に依存関係を記述したブロックのサンプルを<a 
-href="http://lists.debian.org/debian-devel/2005/08/msg01172.html">\
+href="https://lists.debian.org/debian-devel/2005/08/msg01172.html">\
 示しました</a>。これは、将来のスタートアッププログラムがパースすることになります。
 </p>
 
 <p><strong>init スクリプトの改良。</strong>
 Marc Chantreux さんは init スクリプトをより効率的に、
 すなわちシェルや使われているツールが提供する機能を利用して書こうと<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01451.html">提案しました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01451.html">提案しました</a>。
 Miquel van Smoorenburg さんは、POSIX の機能のみが使われるべきだと<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01455.html">指摘しました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01455.html">指摘しました</a>。
 David Weinehall さんは、<a href="http://packages.debian.org/busybox">busybox</a>
 はすべての GNU 拡張を実装していないと<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01655.html">付け加えました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01655.html">付け加えました</a>。
 </p>
 
 <p><strong>バグ報告のクローズ。</strong>
 Grzegorz Bizon さんは、バグ報告を適切にクローズするにはどうしたらいいか<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01477.html">疑問に思いました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01477.html">疑問に思いました</a>。
 Blars Blarson さんは、changelog に記述があれば、アップロード時に自動的にクローズされるだろうと<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01485.html">説明しました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01485.html">説明しました</a>。
 他の方法で修正されたり、変更点がアップロード済なら、version
 疑似ヘッダが付いた nnn-done というアドレスを使う必要があります。</p>
 
 <p><strong>新規メンテナ受付についての報告。</strong>
 Marc Brockschmidt さんは、<a
 href="https://nm.debian.org/">新規メンテナ</a>プロセスの重要な変更点について<a
-href="http://lists.debian.org/debian-devel-announce/2005/09/msg00010.html">\
+href="https://lists.debian.org/debian-devel-announce/2005/09/msg00010.html">\
 報告しました</a>。今後は Debian への貢献が必須条件となり、
 それが欠けていると応募が取り消されるでしょう。UTF-8
 に対応したウェブインターフェイスも新ホストに移動し、
@@ -103,17 +103,17 @@ href="http://lists.debian.org/debian-devel-announce/2005/09/msg00010.html">\
 Harri J&auml;rvi さんは、<a href="http://packages.debian.org/linuxsampler">\
 linuxsampler</a> のライセンスが <a href="http://www.gnu.org/copyleft/gpl.html">GNU
 GPL</a> に制限を課しており、商用目的の利用を明示的に<a
-href="http://lists.debian.org/debian-legal/2005/09/msg00329.html">禁止している</a>ことに<a
-href="http://lists.debian.org/debian-legal/2005/09/msg00268.html">気づきました</a>。
+href="https://lists.debian.org/debian-legal/2005/09/msg00329.html">禁止している</a>ことに<a
+href="https://lists.debian.org/debian-legal/2005/09/msg00268.html">気づきました</a>。
 Justin Pryzby さんは、linuxsampler が、フリーな<a
 href="http://packages.debian.org/libasound2">ライブラリ</a>ではないものとリンクされていれば、
 削除されなくてもいいのではないかと<a
-href="http://lists.debian.org/debian-legal/2005/09/msg00344.html">想像しました</a>。
+href="https://lists.debian.org/debian-legal/2005/09/msg00344.html">想像しました</a>。
 </p>
 
 <p><strong>予想外の分散型サービス不能攻撃。</strong>
 月曜日、分散型サービス不能攻撃がセキュリティチームによって<a
-href="http://lists.debian.org/debian-curiosa/2005/09/msg00018.html">\
+href="https://lists.debian.org/debian-curiosa/2005/09/msg00018.html">\
 引き起こされました</a>。セキュリティチームは、最新の <a
 href="$(HOME)/security/2005/dsa-816">xfree86</a> 更新を含む 1.7&nbsp;GB
 ものパッケージをインストールしました。多数のユーザが押し寄せたのと、XFree86
@@ -123,12 +123,12 @@ href="$(HOME)/security/2005/dsa-816">xfree86</a> 更新を含む 1.7&nbsp;GB
 
 <p><strong>開発者所在地の公開?</strong>
 Robert Lemmen さんは、全開発者の所在地を公にするよう<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01529.html">\
+href="https://lists.debian.org/debian-devel/2005/08/msg01529.html">\
 提案しました</a>。Ben Armstrong さんは、開発者はすでに同種の情報にアクセス可能であり、
 所在地が自分の名前とともに公開されるのは喜ばしくないと<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01540.html">注意しました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01540.html">注意しました</a>。
 Wolfgang Borgert さんは、代わりに新規の項目を使うよう<a
-href="http://lists.debian.org/debian-devel/2005/08/msg01584.html">提案しました</a>。
+href="https://lists.debian.org/debian-devel/2005/08/msg01584.html">提案しました</a>。
 </p>
 
 <p><strong>セキュリティ上の更新。</strong>
@@ -206,141 +206,141 @@ href="http://lists.debian.org/debian-devel/2005/08/msg01584.html">提案しま�
 <ul>
 <li> <a href="http://packages.debian.org/unstable/doc/doc-debian-ko">doc-debian-ko</a>
      -- 韓国語の Debian FAQ やその他の文書。
-     (<a href="http://bugs.debian.org/327764">Bug#327764</a>)
+     (<a href="https://bugs.debian.org/327764">Bug#327764</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/irmp3">irmp3</a>
      -- マルチメディアオーディオジュークボックスアプリケーション。
-     (<a href="http://bugs.debian.org/327776">Bug#327776</a>)
+     (<a href="https://bugs.debian.org/327776">Bug#327776</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/misc/rhdb-admin">rhdb-admin</a>
      -- PostgreSQL/RHDB データベース管理用グラフィカルツール。
-     (<a href="http://bugs.debian.org/327775">Bug#327775</a>)
+     (<a href="https://bugs.debian.org/327775">Bug#327775</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/zorroutils">zorroutils</a>
      -- カーネル 2.1 以降が稼働している Amiga 用の Zorro バスユーティリティ。
-     (<a href="http://bugs.debian.org/328650">Bug#328650</a>)
+     (<a href="https://bugs.debian.org/328650">Bug#328650</a>)
      </li>
 </ul>
 
 <p><strong>削除されたパッケージ。</strong>
 この 1 週間で、Debian アーカイブから 38 個のパッケージが<a
-href="http://ftp-master.debian.org/removals.txt">削除されました</a>。
+href="https://ftp-master.debian.org/removals.txt">削除されました</a>。
 </p>
 
 <ul>
 <li> diskless -- ディスクレスブート用の NFS ファイル構造を作成するプログラム。
-     <br><a href="http://bugs.debian.org/107808">Bug#107808</a>:
+     <br><a href="https://bugs.debian.org/107808">Bug#107808</a>:
      QA からの依頼、バグが多い、メンテナンスされていない、lessdisks というよりよい代替あり
 <li> chos -- 扱いやすいメニュー付ブートローダ
-     <br><a href="http://bugs.debian.org/263868">Bug#263868</a>:
+     <br><a href="https://bugs.debian.org/263868">Bug#263868</a>:
      QA からの依頼、RC バグあり、GRUB などの代替あり
 <li> fenris -- プログラム実行パス解析ツール
-     <br><a href="http://bugs.debian.org/322601">Bug#322601</a>:
+     <br><a href="https://bugs.debian.org/322601">Bug#322601</a>:
      QA からの依頼、一度も安定版に入っていない、RC バグあり、開発元の活動停止
 <li> libyaml-ruby -- Ruby 1.6 用 YAML
-     <br><a href="http://bugs.debian.org/323772">Bug#323772</a>:
+     <br><a href="https://bugs.debian.org/323772">Bug#323772</a>:
      メンテナからの依頼、現在は ruby1.8 および ruby-defaults が機能を提供
 <li> aeromail -- ウェブベースの電子メールクライアント
-     <br><a href="http://bugs.debian.org/326164">Bug#326164</a>:
+     <br><a href="https://bugs.debian.org/326164">Bug#326164</a>:
      QA からの依頼、みなしご化されている、反応のない RC バグあり
 <li> gswitchit -- キーボード配置スイッチ
-     <br><a href="http://bugs.debian.org/326215">Bug#326215</a>:
+     <br><a href="https://bugs.debian.org/326215">Bug#326215</a>:
      メンテナからの依頼、gnome-applet の keyboardlayoutswitcher で代替
 <li> thoughttracker -- 非階層的で、ハイパーリンク化されたナレッジベース
-     <br><a href="http://bugs.debian.org/327149">Bug#327149</a>:
+     <br><a href="https://bugs.debian.org/327149">Bug#327149</a>:
      メンテナからの依頼、開発元の活動停止、よりよい代替あり
 <li> konq-speaker -- Konqueror と Kate 用のテキスト読み上げプラグイン
-     <br><a href="http://bugs.debian.org/327156">Bug#327156</a>:
+     <br><a href="https://bugs.debian.org/327156">Bug#327156</a>:
      メンテナからの依頼、開発元の活動停止、必要とされていない、kdeaccessibility に代替あり
 <li> netjuke -- ウェブベースのオーディオストリーミングジュークボックス
-     <br><a href="http://bugs.debian.org/327678">Bug#327678</a>:
+     <br><a href="https://bugs.debian.org/327678">Bug#327678</a>:
      QA からの依頼、みなしご化されている、開発元の活動停止
 <li> akregator -- KDE 用 RSS フィードアグリゲータ
-     <br><a href="http://bugs.debian.org/327879">Bug#327879</a>:
+     <br><a href="https://bugs.debian.org/327879">Bug#327879</a>:
      メンテナからの依頼、kdepim と kdeaddons で代替
 <li> tutos -- 究極のチーム組織ソフトウェア
-     <br><a href="http://bugs.debian.org/321647">Bug#321647</a>:
+     <br><a href="https://bugs.debian.org/321647">Bug#321647</a>:
      メンテナからの依頼、古い、セキュリティ上の問題あり、tutos2 で代替
 <li> jftw -- Joel のファイルツリーウォークライブラリ
-     <br><a href="http://bugs.debian.org/326702">Bug#326702</a>:
+     <br><a href="https://bugs.debian.org/326702">Bug#326702</a>:
      メンテナからの依頼、古い、ほとんど使われていない
 <li> gxedit -- ユーザからの入力を得るための、GTK ベースのポップアップコマンド
-     <br><a href="http://bugs.debian.org/286959">Bug#286959</a>:
+     <br><a href="https://bugs.debian.org/286959">Bug#286959</a>:
      メンテナからの依頼、バグあり、ほとんど使われていない、多くの代替あり
 <li> zope-popyda -- Zope と PostgreSQL を接続するデータベースアダプタ
-     <br><a href="http://bugs.debian.org/327626">Bug#327626</a>:
+     <br><a href="https://bugs.debian.org/327626">Bug#327626</a>:
      メンテナからの依頼、古い、RC バグあり、python-psycopg / sql-relay で代替
 <li> icukrell -- GnomeICU のステータスを表示する GKrellm プラグイン
-     <br><a href="http://bugs.debian.org/327650">Bug#327650</a>:
+     <br><a href="https://bugs.debian.org/327650">Bug#327650</a>:
      メンテナからの依頼、古い、RC バグあり
 <li> dedit -- 初心者のための日本語拡張機能つきのエディタ
-     <br><a href="http://bugs.debian.org/327662">Bug#327662</a>:
+     <br><a href="https://bugs.debian.org/327662">Bug#327662</a>:
      メンテナからの依頼、古い、RC バグあり、メンテナンスされていない
 <li> matchbox-nest -- xnest 関連のグラフィカルラッパー
-     <br><a href="http://bugs.debian.org/328068">Bug#328068</a>:
+     <br><a href="https://bugs.debian.org/328068">Bug#328068</a>:
      メンテナからの依頼、xoo に改名
 <li> grunch -- 断片的にスキャンされたものを大きな画像に結合するプログラム
-     <br><a href="http://bugs.debian.org/327636">Bug#327636</a>:
+     <br><a href="https://bugs.debian.org/327636">Bug#327636</a>:
      メンテナからの依頼、一度も安定版に入っていない、RC バグあり
 <li> gnuradio -- ソフトウェア無線
-     <br><a href="http://bugs.debian.org/328127">Bug#328127</a>:
+     <br><a href="https://bugs.debian.org/328127">Bug#328127</a>:
      メンテナからの依頼、gnuradio-core で代替
 <li> howl -- Howl で利用するツール (mDNSPublish と mDNSBrowse)
-     <br><a href="http://bugs.debian.org/302462">Bug#302462</a>:
+     <br><a href="https://bugs.debian.org/302462">Bug#302462</a>:
      メンテナからの依頼、ライセンス問題 (APSL 2.0)
 <li> kcdlabel -- KDE 用 CD カバークリエータ
-     <br><a href="http://bugs.debian.org/328144">Bug#328144</a>:
+     <br><a href="https://bugs.debian.org/328144">Bug#328144</a>:
      メンテナからの依頼、開発元の活動停止、代替あり
 <li> daapd -- Apple DAA プロトコルで音楽ファイルを提供
-     <br><a href="http://bugs.debian.org/294934">Bug#294934</a>:
+     <br><a href="https://bugs.debian.org/294934">Bug#294934</a>:
      メンテナからの依頼、バグが多い、深刻な設計上の問題あり
 <li> slpim -- コンソール用の個人情報管理プログラム
-     <br><a href="http://bugs.debian.org/328536">Bug#328536</a>:
+     <br><a href="https://bugs.debian.org/328536">Bug#328536</a>:
      メンテナからの依頼、古い、ユーザがいない
 <li> npadmin -- SNMP 機能付プリンタに情報を問い合わせ
-     <br><a href="http://bugs.debian.org/328593">Bug#328593</a>:
+     <br><a href="https://bugs.debian.org/328593">Bug#328593</a>:
      メンテナからの依頼、とても古い、廃止されている
 <li> oaklisp -- Scheme のオブジェクト指向な方言
-     <br><a href="http://bugs.debian.org/328597">Bug#328597</a>:
+     <br><a href="https://bugs.debian.org/328597">Bug#328597</a>:
      メンテナからの依頼、とても古い、廃止されている
 <li> zope2.6-verbosesecurity -- 拒否されたアクセスの理由説明を補助
-     <br><a href="http://bugs.debian.org/328617">Bug#328617</a>:
+     <br><a href="https://bugs.debian.org/328617">Bug#328617</a>:
      メンテナからの依頼、古い、削除予定の zope2.6 でしか動かない、zope-verbosesecurity で代替
 <li> tclexpat -- expat XML パーサへの Tcl インターフェース
-     <br><a href="http://bugs.debian.org/328653">Bug#328653</a>:
+     <br><a href="https://bugs.debian.org/328653">Bug#328653</a>:
      メンテナからの依頼、とても古い、廃止されている
 <li> umsdos -- umsdos ファイルシステム制御用ユーティリティ集
-     <br><a href="http://bugs.debian.org/328656">Bug#328656</a>:
+     <br><a href="https://bugs.debian.org/328656">Bug#328656</a>:
      メンテナからの依頼、古い、使われていない、壊れている
 <li> gopherweblink -- gopher サーバ用にウェブリンクファイルを生成
-     <br><a href="http://bugs.debian.org/328693">Bug#328693</a>:
+     <br><a href="https://bugs.debian.org/328693">Bug#328693</a>:
      メンテナからの依頼、もうサポートされていない gopherd でしか役に立たない
 <li> cfe -- コンソールフォントエディタ
-     <br><a href="http://bugs.debian.org/328801">Bug#328801</a>:
+     <br><a href="https://bugs.debian.org/328801">Bug#328801</a>:
      メンテナからの依頼、古い、使われていない
 <li> vmnet -- シンプルな仮想ネットワーキングプログラム
-     <br><a href="http://bugs.debian.org/328813">Bug#328813</a>:
+     <br><a href="https://bugs.debian.org/328813">Bug#328813</a>:
      メンテナからの依頼、古い、代替あり
 <li> vgagamespack -- SVGAlib ゲーム。 ConnectN、 オセロ、マインスイーパー
-     <br><a href="http://bugs.debian.org/328816">Bug#328816</a>:
+     <br><a href="https://bugs.debian.org/328816">Bug#328816</a>:
      メンテナからの依頼、古い、使われていない、代替あり
 <li> bloksi -- ブロック移動パズルゲーム (perl で書かれた glotski)
-     <br><a href="http://bugs.debian.org/328817">Bug#328817</a>:
+     <br><a href="https://bugs.debian.org/328817">Bug#328817</a>:
      メンテナからの依頼、古い、代替あり
 <li> pcrd -- PCR-1000 操作デーモン / コマンドラインインターフェース
-     <br><a href="http://bugs.debian.org/328818">Bug#328818</a>:
+     <br><a href="https://bugs.debian.org/328818">Bug#328818</a>:
      QA からの依頼、古い、icomlib で代替
 <li> math3d -- 空間ジオメトリ数学 C++ ランタイムライブラリ
-     <br><a href="http://bugs.debian.org/328819">Bug#328819</a>:
+     <br><a href="https://bugs.debian.org/328819">Bug#328819</a>:
      メンテナからの依頼、古い、使われていない
 <li> regex -- GNU 正規表現ライブラリ、ランタイムライブラリ [libc5]
-     <br><a href="http://bugs.debian.org/328839">Bug#328839</a>:
+     <br><a href="https://bugs.debian.org/328839">Bug#328839</a>:
      メンテナからの依頼、古い、壊れている、使われていない
 <li> libhs -- HighScore ライブラリ (ランタイムライブラリ)
-     <br><a href="http://bugs.debian.org/328860">Bug#328860</a>:
+     <br><a href="https://bugs.debian.org/328860">Bug#328860</a>:
      メンテナからの依頼、使われていない
 <li> gidic --  シンプルな GTK 版の辞書プログラム
-     <br><a href="http://bugs.debian.org/328862">Bug#328862</a>:
+     <br><a href="https://bugs.debian.org/328862">Bug#328862</a>:
      メンテナからの依頼、古い、使われていない、gtk1.2
 </ul>
 

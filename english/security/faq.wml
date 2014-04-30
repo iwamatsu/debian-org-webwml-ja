@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian security FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-# $Id: faq.wml,v 1.84 2014/04/17 20:59:38 geissert Exp $
+# $Id: faq.wml,v 1.86 2014/04/29 15:28:26 pabs Exp $
 
 <p>We receive the following questions a bit too often these days, so
 their answers are summarized here.</p>
@@ -9,7 +9,7 @@ their answers are summarized here.</p>
 
 <toc-add-entry name=signature>The signature on your advisories does not verify correctly!</toc-add-entry>
 <p>A: This is most likely a problem on your end. The
-   <a href="http://lists.debian.org/debian-security-announce/">\
+   <a href="https://lists.debian.org/debian-security-announce/">\
    debian-security-announce</a>
    list has a filter that only allows messages with a correct signature
    from one of the security team members to be posted.</p>
@@ -224,7 +224,7 @@ their answers are summarized here.</p>
 
 <p>Please use the packages from the latest security advisories, which are
    distributed through the <a
-   href="http://lists.debian.org/debian-security-announce/">\
+   href="https://lists.debian.org/debian-security-announce/">\
    debian-security-announce</a> mailing list. It's best to simply run
    <code>apt-get update</code> before upgrading the package.</p>
 
@@ -322,7 +322,7 @@ their answers are summarized here.</p>
 
 <toc-add-entry name=check>How can I check the integrity of packages?</toc-add-entry>
 <p>A: This process involve checking the Release file signature against
-   the <a href="http://ftp-master.debian.org/keys.html">\
+   the <a href="https://ftp-master.debian.org/keys.html">\
    public key</a> used for the archive.  The Release file contains the
    checksums of Packages and Sources files, which contain
    checksums of binary and source packages.  Detailed instruction on how

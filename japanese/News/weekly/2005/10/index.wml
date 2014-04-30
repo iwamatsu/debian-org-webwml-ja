@@ -1,34 +1,34 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-08" SUMMARY="選挙, ディストリビューション, APT, パッケージング, buildd, man ページ"
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.7"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 10 号へようこそ。何人かの開発者が、
 今年のプロジェクトリーダー選挙のキャンペーン期間を積極的に活用すべく<a
-href="http://lists.debian.org/debian-vote/">debian-vote</a>
+href="https://lists.debian.org/debian-vote/">debian-vote</a>
 メーリングリストで活動しており、
 候補者たちにそれぞれ姿勢を明確にするよう求めています。
 John Goerzen さんは、<a href="http://www.spi-inc.org/">SPI</a>
 がカナダでも小切手による寄付を<a
 href="http://www.spi-inc.org/news/2005/20050218">受け取れるようになった</a>と<a
-href="http://lists.debian.org/debian-devel-announce/2005/03/msg00000.html">\
+href="https://lists.debian.org/debian-devel-announce/2005/03/msg00000.html">\
 発表しました</a>。</p>
 
 <p><strong>Debian プロジェクトリーダー選挙。</strong>
-<a href="http://lists.debian.org/debian-vote/2005/02/msg00119.html">Anthony
+<a href="https://lists.debian.org/debian-vote/2005/02/msg00119.html">Anthony
 Towns</a> さん、<a
-href="http://lists.debian.org/debian-vote/2005/02/msg00121.html">Jonathan
+href="https://lists.debian.org/debian-vote/2005/02/msg00121.html">Jonathan
 Walther</a> さん、<a
-href="http://lists.debian.org/debian-vote/2005/02/msg00123.html">Branden
+href="https://lists.debian.org/debian-vote/2005/02/msg00123.html">Branden
 Robinson</a> さん、そして <a
-href="http://lists.debian.org/debian-vote/2005/02/msg00114.html">Angus
+href="https://lists.debian.org/debian-vote/2005/02/msg00114.html">Angus
 Lees</a> さんからも今回の<a
 href="$(HOME)/vote/2005/vote_001">プロジェクトリーダー選挙</a>に立候補があったので、
 開発者は合計 6 名の候補者の中から選ぶことになりました。
 キャンペーン期間は 3 月 21 日までとなっています。Helen Faulkner さんと Martin
 F. Krafft さんが 3 月 19 日の <a
-href="http://lists.debian.org/debian-vote/2005/03/msg00071.html">IRC
+href="https://lists.debian.org/debian-vote/2005/03/msg00071.html">IRC
 討論会</a>の司会をとる予定になっていて、候補者にどんな質問をすればよいか<a
-href="http://lists.debian.org/debian-vote/2005/02/msg00130.html">提案を募りました</a>。
+href="https://lists.debian.org/debian-vote/2005/02/msg00130.html">提案を募りました</a>。
 </p>
 
 <p><strong>Debian リリースファミリー。</strong>
@@ -47,13 +47,13 @@ href="http://www.valinux.co.jp/en/newsroom/2005/0301/01/">発表しました</a>
 「アジア、特に日本と中国ではオープンソースへの期待が高まり、歓迎されている」、
 と VA Linux 代表取締役社長の上田 哲也さんは語っています。青木 修さんは、
 様々なツールやシステムにおけるアジアサポートを開発するアジアの開発者が不足していると<a
-href="http://lists.debian.org/debian-project/2005/03/msg00013.html">付け加えました</a>。
+href="https://lists.debian.org/debian-project/2005/03/msg00013.html">付け加えました</a>。
 </p>
 
 <p><strong>リリースチームミーティング。</strong>
 Steve Langasek さんは、NUUGF の協力の元、
 リリースプロセスに関連する開発者がバンクーバーでミーティングを開いたと<a
-href="http://lists.debian.org/debian-project/2005/03/msg00015.html">報告しました</a>。
+href="https://lists.debian.org/debian-project/2005/03/msg00015.html">報告しました</a>。
 彼らは、sarge の完成に必要なものを議論し、etch
 のタイムリーなリリースに向けて準備を始めました。</p>
 
@@ -61,7 +61,7 @@ href="http://lists.debian.org/debian-project/2005/03/msg00015.html">報告しま
 Jeroen van Wolffelaar さんは、
 選挙以降に新プロジェクトリーダーをサポートする意志のある複数の開発者からなる、
 プロジェクト Scud を<a
-href="http://lists.debian.org/debian-project/2005/03/msg00035.html">発表しました</a>。
+href="https://lists.debian.org/debian-project/2005/03/msg00035.html">発表しました</a>。
 一個人の考えよりも、よりよい判断の元で Debian プロジェクトを導いていこうというものです。
 チームの多様性により、
 また逆に物事を建設的に進めるための道筋を協力して議論しようとする点で献身しあうことにより、
@@ -72,7 +72,7 @@ Florian Weimer さんが、sarge への <a
 href="http://packages.debian.org/experimental/base/apt">APT 0.6</a>
 の移行について、障害と課題を載せた、始めての<a
 href="http://www.enyo.de/fw/software/apt-secure/">現状報告</a>を<a
-href="http://lists.debian.org/debian-devel/2005/02/msg00969.html">出しました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg00969.html">出しました</a>。
 彼は、新しいバージョンをインストールして、好みのフロントエンドを再コンパイルし、
 うまくいったか問題があったかを報告するよう依頼しました。
 出力されるバイナリにおけるインターフェイスの変更により、
@@ -81,29 +81,29 @@ href="http://lists.debian.org/debian-devel/2005/02/msg00969.html">出しまし�
 <p><strong>Subversion を使った Changelog の自動生成。</strong>
 Torsten Landschoff さんは、Subversion リポジトリに変更があったときに、
 自動で <code>debian/changelog</code> を更新してくれるようなツールはないかと<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01181.html">思いました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01181.html">思いました</a>。
 Joey Hess さんが、ログのメッセージに <code>changelog</code> ファイルの一部を利用するスクリプトを<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01258.html">提供しました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01258.html">提供しました</a>。
 </p>
 
 <p><strong>Buildd 問題への対応。</strong>
 Thomas Bushnell さんは、新しい XFree86 パッケージに関して buildd
 ネットワークでのビルド問題について議論を<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01198.html">始めました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01198.html">始めました</a>。
 あるアーキテクチャでの問題は単にディスクスペースの不足で、
 他のアーキテクチャでの問題はより複雑なものとなっています。Steve Langasek さんは、
 このような場合は buildd 管理者とリリースチームにメールを送るよう、開発者に<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01260.html">依頼しました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01260.html">依頼しました</a>。
 </p>
 
 <p><strong>man ページでの正しいエンコーディング。</strong>
 Eric Lavarde さんは、man ページ中のシングルクォートとハイフンが必ずしも望ましい形にならないことに<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01320.html">気がつきました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01320.html">気がつきました</a>。
 それに応じて Clint Adams さんが、ハイフンとマイナス記号に使われる文字について<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01321.html">説明しました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01321.html">説明しました</a>。
 さらに Adeodato Sim&oacute; さんが、<a href="http://packages.debian.org/groff">groff</a>
 パッケージには回避方法が書かれている、と<a
-href="http://lists.debian.org/debian-devel/2005/02/msg01322.html">指摘しました</a>。
+href="https://lists.debian.org/debian-devel/2005/02/msg01322.html">指摘しました</a>。
 </p>
 
 <p><strong>セキュリティ上の更新。</strong>
@@ -161,103 +161,103 @@ href="http://lists.debian.org/debian-devel/2005/02/msg01322.html">指摘しま�
 <ul>
 <li> <a href="http://packages.debian.org/unstable/devel/acl-installer">acl-installer</a>
      -- Franz' Allegro さんの 6.2 Lisp Trial Edition のインストーラ。
-     (<a href="http://bugs.debian.org/297344">Bug#297344</a>)
+     (<a href="https://bugs.debian.org/297344">Bug#297344</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/math/admesh">admesh</a>
      --  三角法による立体メッシュの処理用ツール。
-     (<a href="http://bugs.debian.org/297345">Bug#297345</a>)
+     (<a href="https://bugs.debian.org/297345">Bug#297345</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/albert">albert</a>
      -- Common Lisp から DocBook への文書化プログラム。
-     (<a href="http://bugs.debian.org/297346">Bug#297346</a>)
+     (<a href="https://bugs.debian.org/297346">Bug#297346</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/busybox">busybox</a>
      --  小規模や組み込みシステム用の小ユーティリティ集。
-     (<a href="http://bugs.debian.org/298363">Bug#298363</a>)
+     (<a href="https://bugs.debian.org/298363">Bug#298363</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/cl-postoffice">cl-postoffice</a>
      -- Common Lisp プログラム用の SMTP、POP、IMAP インターフェイス。
-     (<a href="http://bugs.debian.org/297382">Bug#297382</a>)
+     (<a href="https://bugs.debian.org/297382">Bug#297382</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/cl-rsm-memo">cl-rsm-memo</a>
      -- McIntire さんの Common Lisp Memoization ライブラリ。
-     (<a href="http://bugs.debian.org/297395">Bug#297395</a>)
+     (<a href="https://bugs.debian.org/297395">Bug#297395</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/cl-rsm-mpoly">cl-rsm-mpoly</a>
      -- McIntire さんの Common Lisp Multivariate Polynomial ライブラリ。
-     (<a href="http://bugs.debian.org/297398">Bug#297398</a>)
+     (<a href="https://bugs.debian.org/297398">Bug#297398</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/enbd">enbd</a>
      --  拡張されたネットネットワークブロックデバイスサポート。
-     (<a href="http://bugs.debian.org/298388">Bug#298388</a>)
+     (<a href="https://bugs.debian.org/298388">Bug#298388</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/graphics/gtk-engines-mac2">gtk-engines-mac2</a>
      -- GTK+ 用 Mac2 テーマ。
-     (<a href="http://bugs.debian.org/298151">Bug#298151</a>)
+     (<a href="https://bugs.debian.org/298151">Bug#298151</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/web/hindent">hindent</a>
      -- HTML コードを整形するユーティリティ。
-     (<a href="http://bugs.debian.org/297424">Bug#297424</a>)
+     (<a href="https://bugs.debian.org/297424">Bug#297424</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/langband-engine">langband</a>
      -- Common Lisp のゲーム Langband。
-     (<a href="http://bugs.debian.org/297426">Bug#297426</a>)
+     (<a href="https://bugs.debian.org/297426">Bug#297426</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/langband-data">langband-data</a>
      -- Langband 用サウンド、画像、その他のファイル。
-     (<a href="http://bugs.debian.org/297427">Bug#297427</a>)
+     (<a href="https://bugs.debian.org/297427">Bug#297427</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libmp3hip0">libmp3hip</a>
      -- libmp3hip ライブラリの Python インターフェイス。
-     (<a href="http://bugs.debian.org/298386">Bug#298386</a>)
+     (<a href="https://bugs.debian.org/298386">Bug#298386</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/lw-per-installer">lw-per-installer</a>
      -- Lispworks ANSI Common Lisp システム (個人版) のインストーラ。
-     (<a href="http://bugs.debian.org/297429">Bug#297429</a>)
+     (<a href="https://bugs.debian.org/297429">Bug#297429</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/lw-pro-installer">lw-pro-installer</a>
      -- Xanalys の Lispworks ANSI Common Lisp システムのインストーラ。
-     (<a href="http://bugs.debian.org/297431">Bug#297431</a>)
+     (<a href="https://bugs.debian.org/297431">Bug#297431</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/lw-pro-installer-43">lw-pro-installer-43</a>
      -- Xanalys の Lispworks ANSI Common Lisp システム (バージョン 4.3) のインストーラ。
-     (<a href="http://bugs.debian.org/297432">Bug#297432</a>)
+     (<a href="https://bugs.debian.org/297432">Bug#297432</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libneon24">neon</a>
      -- libneon24 用のヘッダと静的ライブラリ。
-     (<a href="http://bugs.debian.org/298370">Bug#298370</a>)
+     (<a href="https://bugs.debian.org/298370">Bug#298370</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/onlisp-code">onlisp</a>
      -- Common Lisp プログラミング技術に関する本。
-     (<a href="http://bugs.debian.org/297436">Bug#297436</a>)
+     (<a href="https://bugs.debian.org/297436">Bug#297436</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/openmcl">openmcl</a>
      -- ネイティブコード ANSI Common Lisp コンパイラとランタイム環境。
-     (<a href="http://bugs.debian.org/297473">Bug#297473</a>)
+     (<a href="https://bugs.debian.org/297473">Bug#297473</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/openmcl-build-tools">openmcl-build-tools</a>
      -- OpenMCL Common Lisp のシステム構築ツール。
-     (<a href="http://bugs.debian.org/297475">Bug#297475</a>)
+     (<a href="https://bugs.debian.org/297475">Bug#297475</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/otherosfs/pdp1-lisp">pdp1-lisp</a>
      -- PDP-1 エミュレータ用の初期の Lisp インタプリタ。
-     (<a href="http://bugs.debian.org/297441">Bug#297441</a>)
+     (<a href="https://bugs.debian.org/297441">Bug#297441</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/python/python-aima">python-aima</a>
      --  人工知能に関する書籍の Python コード。
-     (<a href="http://bugs.debian.org/297443">Bug#297443</a>)
+     (<a href="https://bugs.debian.org/297443">Bug#297443</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/pyzor">pyzor</a>
      --  協調フィルタリングネットワーク使用のスパム検出プログラム。
-     (<a href="http://bugs.debian.org/297922">Bug#297922</a>)
+     (<a href="https://bugs.debian.org/297922">Bug#297922</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/spamprobe">spamprobe</a>
      -- C++ のベイジアンスパムフィルタ。
-     (<a href="http://bugs.debian.org/298368">Bug#298368</a>)
+     (<a href="https://bugs.debian.org/298368">Bug#298368</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/styx">styx</a>
      --  結合されたパーサ/スキャナジェネレータ。
-     (<a href="http://bugs.debian.org/298369">Bug#298369</a>)
+     (<a href="https://bugs.debian.org/298369">Bug#298369</a>)
      </li>
 </ul>
 

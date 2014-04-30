@@ -34,20 +34,20 @@ solutions.</li>
 <define-tag involve>
 
 <p>The Debian project will have a developers room, for which a <a
-href='http://lists.debian.org/debian-events-eu/2005/11/msg00022.html'>Call for
-Talks</a> has been posted.  Additionally there will be a Debian booth; for this booth, <a href='http://lists.debian.org/debian-events-eu/2006/01/msg00021.html'>volunteers are welcome</a>.</p>
+href='https://lists.debian.org/debian-events-eu/2005/11/msg00022.html'>Call for
+Talks</a> has been posted.  Additionally there will be a Debian booth; for this booth, <a href='https://lists.debian.org/debian-events-eu/2006/01/msg00021.html'>volunteers are welcome</a>.</p>
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0225-fosdem.wml,v 1.11 2006-03-13 18:53:16 wouter Exp $
+# $Id: 0225-fosdem.wml,v 1.12 2014/04/29 15:28:02 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.fosdem.org/2006/index/speakers">Speakers on the
  official track</a></li>
  <li><a href="http://www.fosdem.org/2006/index/dev_room_debian">The part about
  the Debian Devroom on the FOSDEM official site</a>. It also contains the <a href='http://www.fosdem.org/2006/index/dev_room_debian/schedule'>schedule</a>.</li>
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu
  mailing list</a></li>
  <li><a
  href='http://meetings-archive.debian.net/pub/debian-meetings/2006/fosdem/'>Videos

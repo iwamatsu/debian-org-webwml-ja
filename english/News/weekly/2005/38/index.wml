@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-20" SUMMARY="Volunteers, Documentation, Release, Women, Booting, Scripts, Bugs, Front Desk, License, Security"
-# $Id: index.wml,v 1.7 2012-08-05 21:43:20 madamezou Exp $
+# $Id: index.wml,v 1.10 2014/04/29 15:26:03 pabs Exp $
 
 <p>Welcome to this year's 38th issue of DWN, the weekly newsletter for the
 Debian community.  David Moreno Garza <a
@@ -11,7 +11,7 @@ href="http://necrotic.deadbeast.net/~branden/blog/exuberance/Debian/trademark.ht
 posted</a> his ideas and thoughts about managing Debian's trademark with
 special attention to the <a href="http://www.dccalliance.org/">DCC
 Alliance</a>.  The <a href="$(HOME)/ports/m68k/">m68k</a> port is in <a
-href="http://lists.debian.org/debian-release/2005/09/msg00139.html">danger</a>
+href="https://lists.debian.org/debian-release/2005/09/msg00139.html">danger</a>
 of being ignored by the testing propagation due to internal compiler errors
 and a huge backlog of packages.</p>
 
@@ -25,7 +25,7 @@ Free Software projects.  The conclusion is that developers tend to maintain
 more packages and stay active for a long period of time.</p>
 
 <p><strong>Removing non-free Documentation.</strong> Frank Lichtenheld <a
-href="http://lists.debian.org/debian-devel-announce/2005/09/msg00007.html">\
+href="https://lists.debian.org/debian-devel-announce/2005/09/msg00007.html">\
 announced</a> how the release team will deal with non-free documentation for
 the etch release.  The <a
 href="http://release.debian.org/removing-non-free-documentation">status</a> of
@@ -46,7 +46,7 @@ awe of the Debian release team.</p>
 occasion of this year's <a href="http://www.softwarefreedomday.org/">Software
 Freedom Day</a> the <a href="http://women.alioth.debian.org/">Debian-Women</a>
 project was running several <a
-href="http://lists.debian.org/debian-women/2005/08/msg00189.html">activities</a>
+href="https://lists.debian.org/debian-women/2005/08/msg00189.html">activities</a>
 in order to appeal to all levels of experience: A new IRC channel,
 \#debian-women-new, was opened
 for until then inactive people who would like to get involved with the
@@ -58,37 +58,37 @@ three events were well received and many women used the opportunity to
 catch up on the Debian-Women project and general Debian development.</p>
 
 <p><strong>Parallelised Boot Sequence.</strong> Petter Reinholdtsen <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01100.html">restarted</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01100.html">restarted</a>
 the <a href="http://alioth.debian.org/projects/initscripts-ng/">discussion</a>
 about executing init scripts in parallel and provided a simple patch against
 <code>rc</code> that will simply execute all scripts with the same priority in
 parallel.  Based on the <a
 href="http://refspecs.freestandards.org/LSB_2.1.0/LSB-generic/LSB-generic/initscrcomconv.html">\
-LSB</a> he <a href="http://lists.debian.org/debian-devel/2005/08/msg01172.html">\
+LSB</a> he <a href="https://lists.debian.org/debian-devel/2005/08/msg01172.html">\
 provided</a> an example for a dependency block in init scripts that could be
 parsed by future startup programs.</p>
 
 <p><strong>Improving Init Scripts.</strong> Marc Chantreux <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01451.html">proposed</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01451.html">proposed</a>
 to write init scripts more efficiently, i.e. by using features the shell and
 the used utilities provide.  Miquel van Smoorenburg <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01455.html">pointed
+href="https://lists.debian.org/debian-devel/2005/08/msg01455.html">pointed
 out</a> that only POSIX features should be used.  David Weinehall <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01655.html">added</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01655.html">added</a>
 that <a href="http://packages.debian.org/busybox">busybox</a> does not
 implement all GNU extensions.</p>
 
 <p><strong>Closing Bug Reports.</strong> Grzegorz Bizon <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01477.html">wondered</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01477.html">wondered</a>
 what the preferred way to close bug reports is.  Blars Blarson <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01485.html">explained</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01485.html">explained</a>
 that the bug will be automatically closed by the upload when it is mentioned
 in the changelog.  If it is fixed some other way, or the change has already
 been uploaded, the nnn-done address with a version pseudo-header needs to be
 used.</p>
 
 <p><strong>New Maintainer Front Desk Report.</strong> Marc Brockschmidt <a
-href="http://lists.debian.org/debian-devel-announce/2005/09/msg00010.html">\
+href="https://lists.debian.org/debian-devel-announce/2005/09/msg00010.html">\
 reported</a> about significant changes in the <a
 href="https://nm.debian.org/">new maintainer</a> process.  Contributing to
 Debian is now a requirement and lack of it will cause the application to be
@@ -96,19 +96,19 @@ removed.  The web interface that supports UTF-8 now has also been moved to a
 new host and to HTTPS so that secure connections are possible.</p>
 
 <p><strong>Restricting the GNU GPL.</strong> Harri Järvi <a
-href="http://lists.debian.org/debian-legal/2005/09/msg00268.html">noticed</a>
+href="https://lists.debian.org/debian-legal/2005/09/msg00268.html">noticed</a>
 that the license of <a href="http://packages.debian.org/linuxsampler">\
 linuxsampler</a> restricts the <a
 href="http://www.gnu.org/copyleft/gpl.html">GNU GPL</a> and explicitly <a
-href="http://lists.debian.org/debian-legal/2005/09/msg00329.html">prohibits</a>
+href="https://lists.debian.org/debian-legal/2005/09/msg00329.html">prohibits</a>
 commercial use.  Justin Pryzby <a
-href="http://lists.debian.org/debian-legal/2005/09/msg00344.html">wondered</a>
+href="https://lists.debian.org/debian-legal/2005/09/msg00344.html">wondered</a>
 if it wouldn't have to be removed since it is linked against a free <a
 href="http://packages.debian.org/libasound2">library</a>.</p>
 
 <p><strong>Accidental Distributed Denial of Service Attack.</strong> On
 Monday a distributed denial of service attack was <a
-href="http://lists.debian.org/debian-curiosa/2005/09/msg00018.html">\
+href="https://lists.debian.org/debian-curiosa/2005/09/msg00018.html">\
 initiated</a> by the security team.  They have installed 1.7&nbsp;GB of
 packages with the latest <a href="$(HOME)/security/2005/dsa-816">xfree86</a>
 update.  Due to the large number of users and the size of XFree86 packages,
@@ -116,13 +116,13 @@ this caused a constant 97&nbsp;MBit/s output-rate on the security host.  There a
 ongoing discussions on how to avoid this in the future.</p>
 
 <p><strong>Publicly exposing the Developer Location?</strong> Robert Lemmen
-<a href="http://lists.debian.org/debian-devel/2005/08/msg01529.html">\
+<a href="https://lists.debian.org/debian-devel/2005/08/msg01529.html">\
 proposed</a> to make public the location of all developers.  Ben Armstrong <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01540.html">noted</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01540.html">noted</a>
 that developers have already access to this information, and added that he
 would not be happy if the location would be exposed together with his name.
 Wolfgang Borgert <a
-href="http://lists.debian.org/debian-devel/2005/08/msg01584.html">suggested</a>
+href="https://lists.debian.org/debian-devel/2005/08/msg01584.html">suggested</a>
 to use a new field instead.</p>
 
 <p><strong>Security Updates.</strong> You know the drill.  Please make sure
@@ -197,140 +197,140 @@ if you plan to take over a package.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/doc/doc-debian-ko">doc-debian-ko</a>
      -- Debian FAQ and other documents to Korean.
-     (<a href="http://bugs.debian.org/327764">Bug#327764</a>)
+     (<a href="https://bugs.debian.org/327764">Bug#327764</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/irmp3">irmp3</a>
      -- A Multimedia Audio Jukebox application.
-     (<a href="http://bugs.debian.org/327776">Bug#327776</a>)
+     (<a href="https://bugs.debian.org/327776">Bug#327776</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/misc/rhdb-admin">rhdb-admin</a>
      -- Graphical tool to administer PostgreSQL/RHDB Databases.
-     (<a href="http://bugs.debian.org/327775">Bug#327775</a>)
+     (<a href="https://bugs.debian.org/327775">Bug#327775</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/zorroutils">zorroutils</a>
      -- Zorro bus utilities for Amigas running 2.1 and later kernels.
-     (<a href="http://bugs.debian.org/328650">Bug#328650</a>)
+     (<a href="https://bugs.debian.org/328650">Bug#328650</a>)
      </li>
 </ul>
 
 <p><strong>Removed Packages.</strong> 38 packages have been <a
-href="http://ftp-master.debian.org/removals.txt">removed</a> from the Debian
+href="https://ftp-master.debian.org/removals.txt">removed</a> from the Debian
 archive during the past week:</p>
 
 <ul>
 <li> diskless -- Generate NFS file structure for diskless boot.
-     <br><a href="http://bugs.debian.org/107808">Bug#107808</a>:
+     <br><a href="https://bugs.debian.org/107808">Bug#107808</a>:
      Request of QA, buggy, unmaintained, better alternative available (lessdisks)
 <li> chos -- Easy Boot loader with a Boot-Menu
-     <br><a href="http://bugs.debian.org/263868">Bug#263868</a>:
+     <br><a href="https://bugs.debian.org/263868">Bug#263868</a>:
      Request of QA, rc-bugs, alternatives exist like grub
 <li> fenris -- Program execution path analysis tool
-     <br><a href="http://bugs.debian.org/322601">Bug#322601</a>:
+     <br><a href="https://bugs.debian.org/322601">Bug#322601</a>:
      Request of QA, has never been part of a stable release, rc bug, dead upstream
 <li> libyaml-ruby -- YAML for Ruby 1.6
-     <br><a href="http://bugs.debian.org/323772">Bug#323772</a>:
+     <br><a href="https://bugs.debian.org/323772">Bug#323772</a>:
      Request of maintainer, functionality now provided by ruby1.8 and ruby-defaults
 <li> aeromail -- Web-based e-mail client
-     <br><a href="http://bugs.debian.org/326164">Bug#326164</a>:
+     <br><a href="https://bugs.debian.org/326164">Bug#326164</a>:
      Request of QA, orphaned, rc-buggy with no activity
 <li> gswitchit -- Keyboard layout switcher
-     <br><a href="http://bugs.debian.org/326215">Bug#326215</a>:
+     <br><a href="https://bugs.debian.org/326215">Bug#326215</a>:
      Request of maintainer, superseded by gnome-applet's keyboardlayoutswitcher
 <li> thoughttracker -- Nonhierarchical, hyperlinked knowledge base
-     <br><a href="http://bugs.debian.org/327149">Bug#327149</a>:
+     <br><a href="https://bugs.debian.org/327149">Bug#327149</a>:
      Request of Maintainer, dead upstream, better alternatives exist
 <li> konq-speaker -- Text-to-speech plugins for Konqueror and Kate
-     <br><a href="http://bugs.debian.org/327156">Bug#327156</a>:
+     <br><a href="https://bugs.debian.org/327156">Bug#327156</a>:
      Request of maintainer, dead upstream, no longer needed, kdeaccessibility has alternative
 <li> netjuke -- Web-Based Audio Streaming Jukebox
-     <br><a href="http://bugs.debian.org/327678">Bug#327678</a>:
+     <br><a href="https://bugs.debian.org/327678">Bug#327678</a>:
      Request of QA, orphaned, dead upstream
 <li> akregator -- RSS feed aggregator for KDE
-     <br><a href="http://bugs.debian.org/327879">Bug#327879</a>:
+     <br><a href="https://bugs.debian.org/327879">Bug#327879</a>:
      Request of maintainer, superseded by kdepim and kdeaddons
 <li> tutos -- Ultimate Team Organisation Software
-     <br><a href="http://bugs.debian.org/321647">Bug#321647</a>:
+     <br><a href="https://bugs.debian.org/321647">Bug#321647</a>:
      Request of maintainer, outdated, security issues, superseded by tutos2
 <li> jftw -- Joel's File Tree Walk library
-     <br><a href="http://bugs.debian.org/326702">Bug#326702</a>:
+     <br><a href="https://bugs.debian.org/326702">Bug#326702</a>:
      Request of maintainer, obsolete, hardly used
 <li> gxedit -- GTK-based pop-up command to get user input
-     <br><a href="http://bugs.debian.org/286959">Bug#286959</a>:
+     <br><a href="https://bugs.debian.org/286959">Bug#286959</a>:
      Request of maintainer, buggy, hardly used, plenty of alternatives
 <li> zope-popyda -- Database Adapter connecting Zope and PostgreSQL
-     <br><a href="http://bugs.debian.org/327626">Bug#327626</a>:
+     <br><a href="https://bugs.debian.org/327626">Bug#327626</a>:
      Request of maintainer, old, rc-buggy and superseded by python-psycopg / sql-relay
 <li> icukrell -- GKrellm plugin which shows the status of GnomeICU
-     <br><a href="http://bugs.debian.org/327650">Bug#327650</a>:
+     <br><a href="https://bugs.debian.org/327650">Bug#327650</a>:
      Request of maintainer, old, rc-buggy
 <li> dedit -- Editor Tool with Japanese extension for beginners
-     <br><a href="http://bugs.debian.org/327662">Bug#327662</a>:
+     <br><a href="https://bugs.debian.org/327662">Bug#327662</a>:
      Request of maintainer, old, rc-buggy and unmaintained
 <li> matchbox-nest -- Graphical wrapper around xnest
-     <br><a href="http://bugs.debian.org/328068">Bug#328068</a>:
+     <br><a href="https://bugs.debian.org/328068">Bug#328068</a>:
      Request of maintainer, renamed to xoo
 <li> grunch -- Merge partial scans into a larger image
-     <br><a href="http://bugs.debian.org/327636">Bug#327636</a>:
+     <br><a href="https://bugs.debian.org/327636">Bug#327636</a>:
      Request of maintainer, has never been part of a stable release, rc-buggy
 <li> gnuradio -- Software Defined Radio
-     <br><a href="http://bugs.debian.org/328127">Bug#328127</a>:
+     <br><a href="https://bugs.debian.org/328127">Bug#328127</a>:
      Request of maintainer, superseded by gnuradio-core
 <li> howl -- Tools for use with Howl (mDNSPublish and mDNSBrowse)
-     <br><a href="http://bugs.debian.org/302462">Bug#302462</a>:
+     <br><a href="https://bugs.debian.org/302462">Bug#302462</a>:
      Request of maintainer, license issues (APSL 2.0)
 <li> kcdlabel -- CD cover creator for KDE
-     <br><a href="http://bugs.debian.org/328144">Bug#328144</a>:
+     <br><a href="https://bugs.debian.org/328144">Bug#328144</a>:
      Request of maintainer, dead upstream, superseded
 <li> daapd -- Serves music files using the Apple DAA protocol
-     <br><a href="http://bugs.debian.org/294934">Bug#294934</a>:
+     <br><a href="https://bugs.debian.org/294934">Bug#294934</a>:
      Request of maintainer, Buggy, serious design issue
 <li> slpim -- Personal Information Manager for the console
-     <br><a href="http://bugs.debian.org/328536">Bug#328536</a>:
+     <br><a href="https://bugs.debian.org/328536">Bug#328536</a>:
      Request of maintainer, outdated, no users
 <li> npadmin -- Query information from SNMP featured printer
-     <br><a href="http://bugs.debian.org/328593">Bug#328593</a>:
+     <br><a href="https://bugs.debian.org/328593">Bug#328593</a>:
      Request of maintainer, very old, obsolete
 <li> oaklisp -- Object-oriented dialect of Scheme.
-     <br><a href="http://bugs.debian.org/328597">Bug#328597</a>:
+     <br><a href="https://bugs.debian.org/328597">Bug#328597</a>:
      Request of maintainer, very old, obsolete
 <li> zope2.6-verbosesecurity -- Helps to explain the reason for denied access
-     <br><a href="http://bugs.debian.org/328617">Bug#328617</a>:
+     <br><a href="https://bugs.debian.org/328617">Bug#328617</a>:
      Request of maintainer, obsolete; only works with to-be-removed zope2.6; superseded by zope-verbosesecurity
 <li> tclexpat -- Tcl interface to expat XML parser.
-     <br><a href="http://bugs.debian.org/328653">Bug#328653</a>:
+     <br><a href="https://bugs.debian.org/328653">Bug#328653</a>:
      Request of maintainer, very old, obsolete
 <li> umsdos -- Utilities for controlling a umsdos filesystem
-     <br><a href="http://bugs.debian.org/328656">Bug#328656</a>:
+     <br><a href="https://bugs.debian.org/328656">Bug#328656</a>:
      Request of maintainer, old, unused, broken
 <li> gopherweblink -- Generate web link files for gopher servers
-     <br><a href="http://bugs.debian.org/328693">Bug#328693</a>:
+     <br><a href="https://bugs.debian.org/328693">Bug#328693</a>:
      Request of maintainer, only useful with no longer supported gopherd
 <li> cfe -- Console Font Editor
-     <br><a href="http://bugs.debian.org/328801">Bug#328801</a>:
+     <br><a href="https://bugs.debian.org/328801">Bug#328801</a>:
      Request of maintainer, old, unused
 <li> vmnet -- Simple virtual networking program
-     <br><a href="http://bugs.debian.org/328813">Bug#328813</a>:
+     <br><a href="https://bugs.debian.org/328813">Bug#328813</a>:
      Request of maintainer, old, superseded
 <li> vgagamespack -- SVGAlib games ConnectN, Othello, and Mines
-     <br><a href="http://bugs.debian.org/328816">Bug#328816</a>:
+     <br><a href="https://bugs.debian.org/328816">Bug#328816</a>:
      Request of maintainer, old, unused, superseded
 <li> bloksi -- Sliding-blocks puzzle (glotski written in perl)
-     <br><a href="http://bugs.debian.org/328817">Bug#328817</a>:
+     <br><a href="https://bugs.debian.org/328817">Bug#328817</a>:
      Request of maintainer, old, alternatives available
 <li> pcrd -- PCR-1000 Control Daemon / Command Line Interface
-     <br><a href="http://bugs.debian.org/328818">Bug#328818</a>:
+     <br><a href="https://bugs.debian.org/328818">Bug#328818</a>:
      Request of QA, old, superseded by icomlib
 <li> math3d -- Spatial geometry math C++ runtime library
-     <br><a href="http://bugs.debian.org/328819">Bug#328819</a>:
+     <br><a href="https://bugs.debian.org/328819">Bug#328819</a>:
      Request of maintainer, old, unused
 <li> regex -- GNU regular expression library, run time libraries. [libc5]
-     <br><a href="http://bugs.debian.org/328839">Bug#328839</a>:
+     <br><a href="https://bugs.debian.org/328839">Bug#328839</a>:
      Request of maintainer, old, broken, unused
 <li> libhs -- HighScore Library (run-time library)
-     <br><a href="http://bugs.debian.org/328860">Bug#328860</a>:
+     <br><a href="https://bugs.debian.org/328860">Bug#328860</a>:
      Request of maintainer, unused
 <li> gidic -- Simple GTK Dictionary
-     <br><a href="http://bugs.debian.org/328862">Bug#328862</a>:
+     <br><a href="https://bugs.debian.org/328862">Bug#328862</a>:
      Request of maintainer, old, unused, gtk1.2
 </ul>
 

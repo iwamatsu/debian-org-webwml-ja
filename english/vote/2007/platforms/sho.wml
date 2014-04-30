@@ -193,7 +193,7 @@ is not only about that. </p>
 <p> To achieve this I want to lower the threshold for becoming a Debian
 developer, while not giving immediate upload rights and keeping the
 present requirements for obtaining them. The FTP-masters have recently <a
-href="http://lists.debian.org/debian-devel/2007/01/msg00760.html">proved
+href="https://lists.debian.org/debian-devel/2007/01/msg00760.html">proved
 it</a> to be trivial to add per-developer upload restrictions to dak, so this
 should be really easy to implement. </p>
 
@@ -226,7 +226,7 @@ accomodations, I believe we can and should afford even more meetings to take
 place. There are local structures in many countries (Extremadura in Spain,
 Cetril in France) that can take care of the logistics. </p>
 
-<p> There was a <a href="http://lists.debian.org/debian-devel-announce/2007/02/msg00005.html">recent
+<p> There was a <a href="https://lists.debian.org/debian-devel-announce/2007/02/msg00005.html">recent
 announce</a> that I find quite perfect. Should the decision to carry on with
 this initiative after a few months be mine, I&#8217;d gladly agree to it. I
 would prefer a full report rather than a <q>brief summary of what went
@@ -263,7 +263,7 @@ focus on packaging, we will have more than enough people to do the work. </p>
 
 <p> Our bug tracking system is ugly and hardly usable. If
 you don&#8217;t think so, you probably have never been to the <a
-href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=wnpp;dist=unstable">WNPP
+href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?pkg=wnpp;dist=unstable">WNPP
 pseudo package</a>. I am sick of hearing that our BTS is better than
 Bugzilla <i>because</i> Bugzilla does not have an e-mail interface as an
 excuse to hide the fact that our BTS is uglier than Bugzilla and does not let

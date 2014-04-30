@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-10-31" SUMMARY="BLOBs, Events, Videos, I18n, Installer, Dunc-Tank, MPlayer, Firefox"
-# $Id: index.wml,v 1.7 2011-05-26 10:05:21 rhonda Exp $
+# $Id: index.wml,v 1.10 2014/04/29 15:26:34 pabs Exp $
 
 <p>Welcome to this year's 40th issue of DWN, the newsletter for the
 Debian community.  This <a href="http://www.debianhelp.co.uk/">DebianHelp</a>
@@ -17,7 +17,7 @@ web tablet.</p>
 
 <p><strong>Source-less Binary Objects in the Debian Linux 2.6 Packages.</strong>
 Frederik Schüler <a
-href="http://lists.debian.org/debian-release/2006/09/msg00215.html">announced</a>
+href="https://lists.debian.org/debian-release/2006/09/msg00215.html">announced</a>
 packages for Linux 2.6.18 and noted that this release contains all
 firmware blobs shipped upstream, even those that used to be pruned. He
 explained that the kernel team initially wanted to wait for a positive general
@@ -33,10 +33,10 @@ Skolelinux</a>/<a href="http://wiki.debian.org/DebianEdu">DebianEdu</a>.
 Martin 'Joey' Schulze also delivered an introductory talk about the Debian project.</p>
 
 <p><strong>Videos of the Internationalisation Meeting.</strong> Nicolas François <a
-href="http://lists.debian.org/debian-i18n/2006/09/msg00288.html">announced</a>  <a
+href="https://lists.debian.org/debian-i18n/2006/09/msg00288.html">announced</a>  <a
 href="http://meetings-archive.debian.net/pub/debian-meetings/2006/i18n-extremadura/">\
 videos</a> recorded during sessions of the first internationalisation <a
-href="http://lists.debian.org/debian-devel-announce/2006/09/msg00012.html">meeting</a>
+href="https://lists.debian.org/debian-devel-announce/2006/09/msg00012.html">meeting</a>
 that took place from September 7th to 9th in Casar de Caceres, Extremadura, Spain.
 The participants agreed to set up an internationalisation server that will
 hosted in the datacenter of the Junta de Extremadura.  Users are asked to test
@@ -44,7 +44,7 @@ the new <a href="$(HOME)/devel/debian-installer/">installer</a> in their
 native language and report bugs to ensure that the translations are done well.</p>
 
 <p><strong>Debian Conference Videos.</strong>  Ben Hutchings <a
-href="http://lists.debian.org/debian-devel-announce/2006/10/msg00023.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/10/msg00023.html">\
 announced</a> DVDs with talks from this year's <a href="$(HOME)/events/2006/0514-debconf">\
 Debian Conference</a> in Oaxtepec, Mexico, prepared by the <a
 href="http://meetings-archive.debian.net/pub/debian-meetings/2006/debconf6/CREDITS">\
@@ -63,7 +63,7 @@ href="http://www.decadent.org.uk/cgi-bin/debconf-dvd-order.py">order</a>
 the DVDs in a nice box.</p>
 
 <p><strong>Debian Internationalisation Server.</strong>  Christian Perrier <a
-href="http://lists.debian.org/debian-devel-announce/2006/10/msg00024.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/10/msg00024.html">\
 announced</a> the <a href="http://i18n.debian.net/">server</a> that will be
 used to build the internationalisation infrastructure for the Debian project.
 The server is hosted in the Junta de Extremadura datacenter, in Badajoz,
@@ -83,7 +83,7 @@ to be quite good for such a small event.  Kurt Gramlich and himself filled in
 for another speaker as well and talked about several issues more detailed.</p>
 
 <p><strong>Call for Testing the Debian-Installer.</strong> Frans Pop <a
-href="http://lists.debian.org/debian-devel-announce/2006/10/msg00021.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/10/msg00021.html">\
 called</a> for testing the <a
 href="http://cdimage.debian.org/cdimage/daily-builds/daily/arch-latest/">\
 daily builds</a> of the new <a
@@ -93,11 +93,11 @@ many bugs as possible. A wiki <a
 href="http://wiki.debian.org/DebianInstaller/EtchRC1Prep">page</a>
 gives an overview about the release and known issues.  Testers are encouraged
 to file a bug report with the results of their installation against the virtual <a
-href="http://bugs.debian.org/installation-report">installation-report</a>
+href="https://bugs.debian.org/installation-report">installation-report</a>
 package.</p>
 
 <p><strong>Dunc-Tank Position Statement.</strong> Jörg Jaspert <a
-href="http://lists.debian.org/debian-project/2006/10/msg00260.html">published</a>
+href="https://lists.debian.org/debian-project/2006/10/msg00260.html">published</a>
 a position statement signed by several developers in which they consider <a
 href="http://www.dunc-tank.org/">Dunc-Tank</a> to be a major change to the
 Debian project culture.  They also raised several unanswered questions and
@@ -106,9 +106,9 @@ lost motivation as a result.</p>
 
 <p><strong>Mplayer in Sid.</strong> The <a
 href="http://packages.debian.org/mplayer">mplayer</a> package has finally been
-<a href="http://lists.debian.org/debian-user/2006/10/msg02869.html">accepted</a>
+<a href="https://lists.debian.org/debian-user/2006/10/msg02869.html">accepted</a>
 into the archive after the longest tenure in the NEW <a
-href="http://ftp-master.debian.org/new.html">queue</a> of any package
+href="https://ftp-master.debian.org/new.html">queue</a> of any package
 ever uploaded into Debian.
 Congratulations to mplayer's maintainers and to the ftpmasters for resolving
 the licencing issues that kept mplayer out of Debian for so long.
@@ -120,16 +120,16 @@ may be needed, though.</p>
 for the first release candidate of the <a href="$(HOME)/devel/debian-installer/">\
 installer</a> for <a href="$(HOME)/releases/etch/">etch</a>, a string freeze
 has been going on, and changes to the installer are limited to bug fixing. Frans
-Pop <a href="http://lists.debian.org/debian-boot/2006/10/msg00737.html">posted</a>
+Pop <a href="https://lists.debian.org/debian-boot/2006/10/msg00737.html">posted</a>
 details and a timeline for the release candidate.  These preparations have already
 <a href="$(HOME)/devel/debian-installer/News/2006/20061017">broken</a>
 most beta 3 images.</p>
 
 <p><strong>Firefox becomes Iceweasel.</strong> Due to trademark <a
-href="http://lists.debian.org/debian-legal/2004/12/msg00328.html">issues</a>
+href="https://lists.debian.org/debian-legal/2004/12/msg00328.html">issues</a>
 the Debian project felt impelled to rename the Firefox web
 browser to Iceweasel and the Thunderbird mail client to Icedove.  Roberto
-Sanchez <a href="http://lists.debian.org/debian-devel/2006/10/msg00665.html">\
+Sanchez <a href="https://lists.debian.org/debian-devel/2006/10/msg00665.html">\
 explained</a> that the new packages don't contain non-free artwork from the <a
 href="http://www.mozilla.org/foundation/">Mozilla Foundation</a> and that
 security updates will be properly backported.  The trademark <a
@@ -281,192 +281,192 @@ devscripts</code> may be helpful.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/web/bricolage">bricolage</a>
      &mdash; Full-featured, enterprise-class content management system.
-     (<a href="http://bugs.debian.org/392206">Bug#392206</a>)
+     (<a href="https://bugs.debian.org/392206">Bug#392206</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/science/cassbeam">cassbeam</a>
      &mdash; Program for Cassegrain antenna modelling.
-     (<a href="http://bugs.debian.org/391196">Bug#391196</a>)
+     (<a href="https://bugs.debian.org/391196">Bug#391196</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/debian-builder">debian-builder</a>
      &mdash; Rebuild Debian packages from source code.
-     (<a href="http://bugs.debian.org/390821">Bug#390821</a>)
+     (<a href="https://bugs.debian.org/390821">Bug#390821</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/misc/dgpsip">dgpsip</a>
      &mdash; Correct GPS location with DGPS signal from Internet.
-     (<a href="http://bugs.debian.org/392666">Bug#392666</a>)
+     (<a href="https://bugs.debian.org/392666">Bug#392666</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/dlume">dlume</a>
      &mdash; Handy and easy to use address book.
-     (<a href="http://bugs.debian.org/391423">Bug#391423</a>)
+     (<a href="https://bugs.debian.org/391423">Bug#391423</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/editors/ee">ee</a>
      &mdash; Easy editor for novices and compuphobics.
-     (<a href="http://bugs.debian.org/392671">Bug#392671</a>)
+     (<a href="https://bugs.debian.org/392671">Bug#392671</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/gnome/fpm">fpm</a>
      &mdash; Secure password manager.
-     (<a href="http://bugs.debian.org/391419">Bug#391419</a>)
+     (<a href="https://bugs.debian.org/391419">Bug#391419</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/text/gs-afpl">gs-afpl</a>
      &mdash; AFPL Ghostscript PostScript interpreter.
-     (<a href="http://bugs.debian.org/393923">Bug#393923</a>)
+     (<a href="https://bugs.debian.org/393923">Bug#393923</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/gxmms-xmms">gxmms</a>
      &mdash; Simple GNOME applet to control the basic functions of XMMS.
-     (<a href="http://bugs.debian.org/391415">Bug#391415</a>)
+     (<a href="https://bugs.debian.org/391415">Bug#391415</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/honyaku-el">honyaku-el</a>
      &mdash; Honyaku-damashii client for emacsen.
-     (<a href="http://bugs.debian.org/392901">Bug#392901</a>)
+     (<a href="https://bugs.debian.org/392901">Bug#392901</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/kipina">kipina</a>
      &mdash; Training program to log physical activities of athletes.
-     (<a href="http://bugs.debian.org/391418">Bug#391418</a>)
+     (<a href="https://bugs.debian.org/391418">Bug#391418</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/komi">komi</a>
      &mdash; single player arcade game with Komi the Space Frog!
-     (<a href="http://bugs.debian.org/390824">Bug#390824</a>)
+     (<a href="https://bugs.debian.org/390824">Bug#390824</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/electronics/ksimus">ksimus</a>
      &mdash; KDE tool for simulating electrical circuits.
-     (<a href="http://bugs.debian.org/393290">Bug#393290</a>)
+     (<a href="https://bugs.debian.org/393290">Bug#393290</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/electronics/ksimus-boolean">ksimus-boolean</a>
      &mdash; KSimus boolean package.
-     (<a href="http://bugs.debian.org/393291">Bug#393291</a>)
+     (<a href="https://bugs.debian.org/393291">Bug#393291</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/electronics/ksimus-datarecorder">ksimus-datarecorder</a>
      &mdash; KSimus datarecorder package.
-     (<a href="http://bugs.debian.org/393292">Bug#393292</a>)
-     (<a href="http://bugs.debian.org/393293">Bug#393293</a>)
+     (<a href="https://bugs.debian.org/393292">Bug#393292</a>)
+     (<a href="https://bugs.debian.org/393293">Bug#393293</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/kde/kwave">kwave</a>
      &mdash; Sound editor for KDE.
-     (<a href="http://bugs.debian.org/393172">Bug#393172</a>)
+     (<a href="https://bugs.debian.org/393172">Bug#393172</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/late">late</a>
      &mdash; Simple game of capturing balls.
-     (<a href="http://bugs.debian.org/390826">Bug#390826</a>)
+     (<a href="https://bugs.debian.org/390826">Bug#390826</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/science/leksbot">leksbot</a>
      &mdash; Explanatory dictionary of botanic and biological terms.
-     (<a href="http://bugs.debian.org/391197">Bug#391197</a>)
+     (<a href="https://bugs.debian.org/391197">Bug#391197</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libadabindx0">libadabindx</a>
      &mdash; Ada binding to the X Window System and *tif.
-     (<a href="http://bugs.debian.org/392083">Bug#392083</a>)
+     (<a href="https://bugs.debian.org/392083">Bug#392083</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/libapache2-mod-layout">libapache2-mod-layout</a>
      &mdash; Apache2 web page content wrapper.
-     (<a href="http://bugs.debian.org/392229">Bug#392229</a>)
+     (<a href="https://bugs.debian.org/392229">Bug#392229</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libctl3">libctl</a>
      &mdash; Library for flexible control files.
-     (<a href="http://bugs.debian.org/393104">Bug#393104</a>)
+     (<a href="https://bugs.debian.org/393104">Bug#393104</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libform-validator-ruby">libform-validator-ruby</a>
      &mdash; HTML form validation library for ruby.
-     (<a href="http://bugs.debian.org/391416">Bug#391416</a>)
+     (<a href="https://bugs.debian.org/391416">Bug#391416</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libgtk-mozembed-ruby">libgtk-mozembed-ruby</a>
      &mdash; Ruby 1.8 binding of GtkMozEmbed, gecko renderer.
-     (<a href="http://bugs.debian.org/391399">Bug#391399</a>)
+     (<a href="https://bugs.debian.org/391399">Bug#391399</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libgtk-trayicon-ruby">libgtk-trayicon-ruby</a>
      &mdash; System tray protocol library for Ruby.
-     (<a href="http://bugs.debian.org/391411">Bug#391411</a>)
+     (<a href="https://bugs.debian.org/391411">Bug#391411</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libnids1.20">libnids</a>
      &mdash; IP defragmentation TCP segment reassembly library.
-     (<a href="http://bugs.debian.org/390827">Bug#390827</a>)
+     (<a href="https://bugs.debian.org/390827">Bug#390827</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/lineak-defaultplugin">lineak-defaultplugin</a>
      &mdash; LinEAK default plugin.
-     (<a href="http://bugs.debian.org/393175">Bug#393175</a>)
+     (<a href="https://bugs.debian.org/393175">Bug#393175</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/lineak-kdeplugins">lineak-kdeplugins</a>
      &mdash; LinEAK KDE plugins.
-     (<a href="http://bugs.debian.org/393177">Bug#393177</a>)
+     (<a href="https://bugs.debian.org/393177">Bug#393177</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/lineak-xosdplugin">lineak-xosdplugin</a>
      &mdash; LinEAK On-Screen Display plugin.
-     (<a href="http://bugs.debian.org/393178">Bug#393178</a>)
+     (<a href="https://bugs.debian.org/393178">Bug#393178</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/lineakd">lineakd</a>
      &mdash; Linux support for Easy Access and Internet Keyboards.
-     (<a href="http://bugs.debian.org/393174">Bug#393174</a>)
+     (<a href="https://bugs.debian.org/393174">Bug#393174</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/science/mpb">mpb</a>
      &mdash; MIT Photonic-Bands.
-     (<a href="http://bugs.debian.org/393107">Bug#393107</a>)
+     (<a href="https://bugs.debian.org/393107">Bug#393107</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libmxml1">mxml</a>
      &mdash; Small XML parsing library.
-     (<a href="http://bugs.debian.org/391132">Bug#391132</a>)
+     (<a href="https://bugs.debian.org/391132">Bug#391132</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/myphpmoney">myphpmoney</a>
      &mdash; Finance manager written in PHP.
-     (<a href="http://bugs.debian.org/390839">Bug#390839</a>)
+     (<a href="https://bugs.debian.org/390839">Bug#390839</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libphat0">phat</a>
      &mdash; Collection of GTK widgets geared towards audio apps.
-     (<a href="http://bugs.debian.org/391134">Bug#391134</a>)
+     (<a href="https://bugs.debian.org/391134">Bug#391134</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/positron">positron</a>
      &mdash; Synchronisation manager for the Neuros Audio Computer.
-     (<a href="http://bugs.debian.org/392672">Bug#392672</a>)
+     (<a href="https://bugs.debian.org/392672">Bug#392672</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/python/python-pmw">python-pmw</a>
      &mdash; Python MegaWidgets.
-     (<a href="http://bugs.debian.org/395871">Bug#395871</a>)
+     (<a href="https://bugs.debian.org/395871">Bug#395871</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/graphics/quiteinsane">quiteinsane</a>
      &mdash; Qt based X11 frontend for SANE.
-     (<a href="http://bugs.debian.org/390837">Bug#390837</a>)
+     (<a href="https://bugs.debian.org/390837">Bug#390837</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/graphics/gimp2.0-quiteinsane">quiteinsanegimpplugin</a>
      &mdash; Qt based SANE plugin for GIMP 2.0.
-     (<a href="http://bugs.debian.org/390836">Bug#390836</a>)
+     (<a href="https://bugs.debian.org/390836">Bug#390836</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libevolution-ruby1.8">revolution</a>
      &mdash; Revolution, Ruby binding for the evolution mail client.
-     (<a href="http://bugs.debian.org/391403">Bug#391403</a>)
+     (<a href="https://bugs.debian.org/391403">Bug#391403</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/sarien">sarien</a>
      &mdash; Interpreter for old Sierra games.
-     (<a href="http://bugs.debian.org/394369">Bug#394369</a>)
+     (<a href="https://bugs.debian.org/394369">Bug#394369</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/sendemail">sendemail</a>
      &mdash; Email-from-console sending tool.
-     (<a href="http://bugs.debian.org/391413">Bug#391413</a>)
+     (<a href="https://bugs.debian.org/391413">Bug#391413</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/science/stars">stars</a>
      &mdash; Star map program that draws the night sky.
-     (<a href="http://bugs.debian.org/391198">Bug#391198</a>)
+     (<a href="https://bugs.debian.org/391198">Bug#391198</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/tex/tex-guy">tex-guy</a>
      &mdash; Miscellaneous utilities using DVIlib.
-     (<a href="http://bugs.debian.org/393925">Bug#393925</a>)
+     (<a href="https://bugs.debian.org/393925">Bug#393925</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/tix">tix</a>
      &mdash; Tix library for Tk.
-     (<a href="http://bugs.debian.org/395963">Bug#395963</a>)
+     (<a href="https://bugs.debian.org/395963">Bug#395963</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/text/turkey">turkey</a>
      &mdash; Dummy text generator.
-     (<a href="http://bugs.debian.org/395253">Bug#395253</a>)
+     (<a href="https://bugs.debian.org/395253">Bug#395253</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/vflib3">vflib3</a>
      &mdash; Font rasteriser library for multi-lingual information.
-     (<a href="http://bugs.debian.org/393580">Bug#393580</a>)
+     (<a href="https://bugs.debian.org/393580">Bug#393580</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/web/wdg-html-validator">wdg-html-validator</a>
      &mdash; WDG HTML Validator.
-     (<a href="http://bugs.debian.org/390833">Bug#390833</a>)
+     (<a href="https://bugs.debian.org/390833">Bug#390833</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/xautomation">xautomation</a>
      &mdash; Control X from the command line, and find things on the screen.
-     (<a href="http://bugs.debian.org/390832">Bug#390832</a>)
+     (<a href="https://bugs.debian.org/390832">Bug#390832</a>)
      </li>
 </ul>
 

@@ -3,10 +3,10 @@
 
 <p>DSA-2141 consists of three individual parts, which can be viewed in the 
 mailing list archive:
-<a href="http://lists.debian.org/debian-security-announce/2011/msg00001.html">DSA 2141-1</a> (openssl),
-<a href="http://lists.debian.org/debian-security-announce/2011/msg00002.html">DSA 2141-2</a> (nss),
-<a href="http://lists.debian.org/debian-security-announce/2011/msg00003.html">DSA 2141-3</a> (apache2), and
-<a href="http://lists.debian.org/debian-security-announce/2011/msg00006.html">DSA 2141-4</a> (lighttpd).
+<a href="https://lists.debian.org/debian-security-announce/2011/msg00001.html">DSA 2141-1</a> (openssl),
+<a href="https://lists.debian.org/debian-security-announce/2011/msg00002.html">DSA 2141-2</a> (nss),
+<a href="https://lists.debian.org/debian-security-announce/2011/msg00003.html">DSA 2141-3</a> (apache2), and
+<a href="https://lists.debian.org/debian-security-announce/2011/msg00006.html">DSA 2141-4</a> (lighttpd).
 This page only covers the first part, openssl.</p>
 
 <ul>
@@ -56,4 +56,4 @@ found at: <a href="$(HOME)/security/">http://www.debian.org/security/</a></p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2141.data"
-# $Id: dsa-2141.wml,v 1.2 2011-01-12 19:09:39 taffit-guest Exp $
+# $Id: dsa-2141.wml,v 1.3 2014/04/29 15:29:28 pabs Exp $

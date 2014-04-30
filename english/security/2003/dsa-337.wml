@@ -10,11 +10,11 @@ victim loads the file in gtksee.</p>
 version 0.5.0-6.</p>
 
 <p>For the unstable distribution (sid) this problem will be fixed soon.
-Refer to <a href="http://bugs.debian.org/76346">Debian bug #76346</a>.</p>
+Refer to <a href="https://bugs.debian.org/76346">Debian bug #76346</a>.</p>
 
 <p>We recommend that you update your gtksee package.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-337.data"
-# $Id: dsa-337.wml,v 1.2 2003-06-29 19:40:17 kaare Exp $
+# $Id: dsa-337.wml,v 1.3 2014/04/29 10:58:12 pabs Exp $

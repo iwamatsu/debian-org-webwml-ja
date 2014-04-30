@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-06-20" SUMMARY="パッケージ化, コミュニティカンファレンス, PDF, mentors, init, みなしご, Debian Day"
-#use wml::debian::translation-check translation="1.9"
+#use wml::debian::translation-check translation="1.11"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 25 号へようこそ。Matt Brown さんは、sbuild
@@ -16,11 +16,11 @@ href="http://people.warp.es/~isaac/blog/index.php/debian-kde-deployment-for-elde
 Kai Hendry さんは、パッケージ説明文中で URL を列挙する方法が、実際のところ<a
 href="$(HOME)/doc/developers-reference/best-pkging-practices#bpp-upstream-info">\
 開発者リファレンス</a>とは一般には異なるハックになっている、と<a
-href="http://lists.debian.org/debian-policy/2006/06/msg00037.html">\
+href="https://lists.debian.org/debian-policy/2006/06/msg00037.html">\
 指摘しました</a>。Margarita Manterola
 さんは、この問題をポリシー関連のものとするためにも、
 まずは dpkg が Homepage フィールドに対応するためのパッチを適用するよう<a
-href="http://lists.debian.org/debian-policy/2006/06/msg00038.html">提案しました</a>。
+href="https://lists.debian.org/debian-policy/2006/06/msg00038.html">提案しました</a>。
 最後に Rapha&euml;l Hertzog さんが、このメタフィールドは<a
 href="http://wiki.debian.org/CRMI">\
 パッケージメタ情報に関する共同作業用のリポジトリ (Collaborative Repository of
@@ -32,7 +32,7 @@ Marco Bertorello さんは、9 月 16 および 17 日にイタリアのベニ�
 コミュニティの<a
 href="http://italiandebconf.debianizzati.org/index.php/English_Info">カンファレンス</a>
 が開催されると<a
-href="http://lists.debian.org/debian-events-eu/2006/06/msg00010.html">発表しました</a>。
+href="https://lists.debian.org/debian-events-eu/2006/06/msg00010.html">発表しました</a>。
 同カンファレンスはイタリアの Debian コミュニティによって運営され、
 ユーザや開発者、翻訳者、そして Debian を愛するすべての人を対象としています。</p>
 
@@ -41,7 +41,7 @@ Yaroslav Halchenko さんは、Debian <a
 href="$(HOME)/releases/unstable/">不安定版 (unstable)</a>
 で配布されている PDF ファイルのうち約半数が圧縮によって <code>.pdf.gz</code>
 ファイルにされ、よく使われる PDF リーダでは簡単には読めなくなっているのに<a
-href="http://lists.debian.org/debian-devel/2006/05/msg01434.html">\
+href="https://lists.debian.org/debian-devel/2006/05/msg01434.html">\
 気付きました</a>。<a
 href="$(HOME)/doc/debian-policy/ch-docs#s12.3">ポリシー</a>によれば、
 サイズの大きなドキュメントは圧縮する必要があるとされていますが、PDF
@@ -53,7 +53,7 @@ href="http://packages.debian.org/gzip">gzip</a> で圧縮したとしても約 5
 <p><strong>Debian Mentors のサイトが再開。</strong>
 Christoph Haas さんは、<a href="http://mentors.debian.net/">mentors</a>
 サービスを再開したと<a
-href="http://lists.debian.org/debian-mentors/2006/06/msg00355.html">\
+href="https://lists.debian.org/debian-mentors/2006/06/msg00355.html">\
 発表しました</a>。mentors サービスは、まだ Debian
 開発者になっていないパッケージメンテナが自分のパッケージを Debian
 へとスポンサーにアップロードしてもらうのを支援するのに捧げられます。
@@ -64,7 +64,7 @@ href="http://lists.debian.org/debian-mentors/2006/06/msg00355.html">\
 Lars Wirzenius さんは、
 未だに多くのパッケージがメンテナスクリプト内で <code>invoke-rc.d</code>
 を使用していない、と<a
-href="http://lists.debian.org/debian-devel/2006/05/msg01746.html">\
+href="https://lists.debian.org/debian-devel/2006/05/msg01746.html">\
 気付きました</a>。<code>invoke-rc.d</code> の使用は<a
 href="$(HOME)/doc/debian-policy/ch-opersys#s9.3.3.2">ポリシー</a> 3.7.2
 において必須とされており、<a href="http://packages.debian.org/lintian">\
@@ -78,7 +78,7 @@ href="http://release.debian.org/etch_rc_policy.txt">一覧</a>によれば、
 Nathanael Nerode さんは、みなしご化されていて、人気コンテストで調査した<a
 href="http://popcon.debian.org/">インストール記録</a>の数が 20
 未満のパッケージの一覧を<a
-href="http://lists.debian.org/debian-qa/2006/06/msg00043.html">作成しました</a>。
+href="https://lists.debian.org/debian-qa/2006/06/msg00043.html">作成しました</a>。
 これらはマシン 500 台あたり 1 台未満にしかインストールされていないので、
 削除候補としてもよいと思われます。
 彼は、これらのパッケージは誰もメンテナンスしていないのにアーカイブに居座って Debian
@@ -86,14 +86,14 @@ href="http://lists.debian.org/debian-qa/2006/06/msg00043.html">作成しまし�
 これに反対する人がいるかどうか知りたいと思っています。Bas Zoetekouw さんは、
 たとえこれらのパッケージを使っている人が少数であっても、
 使っている人がいるうちはリリースクリティカルなバグがない限り保持しておいた方がいいのではないか、と<a
-href="http://lists.debian.org/debian-qa/2006/06/msg00044.html">反論しました</a>。
+href="https://lists.debian.org/debian-qa/2006/06/msg00044.html">反論しました</a>。
 </p>
 
 <p><strong>FrOSCon での Debian Day。</strong>
 Joey さんは、ドイツのザンクト・アウグスティンで開かれる <a
 href="$(HOME)/events/2006/0624-froscon">FrOSCon</a> の期間中に、Debian
 プロジェクトが 1 日限りのカンファレンスを企画していると<a
-href="http://lists.debian.org/debian-events-eu/2006/06/msg00011.html">\
+href="https://lists.debian.org/debian-events-eu/2006/06/msg00011.html">\
 発表しました</a>。同時にブースも出す予定です。この<a
 href="http://wiki.snow-crash.org/FrosCon06">\
 カンファレンス</a>は、6 月 24 日の土曜日を予定していて、ユーザや、Debian
@@ -175,111 +175,111 @@ href="http://wiki.snow-crash.org/FrosCon06">\
 <ul>
 <li> <a href="http://packages.debian.org/unstable/interpreters/aleph">aleph</a>
      &mdash; Aleph プログラミング言語 - Emacs モード。
-     (<a href="http://bugs.debian.org/374120">Bug#374120</a>)
+     (<a href="https://bugs.debian.org/374120">Bug#374120</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/apt-listbugs">apt-listbugs</a>
      &mdash; apt での各インストール前に致命的バグを一覧表示。
-     (<a href="http://bugs.debian.org/374104">Bug#374104</a>)
+     (<a href="https://bugs.debian.org/374104">Bug#374104</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/text/asiya24-vfont">asiya24-vfont</a>
      &mdash; Zeit 社の書体倶楽部形式の日本語丸ゴシック漢字フォント。
-     (<a href="http://bugs.debian.org/374105">Bug#374105</a>)
+     (<a href="https://bugs.debian.org/374105">Bug#374105</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libautounit2">autounit</a>
      &mdash; C 言語単体テストフレームワーク向け開発用ファイル。
-     (<a href="http://bugs.debian.org/374124">Bug#374124</a>)
+     (<a href="https://bugs.debian.org/374124">Bug#374124</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/kde/celestia">celestia</a>
      &mdash; 宇宙空間のリアルタイムなビジュアルシミュレーション (KDE フロントエンド)。
-     (<a href="http://bugs.debian.org/374534">Bug#374534</a>)
+     (<a href="https://bugs.debian.org/374534">Bug#374534</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/cvsreport">cvsreport</a>
      &mdash; CVS リポジトリから活動報告を抽出。
-     (<a href="http://bugs.debian.org/373928">Bug#373928</a>)
+     (<a href="https://bugs.debian.org/373928">Bug#373928</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/dcd">dcd</a>
      &mdash; コマンドラインの CD プレイヤー。
-     (<a href="http://bugs.debian.org/374127">Bug#374127</a>)
+     (<a href="https://bugs.debian.org/374127">Bug#374127</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/debnest">debnest</a>
      &mdash; Debian ソースパッケージのネストしたビルドシステム。
-     (<a href="http://bugs.debian.org/374106">Bug#374106</a>)
+     (<a href="https://bugs.debian.org/374106">Bug#374106</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/debpartial">debpartial</a>
      &mdash; Debian パッケージ / ソースファイル分割ツール。
-     (<a href="http://bugs.debian.org/374107">Bug#374107</a>)
+     (<a href="https://bugs.debian.org/374107">Bug#374107</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/ecos">ecos</a>
      &mdash; 深く組み込まれたオペレーティングシステム。
-     (<a href="http://bugs.debian.org/374108">Bug#374108</a>)
+     (<a href="https://bugs.debian.org/374108">Bug#374108</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/python/python-feedparser">feedparser</a>
      &mdash; Python 用の万能フィードパーサ。
-     (<a href="http://bugs.debian.org/374499">Bug#374499</a>)
+     (<a href="https://bugs.debian.org/374499">Bug#374499</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/fidogate">fidogate</a>
      &mdash; FidoNet と インターネットの間のゲートウェイ。
-     (<a href="http://bugs.debian.org/374520">Bug#374520</a>)
+     (<a href="https://bugs.debian.org/374520">Bug#374520</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/gnurobots">gnurobots</a>
      &mdash; 世界を探索するロボットをプログラムするゲーム。
-     (<a href="http://bugs.debian.org/374125">Bug#374125</a>)
+     (<a href="https://bugs.debian.org/374125">Bug#374125</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/python/python-gst">gst-python</a>
      &mdash; GStreamer の Python バインディング (0.8)。
-     (<a href="http://bugs.debian.org/374500">Bug#374500</a>)
+     (<a href="https://bugs.debian.org/374500">Bug#374500</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/python/python-gst0.10">gst0.10-python</a>
      &mdash; GStreamer の Python バインディング (0.10).
-     (<a href="http://bugs.debian.org/374501">Bug#374501</a>)
+     (<a href="https://bugs.debian.org/374501">Bug#374501</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/libintl-gettext-ruby">libintl-gettext-ruby</a>
      &mdash; Ruby 1.6 用の Gettext ラッパー。
-     (<a href="http://bugs.debian.org/374109">Bug#374109</a>)
+     (<a href="https://bugs.debian.org/374109">Bug#374109</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libipc-shareable-perl">libipc-shareable-perl</a>
      &mdash; Perl から IPC 共有メモリ領域にアクセスするモジュール。
-     (<a href="http://bugs.debian.org/374121">Bug#374121</a>)
+     (<a href="https://bugs.debian.org/374121">Bug#374121</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libmail-verp-perl">libmail-verp-perl</a>
      &mdash; 可変エンベロープリターンパス (VERP) のエンコーダおよびデコーダ。
-     (<a href="http://bugs.debian.org/374030">Bug#374030</a>)
+     (<a href="https://bugs.debian.org/374030">Bug#374030</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/lphdisk">lphdisk</a>
      &mdash; Phoenix NoteBIOS 用のハイパネーション領域の作成。
-     (<a href="http://bugs.debian.org/374110">Bug#374110</a>)
+     (<a href="https://bugs.debian.org/374110">Bug#374110</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/mt-st">mt-st</a>
      &mdash; Linux SCSI テープドライバを認識する磁気テープ制御 (別名 mt)。
-     (<a href="http://bugs.debian.org/374122">Bug#374122</a>)
+     (<a href="https://bugs.debian.org/374122">Bug#374122</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/web/phpreports">phpreports</a>
      &mdash; PHP 用の XML ベースのレポートジェネレータ。
-     (<a href="http://bugs.debian.org/374425">Bug#374425</a>)
+     (<a href="https://bugs.debian.org/374425">Bug#374425</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/text/trueprint">trueprint</a>
      &mdash; ソースコードのプリティプリント。
-     (<a href="http://bugs.debian.org/374128">Bug#374128</a>)
+     (<a href="https://bugs.debian.org/374128">Bug#374128</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/ultrapossum">ultrapossum</a>
      &mdash; UltraPossum の startTLS サポートモジュール。
-     (<a href="http://bugs.debian.org/374111">Bug#374111</a>)
+     (<a href="https://bugs.debian.org/374111">Bug#374111</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/ultrapossum-slapd">ultrapossum-slapd</a>
      &mdash; UltraPossum に最適化した slapd を使うためのプラグイン。
-     (<a href="http://bugs.debian.org/374112">Bug#374112</a>)
+     (<a href="https://bugs.debian.org/374112">Bug#374112</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/vflib2">vflib2</a>
      &mdash; 日本語文字コード用 Vector フォントライブラリ。
-     (<a href="http://bugs.debian.org/374113">Bug#374113</a>)
+     (<a href="https://bugs.debian.org/374113">Bug#374113</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/gnome/yank">yank</a>
      &mdash; もう一つの notekeeper。
-     (<a href="http://bugs.debian.org/374129">Bug#374129</a>)
+     (<a href="https://bugs.debian.org/374129">Bug#374129</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/zmailer">zmailer</a>
      &mdash; 最高のパフォーマンス要求に応えるメーラ。
-     (<a href="http://bugs.debian.org/373908">Bug#373908</a>)
+     (<a href="https://bugs.debian.org/373908">Bug#373908</a>)
      </li>
 </ul>
 

@@ -11,11 +11,11 @@ gnomemeeting and asterisk.</p>
 fixed in version 1.2.5-5woody1.</p>
 
 <p>For the unstable distribution (sid), this problem will be fixed soon.
-Refer to Debian Bug<a href="http://bugs.debian.org/233888">#233888</a> for details.</p>
+Refer to Debian Bug<a href="https://bugs.debian.org/233888">#233888</a> for details.</p>
 
 <p>We recommend that you update your pwlib package.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2004/dsa-448.data"
-# $Id: dsa-448.wml,v 1.1 2004-02-23 07:14:00 joey Exp $
+# $Id: dsa-448.wml,v 1.2 2014/04/29 10:58:12 pabs Exp $

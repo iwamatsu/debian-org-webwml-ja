@@ -10,7 +10,7 @@ there are many areas in which both experienced and inexperienced users can assis
 
 <li>You can simply test the operating system and the programs provided in it
 and report any not yet known errata or bugs you find using the 
-<a href="http://bugs.debian.org/">Bug Tracking System</a>.  Try to browse also
+<a href="https://bugs.debian.org/">Bug Tracking System</a>.  Try to browse also
 the bugs associated with packages you use and provide further
 information, if you can reproduce the issues described in them.</li>
 
@@ -18,7 +18,7 @@ information, if you can reproduce the issues described in them.</li>
 # Translators, link directly to the translated mailing lists and provide
 # a link to the IRC channel in the user's language
 <li>If you are an experienced user you can help other users through 
-the <a href="http://lists.debian.org/">user mailing lists</a> or
+the <a href="https://lists.debian.org/">user mailing lists</a> or
 by using the IRC channel <tt>#debian</tt>.  For more information on support options
 and available sources read the <a href="$(HOME)/support">support pages</a>.</li>
 
@@ -27,7 +27,7 @@ and available sources read the <a href="$(HOME)/support">support pages</a>.</li>
 <li>You can help translating applications or Debian-related information
 (web pages, documentation) to your own language by
 getting involved in a translation project (discussion is generally handled
-through the <a href="http://lists.debian.org/debian-i18n/">i18n mailing list</a>).
+through the <a href="https://lists.debian.org/debian-i18n/">i18n mailing list</a>).
 You can even
 start up a new internationalisation group if there is none for your
 language.  For more information read the <a
@@ -36,7 +36,7 @@ href="$(HOME)/international/">Internationalisation pages</a>.</li>
 <li>You can help maintain applications that are already available in the Debian
 operating system, specially those you use much and know about, by
 contributing fixes (patches) or additional information in the <a
-href="http://bugs.debian.org/">Bug Tracking System</a> for those packages.  You
+href="https://bugs.debian.org/">Bug Tracking System</a> for those packages.  You
 can also get involved directly in package maintenance by becoming a member of a
 group maintenance team or get involved with software that is being developed
 for Debian by joining a software project at <a

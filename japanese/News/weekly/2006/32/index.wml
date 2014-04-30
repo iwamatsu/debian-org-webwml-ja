@@ -1,14 +1,14 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-08" SUMMARY="SPI, アーキテクチャ, Times, エストレマドラ, ユーザ, ミニ Debconf, メーリングリスト"
-#use wml::debian::translation-check translation="1.8"
+#use wml::debian::translation-check translation="1.11"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 32 号へようこそ。Enrico Zini さんは、Pike
 パッケージの説明文に Pike の長い説明が含まれ、
 それによって検索結果に誤りが含まれてしまうことに<a
-href="http://lists.debian.org/debian-devel/2006/07/msg00281.html">\
+href="https://lists.debian.org/debian-devel/2006/07/msg00281.html">\
 気付きました</a>。Helmut Wollmersdorfer さんが、PHP
 パッケージにも同様の問題があると<a
-href="http://lists.debian.org/debian-devel/2006/07/msg00332.html">\
+href="https://lists.debian.org/debian-devel/2006/07/msg00332.html">\
 補足しました</a>。Erich Schubert さんはアーティストたちに、<a
 href="$(HOME)/releases/etch/">etch</a>
 リリース用のアートワークをデザインするよう、<a
@@ -33,13 +33,13 @@ href="http://lists.spi-inc.org/pipermail/spi-announce/2006/000135.html">\
 Petter Reinholdtsen さんは、<a
 href="http://popcon.debian.org">人気コンテスト</a>の調査に基き、Debian
 におけるアーキテクチャ分布について<a
-href="http://lists.debian.org/debian-devel/2006/07/msg01325.html">\
+href="https://lists.debian.org/debian-devel/2006/07/msg01325.html">\
 報告しました</a>。彼の指摘によれば、<a href="$(HOME)/ports/arm/">ARM</a>
 移植版を利用するユーザの数が増加している一方、<a href="$(HOME)/ports/alpha/">\
 Alpha</a> や <a href="$(HOME)/ports/sparc/">Sparc</a>
 への移植版は市場シェアを失いつつあります。Joey Hess さんが、その ARM
 ユーザ数の増加を説明する理由として妥当なのは Linksys NSLU2 マシンだろう、と<a
-href="http://lists.debian.org/debian-devel/2006/07/msg01362.html">\
+href="https://lists.debian.org/debian-devel/2006/07/msg01362.html">\
 示唆しました</a>。<a
 href="http://packages.debian.org/unstable/misc/popularity-contest">\
 人気コンテスト (popularity-contest)</a> パッケージは、
@@ -49,11 +49,11 @@ href="http://packages.debian.org/unstable/misc/popularity-contest">\
 <p><strong>ユーザ向けの新たな情報媒体。</strong>
 Wolfgang Lonien さんは、Debian ユーザの意見やコメントを集約するウェブサイト、<a
 href="http://www.thedebianuser.org">The Debian User</a> を作成したと<a
-href="http://lists.debian.org/debian-devel/2006/08/msg00187.html">\
+href="https://lists.debian.org/debian-devel/2006/08/msg00187.html">\
 発表しました</a>。同じ日に、Andreas Barth さんが、
 開発者や興味を持っているユーザへのニュース記事の配信を目的とした、<a
 href="http://times.debian.net">DebianTimes</a> の始動を<a
-href="http://lists.debian.org/debian-project/2006/08/msg00030.html">\
+href="https://lists.debian.org/debian-project/2006/08/msg00030.html">\
 発表しました</a>。DebianTimes はウェブ上で利用でき、RSS <a
 href="http://times.debian.net/?format=rss20.xml">フィード</a>も配信されています。
 </p>
@@ -61,9 +61,9 @@ href="http://times.debian.net/?format=rss20.xml">フィード</a>も配信され
 <p><strong>安定版リリースチームからの一言。</strong>
 Andreas Barth さんは、カーネルアップデートの処理や改善のために、Dann Frazier
 さんが安定版リリースチームのメンバーになったと<a
-href="http://lists.debian.org/debian-project/2006/08/msg00035.html">\
+href="https://lists.debian.org/debian-project/2006/08/msg00035.html">\
 発表しました</a>。また、Martin Zobel-Helas さん作の新しい<a
-href="http://ftp-master.debian.org/proposed-updates.html">\
+href="https://ftp-master.debian.org/proposed-updates.html">\
 ウェブページ</a>は、proposed-updates
 に取り込まれるのを待っているパッケージの追跡に利用できます。</p>
 
@@ -87,7 +87,7 @@ href="http://liw.iki.fi/liw/log/2006-07.html#20060728c">興味を持ちました
 <p><strong>コロンビアでの MiniDebconf。</strong>
 Santiago Ruano Rinc&oacute;n さんは、8 月 19 日および 20
 日にカウカ州のポパヤン市で Mini DebConf が開催されると<a
-href="http://lists.debian.org/debian-devel-announce/2006/08/msg00002.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/08/msg00002.html">\
 発表しました</a>。講演やハックラボ、バグ一掃パーティなどが行なわれる予定です。
 同カンファレンスは Wiki <a
 href="http://wiki.debian.org/DebianColombia/MiniDebconf2006">\
@@ -99,7 +99,7 @@ Pascal Hakim さんは、<a href="http://teams.debian.net/">teams.debian.net</a>
 href="http://www.redellipse.net/stuff/Debian/teams.debian.net.story">報告しました</a>。
 その目的は Debian 関連のメーリングリストやアーカイブ用の場所を提供することで、
 パッケージやユーザグループ、特別なイベント用のメーリングリストなどが含まれます。
-このサービスはまた、新規メーリングリストを公式な <a href="http://lists.debian.org/">\
+このサービスはまた、新規メーリングリストを公式な <a href="https://lists.debian.org/">\
 lists.debian.org</a> の一部とする前にテストするための、
 一時的なサーバとしても利用されます。Pascal さんは、このサービスを利用するための<a
 href="http://teams.debian.net/request.html">規則</a>一式を準備しました。</p>
@@ -186,53 +186,53 @@ href="http://teams.debian.net/request.html">規則</a>一式を準備しまし�
 <ul>
 <li> <a href="http://packages.debian.org/unstable/editors/august">august</a>
      &mdash; Tcl/Tk で書かれた HTML エディタ。
-     (<a href="http://bugs.debian.org/381207">Bug#381207</a>)
+     (<a href="https://bugs.debian.org/381207">Bug#381207</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/cipe-common">cipe</a>
      &mdash; UDP 上の軽量暗号化 IP トンネル。
-     (<a href="http://bugs.debian.org/381162">Bug#381162</a>)
+     (<a href="https://bugs.debian.org/381162">Bug#381162</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/pronto">pronto</a>
      &mdash; Perl で書かれ、高度にモジュール化された GTK+ メールクライアント。
-     (<a href="http://bugs.debian.org/381111">Bug#381111</a>)
+     (<a href="https://bugs.debian.org/381111">Bug#381111</a>)
      </li>
 </ul>
 
 <p><strong>削除されたパッケージ。</strong>
 この 1 週間で、Debian アーカイブから 8 個のパッケージが<a
-href="http://ftp-master.debian.org/removals.txt">削除されました</a>。</p>
+href="https://ftp-master.debian.org/removals.txt">削除されました</a>。</p>
 
 <ul>
 <li> iceme &mdash; IceWM 用のグラフィカルメニューエディタ
-     <br><a href="http://bugs.debian.org/227054">Bug#227054</a>:
+     <br><a href="https://bugs.debian.org/227054">Bug#227054</a>:
      QA からの依頼、みなしご化されている、古い
 </li>
 <li> icepref &mdash; もう一つの IceWM 設定ツール。
-     <br><a href="http://bugs.debian.org/227077">Bug#227077</a>:
+     <br><a href="https://bugs.debian.org/227077">Bug#227077</a>:
      QA からの依頼、みなしご化されている、古い
 </li>
 <li> openmcl &mdash; ネイティブコード ANSI Common LISP コンパイラと実行環境
-     <br><a href="http://bugs.debian.org/297473">Bug#297473</a>:
+     <br><a href="https://bugs.debian.org/297473">Bug#297473</a>:
      QA からの依頼、みなしご化されている、インストールされていない、RC バグあり
 </li>
 <li> openmcl-build-tools &mdash; OpenMCL Common Lisp システム構築用のツール
-     <br><a href="http://bugs.debian.org/297475">Bug#297475</a>:
+     <br><a href="https://bugs.debian.org/297475">Bug#297475</a>:
      QA からの依頼、みなしご化されている、OpenMCL なしでは使えない
 </li>
 <li> newsflash &mdash; サーバから newnews コマンドでニュースを取得
-     <br><a href="http://bugs.debian.org/312208">Bug#312208</a>:
+     <br><a href="https://bugs.debian.org/312208">Bug#312208</a>:
      QA からの依頼、みなしご化されている、開発元が消失、ユーザが少ない、多くの代替あり
 </li>
 <li> postit &mdash; ローカルのサーバからリモートのホストへニュースを送信
-     <br><a href="http://bugs.debian.org/312209">Bug#312209</a>:
+     <br><a href="https://bugs.debian.org/312209">Bug#312209</a>:
      QA からの依頼、みなしご化されている、開発元が消失、ユーザがいない、多くの代替あり
 </li>
 <li> libkpathsea3 &mdash; teTeX のパス検索ライブラリ (開発部分)
-     <br><a href="http://bugs.debian.org/369096">Bug#369096</a>:
+     <br><a href="https://bugs.debian.org/369096">Bug#369096</a>:
      メンテナからの依頼、tetex-bin で代替
 </li>
 <li> tomcat4 &mdash; Java サーブレットエンジン (コアライブラリ)
-     <br><a href="http://bugs.debian.org/377734">Bug#377734</a>:
+     <br><a href="https://bugs.debian.org/377734">Bug#377734</a>:
      メンテナからの依頼、tomcat5 で代替
 </li>
 </ul>

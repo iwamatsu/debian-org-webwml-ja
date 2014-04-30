@@ -1,19 +1,19 @@
 #use wml::debian::weeklynews::header PUBDATE="2007-07-03" SUMMARY="Events, Interview, Art, PHP4, Release Team, Reminder, Security, Backports, GCC"
-# $Id: index.wml,v 1.5 2011-05-26 10:05:23 rhonda Exp $
+# $Id: index.wml,v 1.7 2014/04/29 15:26:39 pabs Exp $
 
 <p>Welcome to this year's 6th issue of DWN, the newsletter for the
 Debian community.  Ulrich Hansen created a set of nice looking CD and DVD <a
 href="http://www.ulrich-hansen.de/etch/">covers</a> for the just released
 <a href="$(HOME)/releases/etch/">Debian GNU/Linux 4.0</a>.  Roland Mas <a
-href="http://lists.debian.org/debian-devel-announce/2007/05/msg00001.html">\
+href="https://lists.debian.org/debian-devel-announce/2007/05/msg00001.html">\
 announced</a> that <a href="http://alioth.debian.org/">Alioth</a> has been
 upgrade to <a href="$(HOME)/releases/etch/">etch</a>.  Kurt Gramlich <a
-href="http://lists.debian.org/debian-events-eu/2007/06/msg00015.html">\
+href="https://lists.debian.org/debian-events-eu/2007/06/msg00015.html">\
 announced</a> a Skolelinux Youngster Meeting on July 20th to 26th in Chemnitz,
 Germany.</p>
 
 <p><strong>Call for Papers for LVEE-2007.</strong> Vlad Shakhov <a
-href="http://lists.debian.org/debian-events-eu/2007/04/msg00012.html">\
+href="https://lists.debian.org/debian-events-eu/2007/04/msg00012.html">\
 called</a> for papers and speakers for the upcoming <a
 href="http://lvee.org.by/">Linux Vacation/Eastern Europe</a> (LVEE)
 meeting.  The event takes place from June, 14th to 17th near Hrodna,
@@ -33,7 +33,7 @@ software in Debian is already GPLv3 compatible and that using the GPLv3 in
 Debian would cause even more license incompatibilities.</p>
 
 <p><strong>Collection of Debian Art.</strong> André Luiz Rodrigues Ferreira <a
-href="http://lists.debian.org/debian-devel/2007/05/msg00275.html">announced</a>
+href="https://lists.debian.org/debian-devel/2007/05/msg00275.html">announced</a>
 the <a href="http://www.debianart.org">Debian Art</a> website.  It aims
 to create an archive for high quality artwork like wallpaper,
 splash screens, icons, logos, screenshots and system sounds
@@ -42,7 +42,7 @@ labels.  This user contributed artwork can be included in upcoming Debian
 releases.</p>
 
 <p><strong>Removing PHP4.</strong> Sean Finney <a
-href="http://lists.debian.org/debian-devel/2007/05/msg00126.html">announced</a>
+href="https://lists.debian.org/debian-devel/2007/05/msg00126.html">announced</a>
 that PHP4 will be removed from <a href="$(HOME)/releases/sid/">unstable</a>
 and thus <a href="$(HOME)/releases/testing/">testing</a>.  Sean has setup a Wiki <a
 href="http://wiki.debian.org/PHP4Removal">page</a> to give detailed
@@ -51,7 +51,7 @@ He asked the respective maintainers to fix their packages to avoid mass
 bug filing.</p>
 
 <p><strong>Release Team Meeting Results.</strong> Andreas Barth <a
-href="http://lists.debian.org/debian-devel-announce/2007/06/msg00005.html">\
+href="https://lists.debian.org/debian-devel-announce/2007/06/msg00005.html">\
 summarised</a> the release team meeting that took place in J&uuml;lich,
 Germany.  A review of the <a href="$(HOME)/releases/etch/">etch</a> release
 process lead to simplifying the use of release <a
@@ -63,7 +63,7 @@ rough release schedule which aims at the next release in the second half of
 2008.</p>
 
 <p><strong>Boosting the Release Team.</strong> Luk Claes <a
-href="http://lists.debian.org/debian-devel-announce/2007/06/msg00007.html">\
+href="https://lists.debian.org/debian-devel-announce/2007/06/msg00007.html">\
 called</a> for new release assistants for the lenny release cycle in order to
 distribute the workload better among them.  Assistants need to have done
 Quality Assurance for Debian already, have loads of spare time to use for
@@ -72,19 +72,19 @@ acknowledge that they will be doing merely basic work without authority over
 the release.</p>
 
 <p><strong>Serious Problem Reminder.</strong> Lucas Nussbaum <a
-href="http://lists.debian.org/debian-devel/2007/06/msg01063.html">announced</a>
+href="https://lists.debian.org/debian-devel/2007/06/msg01063.html">announced</a>
 that he's going to send mails to maintainers of packages with serious problems
 once a month.  When a release-critical bug is open for more than 30 days, or
 when the package has not yet migrated into testing the maintainer will be
 informed about the problems.</p>
 
 <p><strong>FrOSCon Debian Sub-Conference.</strong> Martin Zobel-Helas <a
-href="http://lists.debian.org/debian-events-eu/2007/06/msg00019.html">called</a>
+href="https://lists.debian.org/debian-events-eu/2007/06/msg00019.html">called</a>
 for papers for a Debian sub-conference at this years' <a
 href="http://www.froscon.org/">FrOSCon</a> that takes place on August 25th and
 26th in St. Augustin, Germany.  In addition to the developer room the project
 will also <a
-href="http://lists.debian.org/debian-events-eu/2007/06/msg00006.html">run</a>
+href="https://lists.debian.org/debian-events-eu/2007/06/msg00006.html">run</a>
 a booth in the exhibition area.</p>
 
 <p><strong>Format String Vulnerabilities in Debian.</strong> Karl Chen and
@@ -107,18 +107,18 @@ sarge</a> are still supported and may need to be removed before the system is
 upgraded to etch.</p>
 
 <p><strong>Transition to GCC 4.2.</strong> Martin Michlmayr <a
-href="http://lists.debian.org/debian-devel-announce/2007/06/msg00008.html">\
+href="https://lists.debian.org/debian-devel-announce/2007/06/msg00008.html">\
 called</a> for developers interested in helping with the transition to GCC 4.2
 by uploading packages and inspecting build <a
-href="http://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=ftbfs-gcc-4.2;users=tbm@cyrius.com">\
+href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=ftbfs-gcc-4.2;users=tbm@cyrius.com">\
 failures</a>.  Throughout the development of GCC 4.2, the entire Debian
 archive has been recompiled regularly with development snapshots of GCC to
 ensure a reliable compiler.</p>
 
 <p><strong>Package Build Status.</strong> Sergei Golovan <a
-href="http://lists.debian.org/debian-devel/2007/06/msg01266.html">wondered</a>
+href="https://lists.debian.org/debian-devel/2007/06/msg01266.html">wondered</a>
 about the meaning of state <q>uploaded</q>.  Goswin von Brederlow <a
-href="http://lists.debian.org/debian-devel/2007/07/msg00015.html">explained</a>
+href="https://lists.debian.org/debian-devel/2007/07/msg00015.html">explained</a>
 that it means the <a href="$(HOME)/devel/buildd/">build daemon</a> has
 received a signed changes file and has uploaded the package into the incoming
 queue.  When this status does not change for a while something went wrong.
@@ -315,83 +315,83 @@ devscripts</code> may be helpful.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/net/airsnort">airsnort</a>
      &mdash; WLAN sniffer.
-     (<a href="http://bugs.debian.org/429507">Bug#429507</a>)
+     (<a href="https://bugs.debian.org/429507">Bug#429507</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/graphics/cfourcc">cfourcc</a>
      &mdash; Command line tool for changing FourCC in Microsoft RIFF AVI files.
-     (<a href="http://bugs.debian.org/425242">Bug#425242</a>)
+     (<a href="https://bugs.debian.org/425242">Bug#425242</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/datefudge">datefudge</a>
      &mdash; Fake the system date.
-     (<a href="http://bugs.debian.org/429467">Bug#429467</a>)
+     (<a href="https://bugs.debian.org/429467">Bug#429467</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/divxcomp">divxcomp</a>
      &mdash; Bitrate calculator for DivX:-) movies written in perl.
-     (<a href="http://bugs.debian.org/424713">Bug#424713</a>)
+     (<a href="https://bugs.debian.org/424713">Bug#424713</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/tex/dvi2tty">dvi2tty</a>
      &mdash; Previewing dvi-files on text-only devices.
-     (<a href="http://bugs.debian.org/430129">Bug#430129</a>)
+     (<a href="https://bugs.debian.org/430129">Bug#430129</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/ecawave">ecawave</a>
      &mdash; Graphical audio file editor.
-     (<a href="http://bugs.debian.org/431141">Bug#431141</a>)
+     (<a href="https://bugs.debian.org/431141">Bug#431141</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/fblogo">fblogo</a>
      &mdash; Converts images to framebuffer-logo header files.
-     (<a href="http://bugs.debian.org/427139">Bug#427139</a>)
+     (<a href="https://bugs.debian.org/427139">Bug#427139</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/web/flyspray">flyspray</a>
      &mdash; Lightweight Bug Tracking System (BTS) in PHP.
-     (<a href="http://bugs.debian.org/428366">Bug#428366</a>)
+     (<a href="https://bugs.debian.org/428366">Bug#428366</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/gscanbus">gscanbus</a>
      &mdash; Scan IEEE1394 (firewire/i.link) bus.
-     (<a href="http://bugs.debian.org/429559">Bug#429559</a>)
+     (<a href="https://bugs.debian.org/429559">Bug#429559</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/kforth">kforth</a>
      &mdash; Small Forth Interpreter Written in C++.
-     (<a href="http://bugs.debian.org/429469">Bug#429469</a>)
+     (<a href="https://bugs.debian.org/429469">Bug#429469</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/labrea">labrea</a>
      &mdash; <q>Sticky</q> honeypot and IDS.
-     (<a href="http://bugs.debian.org/424715">Bug#424715</a>)
+     (<a href="https://bugs.debian.org/424715">Bug#424715</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libc-scan-perl">libc-scan-perl</a>
      &mdash; Scan C language files for easily recognised constructs.
-     (<a href="http://bugs.debian.org/430977">Bug#430977</a>)
+     (<a href="https://bugs.debian.org/430977">Bug#430977</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/admin/medussa">medussa</a>
      &mdash; Distributed password cracking system.
-     (<a href="http://bugs.debian.org/424716">Bug#424716</a>)
+     (<a href="https://bugs.debian.org/424716">Bug#424716</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/graphics/metacam">metacam</a>
      &mdash; Extract EXIF information from digital camera files.
-     (<a href="http://bugs.debian.org/425241">Bug#425241</a>)
+     (<a href="https://bugs.debian.org/425241">Bug#425241</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/outguess">outguess</a>
      &mdash; Universal steganographic tool.
-     (<a href="http://bugs.debian.org/424718">Bug#424718</a>)
+     (<a href="https://bugs.debian.org/424718">Bug#424718</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/pmidi">pmidi</a>
      &mdash; Command line MIDI player for ALSA.
-     (<a href="http://bugs.debian.org/429755">Bug#429755</a>)
+     (<a href="https://bugs.debian.org/429755">Bug#429755</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/mail/procmail-lib">procmail-lib</a>
      &mdash; Library of useful procmail recipes.
-     (<a href="http://bugs.debian.org/430981">Bug#430981</a>)
+     (<a href="https://bugs.debian.org/430981">Bug#430981</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/stegdetect">stegdetect</a>
      &mdash; Detect and extract steganography messages inside JPEG.
-     (<a href="http://bugs.debian.org/424720">Bug#424720</a>)
+     (<a href="https://bugs.debian.org/424720">Bug#424720</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/tcpick">tcpick</a>
      &mdash; TCP stream sniffer and connection tracker.
-     (<a href="http://bugs.debian.org/430030">Bug#430030</a>)
+     (<a href="https://bugs.debian.org/430030">Bug#430030</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/wmcalc">wmcalc</a>
      &mdash; Dockable calculator application.
-     (<a href="http://bugs.debian.org/427132">Bug#427132</a>)
+     (<a href="https://bugs.debian.org/427132">Bug#427132</a>)
      </li>
 </ul>
 

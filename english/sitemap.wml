@@ -18,22 +18,22 @@ sub title_of {
   my ($page) = @_;
 
 # special cases
-  if ($page eq "http://lists.debian.org/") { return "<escape><mailarchives></escape>" }
-  if ($page eq "http://lists.debian.org/users.html") { return "<escape><listarchives_users></escape>" }
-  if ($page eq "http://lists.debian.org/devel.html") { return "<escape><listarchives_devel></escape>" }
-  if ($page eq "http://lists.debian.org/i18n.html") { return "<escape><listarchives_i18n></escape>" }
-  if ($page eq "http://lists.debian.org/ports.html") { return "<escape><listarchives_ports></escape>" }
-  if ($page eq "http://lists.debian.org/bugs.html") { return "<escape><listarchives_bugs></escape>" }
-  if ($page eq "http://lists.debian.org/misc.html") { return "<escape><listarchives_misc></escape>" }
+  if ($page eq "https://lists.debian.org/") { return "<escape><mailarchives></escape>" }
+  if ($page eq "https://lists.debian.org/users.html") { return "<escape><listarchives_users></escape>" }
+  if ($page eq "https://lists.debian.org/devel.html") { return "<escape><listarchives_devel></escape>" }
+  if ($page eq "https://lists.debian.org/i18n.html") { return "<escape><listarchives_i18n></escape>" }
+  if ($page eq "https://lists.debian.org/ports.html") { return "<escape><listarchives_ports></escape>" }
+  if ($page eq "https://lists.debian.org/bugs.html") { return "<escape><listarchives_bugs></escape>" }
+  if ($page eq "https://lists.debian.org/misc.html") { return "<escape><listarchives_misc></escape>" }
   if ($page eq "$(SEARCH)") { return "<escape><search></escape>" }
-  if ($page eq "http://db.debian.org/") { return "<escape><developerdb></escape>" }
+  if ($page eq "https://db.debian.org/") { return "<escape><developerdb></escape>" }
   if ($page eq "News/weekly/") { return "<escape><debianweeklynews></escape>" }
   if ($page eq "News/project/") { return "<escape><debianprojectnews></escape>" }
   if ($page eq "doc/manuals/debian-faq/") { return "<escape><debian_faq></escape>" }
   if ($page eq "doc/debian-policy/") { return "<escape><policy_manual></escape>" }
   if ($page eq "doc/manuals/developers-reference/") { return "<escape><devel_reference></escape>" }
   if ($page eq "doc/manuals/maint-guide/") { return "<escape><new_maint_guide></escape>" }
-  if ($page eq "http://bugs.debian.org/release-critical/") { return "<escape><rc_bugs></escape>" }
+  if ($page eq "https://bugs.debian.org/release-critical/") { return "<escape><rc_bugs></escape>" }
   if ($page eq "http://lintian.debian.org/") { return "<escape><lintian></escape>" }
   if ($page eq "MailingLists/subscribe") { return "<escape><subscribe_title></escape>" }
   if ($page eq "MailingLists/unsubscribe") { return "<escape><unsubscribe_title></escape>" }
@@ -185,13 +185,13 @@ sub title_of {
   </ul>
 
   <ul>
-  <li><linkto "http://lists.debian.org/">
-  <li><linkto "http://lists.debian.org/users.html">
-  <li><linkto "http://lists.debian.org/devel.html">
-  <li><linkto "http://lists.debian.org/i18n.html">
-  <li><linkto "http://lists.debian.org/ports.html">
-  <li><linkto "http://lists.debian.org/bugs.html">
-  <li><linkto "http://lists.debian.org/misc.html">
+  <li><linkto "https://lists.debian.org/">
+  <li><linkto "https://lists.debian.org/users.html">
+  <li><linkto "https://lists.debian.org/devel.html">
+  <li><linkto "https://lists.debian.org/i18n.html">
+  <li><linkto "https://lists.debian.org/ports.html">
+  <li><linkto "https://lists.debian.org/bugs.html">
+  <li><linkto "https://lists.debian.org/misc.html">
   </ul>
   </div>
   </div>
@@ -206,7 +206,7 @@ sub title_of {
   <li><linkto "Bugs/server-control">
   <li><linkto "Bugs/server-request">
   <li><linkto "Bugs/Developer">
-  <li><linkto "http://bugs.debian.org/release-critical/">
+  <li><linkto "https://bugs.debian.org/release-critical/">
   </ul>
 
   <ul>
@@ -243,7 +243,7 @@ sub title_of {
   <li><linkto "devel/constitution">
   <li><linkto "devel/people">
   <li><linkto "devel/developers.loc">
-  <li><linkto "http://db.debian.org/">
+  <li><linkto "https://db.debian.org/">
   <li><linkto "devel/join/">
   <li><linkto "devel/misc/">
   </ul>

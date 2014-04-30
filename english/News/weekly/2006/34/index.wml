@@ -1,9 +1,9 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-22" SUMMARY="Events, WNPP, Tools, Desktop, Publicity, Alioth, Kernel, Packaging, CC 3.0"
-# $Id: index.wml,v 1.7 2011-05-26 10:05:19 rhonda Exp $
+# $Id: index.wml,v 1.10 2014/04/29 15:26:31 pabs Exp $
 
 <p>Welcome to this year's 34th issue of DWN, the weekly newsletter for the
 Debian community.  Jörg Jaspert <a
-href="http://lists.debian.org/debian-project/2006/08/msg00118.html">\
+href="https://lists.debian.org/debian-project/2006/08/msg00118.html">\
 announced</a> that the <a href="http://www.backports.org/">backports</a>
 archive also understands the tilde character in version strings and that
 packages are set to <code>NotAutomatic</code> so that they shouldn't be
@@ -13,33 +13,33 @@ announced</a> that they support Debian GNU/Linux on its ProLiant, BladeSystem
 servers, and the new HP t5725 Thin Client server.</p>
 
 <p><strong>Event Coordination in the German-speaking Area.</strong> Meike
-Reichle <a href="http://lists.debian.org/debian-events-eu/2006/08/msg00019.html">\
+Reichle <a href="https://lists.debian.org/debian-events-eu/2006/08/msg00019.html">\
 announced</a> a new Wiki <a href="http://wiki.debian.org/DebianEventsDe">\
 page</a> for coordinating public events in the German-speaking area such as
 fairs, exhibitions and conferences in which the Debian projects participates.
 This is one result of a <a
-href="http://lists.debian.org/debian-publicity/2006/08/msg00031.html">meeting</a>
+href="https://lists.debian.org/debian-publicity/2006/08/msg00031.html">meeting</a>
 of Debian event organisers last weekend.  Alexander Schmehl <a
-href="http://lists.debian.org/debian-events-eu/2006/08/msg00022.html">added</a>
+href="https://lists.debian.org/debian-events-eu/2006/08/msg00022.html">added</a>
 that the events <a href="$(HOME)/events/">section</a> on the Debian website
 will be overhauled in the near future.</p>
 
 <p><strong>WNPP Bug Report Page.</strong> Hendrik Sattler <a
-href="http://lists.debian.org/debian-devel/2006/08/msg00236.html">\
-noticed</a> that the <a href="http://bugs.debian.org/wnpp">page</a>
+href="https://lists.debian.org/debian-devel/2006/08/msg00236.html">\
+noticed</a> that the <a href="https://bugs.debian.org/wnpp">page</a>
 for Work-Needing and Prospective Packages (WNPP) in the <a
 href="$(HOME)/Bugs/">bug tracking system</a> causes problems with Konqueror and
 Firefox due to the sheer size of 3&nbsp;MB.  Ben Armstrong <a
-href="http://lists.debian.org/debian-devel/2006/08/msg00237.html">\
+href="https://lists.debian.org/debian-devel/2006/08/msg00237.html">\
 reminded</a> the existence of light <a href="$(HOME)/devel/wnpp/">pages</a>
 with direct links to the different WNPP packages sections.</p>
 
 <p><strong>Review of Debian Development Tools.</strong>
 As part of his research on Debian, Martin Krafft <a
-href="http://lists.debian.org/debian-devel/2006/07/msg01358.html">\
+href="https://lists.debian.org/debian-devel/2006/07/msg01358.html">\
 asked</a> about the tools that have been successfully adopted
 or those that have been rejected by the developers. Michael Banck <a
-href="http://lists.debian.org/debian-devel/2006/07/msg01360.html">\
+href="https://lists.debian.org/debian-devel/2006/07/msg01360.html">\
 mentioned</a> <a href="http://packages.debian.org/unstable/devel/cdbs">\
 CDBS</a>, <a href="http://alioth.debian.org">Alioth</a> and Debian's
 <a href="http://svn.debian.org">Subversion repository</a>, but <a
@@ -55,7 +55,7 @@ A list of tools is <a
 href="http://wiki.debian.org/madduck/adoptions">available</a>.</p>
 
 <p><strong>New Desktop Features.</strong> Gustavo Noronha Silva <a
-href="http://lists.debian.org/debian-devel/2006/08/msg00629.html">\
+href="https://lists.debian.org/debian-devel/2006/08/msg00629.html">\
 announced</a> the upload of a new version of <a
 href="http://packages.debian.org/unstable/gnome/update-notifier">\
 update-notifier</a>. This tool, that was initially made by Ubuntu, puts
@@ -66,7 +66,7 @@ CDs/DVDs inserted in the drive. Such features should contribute to
 make Debian a nicer desktop distribution.</p>
 
 <p><strong>Publicity for Debian Events.</strong> Joey Schulze <a
-href="http://lists.debian.org/debian-events-eu/2006/08/msg00000.html">\
+href="https://lists.debian.org/debian-events-eu/2006/08/msg00000.html">\
 asked</a> to emphasise events a bit more again.  He suggested also more
 talks and workshops with a Debian background and more promotion.  This would
 generate more interest by users to meet Debian people at exhibitions and
@@ -84,29 +84,29 @@ replication has also been improved so that the downtime drops from 15 minutes
 to only a few seconds.</p>
 
 <p><strong>Etch Kernel Schedule Proposal.</strong> Frederik Schüler <a
-href="http://lists.debian.org/debian-kernel/2006/08/msg00413.html">suggested</a>
+href="https://lists.debian.org/debian-kernel/2006/08/msg00413.html">suggested</a>
 to select 2.6.18, which is to be released within the next four weeks, as final
 kernel for <a href="$(HOME)/releases/etch/">etch</a> and freeze it at the
 beginning of November.  Frans Pop, however, would <a
-href="http://lists.debian.org/debian-kernel/2006/08/msg00415.html">prefer</a>
+href="https://lists.debian.org/debian-kernel/2006/08/msg00415.html">prefer</a>
 the kernel to remain in <a href="$(HOME)/releases/unstable/">unstable</a> at
 least one month before it migrates into <a href="$(HOME)/releases/testing/">\
 testing</a>.</p>
 
 <p><strong>New Architectures for Packages.</strong> Ludovic Brenta <a
-href="http://lists.debian.org/debian-devel/2006/07/msg00537.html">wondered</a>
+href="https://lists.debian.org/debian-devel/2006/07/msg00537.html">wondered</a>
 how to inform <a href="$(HOME)/devel/buildd/">build daemon</a> that a package
 should be built on another architecture than before.  Luk Claes <a
-href="http://lists.debian.org/debian-devel/2006/07/msg00538.html">answered</a>
+href="https://lists.debian.org/debian-devel/2006/07/msg00538.html">answered</a>
 that the maintainers of <a
 href="http://cvs.debian.org/srcdep/Packages-arch-specific?cvsroot=dak">\
 Packages-arch-specific</a> need to be contacted.  Wouter Verhelst <a
-href="http://lists.debian.org/debian-devel/2006/07/msg00583.html">added</a> an
+href="https://lists.debian.org/debian-devel/2006/07/msg00583.html">added</a> an
 explanation why the wanna-build database doesn't use control files but archive
 index files.</p>
 
 <p><strong>Managing Packages with Subversion.</strong> Marcus Better recently
-<a href="http://lists.debian.org/debian-devel/2006/07/msg00835.html">\
+<a href="https://lists.debian.org/debian-devel/2006/07/msg00835.html">\
 started</a> to use <a href="http://packages.debian.org/subversion">\
 subversion</a> to maintain his packages and wondered what the recommended
 repository layout would be.  The point of having a common layout is that it
@@ -114,7 +114,7 @@ would be possible to write support tools that make this layout less cumbersome
 to work with.</p>
 
 <p><strong>Creative Commons 3.0 Public Draft.</strong> Evan Prodromou <a
-href="http://lists.debian.org/debian-legal/2006/08/msg00051.html">reported</a>
+href="https://lists.debian.org/debian-legal/2006/08/msg00051.html">reported</a>
 on the <a href="http://creativecommons.org/weblog/entry/6017">public</a> <a
 href="http://lists.ibiblio.org/pipermail/cc-licenses/2006-August/003855.html">\
 draft</a> of the next version of Creative Commons licenses.  The changes from
@@ -176,125 +176,125 @@ devscripts</code> may be helpful.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/devel/gdtclft">gdtclft</a>
      &mdash; Tcl interface to GD graphics creation library.
-     (<a href="http://bugs.debian.org/383651">Bug#383651</a>)
+     (<a href="https://bugs.debian.org/383651">Bug#383651</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libtk-img">libtk-img</a>
      &mdash; Extended image format support for Tcl/Tk.
-     (<a href="http://bugs.debian.org/383652">Bug#383652</a>)
+     (<a href="https://bugs.debian.org/383652">Bug#383652</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/utils/pgpdump">pgpdump</a>
      &mdash; PGP packet visualiser.
-     (<a href="http://bugs.debian.org/383129">Bug#383129</a>)
+     (<a href="https://bugs.debian.org/383129">Bug#383129</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/pipsecd">pipsecd</a>
      &mdash; IPsec tunnel implementation.
-     (<a href="http://bugs.debian.org/384134">Bug#384134</a>)
+     (<a href="https://bugs.debian.org/384134">Bug#384134</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/x11/rsjog">rsjog</a>
      &mdash; Handler for Sony Vaio "Jog Dial".
-     (<a href="http://bugs.debian.org/383134">Bug#383134</a>)
+     (<a href="https://bugs.debian.org/383134">Bug#383134</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/graphics/tclmagick">tclmagick</a>
      &mdash; Tcl bindings for ImageMagick.
-     (<a href="http://bugs.debian.org/383653">Bug#383653</a>)
+     (<a href="https://bugs.debian.org/383653">Bug#383653</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/tclparser">tclparser</a>
      &mdash; Tcl extension to access Tcl's internal parser.
-     (<a href="http://bugs.debian.org/383654">Bug#383654</a>)
+     (<a href="https://bugs.debian.org/383654">Bug#383654</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/tclsoap">tclsoap</a>
      &mdash; SOAP implementation for Tcl.
-     (<a href="http://bugs.debian.org/383530">Bug#383530</a>)
+     (<a href="https://bugs.debian.org/383530">Bug#383530</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/tclthread">tclthread</a>
      &mdash; Tcl extension implementing script level access to Tcl threading capabilities.
-     (<a href="http://bugs.debian.org/383655">Bug#383655</a>)
+     (<a href="https://bugs.debian.org/383655">Bug#383655</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/tclvfs">tclvfs</a>
      &mdash; Exposes Tcl 8.4's virtual filesystem C API to the Tcl script level.
-     (<a href="http://bugs.debian.org/383656">Bug#383656</a>)
+     (<a href="https://bugs.debian.org/383656">Bug#383656</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/tdom">tdom</a>
      &mdash; XML/DOM/XPath/XSLT implementation for Tcl.
-     (<a href="http://bugs.debian.org/383657">Bug#383657</a>)
+     (<a href="https://bugs.debian.org/383657">Bug#383657</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/interpreters/tkcon">tkcon</a>
      &mdash; Enhanced interactive console for developing in Tcl.
-     (<a href="http://bugs.debian.org/383658">Bug#383658</a>)
+     (<a href="https://bugs.debian.org/383658">Bug#383658</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/libs/libzap1">zapata</a>
      &mdash; Zapata telephony interface library (development).
-     (<a href="http://bugs.debian.org/383834">Bug#383834</a>)
+     (<a href="https://bugs.debian.org/383834">Bug#383834</a>)
      </li>
 </ul>
 
 <p><strong>Removed Packages.</strong> 24 packages have been <a
-href="http://ftp-master.debian.org/removals.txt">removed</a> from the Debian
+href="https://ftp-master.debian.org/removals.txt">removed</a> from the Debian
 archive during the past week:</p>
 
 <ul>
 <li> fidogate &mdash; Gateway Fido &lt;-&gt; Internet
-     <br><a href="http://bugs.debian.org/374520">Bug#374520</a>:
+     <br><a href="https://bugs.debian.org/374520">Bug#374520</a>:
      Request of QA, security issues, RC-buggy, orphaned, few users.
 </li>
 <li> gnat &mdash; GNU Ada 95 compiler
-     <br><a href="http://bugs.debian.org/377331">Bug#377331</a>:
+     <br><a href="https://bugs.debian.org/377331">Bug#377331</a>:
      Request of maintainer, superseded by gcc-defaults.
 </li>
 <li> eskuel &mdash; Pretty PHP administration tool for MySQL databases
-     <br><a href="http://bugs.debian.org/380202">Bug#380202</a>:
+     <br><a href="https://bugs.debian.org/380202">Bug#380202</a>:
      Request of maintainer, abandoned upstream, superseded by phpmyadmin.
 </li>
 <li> gch &mdash; Ada quality &amp; style checker
-     <br><a href="http://bugs.debian.org/380193">Bug#380193</a>:
+     <br><a href="https://bugs.debian.org/380193">Bug#380193</a>:
      Request of QA, abandoned upstream, unmaintained, superseded by adacontrol, RC-buggy.
 </li>
 <li> 44bsd-rdist &mdash; 4.4BSD rdist.
-     <br><a href="http://bugs.debian.org/380192">Bug#380192</a>:
+     <br><a href="https://bugs.debian.org/380192">Bug#380192</a>:
      Request of QA, RC-buggy, few users, orphaned.
 </li>
 <li> kernel-patch-nfs-swap &mdash; Patch to Linux to enable swapping over NFS
-     <br><a href="http://bugs.debian.org/379328">Bug#379328</a>:
+     <br><a href="https://bugs.debian.org/379328">Bug#379328</a>:
      Request of QA, has never been part of a stable release; orphaned; RC-buggy.
 </li>
 <li> python-parted &mdash; Python bindings for GNU parted
-     <br><a href="http://bugs.debian.org/379034">Bug#379034</a>:
+     <br><a href="https://bugs.debian.org/379034">Bug#379034</a>:
      Request of QA, has never been part of a stable release, orphaned, RC-buggy.
 </li>
 <li> libhoard &mdash; Fast memory allocation library
-     <br><a href="http://bugs.debian.org/332538">Bug#332538</a>:
+     <br><a href="https://bugs.debian.org/332538">Bug#332538</a>:
      Request of QA, orphaned, out of date, few users.
 </li>
 <li> qmailadmin &mdash; Web interface for managing qmail with virtual domains
-     <br><a href="http://bugs.debian.org/333082">Bug#333082</a>:
+     <br><a href="https://bugs.debian.org/333082">Bug#333082</a>:
      Request of QA, has never been part of a stable release, few users.
 </li>
 <li> libgtk2-podviewer-perl &mdash; Perl Gtk2 widget for displaying Plain Old Documentation (POD)
-     <br><a href="http://bugs.debian.org/351889">Bug#351889</a>:
+     <br><a href="https://bugs.debian.org/351889">Bug#351889</a>:
      Request of maintainer, superseded by libgtk2-ex-podviewer-perl.
 </li>
 <li> net-dict-leo &mdash; Perl module to translate English words to German and vice versa
-     <br><a href="http://bugs.debian.org/362016">Bug#362016</a>:
+     <br><a href="https://bugs.debian.org/362016">Bug#362016</a>:
      Request of maintainer, no longer legally usable.
 </li>
 <li> libaudio-flac-perl &mdash; Perl interface to FLAC file information and comment fields
-     <br><a href="http://bugs.debian.org/344077">Bug#344077</a>:
+     <br><a href="https://bugs.debian.org/344077">Bug#344077</a>:
      Request of maintainer, superseded by libaudio-flac-header-perl.
 </li>
 <li> ipchains &mdash; Network firewalling for Linux 2.2.x
-     <br><a href="http://bugs.debian.org/382665">Bug#382665</a>:
+     <br><a href="https://bugs.debian.org/382665">Bug#382665</a>:
      Request of QA, kernel 2.2 only.
 </li>
 <li> kernel-patch-2.4-supermount-ng &mdash; Automatically mount and unmount removable media
-     <br><a href="http://bugs.debian.org/298998">Bug#298998</a>:
+     <br><a href="https://bugs.debian.org/298998">Bug#298998</a>:
      Request of QA, orphaned, out of date.
 </li>
 <li> kernel-image-2.4.27-[!i386,!m68k] &mdash; Linux 2.4.27 kernel images
-     <br><a href="http://bugs.debian.org/383553">Bug#383553</a>:
+     <br><a href="https://bugs.debian.org/383553">Bug#383553</a>:
      Request of maintainer, obsolete.
 </li>
 <li> amap &mdash; Network protocol probing tool
-     <br><a href="http://bugs.debian.org/381185">Bug#381185</a>:
+     <br><a href="https://bugs.debian.org/381185">Bug#381185</a>:
      Request of maintainer, non-free.
 </li>
 </ul>

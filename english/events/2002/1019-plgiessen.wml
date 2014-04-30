@@ -22,10 +22,10 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1019-plgiessen.wml,v 1.8 2003-12-28 20:19:44 barbier Exp $
+# $Id: 1019-plgiessen.wml,v 1.9 2014/04/29 15:27:59 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.schmehl.info/linux/pi2002/index.html">Alexander's presentation</a>
- <li><report href="http://lists.debian.org/debian-events-eu-0210/msg00019.html">\
+ <li><report href="https://lists.debian.org/debian-events-eu-0210/msg00019.html">\
  Report</report>
 </ul>

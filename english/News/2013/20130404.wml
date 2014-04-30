@@ -1,5 +1,5 @@
 # Status: [content-frozen]
-# $Id: 20130404.wml,v 1.1 2013-04-04 16:46:30 madamezou Exp $
+# $Id: 20130404.wml,v 1.3 2014/04/29 15:23:08 pabs Exp $
 # $Rev: 4822 $
 
 
@@ -33,7 +33,7 @@ will continue to spur Bytemark's.</q>
 
 <p>
 <q>This significant hardware and hosting donation will allow the
-<a href="http://dsa.debian.org">Debian Systems Administration (DSA)
+<a href="https://dsa.debian.org">Debian Systems Administration (DSA)
 team</a> to distribute Debian's core services across a greater number of
 geographically diverse locations, and improve, in particular, the
 fault-tolerance and availability of end-user facing services,</q> said
@@ -47,7 +47,7 @@ volunteer Debian Project is able to operate the critical infrastructure
 necessary to support its work.</q>
 Further details of which services will be moved to this new equipment
 will be provided soon on the
-<a href="http://lists.debian.org/debian-infrastructure-announce">debian-infrastructure-announce
+<a href="https://lists.debian.org/debian-infrastructure-announce">debian-infrastructure-announce
 mailing list</a>.
 </p>
 

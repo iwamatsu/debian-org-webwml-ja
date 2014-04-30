@@ -30,7 +30,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0208-fosdem.wml,v 1.13 2011-05-26 10:05:31 rhonda Exp $
+# $Id: 0208-fosdem.wml,v 1.14 2014/04/29 15:28:00 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0208-fosdem-report">Report</a><br>
@@ -39,5 +39,5 @@
  <li>Program for the <a href="http://www.fosdem.org/index/dev_room/dev_room_embedded">embedded session</a>
  <li><a href="http://www.fosdem.org/index/speakers/">Speakers</a>
  <li><a href="http://www.ael.be/action/gnupg/fosdem/">Keysigning</a> on Sunday
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
 </ul>

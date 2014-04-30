@@ -1,6 +1,6 @@
 #use wml::debian::template title="Alpha Port -- Status" NOHEADER="yes"
 #include "$(ENGLISHDIR)/ports/alpha/menu.inc"
-# $Id: port-status.wml,v 1.16 2011-08-07 17:23:42 madamezou Exp $
+# $Id: port-status.wml,v 1.17 2014/04/29 15:28:16 pabs Exp $
 
 <h1>Debian GNU/Linux on Alpha &ndash; Status</h1>
 
@@ -47,7 +47,7 @@ more types of Alphas than slink did.</p>
    and researching the
    <a href="links#lists">list archives for Debian and Red Hat</a>-AXP-Lists
    neither yields a result, then 
-   <a href="http://lists.debian.org/debian-alpha/">subscribe</a> to the
+   <a href="https://lists.debian.org/debian-alpha/">subscribe</a> to the
    Debian-Alpha list and ask.
    Usually someone has tried already and can provide useful
    information.</p>

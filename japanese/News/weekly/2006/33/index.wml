@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-15" SUMMARY="パッケージング, リリース, Python, 誕生日, DPL からの報告, インストーラ"
-#use wml::debian::translation-check translation="1.6"
+#use wml::debian::translation-check translation="1.9"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 33 号へようこそ。今週、Debian は 13 周年を迎えます。
@@ -17,7 +17,7 @@ href="http://www.freesoftwaremagazine.com/node/1692">疑問を呈しました</a
 <p><strong>ディストリビューション全体に渡る追跡ツール。</strong>
 Arnaud Fontaine さんは、<a href="http://wiki.debian.org/DWTT">\
 ディストリビューション全体に渡る追跡ツール</a> Wotomae の状況について<a
-href="http://lists.debian.org/debian-qa/2006/08/msg00039.html">\
+href="https://lists.debian.org/debian-qa/2006/08/msg00039.html">\
 報告しました</a>。DWTT は、ライブラリの移行やデフォルト Python
 バージョンの切替え、ポリシーの変更など、パッケージに影響がある変更を簡単に追跡できるツールで、Google の<a
 href="http://code.google.com/summerofcode.html">Summer of Code</a>
@@ -27,7 +27,7 @@ href="http://netu.naquadah.org:8080/">利用可能です</a>。</p>
 <p><strong>プレリリース用の新しいバージョン付け。</strong>
 Martin F. Krafft さんは、アーカイブのソフトウェアがバージョン番号にチルダ ('~')
 を使用することにようやく対応したと<a
-href="http://lists.debian.org/debian-devel-announce/2006/08/msg00006.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/08/msg00006.html">\
 発表しました</a>。この特殊文字は、ソフトウェアがプレリリース状態にあることを示すために使われます。
 ソートした際はゼロ長の文字列よりも前に来るので、
 バージョン <code>1.0~rc4-1</code> は、最終バージョン <code>1.0-1</code>
@@ -37,8 +37,8 @@ href="http://lists.debian.org/debian-devel-announce/2006/08/msg00006.html">\
 
 <p><strong>リリース情報更新: 第 1 回目のパッケージフリーズ。</strong>
 Andreas Barth さんは、重要なツールチェインが<a
-href="http://ftp-master.debian.org/testing/hints/freeze">フリーズされた</a>と<a
-href="http://lists.debian.org/debian-devel-announce/2006/08/msg00005.html">\
+href="https://ftp-master.debian.org/testing/hints/freeze">フリーズされた</a>と<a
+href="https://lists.debian.org/debian-devel-announce/2006/08/msg00005.html">\
 発表しました</a>。さらに Barth さんはリリースノートに記すべき事項を募り、
 ライブラリのメンテナに対しては、
 他のパッケージの再構築が必要となるかもしれない新パッケージをアップロードする際は、
@@ -48,7 +48,7 @@ href="http://lists.debian.org/debian-devel-announce/2006/08/msg00005.html">\
 <p><strong>Python 移行の状況。</strong>
 Matthias Klose さんは、Python のデフォルトバージョンがまもなく 2.4
 に変更されるだろうと<a
-href="http://lists.debian.org/debian-devel-announce/2006/08/msg00004.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/08/msg00004.html">\
 報告しました</a>。初期の一塊りのバグ報告はその 90&nbsp;% が解決され、
 それ以外の塊もプライベートな Python
 モジュールを含んでいる既存の全パッケージに割り当てられたとも報告されました。
@@ -67,7 +67,7 @@ href="http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcd
 
 <p><strong>プロジェクトリーダーレポート。</strong>
 Anthony Towns さんは新しい<a
-href="http://lists.debian.org/debian-devel-announce/2006/08/msg00007.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/08/msg00007.html">\
 レポート</a>を公開し、その中で過去を回想しました。Steve McIntyre
 さんがリーダーのアドレスのエイリアスに追加され、
 プロジェクトの運営の手助けをしています。Anthony さんは、最近開発者になった 2
@@ -79,7 +79,7 @@ Debian カンファレンス</a>の主催者に感謝の言葉を述べ、
 <p><strong>Debian-Installer Etch ベータ 3 がリリース。</strong>
 Frans Pop さんは、Debian GNU/Linux etch 用インストーラのベータリリース 3
 をリリースしたと<a
-href="http://lists.debian.org/debian-devel-announce/2006/08/msg00009.html">\
+href="https://lists.debian.org/debian-devel-announce/2006/08/msg00009.html">\
 発表しました</a>。これは、Debian の公式ミラーから AMD64
 アーキテクチャをインストールし、カーネル 2.6.16
 をインストール時に使用・インストールする最初のリリースです。<a
@@ -176,121 +176,121 @@ href="$(HOME)/ports/s390">S/390</a> アーキテクチャにおいて、カー�
 <ul>
 <li> <a href="http://packages.debian.org/unstable/web/blogtk">blogtk</a>
      &mdash; GTK ベースのウェブログクライアント。
-     (<a href="http://bugs.debian.org/382797">Bug#382797</a>)
+     (<a href="https://bugs.debian.org/382797">Bug#382797</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libclassworlds-java">classworlds</a>
      &mdash; Java ClassLoader フレームワーク。
-     (<a href="http://bugs.debian.org/382813">Bug#382813</a>)
+     (<a href="https://bugs.debian.org/382813">Bug#382813</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/cvsps">cvsps</a>
      &mdash; CVS パッチセットの情報を生成するツール。
-     (<a href="http://bugs.debian.org/382809">Bug#382809</a>)
+     (<a href="https://bugs.debian.org/382809">Bug#382809</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/net/d4x">d4x</a>
      &mdash; グラフィカルなダウンロードマネージャ。
-     (<a href="http://bugs.debian.org/382732">Bug#382732</a>)
+     (<a href="https://bugs.debian.org/382732">Bug#382732</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/forrest">forrest</a>
      &mdash; XML ベースのドキュメンテーションフレームワーク。
-     (<a href="http://bugs.debian.org/382814">Bug#382814</a>)
+     (<a href="https://bugs.debian.org/382814">Bug#382814</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/gnome/gnome-extra-icons">gnome-extra-icons</a>
      &mdash; 追加の GNOME アイコン。
-     (<a href="http://bugs.debian.org/382810">Bug#382810</a>)
+     (<a href="https://bugs.debian.org/382810">Bug#382810</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/groovy">groovy</a>
      &mdash; Java 仮想マシン用のアジャイルな動的言語。
-     (<a href="http://bugs.debian.org/382815">Bug#382815</a>)
+     (<a href="https://bugs.debian.org/382815">Bug#382815</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/jswat">jswat</a>
      &mdash; JPDA Java デバッガ。
-     (<a href="http://bugs.debian.org/382816">Bug#382816</a>)
+     (<a href="https://bugs.debian.org/382816">Bug#382816</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/jswat2">jswat2</a>
      &mdash; JPDA Java デバッガ。
-     (<a href="http://bugs.debian.org/382817">Bug#382817</a>)
+     (<a href="https://bugs.debian.org/382817">Bug#382817</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/perl/libproc-process-perl">libproc-process-perl</a>
      &mdash; プロセステーブルの情報にアクセスする Perl ライブラリ。
-     (<a href="http://bugs.debian.org/382811">Bug#382811</a>)
+     (<a href="https://bugs.debian.org/382811">Bug#382811</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/editors/mined">mined</a>
      &mdash; Unicode および CJK の手広いサポートを備えた強力なテキストエディタ。
-     (<a href="http://bugs.debian.org/382750">Bug#382750</a>)
+     (<a href="https://bugs.debian.org/382750">Bug#382750</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/devel/libmockobjects-java">mockobjects</a>
      &mdash; モックオブジェクトの開発・利用フレームワーク。
-     (<a href="http://bugs.debian.org/382818">Bug#382818</a>)
+     (<a href="https://bugs.debian.org/382818">Bug#382818</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/games/xearth">xearth</a>
      &mdash; X のルート画面上で地球を回転させるツール。
-     (<a href="http://bugs.debian.org/382654">Bug#382654</a>)
+     (<a href="https://bugs.debian.org/382654">Bug#382654</a>)
      </li>
 </ul>
 
 <p><strong>削除されたパッケージ。</strong>
 この 1 週間で、Debian アーカイブから 15 個のパッケージが<a
-href="http://ftp-master.debian.org/removals.txt">削除されました</a>。</p>
+href="https://ftp-master.debian.org/removals.txt">削除されました</a>。</p>
 
 <ul>
 <li> libjpeg-mmx &mdash; MMX 最適化された IJG JPEG ライブラリの開発ファイル
-     <br><a href="http://bugs.debian.org/158474">Bug#158474</a>:
+     <br><a href="https://bugs.debian.org/158474">Bug#158474</a>:
      QA からの依頼、RC バグあり、セキュリティ上のバグあり、みなしご化されている、開発元が消失
 </li>
 <li> uncc &mdash; i386 用の C デコンパイラ
-     <br><a href="http://bugs.debian.org/314672">Bug#314672</a>:
+     <br><a href="https://bugs.debian.org/314672">Bug#314672</a>:
      QA からの依頼、みなしご化されている、使えない
 </li>
 <li> acidlab &mdash; Intrusion データベース用の分析コンソール
-     <br><a href="http://bugs.debian.org/319389">Bug#319389</a>:
+     <br><a href="https://bugs.debian.org/319389">Bug#319389</a>:
      メンテナからの依頼、acidbase で代替
 </li>
 <li> xcircuit &mdash; 回路図その他ほとんど何でもを描画
-     <br><a href="http://bugs.debian.org/323678">Bug#323678</a>:
+     <br><a href="https://bugs.debian.org/323678">Bug#323678</a>:
      QA からの依頼、みなしご化されている、RC バグあり
 </li>
 <li> swt-pocketpc &mdash; PocketPC JAR ライブラリ用の標準ウィジェットツールキット
-     <br><a href="http://bugs.debian.org/324778">Bug#324778</a>:
+     <br><a href="https://bugs.debian.org/324778">Bug#324778</a>:
      QA からの依頼、みなしご化されている、古い、non-free、ユーザが少ない
 </li>
 <li> nsmon &mdash; インターネット/イントラネットのサーバチェッカー
-     <br><a href="http://bugs.debian.org/327623">Bug#327623</a>:
+     <br><a href="https://bugs.debian.org/327623">Bug#327623</a>:
      QA からの依頼、みなしご化されている、開発元がない、よりよい代替あり
 </li>
 <li> qglviewer &mdash; Qt/OpenGL ベースのビューウィジェット
-     <br><a href="http://bugs.debian.org/348793">Bug#348793</a>:
+     <br><a href="https://bugs.debian.org/348793">Bug#348793</a>:
      QA からの依頼、みなしご化されている、開発元が消失、古い
 </li>
 <li> psys &mdash; Chipmunk ツール用の P-system エミュレーションライブラリ [開発用]
-     <br><a href="http://bugs.debian.org/354496">Bug#354496</a>:
+     <br><a href="https://bugs.debian.org/354496">Bug#354496</a>:
      QA からの依頼、みなしご化されている、使われていない
 </li>
 <li> zope-zshell &mdash; Zope 用のコマンドラインインターフェイス
-     <br><a href="http://bugs.debian.org/361018">Bug#361018</a>:
+     <br><a href="https://bugs.debian.org/361018">Bug#361018</a>:
      QA からの依頼、みなしご化されている、現在の Zope 用のパッケージがない
 </li>
 <li> eroaster &mdash; GNOME CD バーナーのフロントエンド
-     <br><a href="http://bugs.debian.org/364280">Bug#364280</a>:
+     <br><a href="https://bugs.debian.org/364280">Bug#364280</a>:
      QA からの依頼、みなしご化されている、RC バグあり
 </li>
 <li> rfb &mdash; X11 用の VNC サーバ - 現在の画面を転送
-     <br><a href="http://bugs.debian.org/364347">Bug#364347</a>:
+     <br><a href="https://bugs.debian.org/364347">Bug#364347</a>:
      QA からの依頼、みなしご化されている、開発元がない、代替あり
 </li>
 <li> ri &mdash; ri1.6 の Emacs インターフェイス
-     <br><a href="http://bugs.debian.org/367006">Bug#367006</a>:
+     <br><a href="https://bugs.debian.org/367006">Bug#367006</a>:
      メンテナからの依頼、ruby1.6 が削除された、RC バグあり
 </li>
 <li> animal &mdash; C で書かれたイメージングライブラリ
-     <br><a href="http://bugs.debian.org/369209">Bug#369209</a>:
+     <br><a href="https://bugs.debian.org/369209">Bug#369209</a>:
      QA からの依頼、obsolete, みなしご化されている、alternatives exist
 </li>
 <li> yank &mdash; もう一つのノートキーパー
-     <br><a href="http://bugs.debian.org/374129">Bug#374129</a>:
+     <br><a href="https://bugs.debian.org/374129">Bug#374129</a>:
      QA からの依頼、メンテナンスされていない、バグあり、古い、置き換えられた
 </li>
 <li> ruby1.6 &mdash; オブジェクト指向スクリプティング言語 Ruby 1.6.x のインタプリタ
-     <br><a href="http://bugs.debian.org/378111">Bug#378111</a>:
+     <br><a href="https://bugs.debian.org/378111">Bug#378111</a>:
      メンテナからの依頼、古い
 </li>
 </ul>

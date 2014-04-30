@@ -1,5 +1,5 @@
 #use wml::debian::template title="CeBIT 2003 -- Report"
-# $Id: 0312-cebit-report.wml,v 1.14 2005-10-23 21:15:19 witch Exp $
+# $Id: 0312-cebit-report.wml,v 1.15 2014/04/29 15:28:00 pabs Exp $
 
 <p>The Debian presentation at this year's CeBIT was sponsored by <a
 href="http://www.linuxland.de/">LinuxLand International</a> this year
@@ -18,7 +18,7 @@ center.</p>
 people from LinuxLand, too. I just needed to set up a proper Debian
 system. I decided to use the stable release and apt-pinning (You might
 remember Anthony Towns' <a
-href="http://lists.debian.org/debian-devel-announce-0303/msg00006.html">\
+href="https://lists.debian.org/debian-devel-announce-0303/msg00006.html">\
 warning</a>, that things will break, when libc6 moves to testing), but I
 had some problems with the graphics card. It was some kind of ATI 128
 card, which was not supported by the version of XFree86 4.1 which is part

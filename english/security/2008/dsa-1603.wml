@@ -65,7 +65,7 @@ the libc stub resolver, see <a href="dsa-1605">DSA-1605-1</a>.</p>
 
 <p>The updated bind9 packages contain changes originally scheduled for
 the next stable point release, including the changed IP address of
-L.ROOT-SERVERS.NET (Debian bug #<a href="http://bugs.debian.org/449148">449148</a>).</p>
+L.ROOT-SERVERS.NET (Debian bug #<a href="https://bugs.debian.org/449148">449148</a>).</p>
 
 <p>For the stable distribution (etch), this problem has been fixed in
 version 9.3.4-2etch3.</p>
@@ -77,4 +77,4 @@ version 9.3.4-2etch3.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1603.data"
-# $Id: dsa-1603.wml,v 1.3 2008-07-09 16:03:34 thijs Exp $
+# $Id: dsa-1603.wml,v 1.4 2014/04/29 10:58:13 pabs Exp $

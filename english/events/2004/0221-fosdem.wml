@@ -25,12 +25,12 @@ Debian booth demonstrating the upcoming release.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0221-fosdem.wml,v 1.10 2005-06-28 16:45:57 kreutzm Exp $
+# $Id: 0221-fosdem.wml,v 1.11 2014/04/29 15:28:00 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0221-fosdem-report">Report</a>
  <li><a href="http://gallery.schmehl.info/fosdem2004">Pictures</a>
  <li><a href="http://www.fosdem.org/index/speakers/">Speakers</a>
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
- <li><a href="http://lists.debian.org/debian-events-eu-0401/msg00011.html">Call for Papers</a>
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
+ <li><a href="https://lists.debian.org/debian-events-eu-0401/msg00011.html">Call for Papers</a>
 </ul>

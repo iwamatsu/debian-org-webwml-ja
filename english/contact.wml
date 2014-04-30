@@ -15,7 +15,7 @@ disclaimer</a> before sending any messages.
 <p>English language is the common language for communication with Debian
 developers. We therefore ask that initial enquiries to developers be made
 in <strong>English</strong>. If this is not possible, go through
-<a href="http://lists.debian.org/users.html#debian-user">the user mailing list for your
+<a href="https://lists.debian.org/users.html#debian-user">the user mailing list for your
 language</a>.</p>
 
 <ul class="toc">
@@ -61,12 +61,12 @@ All questions regarding
   <li>using Debian
 </ul>
 should be sent to that list.
-Simply <a href="http://lists.debian.org/debian-user/">subscribe to
+Simply <a href="https://lists.debian.org/debian-user/">subscribe to
 <em>debian-user</em></a> and send your question to
 <email debian-user@lists.debian.org>.
 
 <p>Additionally, there are user mailing lists for speakers of various
-languages. See the <a href="http://lists.debian.org/users.html#debian-user">subscription info
+languages. See the <a href="https://lists.debian.org/users.html#debian-user">subscription info
 for international mailing lists</a>.
 
 <p>Furthermore, you can browse our mailing lists as newsgroups using a web
@@ -77,7 +77,7 @@ interface, like <a href="http://groups.google.com/">Google</a> or
 information about it to
 <email debian-boot@lists.debian.org>
 or <a href="$(HOME)/releases/stable/i386/ch05s04.html#submit-bug">file a bug report</a> against the <a
-href="http://bugs.debian.org/debian-installer">debian-installer</a>
+href="https://bugs.debian.org/debian-installer">debian-installer</a>
 pseudo-package.
 
 <h2 id="press">Publicity / Press</h2>
@@ -127,11 +127,11 @@ problem in a discreet manner, send e-mail to
 <h2 id="development">Debian Development</h2>
 
 <p>If you have questions that are more development related, there are
-several <a href="http://lists.debian.org/devel.html">development mailing lists</a>
+several <a href="https://lists.debian.org/devel.html">development mailing lists</a>
 in Debian that you can use to contact our developers.
 
 <p>The general development mailing list is <em>debian-devel</em>: you can
-<a href="http://lists.debian.org/debian-devel/">subscribe</a> to it and
+<a href="https://lists.debian.org/debian-devel/">subscribe</a> to it and
 then send e-mail to
 <email debian-devel@lists.debian.org>.
 
@@ -143,7 +143,7 @@ then send e-mail to
 
 <p>Alternatively, you can use e-mail to contact them.
 
-<define-tag btsurl>package: <a href="http://bugs.debian.org/%0">%0</a></define-tag>
+<define-tag btsurl>package: <a href="https://bugs.debian.org/%0">%0</a></define-tag>
 
 <dl>
 <dt>Web pages editors</dt>

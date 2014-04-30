@@ -1,5 +1,5 @@
 # Status: sent
-# $Id: 20110205b.wml,v 1.4 2011-02-06 01:35:19 taffit-guest Exp $
+# $Id: 20110205b.wml,v 1.5 2014/04/29 15:23:07 pabs Exp $
 # $Rev: 1610 $
 
 <define-tag pagetitle>New look for Debian's websites</define-tag>
@@ -18,7 +18,7 @@ websites run by Debian changed together with today's release of Debian
 Squeeze.
 Debian's <a href="$(HOME)">main website</a> and its <a
 href="http://wiki.debian.org/">wiki</a>, <a
-href="http://lists.debian.org/">lists archive</a>, blog aggregator <a
+href="https://lists.debian.org/">lists archive</a>, blog aggregator <a
 href="http://planet.debian.org/">planet</a> and <a
 href="http://packages.debian.org/">package information system</a> now have
 a consistent new layout. The new layout is meant to give Debian's web

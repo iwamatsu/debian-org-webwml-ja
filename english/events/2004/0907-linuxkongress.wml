@@ -25,10 +25,10 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0907-linuxkongress.wml,v 1.5 2008-10-04 11:42:28 joey Exp $
+# $Id: 0907-linuxkongress.wml,v 1.6 2014/04/29 15:28:00 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="http://www.linux-kongress.org/2004/">International Linux Kongress</a>
  <li><a href="http://www.infodrom.org/Debian/events/LinuxKongress2004/">Debian Coordination</a>
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu mailing list</a>
 </ul>

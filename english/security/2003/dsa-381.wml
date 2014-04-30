@@ -14,11 +14,11 @@ permission to alter its tables.</p>
 version 3.23.49-8.5.</p>
 
 <p>For the unstable distribution (sid) this problem will be fixed soon.
-Refer to Debian <a href="http://bugs.debian.org/210403">bug #210403</a>.</p>
+Refer to Debian <a href="https://bugs.debian.org/210403">bug #210403</a>.</p>
 
 <p>We recommend that you update your mysql package.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2003/dsa-381.data"
-# $Id: dsa-381.wml,v 1.2 2003-09-14 10:37:00 kaare Exp $
+# $Id: dsa-381.wml,v 1.3 2014/04/29 10:58:12 pabs Exp $

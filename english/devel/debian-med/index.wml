@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.52 2012-03-15 18:56:42 tille Exp $
+# $Id: index.wml,v 1.53 2014/04/29 15:27:47 pabs Exp $
 
 <h2>Project description</h2>
 
@@ -51,7 +51,7 @@ users of the Debian system who want to use their computer for
 medical tasks. Additionally, it is used to coordinate development
 efforts around the various topics of Medicine. You can subscribe to
 and unsubscribe from it using the
-<a href="http://lists.debian.org/debian-med/">list web page</a>.
+<a href="https://lists.debian.org/debian-med/">list web page</a>.
 You will also find the list archives on that page.
 </p>
 <p>

@@ -55,7 +55,7 @@ installation manual</a> for more information.</p>
 <p>agnesi.debian.org (arm) and agricola.debian.org (armel) are available
 to Debian developers for ARM porting work. The machine have development
 chroot environments which you can access with <em>dchroot</em>.  Please
-see the <a href="http://db.debian.org/machines.cgi">machine database</a>
+see the <a href="https://db.debian.org/machines.cgi">machine database</a>
 for more information about these machines.</p>
 
 <toc-add-entry name="contacts">Contacts</toc-add-entry>
@@ -65,7 +65,7 @@ for more information about these machines.</p>
 <email "debian-arm@lists.debian.org">.
 If you wish to sign up, send a message with the word <q>subscribe</q> as the
 subject to <email "debian-arm-request@lists.debian.org">. The list is
-archived at the <a href="http://lists.debian.org/debian-arm/">debian-arm
+archived at the <a href="https://lists.debian.org/debian-arm/">debian-arm
 list archives</a>.</p>
 
 <p>

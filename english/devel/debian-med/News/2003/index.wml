@@ -1,10 +1,10 @@
 #use wml::debian::template title="News from 2003 for Debian Med"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.5 2008-11-21 21:32:35 tille Exp $
+# $Id: index.wml,v 1.6 2014/04/29 15:27:48 pabs Exp $
 
 <:= get_recent_list ('.', '0',
 '$(ENGLISHDIR)/devel/debian-med/News/2003', '', '\d+\w*') :>
 
 <hr>
 For complete coverage of Debian Med activities, see the <a
-href="http://lists.debian.org/debian-med/">mailing list archives</a>.
+href="https://lists.debian.org/debian-med/">mailing list archives</a>.

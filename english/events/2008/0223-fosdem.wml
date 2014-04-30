@@ -39,10 +39,10 @@ whole weekend. There will also be a booth.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0223-fosdem.wml,v 1.4 2008-02-25 14:48:29 alfie Exp $
+# $Id: 0223-fosdem.wml,v 1.5 2014/04/29 15:28:03 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href='http://www.fosdem.org'>the FOSDEM official site</a></li>
- <li><a href="http://lists.debian.org/debian-events-eu/">Debian-events-eu
+ <li><a href="https://lists.debian.org/debian-events-eu/">Debian-events-eu
  mailing list</a></li>
 </ul>

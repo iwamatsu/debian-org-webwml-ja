@@ -23,7 +23,7 @@ wiki page.
 </p>
 
 <h3>Mailing lists</h3>
-<p><a href="http://lists.debian.org/debian-bsd">Debian GNU/k*BSD mailing list</a>.</p>
+<p><a href="https://lists.debian.org/debian-bsd">Debian GNU/k*BSD mailing list</a>.</p>
 <h3>IRC</h3>
 <p><a href="irc://irc.debian.org/#debian-kbsd">#debian-kbsd IRC channel</a> (at irc.debian.org).</p>
 
@@ -42,7 +42,7 @@ file for more details on what needs to be done.</p>
 
 <p>asdfasdf.debian.net (kfreebsd-amd64) and io.debian.net (kfreebsd-i386) are 
 available to Debian developers for porting work.  Please see the 
-<a href="http://db.debian.org/machines.cgi">machine database</a> for more
+<a href="https://db.debian.org/machines.cgi">machine database</a> for more
 information about these machines.  In general, you will be able to use the
 two chroot environments: testing and unstable. Note that these systems 
 are not yet administrated by DSA, so <b>do not send requests to debian-admin 

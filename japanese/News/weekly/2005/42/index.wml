@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-10-18" SUMMARY="インストーラ, GNOME, メーリングリスト, OpenSolaris, セキュリティ, ライセンス, binutils, Wiki, ファイアウォール"
-#use wml::debian::translation-check translation="1.12"
+#use wml::debian::translation-check translation="1.15"
 
 <p>Debian コミュニティのための週刊ニュースレター、Debian
 ウィークリーニュースの今年の第 42 号へようこそ。Flavio Villanustre さんは、Elive 0.3
@@ -9,13 +9,13 @@ href="http://flaviostechnotalk.com/wordpress/index.php/2005/09/04/elive-03-revie
 Enlightenment 0.17 を採用しています。Steve Langasek さんは、<a
 href="$(HOME)/ports/m68k/">m68k 版</a>において、
 不安定版 (unstable) からテスト版 (testing) へのパッケージの移行が無視されつつあると<a
-href="http://lists.debian.org/debian-release/2005/10/msg00079.html">\
+href="https://lists.debian.org/debian-release/2005/10/msg00079.html">\
 通知しました</a>。</p>
 
 <p><strong>Debian インストーラのベータ版準備。</strong>
 Joey Hess さんは、<a href="$(HOME)/devel/debian-installer/">\
 debian-installer</a> をビルドデーモンネットワークでビルドしてみた際の結果について<a
-href="http://lists.debian.org/debian-boot/2005/10/msg00227.html">報告しました</a>。
+href="https://lists.debian.org/debian-boot/2005/10/msg00227.html">報告しました</a>。
 いくつかの<a href="http://wiki.debian.org/DebianInstaller/Today">課題</a>の中には、
 HPPA 上でのビルド、sparc および mipsel 上での起動イメージのサイズ削減、CD
 イメージビルドの作成などが<a
@@ -23,7 +23,7 @@ href="http://wiki.debian.org/DebianInstallerEtchBeta1Prep">含まれています
 
 <p><strong>GNOME 1 からの移行。</strong>
 Thomas Bushnell さんは、GNOME 1 の状況について<a
-href="http://lists.debian.org/debian-devel/2005/10/msg00279.html">報告しました</a>。
+href="https://lists.debian.org/debian-devel/2005/10/msg00279.html">報告しました</a>。
 <code>libpng10</code> が削除されたことにより、多くの GNOME
 パッケージがビルドできなくなっています。新ライブラリに依存する新たなコアライブラリは、
 すでにアップロード済です。これらのコアライブラリにリンクしているパッケージも、
@@ -41,9 +41,9 @@ href="http://www.linuxdevcenter.com/pub/a/linux/2005/09/29/installing_debian.htm
 を使うよう Edd さんは提案しています。</p>
 
 <p><strong>Message ID による検索。</strong>
-Andrew Suffield さんは、Debian の<a href="http://lists.debian.org/">\
+Andrew Suffield さんは、Debian の<a href="https://lists.debian.org/">\
 メーリングリストアーカイブ</a>中を独特の方法で検索する機能を提供するウェブページを<a
-href="http://lists.debian.org/debian-project/2005/10/msg00043.html">\
+href="https://lists.debian.org/debian-project/2005/10/msg00043.html">\
 発表しました</a>。現在、この機能のために作られた URL を用いると、特定の Message-ID
 をメーリングリストアーカイブから検索できるようになっています。
 インデックスはほぼ 5 分ごとに更新され、すべての公開アーカイブを対象にしています。</p>
@@ -77,49 +77,49 @@ GPL</a> のもとでリリースされたソフトウェアと <a
 href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons
 BY-SA</a> ライセンスのもとでリリースされた画像や動画を 1
 つのパッケージに含めて配布することは可能か、と<a
-href="http://lists.debian.org/debian-legal/2005/09/msg00558.html">\
+href="https://lists.debian.org/debian-legal/2005/09/msg00558.html">\
 尋ねました</a>。MJ Ray さんは、そのパッケージは GPL 単独では配布できないと<a
-href="http://lists.debian.org/debian-legal/2005/09/msg00559.html">断言し</a>、
+href="https://lists.debian.org/debian-legal/2005/09/msg00559.html">断言し</a>、
 <a href="http://www.x.org/Downloads_terms.html">MIT/X11</a>
 ライセンスを代わりに用いるよう提案しました。</p>
 
 <p><strong>GNU バイナリユーティリティへの依存。</strong>
 Camm Maguire さんは、他のパッケージからも利用可能な GNU
 バイナリユーティリティへの共通のバイナリインターフェイスを持つという話はあるのかと<a
-href="http://lists.debian.org/debian-devel/2005/09/msg00928.html">尋ねました</a>。
+href="https://lists.debian.org/debian-devel/2005/09/msg00928.html">尋ねました</a>。
 Daniel Jacobowitz さんは、このユーティリティに含まれるライブラリは変更される可能性があるので、
 他のパッケージからは静的にリンクするしかないだろうと<a
-href="http://lists.debian.org/debian-devel/2005/09/msg00927.html">主張しました</a>。
+href="https://lists.debian.org/debian-devel/2005/09/msg00927.html">主張しました</a>。
 </p>
 
 <p><strong>Debian Wiki コンテンツのライセンス。</strong>
 John Dowland さんは、新しい <a href="http://wiki.debian.org/">Debian Wiki</a>
 に明確な<a href="http://wiki.debian.org/DebianWiki/LicencingTerms">ライセンス文</a>を追加するよう<a
-href="http://lists.debian.org/debian-legal/2005/09/msg00565.html">\
+href="https://lists.debian.org/debian-legal/2005/09/msg00565.html">\
 リクエストしました</a>。Francesco Poli さんは、Wiki コンテンツに対して、<a
 href="http://www.jclark.com/xml/copying.txt">Expat</a>・<a
 href="http://www.x.org/Downloads_terms.html">MIT/X11</a>・<a
 href="http://www.gnu.org/licenses/info/BSD_2Clause.html">BSD</a>
 ライセンス、もしくは <a
 href="http://www.fsf.org/licensing/licenses/gpl.txt">GNU GPL</a> を使うよう<a
-href="http://lists.debian.org/debian-legal/2005/10/msg00001.html">提案しました</a>。
+href="https://lists.debian.org/debian-legal/2005/10/msg00001.html">提案しました</a>。
 </p>
 
 <p><strong>起動時のファイアウォールサポート。</strong>
 Samuel Jean さんが、
 システムの起動プロセス中にファイアウォールのルールをロードして稼働させるスクリプトを<a
-href="http://lists.debian.org/debian-devel/2005/09/msg00952.html">書きました</a>。
+href="https://lists.debian.org/debian-devel/2005/09/msg00952.html">書きました</a>。
 しかし Matthew Palmer さんは、既存の <a href="http://packages.debian.org/shorewall">\
 shorewall</a> パッケージを調べるよう<a
-href="http://lists.debian.org/debian-devel/2005/09/msg00959.html">助言しました</a>。
+href="https://lists.debian.org/debian-devel/2005/09/msg00959.html">助言しました</a>。
 Steve Langasek さんは、現在出されている<a href="http://wiki.debian.org/FirewallByDefault">\
 提案</a>を<a
-href="http://lists.debian.org/debian-devel/2005/09/msg00970.html">示しました</a>。
+href="https://lists.debian.org/debian-devel/2005/09/msg00970.html">示しました</a>。
 Javier Fern&aacute;ndez-Sanguino Pe&ntilde;a さんが、Debian
 セキュリティマニュアルの<a
 href="$(HOME)/doc/manuals/securing-debian-howto/ch-sec-services#s-firewall-setup">\
 ファイアウォール機能の追加</a>の章についてのコメントを<a
-href="http://lists.debian.org/debian-devel/2005/09/msg00999.html">追加しました</a>。
+href="https://lists.debian.org/debian-devel/2005/09/msg00999.html">追加しました</a>。
 </p>
 
 <p><strong>セキュリティ上の更新。</strong>
@@ -181,141 +181,141 @@ href="http://lists.debian.org/debian-devel/2005/09/msg00999.html">追加しま�
 <ul>
 <li> <a href="http://packages.debian.org/unstable/tex/bibcursed">bibcursed</a>
      -- BibTeX 文献目録編集用のインタラクティブなプログラム。
-     (<a href="http://bugs.debian.org/334244">Bug#334244</a>)
+     (<a href="https://bugs.debian.org/334244">Bug#334244</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/sound/juke">juke</a>
      -- Curses ベースのジュークボックスプログラム。
-     (<a href="http://bugs.debian.org/334375">Bug#334375</a>)
+     (<a href="https://bugs.debian.org/334375">Bug#334375</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/kde/okle">okle</a>
      -- KDE 用 DVD プレイヤ。
-     (<a href="http://bugs.debian.org/333816">Bug#333816</a>)
+     (<a href="https://bugs.debian.org/333816">Bug#333816</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/math/r-cran-xml">r-cran-xml</a>
      -- R 言語用 XML パッケージ。
-     (<a href="http://bugs.debian.org/334323">Bug#334323</a>)
+     (<a href="https://bugs.debian.org/334323">Bug#334323</a>)
      </li>
 <li> <a href="http://packages.debian.org/unstable/math/octave-statdataml">statdataml</a>
      -- XML ベースのデータ変換フォーマット StatDataML。
-     (<a href="http://bugs.debian.org/333683">Bug#333683</a>)
+     (<a href="https://bugs.debian.org/333683">Bug#333683</a>)
      </li>
 </ul>
 
 <p><strong>削除されたパッケージ。</strong>
 この 1 週間で、Debian アーカイブから 37 個のパッケージが<a
-href="http://ftp-master.debian.org/removals.txt">削除されました</a>。</p>
+href="https://ftp-master.debian.org/removals.txt">削除されました</a>。</p>
 
 <ul>
 <li> libapache-mod-witch -- syslog 経由での access_log 取得用 Apache モジュール
-     <br><a href="http://bugs.debian.org/328537">Bug#328537</a>:
+     <br><a href="https://bugs.debian.org/328537">Bug#328537</a>:
      QA からの依頼、古い、RC バグあり
 </li><li> elastic -- 高水準でオブジェクト指向なインタプリタ言語
-     <br><a href="http://bugs.debian.org/328540">Bug#328540</a>:
+     <br><a href="https://bugs.debian.org/328540">Bug#328540</a>:
      QA からの依頼、古い、RC バグあり
 </li><li> gman -- X 用の軽量な man(1) フロントエンド
-     <br><a href="http://bugs.debian.org/328541">Bug#328541</a>:
+     <br><a href="https://bugs.debian.org/328541">Bug#328541</a>:
      QA からの依頼、古い、RC バグあり
 </li><li> brahms -- グラフィカルな音楽エディタと MIDI シーケンサ
-     <br><a href="http://bugs.debian.org/328543">Bug#328543</a>:
+     <br><a href="https://bugs.debian.org/328543">Bug#328543</a>:
      QA からの依頼、古い、RC バグあり
 </li><li> spip-eva -- 使いやすくパワフルな、PHP で構築されたコンテンツ管理システム
-     <br><a href="http://bugs.debian.org/328544">Bug#328544</a>:
+     <br><a href="https://bugs.debian.org/328544">Bug#328544</a>:
      メンテナからの依頼、古い、RC バグあり
 </li><li> glimmer -- 複数ウィンドウ、構文ハイライト表示機能付のプログラマ用エディタ
-     <br><a href="http://bugs.debian.org/328546">Bug#328546</a>:
+     <br><a href="https://bugs.debian.org/328546">Bug#328546</a>:
      QA からの依頼、古い、RC バグあり
 </li><li> libopengl-dylan -- Gwydion Dylan の OpenGL サポート (ネイティブ版)
-     <br><a href="http://bugs.debian.org/328547">Bug#328547</a>:
+     <br><a href="https://bugs.debian.org/328547">Bug#328547</a>:
      QA からの依頼、古い、RC バグあり
 </li><li> xa+cv -- X アプリケーション XCIN Anywhere +CV での中国語入力用ラッパー
-     <br><a href="http://bugs.debian.org/328583">Bug#328583</a>:
+     <br><a href="https://bugs.debian.org/328583">Bug#328583</a>:
      QA からの依頼、RC バグあり、使われていない、とても古い
 </li><li> gfont -- TeX 用のフォントで GIF 画像を作成
-     <br><a href="http://bugs.debian.org/328594">Bug#328594</a>:
+     <br><a href="https://bugs.debian.org/328594">Bug#328594</a>:
      QA からの依頼、使われていない、non-free
 </li><li> perl2html -- WWW での表示用に、Perl のソースコードをハイライト表示
-     <br><a href="http://bugs.debian.org/328600">Bug#328600</a>:
+     <br><a href="https://bugs.debian.org/328600">Bug#328600</a>:
      QA からの依頼、使われていない、古い、代替あり
 </li><li> libsoap-perl -- Perl での SOAP (Simple Object Access Protocol) の実装
-     <Br><a href="http://bugs.debian.org/328592">Bug#328592</a>:
+     <Br><a href="https://bugs.debian.org/328592">Bug#328592</a>:
      QA からの依頼、使われていない、古い
 </li><li> tkirc -- Tcl/Tk ベースの Internet Relay Chat クライアント
-     <br><a href="http://bugs.debian.org/328601">Bug#328601</a>:
+     <br><a href="https://bugs.debian.org/328601">Bug#328601</a>:
      QA からの依頼、使われていない、古い、代替あり
 </li><li> libdebconf-ruby -- Ruby から debconf を使うためのライブラリ
-     <br><a href="http://bugs.debian.org/328662">Bug#328662</a>:
+     <br><a href="https://bugs.debian.org/328662">Bug#328662</a>:
      QA からの依頼、使われていない、古い、実用にならない
 </li><li> ctklight -- Haskell の軽量コンパイラツールキット
-     <br><a href="http://bugs.debian.org/328663">Bug#328663</a>:
+     <br><a href="https://bugs.debian.org/328663">Bug#328663</a>:
      メンテナからの依頼、古い、古い、使われていない
 </li><li> bnlib -- 多倍精度数学ライブラリ
-     <br><a href="http://bugs.debian.org/328669">Bug#328669</a>:
+     <br><a href="https://bugs.debian.org/328669">Bug#328669</a>:
      QA からの依頼、使われていない、開発元の活動停止、古い
 </li><li> lexmark7000linux -- Lexmark 7000 "GDI" プリンタ用ドライバ
-     <br><a href="http://bugs.debian.org/328792">Bug#328792</a>:
+     <br><a href="https://bugs.debian.org/328792">Bug#328792</a>:
      QA からの依頼、使われていない、実用にならない、古い
 </li><li> lxtools -- HP100/200LX パームトップ上のファイルの管理を行うツール
-     <br><a href="http://bugs.debian.org/328800">Bug#328800</a>:
+     <br><a href="https://bugs.debian.org/328800">Bug#328800</a>:
      QA からの依頼、使われていない、開発元の活動停止、古い
 </li><li> scandetd -- Linux 用ポートスキャン検出プログラム
-     <br><a href="http://bugs.debian.org/328803">Bug#328803</a>:
+     <br><a href="https://bugs.debian.org/328803">Bug#328803</a>:
      QA からの依頼、使われていない、RC バグあり、古い、開発元の活動停止
 </li><li> nonlock -- XKB を使ったタイ語 (及びその他) のキーボード切替プログラム
-     <br><a href="http://bugs.debian.org/328796">Bug#328796</a>:
+     <br><a href="https://bugs.debian.org/328796">Bug#328796</a>:
      QA からの依頼、使われていない、古い、開発元の活動停止、代替あり
 </li><li> userlink -- Linux 用 BSD IP トンネリングドライバ
-     <br><a href="http://bugs.debian.org/328804">Bug#328804</a>:
+     <br><a href="https://bugs.debian.org/328804">Bug#328804</a>:
      QA からの依頼、使われていない、非推奨
 </li><li> ayuda -- スペイン語話者用の補助アプリケーション
-     <br><a href="http://bugs.debian.org/328805">Bug#328805</a>:
+     <br><a href="https://bugs.debian.org/328805">Bug#328805</a>:
      QA からの依頼、使われていない、バグあり、古い
 </li><li> acidwarp -- ポピュラーな DOS プログラム Acidwarp の Linux ポート
-     <br><a href="http://bugs.debian.org/328807">Bug#328807</a>:
+     <br><a href="https://bugs.debian.org/328807">Bug#328807</a>:
      QA からの依頼、使われていない、バグあり、古い
 </li><li> zone-file-check -- BIND ゾーンファイル用構文チェッカー
-     <br><a href="http://bugs.debian.org/328808">Bug#328808</a>:
+     <br><a href="https://bugs.debian.org/328808">Bug#328808</a>:
      QA からの依頼、使われていない、古い、代替あり
 </li><li> escm -- 組込み Scheme プロセッサ
-     <br><a href="http://bugs.debian.org/328809">Bug#328809</a>:
+     <br><a href="https://bugs.debian.org/328809">Bug#328809</a>:
      QA からの依頼、使われていない、バグあり、古い、開発元の活動停止
 </li><li> xodo -- マウスの動いた距離を計る距離計
-     <br><a href="http://bugs.debian.org/328810">Bug#328810</a>:
+     <br><a href="https://bugs.debian.org/328810">Bug#328810</a>:
      QA からの依頼、使われていない、古い、開発元の活動停止
 </li><li> doc-linux-ko -- Linux HOWTO、ミニ HOWTO、FAQ の韓国語版
-     <br><a href="http://bugs.debian.org/328812">Bug#328812</a>:
+     <br><a href="https://bugs.debian.org/328812">Bug#328812</a>:
      QA からの依頼、使われていない、古い、非推奨
 </li><li> gmgaclock -- Matrox G400 グラフィックカードオーバークロックツール
-     <br><a href="http://bugs.debian.org/328815">Bug#328815</a>:
+     <br><a href="https://bugs.debian.org/328815">Bug#328815</a>:
      QA からの依頼、使われていない、バグあり、古い
 </li><li> tik -- AOL インスタントメッセンジャーサービス用の Tcl/Tk クライアント
-     <br><a href="http://bugs.debian.org/328820">Bug#328820</a>:
+     <br><a href="https://bugs.debian.org/328820">Bug#328820</a>:
      QA からの依頼、使われていない、バグあり、古い、代替あり
 </li><li> emwin -- 天候データ処理プログラム
-     <br><a href="http://bugs.debian.org/328821">Bug#328821</a>:
+     <br><a href="https://bugs.debian.org/328821">Bug#328821</a>:
      QA からの依頼、使われていない、古い
 </li><li> camlp4-doc -- PostScript および HTML 形式の camlp4 用ドキュメント
-     <br><a href="http://bugs.debian.org/328838">Bug#328838</a>:
+     <br><a href="https://bugs.debian.org/328838">Bug#328838</a>:
      QA からの依頼、使われていない、古い
 </li><li> pc532down -- pc532 モニタ ROM 用ダウンローダ
-     <br><a href="http://bugs.debian.org/328840">Bug#328840</a>:
+     <br><a href="https://bugs.debian.org/328840">Bug#328840</a>:
      メンテナからの依頼、古い、ほとんど使われていない
 </li><li> tag-types -- 'タグ付' されたファイル操作用ユーティリティ集
-     <br><a href="http://bugs.debian.org/328853">Bug#328853</a>:
+     <br><a href="https://bugs.debian.org/328853">Bug#328853</a>:
      QA からの依頼、使われていない、古い、開発元の活動停止
 </li><li> nwutil -- Netwinder ハードウェアユーティリティ
-     <br><a href="http://bugs.debian.org/328854">Bug#328854</a>:
+     <br><a href="https://bugs.debian.org/328854">Bug#328854</a>:
      QA からの依頼、使われていない、古い、バグあり
 </li><li> samba-doc-ja -- 日本語化 Samba の文書
-     <br><a href="http://bugs.debian.org/328856">Bug#328856</a>:
+     <br><a href="https://bugs.debian.org/328856">Bug#328856</a>:
      QA からの依頼、使われていない、古い
 </li><li> libfloat -- ソフトウェア浮動少数点ライブラリ
-     <br><a href="http://bugs.debian.org/328857">Bug#328857</a>:
+     <br><a href="https://bugs.debian.org/328857">Bug#328857</a>:
      QA からの依頼、使われていない、古い
 </li><li> opennap -- オープンソースな Napster サーバ
-     <br><a href="http://bugs.debian.org/328866">Bug#328866</a>:
+     <br><a href="https://bugs.debian.org/328866">Bug#328866</a>:
      メンテナからの依頼、使われていない、古い
 </li><li> qssl -- QSSL の開発用ファイル
-     <br><a href="http://bugs.debian.org/333527">Bug#333527</a>:
+     <br><a href="https://bugs.debian.org/333527">Bug#333527</a>:
      メンテナからの依頼、使われていない、2 年近くアップロードされていない
 </li></ul>
 

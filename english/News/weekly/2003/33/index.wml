@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-08-19" SUMMARY="Birthday, DFSG, XML, G++, Indy, Founding, Headers, Encryption, Patents, Mepis"
-# $Id: index.wml,v 1.13 2011-05-26 10:04:49 rhonda Exp $
+# $Id: index.wml,v 1.15 2014/04/29 15:25:00 pabs Exp $
 
 <p>Welcome to this year's 33rd issue of DWN, the weekly newsletter for the
 Debian community.  Aryan Ameri wrote a user <a
@@ -10,7 +10,7 @@ href="http://www.ofb.biz/modules.php?name=News&amp;file=article&amp;sid=260">sai
 he now prefers the <a href="http://www.linex.org/">GNU/LinEx</a> distribution
 over Debian because of non-free software on our FTP servers.  There's been a
 lot of discussion on the <a
-href="http://lists.debian.org/debian-legal-0308/">debian-legal</a> list about
+href="https://lists.debian.org/debian-legal-0308/">debian-legal</a> list about
 the definition of the word "software", with much heat generated.</p>
 
 <p><strong>Birthday Present: Rescue CD.</strong> As a special birthday present
@@ -24,7 +24,7 @@ href="http://www.linuxland.de/katalog/01_linuxdistri_bs/debian/debiangeburtstag/
 LinuxLand</a>.</p>
 
 <p><strong>Origins of the DFSG.</strong>  Bruce Perens <a
-href="http://lists.debian.org/debian-legal-0308/msg00264.html">explained</a>
+href="https://lists.debian.org/debian-legal-0308/msg00264.html">explained</a>
 that when he designed the <a
 href="$(HOME)/social_contract#guidelines">Debian Free Software
 Guidelines</a> (DFSG), his intention was that the entire contents of that CD
@@ -36,7 +36,7 @@ License</a>, are OK for attribution, the copyright statement and license
 only, and not for other aspects of the document.</p>
 
 <p><strong>Public Release of xml-core.</strong>  Ardo van Rangelrooij <a
-href="http://lists.debian.org/debian-doc-0308/msg00014.html">announced</a>
+href="https://lists.debian.org/debian-doc-0308/msg00014.html">announced</a>
 the first public, highly experimental version of the <a
 href="http://people.debian.org/~ardo/UPLOADS/">xml-core</a> package.  It
 contains the <code>update-xmlcatalog</code> tool to manage XML
@@ -45,7 +45,7 @@ href="http://people.debian.org/~mrj/oasis/XML-Catalogs/Implementation-Guide.html
 XML Policy</a>.  Note that the next version of the policy will require a
 local catalog for often-used stylesheet files, which is already implemented
 in <code>update-xmlcatalog</code>.  Issues or bugs should be reported to the
-<a href="http://lists.debian.org/debian-sgml/">debian-sgml</a> mailing list.</p>
+<a href="https://lists.debian.org/debian-sgml/">debian-sgml</a> mailing list.</p>
 
 <p><strong>Open Source good Choice for Companies.</strong> In a short <a
 href="http://searchenterpriselinux.techtarget.com/newsItem/0,289139,sid39_gci919102,00.html">\
@@ -57,7 +57,7 @@ conversion to another proprietary product."  Tony Mancill talks about two exampl
 of how open source technology helped two firms he has worked with.</p>
 
 <p><strong>Continuing the G++ 3.x Transition.</strong> Matthew Wilcox <a
-href="http://lists.debian.org/debian-devel-announce-0308/msg00004.html">\
+href="https://lists.debian.org/debian-devel-announce-0308/msg00004.html">\
 noted</a> that work on this <a
 href="http://people.debian.org/~willy/gcc-transition/">transition plan</a> has
 slowed down.  He reveals that there are more than 120 <a
@@ -78,27 +78,27 @@ but apparently isn't.</p>
 
 <p><strong>Debian's Founding Moment.</strong>  With Debian's 10th Birthday, Ben
 Finney <a
-href="http://lists.debian.org/debian-project-0308/msg00017.html">wondered</a>
+href="https://lists.debian.org/debian-project-0308/msg00017.html">wondered</a>
 if there was an inaugural email or some other document that marked the start
 of the Debian project.  This <a
 href="http://groups.google.com/groups?selm=CBusDD.MIK%40unix.portal.com&amp;oe=UTF-8&amp;output=gplain">news
 posting</a> from Ian Murdock was pointed out.  Matt Zimmerman <a
-href="http://lists.debian.org/debian-project-0308/msg00021.html">thought</a>
+href="https://lists.debian.org/debian-project-0308/msg00021.html">thought</a>
 the goals of an "installation procedure that doesn't need to be babysit" and
 a "system setup procedure that will attempt to setup and configure everything
 from fstab to Xconfig" may still need work.  But Peter Makholm <a
-href="http://lists.debian.org/debian-project-0308/msg00024.html">noted</a>
+href="https://lists.debian.org/debian-project-0308/msg00024.html">noted</a>
 that at least the "Be warned that it will be rather large :)" message was
 accurate.</p>
 
 <p><strong>Mounting the Root Filesystem read-only.</strong> Thomas Hood <a
-href="http://lists.debian.org/debian-devel-0308/msg00822.html">noted</a> that
+href="https://lists.debian.org/debian-devel-0308/msg00822.html">noted</a> that
 one of the remaining obstacles to running cleanly with the root filesystem
 mounted read-only has been the <code>mount</code> program, which can only
 write the <code>mtab</code> file in <code>/etc/</code>.  If this file is a
 symbolic link then mount will not write to it.  People <a
-href="http://bugs.debian.org/94076">have</a> <a
-href="http://bugs.debian.org/154438">wished</a> that <code>mount</code> would
+href="https://bugs.debian.org/94076">have</a> <a
+href="https://bugs.debian.org/154438">wished</a> that <code>mount</code> would
 follow a symlink so that it could point somewhere like <code>/run/mtab</code>.
 Thomas has developed a <a
 href="http://panopticon.csustan.edu/thood/readonly-root.html">patch</a> for
@@ -106,24 +106,24 @@ this, so <a href="ftp://mrvn.homeip.net/util-linux/">did</a> Goswin von
 Brederlow.</p>
 
 <p><strong>When a Build requires Kernel Headers.</strong> Jörg Wendland <a
-href="http://lists.debian.org/debian-devel-0308/msg00961.html">experienced</a>
+href="https://lists.debian.org/debian-devel-0308/msg00961.html">experienced</a>
 problems with including kernel header files in a regular package.  Ben Collins
-<a href="http://lists.debian.org/debian-devel-0308/msg00963.html">explained</a>
+<a href="https://lists.debian.org/debian-devel-0308/msg00963.html">explained</a>
 that userspace applications should not require kernel headers for building.
-Herbert Xu <a href="http://lists.debian.org/debian-devel-0308/msg01066.html">\
+Herbert Xu <a href="https://lists.debian.org/debian-devel-0308/msg01066.html">\
 added</a> that the solution in this case is to include a copy of the said
 header file in the package itself.</p>
 
 <p><strong>Support for encrypted Swap and Data Partitions.</strong> Vincent
-Bernat <a href="http://lists.debian.org/debian-devel-0308/msg02488.html">\
+Bernat <a href="https://lists.debian.org/debian-devel-0308/msg02488.html">\
 wondered</a> if Debian would like to support encrypted swap and encrypted data
-partitions.  He has <a href="http://bugs.debian.org/203538">modified</a>
+partitions.  He has <a href="https://bugs.debian.org/203538">modified</a>
 mountall.sh to allow encrypted partitions.  Encrypted partitions need user interaction to
 be mounted, since the password is not generated on the fly (like for the
 swap), so it is only usable on laptops and maybe on some home systems.</p>
 
 <p><strong>Protest against Software Patents.</strong> Felix Klee <a
-href="http://lists.debian.org/debian-project-0308/msg00041.html">informed</a> us
+href="https://lists.debian.org/debian-project-0308/msg00041.html">informed</a> us
 that on September 1st the European parliament will vote on a directive that
 legalizes software patents in Europe. If this directive comes through we will
 be stuck with software patents in the foreseeable future.  Chances of changing
@@ -211,49 +211,49 @@ if you plan to take over a package.</p>
 <ul>
 <li> <a href="http://packages.debian.org/unstable/x11/amiwm">amiwm</a>
      -- Amiga look-alike window manager.
-     (<a href="http://bugs.debian.org/206021">Bug#206021</a>)</li>
+     (<a href="https://bugs.debian.org/206021">Bug#206021</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/tex/bibview">bibview</a>
      -- X11 Bibliography database tool.
-     (<a href="http://bugs.debian.org/206137">Bug#206137</a>)</li>
+     (<a href="https://bugs.debian.org/206137">Bug#206137</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/text/boust">boust</a>
      -- Tcl/Tk text-reader that formats the file in boustrophedon.
-     (<a href="http://bugs.debian.org/206023">Bug#206023</a>)</li>
+     (<a href="https://bugs.debian.org/206023">Bug#206023</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/mail/bulkmail">bulkmail</a>
      -- Speed up delivery of e-mail to large numbers of recipients.
-     (<a href="http://bugs.debian.org/206102">Bug#206102</a>)</li>
+     (<a href="https://bugs.debian.org/206102">Bug#206102</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/mail/crm114">crm114</a>
      -- Controllable Regex Mutilator and Spam Filter.
-     (<a href="http://bugs.debian.org/206105">Bug#206105</a>)</li>
+     (<a href="https://bugs.debian.org/206105">Bug#206105</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/text/dict-freedict">freedict</a>
      -- Freedict.
-     (<a href="http://bugs.debian.org/206113">Bug#206113</a>)</li>
+     (<a href="https://bugs.debian.org/206113">Bug#206113</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/pftp">pftp</a>
      -- Fast file transfer program.
-     (<a href="http://bugs.debian.org/206119">Bug#206119</a>)</li>
+     (<a href="https://bugs.debian.org/206119">Bug#206119</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/graphics/phototk">phototk</a>
      -- GUI interface for digital cameras.
-     (<a href="http://bugs.debian.org/206121">Bug#206121</a>)</li>
+     (<a href="https://bugs.debian.org/206121">Bug#206121</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/games/pyching">pyching</a>
      -- Python program to cast and interpret I Ching hexagrams.
-     (<a href="http://bugs.debian.org/206024">Bug#206024</a>)</li>
+     (<a href="https://bugs.debian.org/206024">Bug#206024</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/x11/rsxs">rsxs</a>
      -- Really Slick X Screensavers.
-     (<a href="http://bugs.debian.org/205725">Bug#205725</a>)</li>
+     (<a href="https://bugs.debian.org/205725">Bug#205725</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/news/sn">sn</a>
      -- Small NNTP server for leaf sites.
-     (<a href="http://bugs.debian.org/206025">Bug#206025</a>)</li>
+     (<a href="https://bugs.debian.org/206025">Bug#206025</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/squishdot">squishdot</a>
      -- Web-based News/Discussion System.
-     (<a href="http://bugs.debian.org/206101">Bug#206101</a>)</li>
+     (<a href="https://bugs.debian.org/206101">Bug#206101</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/w3mir">w3mir</a>
      -- All purpose HTTP copying and mirroring tool.
-     (<a href="http://bugs.debian.org/206103">Bug#206103</a>)</li>
+     (<a href="https://bugs.debian.org/206103">Bug#206103</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/net/zircon">zircon</a>
      -- Powerful X Internet Relay Chat client.
-     (<a href="http://bugs.debian.org/206116">Bug#206116</a>)</li>
+     (<a href="https://bugs.debian.org/206116">Bug#206116</a>)</li>
 <li> <a href="http://packages.debian.org/unstable/web/zope-tinytable">zope-tinytable</a>
      -- Present tabular data in Zope.
-     (<a href="http://bugs.debian.org/206114">Bug#206114</a>)</li>
+     (<a href="https://bugs.debian.org/206114">Bug#206114</a>)</li>
 </ul>
 
 <p><strong>Want to continue reading DWN?</strong> Please help us create this

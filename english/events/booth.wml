@@ -1,5 +1,5 @@
 #use wml::debian::template title="Running a booth"
-# $Id: booth.wml,v 1.7 2004-09-03 13:55:38 florian Exp $
+# $Id: booth.wml,v 1.8 2014/04/29 15:27:57 pabs Exp $
 
 <p>The most important task for project members to represent the Debian
 project on an exhibition is to run a booth for Debian.  This is quite
@@ -31,9 +31,9 @@ href="checklist">checklist</a>.
 Debian's involvement at various events:
 
 <ul>
-  <li> <a href="http://lists.debian.org/debian-events-eu/">debian-events-eu</a>,
+  <li> <a href="https://lists.debian.org/debian-events-eu/">debian-events-eu</a>,
        dedicated to Europe and European events.
-  <li> <a href="http://lists.debian.org/debian-events-na/">debian-events-na</a>,
+  <li> <a href="https://lists.debian.org/debian-events-na/">debian-events-na</a>,
        dedicated to Northern America and events on that continent.
 </ul>
 

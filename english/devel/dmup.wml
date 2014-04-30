@@ -6,14 +6,14 @@ Version 1.1.2<br>
 This version of the Debian Machine Usage Policies becomes effective on
 July 4th, 2010 and supersedes all previous <a
 href="dmup.1.1.1">versions</a>. It was <a
-href="http://lists.debian.org/debian-devel-announce/2010/05/msg00001.html">announced
+href="https://lists.debian.org/debian-devel-announce/2010/05/msg00001.html">announced
 on May 9th, 2010</a>.</p>
 
 <ol>
 <li><strong>Introduction</strong><br>
 
 This document describes the policies for using
-<a href="http://db.debian.org/machines.cgi">Debian machines</a> and
+<a href="https://db.debian.org/machines.cgi">Debian machines</a> and
 all rules surrounding those.
 
 <p>In short:

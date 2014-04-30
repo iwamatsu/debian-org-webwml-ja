@@ -1,7 +1,7 @@
 #use wml::debian::template title="MIPS 移植版"
 #include "$(ENGLISHDIR)/releases/info"
 #use wml::debian::toc
-#use wml::debian::translation-check translation="1.104"
+#use wml::debian::translation-check translation="1.106"
 
 <toc-display/>
 
@@ -55,7 +55,7 @@ CPU は両方のエンディアンで動作させられますが、
 
 gabrielli.debian.org (mips) を移植作業のため
 Debian 開発者が利用することができます。これについてのさらなる情報は<a
- href="http://db.debian.org/machines.cgi">マシンデータベース</a>
+ href="https://db.debian.org/machines.cgi">マシンデータベース</a>
 を参照してください。一般的に、3 種類の chroot 環境: stable,
 testing および unstable を利用することができます。そのアクセスには
 <em>dchroot</em> プログラムを使用します。問い合わせ先は
@@ -80,7 +80,7 @@ Debian/MIPS について議論します。<br />
 購読するには <email debian-mips-request@lists.debian.org>
 にメールを送ってください。<br />
 アーカイブは
-<a href="http://lists.debian.org/debian-mips/">lists.debian.org</a>
+<a href="https://lists.debian.org/debian-mips/">lists.debian.org</a>
 にあります。
 
 <li>linux-mips@linux-mips.org &mdash; このメーリングリストでは MIPS カーネル

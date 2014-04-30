@@ -1,5 +1,5 @@
 #use wml::debian::template title="Solutions Linux Paris 2005 -- Report"
-# $Id: 0203-solutionslinux-report.wml,v 1.6 2011-05-26 10:05:32 rhonda Exp $
+# $Id: 0203-solutionslinux-report.wml,v 1.7 2014/04/29 15:28:01 pabs Exp $
 
 <p>Solutions Linux Paris was held from February, 1st to February, 3rd
 at the CNIT in Paris-La Défense. This year again, we were offered a
@@ -63,7 +63,7 @@ languages.</p>
 their products. The real questions are what version to support and who to
 contact for some key points of the system (most notably, the
 kernel). Christian Perrier <a
-href="http://lists.debian.org/debian-devel/2005/02/">posted</a> these
+href="https://lists.debian.org/debian-devel/2005/02/">posted</a> these
 questions on debian-devel during the exhibition.</p>
 
 <p>As it happens, software vendors have a growing need to support
