@@ -10,12 +10,12 @@
 	  <th>受付拒否</th>
 	</tr>
 	<tr class="Ignored">
-	  <td align="center">473</td>
-	  <td align="center">468</td>
-	  <td align="center">417</td>
-	  <td align="center">417</td>
-	  <td align="center">412</td>
-	  <td align="center">61</td>
+	  <td align="center">327</td>
+	  <td align="center">327</td>
+	  <td align="center">299</td>
+	  <td align="center">299</td>
+	  <td align="center">294</td>
+	  <td align="center">33</td>
 	</tr>
 	<tr class="Ignored">
 	  <th>Ack 作成</th>
@@ -25,36 +25,42 @@
 	  <th colspan="2">有効票数</th>
 	</tr>
 	<tr class="Ignored">
-	  <td align="center">412</td>
-	  <td align="center">410</td>
-	  <td align="center">2</td>
+	  <td align="center">294</td>
+	  <td align="center">289</td>
 	  <td align="center">5</td>
-	  <td colspan="2" align="center"><a href="vote_001_voters.txt">401</a></td>
+	  <td align="center">5</td>
+	  <td colspan="2" align="center"><a href="vote_002_voters.txt">288</a></td>
 	</tr>
 	<tr>
 	  <td  align="center" colspan="6">
-	     <a href="suppl_001_stats_detailed">
-	      <img src="vote_001_vote.png" alt="投票受信状況図"></a>
+	     <a href="suppl_002_stats_detailed">
+	      <img src="vote_002_vote.png" alt="投票受信状況図"></a>
 	  </td>
 	</tr>
 	<tr>
 	  <td  align="center" colspan="6">
 	    上記の画像をクリックすると拡大版が見られます。<br />
-	    <a href="vote_001_tally.txt">集計シート</a>もあります。さらに、<a
-	       href="vote_001_results.txt">結果</a>のファイルも利用可能です。
+	    <a href="vote_002_tally.txt">集計シート</a>もあります。
 	    投票中は集計シートはダミーです。
 	    投票が終わると、最終的な集計シートが置かれます。
 	    非公開の投票の場合は、ダミーの集計シートの HMAC
 	    は無作為に生成されることに注意してください。そうしないと HMAC
 	    と投票者に関連する情報がダミーの集計シートから漏洩するためです。
-	    また、<a href="vote_001_results.txt">結果</a>が投票締め切り後に更新されます。
+	    また、<a href="vote_002_results.txt">結果</a>が投票締め切り後に更新されます。
 	  </td>
 	</tr>
 	<tr class="Ignored">
 	  <td  align="center" colspan="6">
-	    <a href="vote_001_results.dot">
-	      <img src="vote_001_results.png" alt="候補の得票状況図">
+	    <a href="vote_002_results.dot">
+	      <img src="vote_002_results.png" alt="候補の得票状況図">
 	     </a>
+	  </td>
+	</tr>
+        	<tr class="Ignored">
+	  <td  align="center" colspan="6">
+             <a href="vote_002_results.dot">
+	       <img src="vote_002_results.png" alt="候補の得票状況図">
+             </a>
 	  </td>
 	</tr>
 
