@@ -1,7 +1,7 @@
 <define-tag pagetitle>Mar del Plata to host 8th Debian conference</define-tag>
 <define-tag release_date>2008-08-08</define-tag>
 #use wml::debian::news
-# $Id: 20080808.wml,v 1.7 2012-11-26 04:14:04 pabs Exp $
+# $Id: 20080808.wml,v 1.8 2014/04/30 09:21:57 pabs Exp $
 
 
 <ul>

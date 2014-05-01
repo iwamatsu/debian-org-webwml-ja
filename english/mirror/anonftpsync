@@ -2,12 +2,12 @@
 set -e
 
 # WARNING: This script is now replaced by ftpsync scripts:
-# see http://www.debian.org/mirror/ftpmirror#how
+# see https://www.debian.org/mirror/ftpmirror#how
 
-# This script originates from http://www.debian.org/mirror/anonftpsync
+# This script originates from https://www.debian.org/mirror/anonftpsync
 
 # CVS: cvs.debian.org:/cvs/webwml - webwml/english/mirror/anonftpsync
-# Version: $Id: anonftpsync,v 1.44 2011-03-01 23:16:47 spaillard Exp $ 
+# Version: $Id: anonftpsync,v 1.45 2014/04/30 09:22:48 pabs Exp $ 
 
 # Note: You MUST have rsync 2.6.4 or newer, which is available in sarge
 # and all newer Debian releases, or at http://rsync.samba.org/
@@ -25,7 +25,7 @@ set -e
 TO=
 
 # RSYNC_HOST is the site you have chosen from the mirrors file.
-# (http://www.debian.org/mirror/list-full)
+# (https://www.debian.org/mirror/list-full)
 # (mandatory)
 
 RSYNC_HOST=

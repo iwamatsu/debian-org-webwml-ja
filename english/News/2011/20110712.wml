@@ -1,4 +1,4 @@
-# $Id: 20110712.wml,v 1.4 2012-04-20 18:17:43 holger-guest Exp $
+# $Id: 20110712.wml,v 1.5 2014/04/30 09:21:59 pabs Exp $
 
 <define-tag pagetitle>Debian invites you to Debian Day</define-tag>
 
@@ -71,6 +71,6 @@ Press Team at &lt;press@debconf.org&gt;.</p>
 <h2>Contact Information</h2>
 
 <p>For further information, please visit the Debian web pages at
-<a href="$(HOME)/">http://www.debian.org/</a> or send mail to
+<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
 &lt;press@debian.org&gt;.</p>
 

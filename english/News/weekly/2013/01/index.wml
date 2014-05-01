@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-01-07" SUMMARY="<tt>wiki.debian.org</tt> security breach, bits from the DPL"
 
-# $Id: index.wml,v 1.4 2014/04/30 07:42:13 pabs Exp $
+# $Id: index.wml,v 1.5 2014/04/30 09:22:40 pabs Exp $
 # $Rev: 4529 $
 # Status: [frozen]
 
@@ -23,7 +23,7 @@ follow the
 recovery process</a>.
 In the mail, Steve explained that the Debian Security Team recently
 found a
-<a href="http://www.debian.org/security/2012/dsa-2593">vulnerability</a>
+<a href="https://www.debian.org/security/2012/dsa-2593">vulnerability</a>
 in the moin package which had been succesfully exploited for
 <tt>wiki.debian.org</tt>.
 The wiki has already been moved to another server and an audit of the old

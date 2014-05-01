@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at LinuxWochen and Wizards of OS</define-tag>
 <define-tag release_date>2004-05-27</define-tag>
 #use wml::debian::news
-# $Id: 20040527.wml,v 1.1 2004-05-27 10:34:10 joey Exp $
+# $Id: 20040527.wml,v 1.2 2014/04/30 09:21:54 pabs Exp $
 
 <p>Two exhibitions and conferences that cover Free Software and
 GNU/Linux will take place next month in several cities in Europe.</p>

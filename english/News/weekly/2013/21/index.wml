@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-12-02" SUMMARY="Bits from the Release team, a new member for the Technical Committee, Alioth is back, reports from November mini DebConfs, bits from the Debian Med team"
 
-# $Id: index.wml,v 1.7 2014/04/30 07:42:18 pabs Exp $
+# $Id: index.wml,v 1.8 2014/04/30 09:22:40 pabs Exp $
 # $Rev: 5315 $
 # Status: [frozen]
 
@@ -36,7 +36,7 @@ migrations.
 <toc-add-entry name="tc-member">A new member for the Technical Committee</toc-add-entry>
 
 <p>
-In mid 2012, the <a href="http://www.debian.org/devel/tech-ctte">Technical Committee</a>,
+In mid 2012, the <a href="https://www.debian.org/devel/tech-ctte">Technical Committee</a>,
 the body in charge of making decisions on technical disputes in the Debian project,
 took nominations from the project at large for a
 possible new member. After private discussions, the Technical Committee

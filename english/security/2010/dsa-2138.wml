@@ -16,9 +16,9 @@ this problem has been fixed in version 3.0.2-1.</p>
 
 <p>Further information about Debian Security Advisories, how to apply
 these updates to your system and frequently asked questions can be
-found at: <a href="$(HOME)/security/">http://www.debian.org/security/</a></p>
+found at: <a href="$(HOME)/security/">https://www.debian.org/security/</a></p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2010/dsa-2138.data"
-# $Id: dsa-2138.wml,v 1.3 2011-01-06 21:38:34 taffit-guest Exp $
+# $Id: dsa-2138.wml,v 1.4 2014/04/30 09:22:54 pabs Exp $

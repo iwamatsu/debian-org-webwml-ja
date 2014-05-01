@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at Desktop Linux Summit</define-tag>
 <define-tag release_date>2003-02-15</define-tag>
 #use wml::debian::news
-# $Id: 20030215.wml,v 1.1 2003-02-15 18:44:20 joey Exp $
+# $Id: 20030215.wml,v 1.2 2014/04/30 09:21:54 pabs Exp $
 
 <p>One exhibition and conference covering Free Software and GNU/Linux
 will take place during the next couple of days.  The Debian project

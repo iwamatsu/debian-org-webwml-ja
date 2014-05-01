@@ -13,11 +13,11 @@ version in debian-volatile, which receives regular updates and security
 support on a best effort basis.</p>
 
 <p>For more information on debian-volatile, please visit 
-<a href="$(HOME)/volatile/">http://www.debian.org/volatile/</a>.</p>
+<a href="$(HOME)/volatile/">https://www.debian.org/volatile/</a>.</p>
 
 </define-tag>
 
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1906.data"
-# $Id: dsa-1906.wml,v 1.1 2009-10-11 11:47:04 spaillard Exp $
+# $Id: dsa-1906.wml,v 1.2 2014/04/30 09:22:53 pabs Exp $

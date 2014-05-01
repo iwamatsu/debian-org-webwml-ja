@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Security Advisories are CVE-Compatible</define-tag>
 <define-tag release_date>2004-03-30</define-tag>
 #use wml::debian::news
-# $Id: 20040330.wml,v 1.1 2004-03-30 13:36:44 joey Exp $
+# $Id: 20040330.wml,v 1.2 2014/04/30 09:21:54 pabs Exp $
 
 # Debian Security Advisories are CVE-Compatible
 

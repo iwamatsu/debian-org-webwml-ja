@@ -1,7 +1,7 @@
 <define-tag pagetitle>Appointing the Debian Security Secretary</define-tag>
 <define-tag release_date>2001-10-17</define-tag>
 #use wml::debian::news
-# $Id: 20011017.wml,v 1.4 2005-03-25 06:46:48 florian Exp $
+# $Id: 20011017.wml,v 1.5 2014/04/30 09:21:53 pabs Exp $
 
 <p>The Debian Security Team hereby announces that two people have
 volunteered to help and which were appointed as Debian Security

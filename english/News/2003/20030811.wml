@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian celebrates its 10th Birthday</define-tag>
 <define-tag release_date>2003-08-11</define-tag>
 #use wml::debian::news
-# $Id: 20030811.wml,v 1.6 2005-06-18 15:34:21 thuriaux Exp $
+# $Id: 20030811.wml,v 1.7 2014/04/30 09:21:54 pabs Exp $
 
 <p>On August 16th, the Debian Project will celebrate its 10th birthday
 with several parties around the globe.  The Debian Project was

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian joins Desktop Linux Consortium</define-tag>
 <define-tag release_date>2003-02-07</define-tag>
 #use wml::debian::news
-# $Id: 20030207.wml,v 1.1 2003-02-07 07:45:52 joey Exp $
+# $Id: 20030207.wml,v 1.2 2014/04/30 09:21:54 pabs Exp $
 
 <p>The Debian Project is a founding member of the <a
 href="http://www.desktoplinuxconsortium.org/">Desktop Linux

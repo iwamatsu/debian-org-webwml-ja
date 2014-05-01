@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian decides to adopt time-based release freezes</define-tag>
 <define-tag release_date>2009-07-29</define-tag>
 #use wml::debian::news
-# $Id: 20090729.wml,v 1.5 2011-01-24 09:21:20 dmn Exp $
+# $Id: 20090729.wml,v 1.6 2014/04/30 09:21:57 pabs Exp $
 
 <p>The Debian project has decided to adopt a new policy of time-based
 development freezes for future releases, on a two-year cycle. Freezes will
@@ -50,7 +50,7 @@ operating system Debian GNU/Linux.</p>
 <h2>Contact Information</h2>
 
 <p>For further information, please visit the Debian web pages at
-<a href="$(HOME)/">http://www.debian.org/</a>, send mail to
+<a href="$(HOME)/">https://www.debian.org/</a>, send mail to
 &lt;press@debian.org&gt;, or contact the Release Team at
 &lt;debian-release@lists.debian.org&gt;.</p>
 

@@ -24,9 +24,9 @@ in version 2.2-1+lenny1.</p>
 
 <p>Further information about Debian Security Advisories, how to apply
 these updates to your system and frequently asked questions can be
-found at: <a href="$(HOME)/security/">http://www.debian.org/security/</a></p>
+found at: <a href="$(HOME)/security/">https://www.debian.org/security/</a></p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2140.data"
-# $Id: dsa-2140.wml,v 1.3 2014/04/30 07:16:24 pabs Exp $
+# $Id: dsa-2140.wml,v 1.4 2014/04/30 09:22:54 pabs Exp $

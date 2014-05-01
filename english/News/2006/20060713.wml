@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Server restored after Compromise</define-tag>
 <define-tag release_date>2006-07-13</define-tag>
 #use wml::debian::news
-# $Id: 20060713.wml,v 1.5 2014/04/30 07:09:23 pabs Exp $
+# $Id: 20060713.wml,v 1.6 2014/04/30 09:21:56 pabs Exp $
 
 <p>One core Debian server has been reinstalled after a compromise and
 services have been restored.  On July 12th the host gluck.debian.org
@@ -84,5 +84,5 @@ operating system possible.</p>
 <h2>Contact Information</h2>
 
 <p>For further information, please visit the Debian web pages at
-<a href="$(HOME)/">http://www.debian.org/</a> or send mail to
+<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
 &lt;press@debian.org&gt;.</p>

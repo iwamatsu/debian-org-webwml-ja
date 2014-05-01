@@ -1,7 +1,7 @@
 <define-tag pagetitle>Public accessible Debian Machine</define-tag>
 <define-tag release_date>2003-01-02</define-tag>
 #use wml::debian::news
-# $Id: 20030102.wml,v 1.4 2004-10-03 14:50:03 jseidel Exp $
+# $Id: 20030102.wml,v 1.5 2014/04/30 09:21:54 pabs Exp $
 
 <p>Hewlett-Packard (HP) offers public access to several machines running
 Debian GNU/Linux through their Test Drive program.  Software authors

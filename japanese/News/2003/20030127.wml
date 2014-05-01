@@ -2,7 +2,7 @@
 <define-tag release_date>2003-01-27</define-tag>
 #use wml::debian::news
 #use wml::debian::translation-check translation="1.2"
-# $Id: 20030127.wml,v 1.4 2011-05-26 10:08:05 rhonda Exp $
+# $Id: 20030127.wml,v 1.5 2014/04/30 09:26:05 pabs Exp $
 
 <p>フリーソフトウェアと GNU/Linux の分野を扱っている二つのエキシビジョンと
 カンファレンスが、以下の日程で開催される予定です。Debian

@@ -10,7 +10,7 @@
 # © Copyright 2002-2003 Software in the public interest, Inc.
 # This program is released under the GNU General Public License, v2.
 
-# $Id: make_ics.pl,v 1.7 2004-05-19 12:59:16 peterk Exp $
+# $Id: make_ics.pl,v 1.8 2014/04/30 09:22:45 pabs Exp $
 
 # FIXME: Handle character entities for non-iso-8859-1 pages?
 
@@ -180,7 +180,7 @@ $endstring   = sprintf("%04d%02d%02dT240000", split(/-/, $enddate));
 $filebase = $wmlfile;
 $filebase =~ s(^.*/([^/]+)$)($1);
 $filebase =~ s(^([^/].*)\.wml)($1);
-$url = 'http://www.debian.org/events/' . $year . '/' . $filebase . '.' .
+$url = 'https://www.debian.org/events/' . $year . '/' . $filebase . '.' .
        $language . '.ics';
 
 # Write output

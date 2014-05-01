@@ -2,7 +2,7 @@
 <define-tag release_date>2004-05-24</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20040524.wml,v 1.5 2011-05-26 10:04:16 rhonda Exp $
+# $Id: 20040524.wml,v 1.6 2014/04/30 09:21:54 pabs Exp $
 
 <p>This year's <a href="$(HOME)/events/2004/0526-debconf">Debian Conference</a> will take place from May 26th to June
 5th at SESC in Porto Alegre, Brazil.  This is a conference with, by

@@ -2,7 +2,7 @@
 <define-tag release_date>2005-07-05</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20050705.wml,v 1.4 2011-05-26 10:04:17 rhonda Exp $
+# $Id: 20050705.wml,v 1.5 2014/04/30 09:21:55 pabs Exp $
 
 <p>The 6th annual Debian Conference will be held at the Computer Science
 department of the Helsinki University of Technology in Espoo, Finland

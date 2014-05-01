@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Woody in less than two minutes</define-tag>
 <define-tag release_date>2002-05-22</define-tag>
 #use wml::debian::news
-# $Id: 20020522.wml,v 1.4 2011-05-26 10:04:15 rhonda Exp $
+# $Id: 20020522.wml,v 1.5 2014/04/30 09:21:53 pabs Exp $
 
 <p>New Intercontinental Internet Performance Records Set in Internet2
 Land Speed Record Competition

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2007 Timeline"
-# $Id: timeline.wml,v 1.6 2014/04/30 07:41:47 pabs Exp $
+# $Id: timeline.wml,v 1.7 2014/04/30 09:22:24 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2007 in the Debian community.  This is
@@ -160,7 +160,7 @@ discussions.</p>
 <ul>
 
 <li>	The Project endorsed the concept of 
-	<a href="http://www.debian.org/vote/2007/vote_003">Debian
+	<a href="https://www.debian.org/vote/2007/vote_003">Debian
 	Maintainers</a>.</li>
 
 <li>	Debian GNU/Linux 4.0 <q>Etch</q> got its

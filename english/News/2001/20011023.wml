@@ -1,7 +1,7 @@
 <define-tag pagetitle>Conferences in Luxembourg and Tokyo</define-tag>
 <define-tag release_date>2001-10-23</define-tag>
 #use wml::debian::news
-# $Id: 20011023.wml,v 1.6 2006-05-23 23:41:20 witch Exp $
+# $Id: 20011023.wml,v 1.7 2014/04/30 09:21:53 pabs Exp $
 
 <p>Two exhibitions and conferences are starting tomorrow.  The Debian
 Project will have a presence at both of them.  We are sorry for the

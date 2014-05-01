@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at several Conferences in Europe</define-tag>
 <define-tag release_date>2004-01-31</define-tag>
 #use wml::debian::news
-# $Id: 20040131.wml,v 1.2 2004-01-31 12:41:33 joey Exp $
+# $Id: 20040131.wml,v 1.3 2014/04/30 09:21:54 pabs Exp $
 
 <p>Three exhibitions and conferences that cover Free Software and
 GNU/Linux will take place next month in several cities in Europe.</p>

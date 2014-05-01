@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-08-21" SUMMARY="Debian celebrates its 19th birthday, help the Debian Installer team, bits from the DPL"
 
-# $Id: index.wml,v 1.7 2014/04/30 07:42:12 pabs Exp $
+# $Id: index.wml,v 1.8 2014/04/30 09:22:39 pabs Exp $
 # $Rev: 4180 $
 # Status: [content frozen]
 
@@ -37,16 +37,16 @@ about their first experiences with Debian.
 
 <p>
 The Debian Installer team 
-<a href="http://www.debian.org/devel/debian-installer/News/2012/20120804">announced</a>
+<a href="https://www.debian.org/devel/debian-installer/News/2012/20120804">announced</a>
 the first beta release of the installer for Debian 7.0 <q>Wheezy</q>.
 The team asks Debian users to help in testing and improving this new
 version of the installer: while there are some <a
-href="http://www.debian.org/devel/debian-installer/errata">known issues</a> with the
+href="https://www.debian.org/devel/debian-installer/errata">known issues</a> with the
 installer that do not need to be reported, it is very important to try
 the installer in order to find all possible bugs before the release. 
 <br />
 Problems should be reported as an <a
-href="http://www.debian.org/releases/stable/amd64/ch05s04.html#submit-bug">installation
+href="https://www.debian.org/releases/stable/amd64/ch05s04.html#submit-bug">installation
 report</a>. 
 </p>
 

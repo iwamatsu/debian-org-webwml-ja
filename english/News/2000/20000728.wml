@@ -1,7 +1,7 @@
 <define-tag pagetitle>214-node Debian GNU/Linux Cluster at University of Auckland</define-tag>
 <define-tag release_date>2000-07-28</define-tag>
 #use wml::debian::news
-# $Id: 20000728.wml,v 1.5 2005-09-24 18:34:01 witch Exp $
+# $Id: 20000728.wml,v 1.6 2014/04/30 09:21:52 pabs Exp $
 
 <p>A 214-node Debian GNU/Linux based cluster named Kalaka has been
 constructed at the Tamaki Campus, University of Auckland, New Zealand.

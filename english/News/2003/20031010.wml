@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian wins 2003 Linux Journal Readers' Choice Award</define-tag>
 <define-tag release_date>2003-10-10</define-tag>
 #use wml::debian::news
-# $Id: 20031010.wml,v 1.3 2003-10-14 18:14:49 joey Exp $
+# $Id: 20031010.wml,v 1.4 2014/04/30 09:21:54 pabs Exp $
 
 <p>Debian GNU/Linux was awarded this year's Linux Journal Ninth Annual
 Readers' Choice Award in the category favorite distribution.  On

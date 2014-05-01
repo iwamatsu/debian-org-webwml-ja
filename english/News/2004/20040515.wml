@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian mourns the loss of two project members</define-tag>
 <define-tag release_date>2004-05-15</define-tag>
 #use wml::debian::news
-# $Id: 20040515.wml,v 1.3 2011-05-26 10:04:16 rhonda Exp $
+# $Id: 20040515.wml,v 1.4 2014/04/30 09:21:54 pabs Exp $
 
 <p>Recently, the Debian Project has lost two members of its community.
 Manuel Estrada Sainz (ranty) and Andrés García (ErConde) were killed in

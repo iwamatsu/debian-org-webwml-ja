@@ -1,7 +1,7 @@
 <define-tag pagetitle>Interview with Hurd developer Neal Walfield</define-tag>
 <define-tag release_date>2001-11-13</define-tag>
 #use wml::debian::news
-# $Id: 20011113.wml,v 1.5 2006-02-27 23:23:54 witch Exp $
+# $Id: 20011113.wml,v 1.6 2014/04/30 09:21:53 pabs Exp $
 
 <p>Jeremy Andrews of <a href="http://kerneltrap.org/">KernelTrap</a> spoke
 with Neal Walfield from the GNU/Hurd development team who is also a

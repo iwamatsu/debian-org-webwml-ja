@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian at upcoming events in May</define-tag>
 <define-tag release_date>2002-05-01</define-tag>
 #use wml::debian::news
-# $Id: 20020501.wml,v 1.3 2011-05-26 10:04:15 rhonda Exp $
+# $Id: 20020501.wml,v 1.4 2014/04/30 09:21:53 pabs Exp $
 
 <p>Several exhibitions and conferences covering Free Software and GNU/Linux
 will take place this month.  The Debian project has been offered to

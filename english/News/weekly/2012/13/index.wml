@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-06-25" SUMMARY="Freeze, mirror redirector, DebConf11 financial and other reports"
 
-# $Id: index.wml,v 1.6 2014/04/30 07:42:11 pabs Exp $
+# $Id: index.wml,v 1.7 2014/04/30 09:22:39 pabs Exp $
 # $Rev: 3956 $
 # Status: [freeze]
 
@@ -90,7 +90,7 @@ This is the first local Debian event in Romania after a year and a half of onlin
 <a href="http://ceata.org/">Fundația Ceata</a>, a local Free Software
 and Free Culture organisation, supported the community by providing the event
 location, the after-party, and the new domain name,
-<a href="http://www.debian.org.ro/">debian.org.ro</a>.
+<a href="https://www.debian.org.ro/">debian.org.ro</a>.
 </p>
 
 

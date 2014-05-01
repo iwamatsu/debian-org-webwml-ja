@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-07-30" SUMMARY="Debian Med team report from LSM, DebConf13 Logo Contest, Raspbian"
 
-# $Id: index.wml,v 1.5 2014/04/30 07:28:55 pabs Exp $
+# $Id: index.wml,v 1.6 2014/04/30 09:22:39 pabs Exp $
 # $Rev: 4098 $
 # Status: [frozen]
 
@@ -75,7 +75,7 @@ from the Release Team</a>, including an announcement that the codename for Debia
  href="$(HOME)/events/2012/0726-forumit">Debian talk at Forum IT Summer
  Academy</a> by Victor Nițu</li>
  <li>August 3-4, San Antonio, USA &mdash; <a
- href="http://www.debian.org/events/2012/0803-texas-linuxfest">Debian
+ href="https://www.debian.org/events/2012/0803-texas-linuxfest">Debian
  booth at Texas Linux Fest</a> </li>
 </ul>
 <p>

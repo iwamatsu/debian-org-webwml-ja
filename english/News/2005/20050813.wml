@@ -1,7 +1,7 @@
 <define-tag pagetitle>The Debian Project receives Funding</define-tag>
 <define-tag release_date>2005-08-13</define-tag>
 #use wml::debian::news
-# $Id: 20050813.wml,v 1.4 2005-08-16 19:44:11 joey Exp $
+# $Id: 20050813.wml,v 1.5 2014/04/30 09:21:55 pabs Exp $
 
 <p>The Debian project is pleased to announce that it is funded by the
 LinuxFund with $500 per month for an entire year.  The Linux-oriented
@@ -57,7 +57,7 @@ Software.</p>
 <h2>Contact Information</h2>
 
 <p>For further information, please visit the Debian web pages at
-<a href="$(HOME)/">http://www.debian.org/</a> or send mail to
+<a href="$(HOME)/">https://www.debian.org/</a> or send mail to
 &lt;press@debian.org&gt;.</p>
 
 <p>For information on donating to Debian please see the <a

@@ -1,8 +1,8 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 リリース</define-tag>
 <define-tag release_date>2002-07-19</define-tag>
-#use wml::debian::translation-check translation="1.4"
+#use wml::debian::translation-check translation="1.5"
 #use wml::debian::news
-# $Id: 20020719.wml,v 1.5 2009-08-22 10:59:51 osamu Exp $
+# $Id: 20020719.wml,v 1.6 2014/04/30 09:26:05 pabs Exp $
 
 <p>
 Debian プロジェクトは、ここに Debian GNU/Linux バージョン 3.0 のリリー
@@ -92,6 +92,6 @@ Debian 社会契約への献身、可能なかぎり最良のオペレーティ�
 <h2>連絡先</h2>
 
 <p>より詳しい情報を希望する場合は、Debian のウェブページ
-(<a href="$(HOME)/">http://www.debian.org/</a>) を訪ねるか、
+(<a href="$(HOME)/">https://www.debian.org/</a>) を訪ねるか、
 &lt;press@debian.org&gt; にメールを送ってください。</p>
 

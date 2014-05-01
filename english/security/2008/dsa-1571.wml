@@ -34,7 +34,7 @@ though.</p>
 <p>Instructions how to implement key rollover for various packages will be
 published at:</p>
 
-  <p><a href="$(HOME)/security/key-rollover/">http://www.debian.org/security/key-rollover/</a></p>
+  <p><a href="$(HOME)/security/key-rollover/">https://www.debian.org/security/key-rollover/</a></p>
 
 <p>This web site will be continuously updated to reflect new and updated
 instructions on key rollovers for packages using SSL certificates.
@@ -61,4 +61,4 @@ regenerate any cryptographic material, as outlined above.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1571.data"
-# $Id: dsa-1571.wml,v 1.7 2014/04/30 07:16:15 pabs Exp $
+# $Id: dsa-1571.wml,v 1.8 2014/04/30 09:22:53 pabs Exp $

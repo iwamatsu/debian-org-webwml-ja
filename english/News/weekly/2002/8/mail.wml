@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="E-Mail"
-# $Id: mail.wml,v 1.4 2005-12-04 15:23:29 witch Exp $
+# $Id: mail.wml,v 1.5 2014/04/30 09:22:22 pabs Exp $
 
 <a name="mail1"></a>
 <pre>
@@ -41,7 +41,7 @@ Of special note is the Swedish mirror cluster[2] at ftp.se.d.o, with "just"
 mirroring from it.
 
 I'd encourage any mirror maintainers reading to investigate what's been
-changed at <a href="$(HOME)/mirror/">http://www.debian.org/mirror/</a> since the last time they checked.
+changed at <a href="$(HOME)/mirror/">https://www.debian.org/mirror/</a> since the last time they checked.
 
 [1] DNS round-robin. Hint: run host ftp.us.debian.org a few times.
 [2] <a href="http://ftp.acc.umu.se/mirror/ftp-about.html">http://ftp.acc.umu.se/mirror/ftp-about.html</a>

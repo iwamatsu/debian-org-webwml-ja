@@ -1,8 +1,8 @@
-#use wml::debian::translation-check translation="1.5"
+#use wml::debian::translation-check translation="1.6"
 <define-tag pagetitle>Debian プロジェクトは Frans Pop の逝去を哀悼します</define-tag>
 <define-tag release_date>2010-08-31</define-tag>
 #use wml::debian::news
-# $Id: 20100831.wml,v 1.1 2010-09-05 11:19:26 kmuto Exp $
+# $Id: 20100831.wml,v 1.2 2014/04/30 09:26:07 pabs Exp $
 
 <p>Debian プロジェクトはコミュニティの一員を失いました——Frans Pop (fjp) が 8 月 20 日にこの世を去りました。</p>
 
@@ -23,6 +23,6 @@
 
 <h2>連絡先について</h2>
 <p>より詳細な情報については、Debian のウェブページ
-<a href="$(HOME)/">http://www.debian.org/</a> を訪れるか、
+<a href="$(HOME)/">https://www.debian.org/</a> を訪れるか、
 &lt;<a href="mailto:press@debian.org">press@debian.org</a>&gt;
 宛にメールをお願いします。</p>

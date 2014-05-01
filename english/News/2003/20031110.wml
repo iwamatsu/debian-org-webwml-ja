@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian wins several Readers' Choice Awards</define-tag>
 <define-tag release_date>2003-11-10</define-tag>
 #use wml::debian::news
-# $Id: 20031110.wml,v 1.3 2006-05-23 23:41:20 witch Exp $
+# $Id: 20031110.wml,v 1.4 2014/04/30 09:21:54 pabs Exp $
 
 <p>This year was quite successful for the Debian project and it
 has won several readers' choice awards from major GNU/Linux magazines.

@@ -1,7 +1,7 @@
 <define-tag pagetitle>What is new for Debian Med in Lenny?</define-tag>
 <define-tag release_date>2009-02-15</define-tag>
 #use wml::debian::news
-# $Id: 20090214.wml,v 1.4 2014/04/30 06:33:11 pabs Exp $
+# $Id: 20090214.wml,v 1.5 2014/04/30 09:22:43 pabs Exp $
 
 <p>
   We are proud to announce the first release of Debian Med together with
@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  The <a href="http://www.debian.org/devel/debian-med/">Debian Med</a> project
+  The <a href="https://www.debian.org/devel/debian-med/">Debian Med</a> project
   continues its <q>healthy</q> growth, which is reflected in a <a
   href="dmstats1.pdf">continuous increase of packages for medical care</a> and <a
   href="authorstat_med.pdf">an increasing number of people</a> who are actively

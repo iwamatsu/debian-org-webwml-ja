@@ -2,7 +2,7 @@
 <define-tag release_date>2004-06-19</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20040619.wml,v 1.6 2011-05-26 10:04:16 rhonda Exp $
+# $Id: 20040619.wml,v 1.7 2014/04/30 09:21:54 pabs Exp $
 
 
 <p>This year's LinuxTag will take place from June 23rd to June 26th at

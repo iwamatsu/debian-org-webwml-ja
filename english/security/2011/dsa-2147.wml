@@ -13,9 +13,9 @@ will receive updates shortly.</p>
 
 <p>Further information about Debian Security Advisories, how to apply
 these updates to your system and frequently asked questions can be
-found at: <a href="$(HOME)/security/">http://www.debian.org/security/</a></p>
+found at: <a href="$(HOME)/security/">https://www.debian.org/security/</a></p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2011/dsa-2147.data"
-# $Id: dsa-2147.wml,v 1.1 2011-01-17 07:50:01 kaare Exp $
+# $Id: dsa-2147.wml,v 1.2 2014/04/30 09:22:54 pabs Exp $

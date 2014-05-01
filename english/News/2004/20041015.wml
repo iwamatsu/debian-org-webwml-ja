@@ -2,7 +2,7 @@
 <define-tag release_date>2004-10-15</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20041015.wml,v 1.8 2011-05-26 10:04:16 rhonda Exp $
+# $Id: 20041015.wml,v 1.9 2014/04/30 09:21:54 pabs Exp $
 
 <p>Seven exhibitions and conferences that will cover Free Software and
 GNU/Linux will take place within the following weeks in several cities

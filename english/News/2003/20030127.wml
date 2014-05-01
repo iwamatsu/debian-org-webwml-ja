@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian at Solutions Linux and FOSDEM</define-tag>
 <define-tag release_date>2003-01-27</define-tag>
 #use wml::debian::news
-# $Id: 20030127.wml,v 1.2 2011-05-26 10:04:15 rhonda Exp $
+# $Id: 20030127.wml,v 1.3 2014/04/30 09:21:54 pabs Exp $
 
 <p>Two exhibitions and conferences covering Free Software and GNU/Linux
 will take place during the next couple of days.  The Debian project

@@ -1,7 +1,7 @@
 <define-tag pagetitle>Pluto Meeting 2001</define-tag>
 <define-tag release_date>2001-11-22</define-tag>
 #use wml::debian::news
-# $Id: 20011122.wml,v 1.1 2001-11-29 17:51:31 peterk Exp $
+# $Id: 20011122.wml,v 1.2 2014/04/30 09:21:53 pabs Exp $
 
 <p>The Debian Project will take part in the Pluto Meeting
 2001 which takes place from December 7th to 9th.  This congress is a

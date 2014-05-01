@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-05-11" SUMMARY="OASIS, Documentation, Installer, SATA-RAID, Trademarks, MiniConf, Licenses, Kernel, PNG, Bittorrents"
-# $Id: index.wml,v 1.12 2014/04/30 06:31:02 pabs Exp $
+# $Id: index.wml,v 1.13 2014/04/30 09:22:22 pabs Exp $
 
 <p>Welcome to this year's 19th issue of DWN, the weekly newsletter for the
 Debian community.  If you were a fan of the original PacMan game, you'll
@@ -141,7 +141,7 @@ debian-installer</a> beta release will include full iso images and not only
 netinstall images.</p>
 
 <p><strong>Debian with integrated XML Support.</strong> The Debian project <a
-href="http://www.debian.org/News/2004/20040506">announced</a> that the
+href="https://www.debian.org/News/2004/20040506">announced</a> that the
 upcoming stable Debian release (code-named sarge) will feature fully
 integrated XML support.  Multiple toolchains for XSL(T) processing, a fully
 standards-compliant XML catalog system, and a Debian XML policy document for

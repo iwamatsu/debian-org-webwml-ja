@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Conference ends in Success</define-tag>
 <define-tag release_date>2005-07-24</define-tag>
 #use wml::debian::news
-# $Id: 20050724.wml,v 1.9 2006-05-23 23:41:20 witch Exp $
+# $Id: 20050724.wml,v 1.10 2014/04/30 09:21:55 pabs Exp $
 
 <h3>Sixth Debian Developers' Conference ends in Success</h3>
 

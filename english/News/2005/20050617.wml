@@ -2,7 +2,7 @@
 <define-tag release_date>2005-06-17</define-tag>
 #use wml::debian::news
 #use wml::debian::news_events
-# $Id: 20050617.wml,v 1.6 2011-05-26 10:04:16 rhonda Exp $
+# $Id: 20050617.wml,v 1.7 2014/04/30 09:21:55 pabs Exp $
 
 <p>The Debian project will attend the Open Source Software Symposium in
 Stuttgart and the LinuxTag in Karlsruhe next week, both in Germany.</p>

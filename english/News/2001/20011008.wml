@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Expo and Conference Week in Germany</define-tag>
 <define-tag release_date>2001-10-08</define-tag>
 #use wml::debian::news
-# $Id: 20011008.wml,v 1.4 2006-05-23 23:41:20 witch Exp $
+# $Id: 20011008.wml,v 1.5 2014/04/30 09:21:53 pabs Exp $
 
 <p>This week and the next one is going to be a busy one for the German
 part of the Debian Project.  There are three exhibitions and

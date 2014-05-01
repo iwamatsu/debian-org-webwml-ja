@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian celebrates its 17th birthday</define-tag>
 <define-tag release_date>2010-08-16</define-tag>
 #use wml::debian::news
-# $Id: 20100816.wml,v 1.4 2011-01-15 12:22:06 taffit-guest Exp $
+# $Id: 20100816.wml,v 1.5 2014/04/30 09:21:58 pabs Exp $
 
 
 <p>The Debian Project is pleased to mark the 17th anniversary of its start.

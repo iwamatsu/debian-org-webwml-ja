@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project at International Linux Kongress</define-tag>
 <define-tag release_date>2001-11-24</define-tag>
 #use wml::debian::news
-# $Id: 20011124.wml,v 1.3 2006-01-03 02:15:08 fbothamy Exp $
+# $Id: 20011124.wml,v 1.4 2014/04/30 09:21:53 pabs Exp $
 
 <p>The Debian Project has been invited to attend the upcoming
 International Linux Kongress.  International Linux Kongress is
