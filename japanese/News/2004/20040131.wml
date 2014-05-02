@@ -1,8 +1,8 @@
 <define-tag pagetitle>ヨーロッパで開かれるいくつかの会議における Debian プロジェクト</define-tag>
 <define-tag release_date>2004-01-31</define-tag>
 #use wml::debian::news
-# $Id: 20040131.wml,v 1.4 2014/04/30 09:26:05 pabs Exp $
-#use wml::debian::translation-check translation="1.2"
+# $Id: 20040131.wml,v 1.5 2014/05/01 12:42:38 pabs Exp $
+#use wml::debian::translation-check translation="1.3"
 
 <p>フリーソフトウェアと GNU/Linux を対象とした 3 つの展示会および会議が、
 ヨーロッパのいくつかの都市で来月ひらかれます。</p>

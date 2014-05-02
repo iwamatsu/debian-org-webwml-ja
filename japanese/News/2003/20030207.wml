@@ -1,8 +1,8 @@
 <define-tag pagetitle>Debian はデスクトップ Linux コンソーシアムに参加します</define-tag>
 <define-tag release_date>2003-02-07</define-tag>
 #use wml::debian::news
-#use wml::debian::translation-check translation="1.1"
-# $Id: 20030207.wml,v 1.4 2014/04/30 09:26:05 pabs Exp $
+#use wml::debian::translation-check translation="1.2"
+# $Id: 20030207.wml,v 1.5 2014/05/01 12:42:38 pabs Exp $
 
 
 <p>
