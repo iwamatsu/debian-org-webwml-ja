@@ -1,6 +1,6 @@
 #use wml::debian::template title="German Debian pages" NOHEADER="yes"
-#use wml::debian::translation-check translation="1.49" original="german"
-# $Id: index.wml,v 1.48 2014/04/29 15:28:09 pabs Exp $
+#use wml::debian::translation-check translation="1.50" original="german"
+# $Id: index.wml,v 1.49 2014/05/08 05:42:11 pabs Exp $
 
 # This contents of this page is completely the responsibility of
 # the translation team
