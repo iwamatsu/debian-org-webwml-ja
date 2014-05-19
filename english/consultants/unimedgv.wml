@@ -1,6 +1,0 @@
-#use wml::debian::consultant name="Unimed Governador Valadares"
-# $Id: unimedgv.wml,v 1.2 2005-08-25 12:06:08 thuriaux Exp $
-
-<p>
-Installation and configuration of servers and desktops
-</p>

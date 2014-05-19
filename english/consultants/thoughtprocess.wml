@@ -1,8 +1,0 @@
-#use wml::debian::consultant name="ThoughtProcess.net, Inc."
-# $Id: thoughtprocess.wml,v 1.2 2005-08-25 12:06:08 thuriaux Exp $
-
-<p>
-We offer Windows and Novell migration to linux. We also develop custom
-integrated systems for all applications. Debian linux is our preferred platform
-but we can work with any linux based distribution.
-</p>
