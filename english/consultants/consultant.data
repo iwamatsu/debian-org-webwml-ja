@@ -1083,6 +1083,18 @@ Guarani - BH - MG, <country-name BR>>
 <rates   Call me.>
 </p>
 
+# Consultant: BR
+# added on 22.05.2014
+<p>
+<name	 Gabriel Ricardo de Lara Pereira>
+<company NerdWork TI>
+<address Curitiba/PR, <country-name BR>>
+<phone   +55-41-8881-7828>
+<email	 gabriel@nerdworkti.com.br>
+<URL     "http://www.nerdworkti.com.br">
+<rates   Negotiable.>
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -2811,6 +2823,18 @@ prices during summer holidays.>
 <URL	 "http://udyansh.org/foss_debian.shtml">
 <rates   30 US $ / hour.>
 <additional_info udyansh>
+</p>
+
+# Consultant: IN
+# added on 22.05.2014
+<p>
+<name	 Faheem Mitha>
+<company freelance consultant>
+<address Nhava House, 2nd Floor, 65 Maharshi Karve Rd., Mumbai 400002, <country-name IN>>
+<phone	 +91-22-22019466>
+<email	 faheem@faheem.info>
+<rates   Negotiable.>
+<additional_info f_mitha>
 </p>
 
 
