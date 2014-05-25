@@ -11,7 +11,7 @@
 # © Copyright 2001-2010 Software in the public interest, Inc.
 # This program is released under the GNU General Public License, v2.
 
-## $Id: remove_stale.pl,v 1.19 2010-07-22 13:17:54 bas Exp $
+## $Id: remove_stale.pl,v 1.22 2011/05/03 18:01:01 taffit-guest Exp $
 
 use strict;
 use warnings;
@@ -45,8 +45,6 @@ use constant INSTALLDIR => '../www';
 
 	# Read the list of languages
 	my @languages = sort Webwml::Langs->new()->names();
-	#@languages = ('spanish');
-	@languages = ('dutch','spanish');
 
 	# check all subdirs to find stale html files
 	my @files;
@@ -117,12 +115,9 @@ sub find_stale_files
 
 	print "Recursing into `$dir'\n";
 
-	# the language subdir possibly doesn;t exist yet for newly 
+	# the language subdir possibly doesn't exist yet for newly 
 	# started translations
 	return 0  unless  -d $dir;
-
-	# Don't try to do anything in subdirectories of l10n.
-	return 0  if  $dir =~ m'l10n/[^/]+$';
 
 	# create a list of *.html files and a hash of *.wml files in this translation
 	#my (%wmlfiles,@htmlfiles);
@@ -143,11 +138,20 @@ sub find_stale_files
 		$source =~ s/(?:\.[-\w]+)?\.html$/.wml/  
 			or die("Can't determine WML source file for `$htmlfile'");
 
+		# Don't try to do anything in subdirectories of l10n.
+		next  if  $htmlfile =~ m{/international/l10n/po[-\w]*/[\w_\@]+\.[-\w]+\.html$};
+		
+		# Don't try to do anything in stats either.
+		next  if  $htmlfile =~ m{/devel/website/stats/[-\w]+\.[-\w]+\.html$};
+
+		# Don't try to remove yaboot-howto.
+		next  if  $htmlfile =~ m{/ports/powerpc/inst/yaboot-howto.html};
+
 		# does the wml source file exist?
 		my $haswml = exists( $wmlfiles{$source} ) || -f $source || 0;
 
 		# is the html file checked in the VCS?
-		my $checkedin = vcs_file_info($htmlfile) ? 1 : 0;
+		my $checkedin = vcs_file_info($htmlfile , quiet => 1 ) ? 1 : 0;
 
 		#if ($checkedin) 
 		#{ print "==> `$htmlfile' : `$source' : $haswml : $checkedin\n"; }

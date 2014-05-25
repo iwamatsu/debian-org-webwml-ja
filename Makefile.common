@@ -72,6 +72,9 @@ $(existing-SUBS-install):
 
 clean::
 	rm -f *.$(LANGUAGE).html *~ *.forced
+ifeq "$(LANGUAGE)" "en"
+	rm -f *.en-us.html *.en-gb.html
+endif
 clean:: $(existing-SUBS-clean)
 
 $(existing-SUBS-clean):
@@ -79,6 +82,9 @@ $(existing-SUBS-clean):
 
 cleandest::
 	rm -f $(HTMLDIR)/*.$(LANGUAGE).html
+ifeq "$(LANGUAGE)" "en"
+	rm -f $(HTMLDIR)/*.en-us.html $(HTMLDIR)/*.en-gb.html
+endif
 cleandest:: $(existing-SUBS-cleandest)
 
 $(existing-SUBS-cleandest):
@@ -112,8 +118,6 @@ endif
 ifeq "$(LANGUAGE)" "en"
 	@echo making a link $(@D)/$(*F).html -\> $(@F)
 	@ln -sf $(@F) $(@D)/$(*F).html
-	@ln -sf $(@F) $(@D)/$(*F).en-us.html
-	@ln -sf $(@F) $(@D)/$(*F).en-gb.html
 endif
 endif
 
@@ -184,7 +188,6 @@ $(TEMPLDIR)/consultant.wml: $(TEMPLDIR)/common_tags.wml \
   $(call locale,consultants)
 $(TEMPLDIR)/countries.wml: $(TEMPLDIR)/common_tags.wml\
   $(call locale,countries)
-$(TEMPLDIR)/countries_all.wml: $(TEMPLDIR)/countries.wml
 $(TEMPLDIR)/ctime.wml: $(TEMPLDIR)/common_tags.wml\
   $(call locale,date)
 $(TEMPLDIR)/ddp.wml: $(TEMPLDIR)/basic.wml \
@@ -198,8 +201,7 @@ $(TEMPLDIR)/events_common.wml: $(TEMPLDIR)/common_translation.wml \
   $(call locale,legal)
 $(TEMPLDIR)/fixes_link.wml: $(TEMPLDIR)/common_tags.wml
 $(TEMPLDIR)/footer.wml: $(TEMPLDIR)/ctime.wml \
-  $(TEMPLDIR)/common_tags.wml
-$(TEMPLDIR)/header.wml: $(TEMPLDIR)/common_translation.wml
+  $(TEMPLDIR)/common_tags.wml $(TEMPLDIR)/languages.wml
 $(TEMPLDIR)/installer.wml: $(TEMPLDIR)/release_data.wml
 $(TEMPLDIR)/language_names.wml: $(TEMPLDIR)/common_tags.wml \
   $(call locale,langs)
@@ -219,10 +221,9 @@ $(TEMPLDIR)/links.tags.wml: $(TEMPLDIR)/common_tags.wml
 $(TEMPLDIR)/mainpage.wml: $(TEMPLDIR)/common_translation.wml \
   $(TEMPLDIR)/basic.wml $(TEMPLDIR)/links.tags.wml \
   $(TEMPLDIR)/languages.wml
-$(TEMPLDIR)/mirrors.wml: $(TEMPLDIR)/countries.wml \
-  $(TEMPLDIR)/languages.wml $(TEMPLDIR)/common_tags.wml
 $(TEMPLDIR)/navbar.wml: $(TEMPLDIR)/common_translation.wml \
-  $(TEMPLDIR)/mirrors.wml
+  $(TEMPLDIR)/events_common.wml \
+  $(TEMPLDIR)/links.tags.wml
 $(TEMPLDIR)/news.wml: $(TEMPLDIR)/common_translation.wml \
   $(TEMPLDIR)/common_tags.wml $(TEMPLDIR)/languages.wml \
   $(TEMPLDIR)/ctime.wml $(TEMPLDIR)/basic.wml \
@@ -246,7 +247,6 @@ $(TEMPLDIR)/speakers.wml: $(TEMPLDIR)/common_tags.wml \
   $(call locale,legal)
 $(TEMPLDIR)/template.wml: $(TEMPLDIR)/basic.wml \
   $(TEMPLDIR)/languages.wml
-$(TEMPLDIR)/todoitem.wml: $(TEMPLDIR)/common_tags.wml
 $(TEMPLDIR)/translation-check.wml: $(TEMPLDIR)/languages.wml \
   $(TEMPLDIR)/common_tags.wml
 $(TEMPLDIR)/url.wml: $(TEMPLDIR)/common_tags.wml
@@ -261,27 +261,8 @@ $(TEMPLDIR)/weeklynews/header.wml: $(TEMPLDIR)/common_tags.wml \
   $(TEMPLDIR)/ctime.wml $(TEMPLDIR)/links.tags.wml \
   $(TEMPLDIR)/template.wml
 
-$(TEMPLDIR)/cdimage.wml: $(ENGLISHDIR)/Pics/debian.png \
-  $(ENGLISHSRCDIR)/logos/openlogo-nd-50.png \
-  $(ENGLISHDIR)/CD/pictures/menubar-tl.png \
-  $(ENGLISHDIR)/CD/pictures/menubar-tr.png \
-  $(ENGLISHDIR)/CD/pictures/menubar-bl.png \
-  $(ENGLISHDIR)/CD/pictures/menubar-br.png
-# \
-#  $(WMLBASE)/CD/pictures/menu-faq.$(LANGUAGE).png \
-#  $(WMLBASE)/CD/pictures/menu-jigdo.$(LANGUAGE).png \
-#  $(WMLBASE)/CD/pictures/menu-http-ftp.$(LANGUAGE).png \
-#  $(WMLBASE)/CD/pictures/menu-buy.$(LANGUAGE).png \
-#  $(WMLBASE)/CD/pictures/menu-misc.$(LANGUAGE).png \
-#  $(WMLBASE)/CD/pictures/menu-netinst.$(LANGUAGE).png \
-#  $(WMLBASE)/CD/pictures/menu-pik.$(LANGUAGE).png
+$(TEMPLDIR)/navbar.wml: $(ENGLISHSRCDIR)/logos/openlogo-nd-50.png
 
-$(TEMPLDIR)/navbar.wml: $(ENGLISHSRCDIR)/Pics/debian.png \
-  $(ENGLISHSRCDIR)/logos/openlogo-nd-50.png
-
-$(TEMPLDIR)/todoitem.wml: $(ENGLISHSRCDIR)/Pics/star-grn.gif \
-  $(ENGLISHSRCDIR)/Pics/star-yel.gif \
-  $(ENGLISHSRCDIR)/Pics/star-red.gif
 $(TEMPLDIR)/votebar.wml: $(ENGLISHSRCDIR)/Pics/blue-upperleft.png \
   $(ENGLISHSRCDIR)/Pics/blue-upperright.png \
   $(ENGLISHSRCDIR)/Pics/blue-lowerleft.png \
