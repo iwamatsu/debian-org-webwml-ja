@@ -117,6 +117,10 @@ installer has been translated to, one at a time. Please read the
 all the details on how the system needs to be setup (you need two different
 machines).</p>
 
+<p>If there is need for hardware, we can send the <a
+href="https://wiki.debian.org/Teams/Events/DebianEventsBox">Debian Events
+Box</a> to you.
+
 <toc-add-entry name="stickers">Stickers</toc-add-entry>
 
 <p>One of the things people appreciate most at a booth are stickers.
@@ -212,6 +216,14 @@ banners</a> and <a href="$(HOME)/logos/">logos</a> pages.</p>
 who help out in the booth or to the organization of the event (if they
 are really that helpful). You can take a look at
 <a href="materials/tshirts/">some graphics</a> used for t-shirts.</p>
+
+<p>If you want to convert your booth into a merchandise selling enterprise
+you can (if the event allows that) try selling T-shirts. There are a number
+of shops on the <a href="misc/merchandise">merchandise page</a> with whom
+you can cooperate. If you need more ideas you can ask on <a
+href="eventsmailinglists">the relevane events mailinglist</a> or, if that
+is not fruitful, <a
+href="mailto:events@debian.org">events@debian.org</a>.</p>
 
 
 <toc-add-entry name="cdroms">CD-ROMS</toc-add-entry>

@@ -1,5 +1,5 @@
 #use wml::debian::template title="Checklist for a booth"
-# $Id: checklist.wml,v 1.20 2013/08/07 22:04:53 aw-guest Exp $
+# $Id: checklist.wml,v 1.21 2014/05/29 16:02:52 aw-guest Exp $
 
 <p>This list intends to help people organizing a booth for the Debian
 project at any exhibition.  Please send comments to <a
@@ -15,11 +15,12 @@ of course, some other can be done in different order.
 <ol>
 
 <li> If you are aware of an event in which Debian could possibly take part,
-     mail to debian-events-&lt;region&gt; - this also applies if you are
-     not planning to run a booth.
+     mail to <a href="eventsmailinglists">debian-events-&lt;region&gt;</a>
+     - this also applies if you are not planning to run a booth.
 
 <li> Running a booth only makes sense if there are two or more people
-     sharing the work. Consider asking debian-events-&lt;region&gt; for
+     sharing the work. Consider asking  <a
+     href="eventsmailinglists">debian-events-&lt;region&gt;</a> for
      help if you do not have enough help.  If nobody else wants to or could
      help, please reconsider running a booth.
 </li>
