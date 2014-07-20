@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-02-10" SUMMARY="Call for projects and mentors for Debian GSoC 2014, bits from the Release Team, reports from recent Debian Sprints"
 
-# $Id: index.wml,v 1.6 2014/04/30 07:29:04 pabs Exp $
+# $Id: index.wml,v 1.7 2014/07/20 02:03:12 pabs Exp $
 # $Rev: 5414 $
 # Status: [content-frozen]
 
@@ -52,7 +52,7 @@ Niels also indicated in his message that auto-removal from testing
 of non-leaf RC-buggy packages has been suspended until there is a way to
 properly notify the maintainers of reverse-dependencies that the removal will occur.
 In the meantime, thanks to the work of Ivo De Decker and Paul Wise,
-the <a href="http://packages.qa.debian.org/">Package Tracking Service</a>
+the <a href="https://packages.qa.debian.org/">Package Tracking Service</a>
 will now display a warning for packages that are about to be
 auto-removed from testing. The auto-removals are also listed,
 <a href="https://lists.debian.org/debian-devel/2014/01/msg00574.html">thanks

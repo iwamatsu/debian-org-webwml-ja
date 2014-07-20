@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-06-18" SUMMARY="Release, CD Images, Events, Builds, Automake, Security, Zaurus"
-# $Id: index.wml,v 1.18 2014/04/30 06:30:11 pabs Exp $
+# $Id: index.wml,v 1.19 2014/07/20 02:02:55 pabs Exp $
 
 <p>Welcome to this year's twentythird issue of DWN, the weekly newsletter for
 the Debian community.  We're sorry that you've had to survive two weeks
@@ -164,7 +164,7 @@ unmet dependencies in <a
 href="http://master.debian.org/~wakkerma/unmet-woody.html">Woody</a> and <a
 href="https://ftp-master.debian.org/unmet-sid.html">Sid</a> as well as <a
 href="https://ftp-master.debian.org/~sanvila/dependency-checks/">Santiago's
-pages</a> and the <a href="http://qa.debian.org/debcheck.php">QA
+pages</a> and the <a href="https://qa.debian.org/debcheck.php">QA
 system</a>.</p>
 
 <p><strong>Woody Release Announcement.</strong> Joey Hess sent in a last <a

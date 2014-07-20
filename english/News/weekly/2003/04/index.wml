@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-01-28" SUMMARY="NetInst, x86-64, DPL Election, PTS, Debian-Edu, Interest, Quality, Award, LWCE, DFSG"
-# $Id: index.wml,v 1.17 2014/04/30 06:30:32 pabs Exp $
+# $Id: index.wml,v 1.18 2014/07/20 02:02:58 pabs Exp $
 
 <p>Welcome to this year's fourth issue of DWN, the weekly newsletter for the
 Debian community.  Netcraft recently added <a
@@ -30,7 +30,7 @@ one.  The page lists bugs in packages the debian-installer depends on.  Petter
 Reinholdtsen was more <a
 href="https://lists.debian.org/debian-boot-0301/msg00252.html">interested</a>
 in the packages which are maintained by the installer people and is already using this <a
-href="http://qa.debian.org/developer.php?login=debian-boot@lists.debian.org">\
+href="https://qa.debian.org/developer.php?login=debian-boot@lists.debian.org">\
 overview</a>.</p>
 
 <p><strong>Cross Compiler for x86-64 Hardware.</strong> Arnd Bergmann has

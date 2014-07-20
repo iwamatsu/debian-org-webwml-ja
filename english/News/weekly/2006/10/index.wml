@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-07" SUMMARY="Sub-Projects, BSD, CDD, Election, Backports, QA, Service, Logs"
-# $Id: index.wml,v 1.9 2014/04/30 07:41:40 pabs Exp $
+# $Id: index.wml,v 1.10 2014/07/20 02:03:03 pabs Exp $
 
 <p>Welcome to this year's 10th issue of DWN, the weekly newsletter for the
 Debian community.  If you are in doubt about the proper distribution for
@@ -59,7 +59,7 @@ composed within the <a
 href="https://wiki.debian.org/qa%2edebian%2eorg/activities">Wiki</a> for easier
 maintenance.  Jeroen van Wolffelaar additionally <a
 href="https://lists.debian.org/debian-qa/2006/02/msg00042.html">asked</a> for
-help maintaining the <a href="http://qa.debian.org/">qa.debian.org</a>
+help maintaining the <a href="https://qa.debian.org/">qa.debian.org</a>
 website.</p>
 
 <p><strong>DPL Campaigning Summaries.</strong> David Schmitt <a

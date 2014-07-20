@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2012-04-16" SUMMARY="Debian Project leader elected, registration open for DebConf12, personal BSP initiatives"
 
-# $Id: index.wml,v 1.8 2014/04/30 07:42:09 pabs Exp $
+# $Id: index.wml,v 1.9 2014/07/20 02:03:10 pabs Exp $
 # $Rev: 3591 $
 # Status: [frozen]
 
@@ -75,7 +75,7 @@ state of the Debian s390x port</a>. Work started on this port <a
 href="http://blog.aurel32.net/59">last summer, during
 DebConf11</a>, and in less than a month it already had almost 65% of
 packages built. Unfortunately, a new GLib release created some problems
-on this architecture; but recently a <a href="http://packages.qa.debian.org/g/glib2.0/news/20120330T073522Z.html">new
+on this architecture; but recently a <a href="https://packages.qa.debian.org/g/glib2.0/news/20120330T073522Z.html">new
 major release of GLib</a> fixed all the issues. The next steps for
 this port will be to fix <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=s390x;users=debian-s390@lists.debian.org">open
 bugs</a> and to make Iceweasel build successfully.

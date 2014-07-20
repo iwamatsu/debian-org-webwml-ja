@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-09-17" SUMMARY="Sincere Choice, XFree86 4.2.x, RS/6000, Perl, Help, GNOME 2, Task System, Jobs"
-# $Id: index.wml,v 1.12 2014/04/30 06:30:22 pabs Exp $
+# $Id: index.wml,v 1.13 2014/07/20 02:02:56 pabs Exp $
 
 <p>Welcome to this year's 36th issue of DWN, the weekly newsletter for the
 Debian community.  We are happy to include two items from Richard Wale this
@@ -56,7 +56,7 @@ as possible.</p>
 know how to help to improve Debian.  Not all people raise their voice when they
 are swamped and need help.  To help, we provide some links to common
 resources.  To improve the quality of Debian, see this small <a
-href="http://qa.debian.org/howto.html">HOWTO</a> document.  If would like to
+href="https://qa.debian.org/howto.html">HOWTO</a> document.  If would like to
 spend time on packaging, the <a href="$(HOME)/devel/wnpp/">wnpp</a> list
 (Work-Needing and Prospective Packages) refers to packages that require work.
 As a general task, the debian-installer requires <a

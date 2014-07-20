@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-07-08" SUMMARY="Browsable Debian source code, updating delegations, Debian trademark team, architectures supported in Jessie"
 
-# $Id: index.wml,v 1.4 2014/04/30 07:29:00 pabs Exp $
+# $Id: index.wml,v 1.5 2014/07/20 02:03:11 pabs Exp $
 # $Rev: 5116 $
 # Status: [freezed]
 
@@ -75,7 +75,7 @@ has been released, covering the following topics:</p>
       starting point to get more involved in Debian quality assurance work
   </li>
   <li>various improvements to the
-      <a href="http://qa.debian.org/developer.php">central package overview
+      <a href="https://qa.debian.org/developer.php">central package overview
       for developers</a>
   </li>
 </ul>

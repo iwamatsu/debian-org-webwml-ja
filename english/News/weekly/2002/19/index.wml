@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-08" SUMMARY="Hardware Detection, Standards, Satie, DDR Structure, SGML"
-# $Id: index.wml,v 1.19 2014/04/30 06:30:09 pabs Exp $
+# $Id: index.wml,v 1.20 2014/07/20 02:02:54 pabs Exp $
 
 <p>Welcome to this year's nineteenth issue of DWN, the weekly newsletter for
 the Debian community.</p>
@@ -34,7 +34,7 @@ networking problems for a while now, it will be replaced by satie, which is a
 VA2240 donated by <a href="http://www.valinux.com/">VA Linux Systems</a> and
 hosted by the <a href="http://www.snt.utwente.nl/">Student Net Twente</a> of
 the <a href="http://www.utwente.nl/">University of Twente</a>.  Pandora has
-hosted <a href="http://qa.debian.org/">QA</a>, <a
+hosted <a href="https://qa.debian.org/">QA</a>, <a
 href="https://nm.debian.org/">NM</a>, <a
 href="http://non-US.debian.org/">non-US</a> and <a
 href="http://security.debian.org/">security.debian.org</a>.</p>

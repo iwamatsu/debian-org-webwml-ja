@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-16" SUMMARY="Tcl, testing, woody, Banjos, FDL, PTS, DebConf, BTS, Installer, Subversion, Debmirror"
-# $Id: index.wml,v 1.12 2014/04/30 06:30:47 pabs Exp $
+# $Id: index.wml,v 1.13 2014/07/20 02:02:59 pabs Exp $
 
 <p>Welcome to this year's 37th issue of DWN, the weekly newsletter for the
 Debian community.  Several readers told us that the first hardware audio
@@ -96,7 +96,7 @@ href="https://lists.debian.org/debian-devel-announce-0309/msg00006.html">\
 reported</a> about a new <a
 href="$(HOME)/doc/manuals/developers-reference/resources#pts-web">\
 feature</a> which has been added to the <a
-href="http://packages.qa.debian.org/">Package Tracking System</a> (PTS) a few
+href="https://packages.qa.debian.org/">Package Tracking System</a> (PTS) a few
 months ago.  It is now possible to add custom information to the PTS web page
 for a particular package.  The PTS features many useful links (BTS, QA
 statistics, contact information, DDTP translation status, buildd logs) and
