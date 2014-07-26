@@ -1057,6 +1057,26 @@ rates, it depends on your needs.>
 <rates   Negotiable.>
 </p>
 
+# Consultant: BR
+# added on 25.07.2014
+<p>
+<name	 Greyson Farias da Silva>
+<company Acrebell Engenharia e Comércio LTDA>
+<address Rua Nações Unidas, 339, Bosque, <country-name BR>>
+<phone   +55 68 3223-1513>
+<email	 greyson@cyberacrebell.com>
+<rates   Negotiable.>
+</p>
+
+# Consultant: BR
+# added on 25.07.2014
+<p>
+<name	 Diego Neves>
+<address Foz do Iguaçu - PR - <country-name BR>>
+<email	 diego@diegoneves.eti.br scramble="yes">
+<rates   To be verified per project.>
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -1369,14 +1389,13 @@ rates, it depends on your needs.>
 </p>
 
 # Consultant: CZ
-# added on 22.02.2013
+# updated on 25.07.2014
 <p>
 <name	 Peter Červenka>
-<company Peter Červenka linux-services.cz>
+<company Peter Červenka>
 <address Jiráskova 604, 357 09 Habartov, <country-name CZ>>
-<phone   +420 607 867 753>
-<email	 cervenka@linux-services.cz>
-<URL     "http://www.linux-services.cz/">
+<phone   +420 774 194 938>
+<email	 peter.cervenka@email.cz>
 <rates	 Available upon request. Variable according service. Contact us.>
 <additional_info peter_cervenka>
 </p>
@@ -4423,6 +4442,18 @@ projects negotiable.>
 <rates   £45 per hour.>
 </p>
 
+# Consultant: GB
+# added on 25.07.2014
+<p>
+<company Collabora>
+<address Kett House, Station Road, Cambridge, CB1 2JH, <country-name GB>>
+<phone	 +44(0)1223-362967>
+<fax	 +44(0)1223-351966>
+<email	 contact@collabora.com>
+<URL	 "http://www.collabora.com/">
+<rates   Please contact for rates.>
+</p>
+
 
 <h1><a name="US"><country-name US>:</a></h1>
 
@@ -4804,6 +4835,18 @@ income parties such as seniors and those with disabilities.>
 <URL     "http://www.jordanteam.com">
 <rates   $2000 a week for Linux Certification Class.>
 <additional_info jordan>
+</p>
+
+# Consultant: US
+# added on 25.07.2014
+<p>
+<name    Jill Rouleau>
+<company Bespoke Software Solutions>
+<address 2875 W Ray Rd #6-209 Chandler, AZ 85224, <country-name US>>
+<phone   480-788-1715>
+<email   info@bespokess.com>
+<URL     "http://www.bespokess.com">
+<rates   Hourly, Project, and Maintenance plans available.>
 </p>
 
 
