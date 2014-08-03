@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-23" SUMMARY="Boot-floppies, Sponsoring, Freeze Progress, APT, Conference, VAX Port, Mobile Debian"
-# $Id: index.wml,v 1.13 2014/04/30 06:30:23 pabs Exp $
+# $Id: index.wml,v 1.14 2014/08/03 03:14:04 pabs Exp $
 
 <p>Welcome to DWN, the weekly newsletter for the Debian community.  After the
 last issue was released, several news services, such as <a
@@ -145,7 +145,7 @@ project runs a lot of <a href="$(HOME)/MailingLists/">mailing lists</a>.
 Many good discussions about
 installation problems, development related items, policy, documentation, and
 so on, are made there.  These lists are distressed with a lot of <a
-href="http://www.foldoc.org/foldoc/foldoc.cgi?query=spam">SPAM</a> mails (such
+href="http://foldoc.org/spam">SPAM</a> mails (such
 as <a href="https://lists.debian.org/debian-security-0201/msg00430.html">this
 one</a>).  While some people eventually unsubscribe from these lists, others
 suggest solutions for preventing these mails from being delivered: <a
