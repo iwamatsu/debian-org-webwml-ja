@@ -9,7 +9,7 @@ VERSION="1.45"
 # This script originates from https://www.debian.org/mirror/anonftpsync
 
 # CVS: cvs.debian.org:/cvs/webwml - webwml/english/mirror/anonftpsync
-# Version: $Id: anonftpsync,v 1.46 2014/05/02 21:13:02 spaillard Exp $ 
+# Version: $Id: anonftpsync,v 1.47 2014/08/13 21:06:53 spaillard Exp $ 
 
 # Note: You MUST have rsync 2.6.4 or newer, which is available in sarge
 # and all newer Debian releases, or at http://rsync.samba.org/
@@ -227,8 +227,9 @@ if [ "$result" = 0 ]; then
 	     $RSYNC_HOST::$RSYNC_DIR/ $TO >> $LOGFILE 2>&1
 
 	LANG=C date -u > "${TO}/project/trace/${HOSTNAME}"
-	echo "Used anonftpsync version: ${VERSION}" >> "${TO}/project/trace/${HOSTNAME}" 
-	echo "Upstream-mirror: ${RSYNC_HOST}" >> "${TO}/project/trace/${HOSTNAME}" 
+	echo "Used anonftpsync version: ${VERSION}" >> "${TO}/project/trace/${HOSTNAME}"
+	echo "Upstream-mirror: ${RSYNC_HOST}" >> "${TO}/project/trace/${HOSTNAME}"
+	echo "Revision: i18n inRelease AUIP" >> "${TO}/project/trace/${HOSTNAME}"
 else
 	echo "ERROR: Help, something weird happened" | tee -a $LOGFILE
 	echo "mirroring /pool exited with exitcode" $result | tee -a $LOGFILE
