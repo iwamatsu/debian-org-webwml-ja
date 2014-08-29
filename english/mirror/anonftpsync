@@ -9,7 +9,7 @@ VERSION="1.45"
 # This script originates from https://www.debian.org/mirror/anonftpsync
 
 # CVS: cvs.debian.org:/cvs/webwml - webwml/english/mirror/anonftpsync
-# Version: $Id: anonftpsync,v 1.47 2014/08/13 21:06:53 spaillard Exp $ 
+# Version: $Id: anonftpsync,v 1.48 2014/08/28 21:11:09 spaillard Exp $ 
 
 # Note: You MUST have rsync 2.6.4 or newer, which is available in sarge
 # and all newer Debian releases, or at http://rsync.samba.org/
@@ -46,7 +46,8 @@ LOGDIR=
 # ARCH_EXCLUDE can be used to exclude a complete architecture from
 # mirrorring. Please use as space seperated list.
 # Possible values are:
-# alpha, amd64, arm, armel, hppa, hurd-i386, i386, ia64, m68k, mipsel, mips, powerpc, s390, sh and sparc
+# alpha amd64 arm arm64 armel hppa hurd-i386 i386 ia64 m68k mipsel mips powerpc
+# ppc64 s390 sh sparc
 #
 # There is one special value: source
 # This is not an architecture but will exclude all source code in /pool
