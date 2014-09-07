@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-14" SUMMARY="Trademark, Awards, Ballot, UK Expo, Suffixes, MailScanner, Building, SysFS, Booting, Help"
-# $Id: index.wml,v 1.18 2014/04/30 06:30:48 pabs Exp $
+# $Id: index.wml,v 1.19 2014/09/07 08:55:20 pabs Exp $
 
 <p>Welcome to this year's 41st issue of DWN, the weekly newsletter for the
 Debian community.  A new site, <a href="http://debian.linuxrulez.ru/">Russian
@@ -108,7 +108,7 @@ Gooch's <a href="http://www.atnf.csiro.au/people/rgooch/linux/boot-scripts/">\
 boot scripts</a>.  Henrique de Moraes Holschuh has been <a
 href="https://lists.debian.org/debian-devel-0310/msg01080.html">working</a> on
 the <a
-href="http://people.debian.org/~hmh/invokerc.d-policyrc.d-specification.txt">\
+href="https://people.debian.org/~hmh/invokerc.d-policyrc.d-specification.txt">\
 init system</a>.  Joe Drew <a
 href="https://lists.debian.org/debian-devel-0310/msg01119.html">added</a> that
 he has converted an embedded machine from busybox init to simpleinit plus

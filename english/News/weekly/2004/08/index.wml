@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-02-24" SUMMARY="RRD, XFree86, GIF Patent, Event, Release, AMD64, Firefox, Manpages"
-# $Id: index.wml,v 1.7 2014/04/30 06:30:57 pabs Exp $
+# $Id: index.wml,v 1.8 2014/09/07 08:55:26 pabs Exp $
 
 <p>Welcome to this year's eighth issue of DWN, the weekly newsletter for the
 Debian community.  Finally, we can send mail using <a
@@ -75,7 +75,7 @@ that he had uploaded packages for Mozilla Firefox 0.8.  Since the package has
 gone through a name change (the package was formerly known as phoenix, then as firebird) it will
 take about one week until they appear in the archive.  For the interested and
 impatient he has copied the files to <a
-href="http://people.debian.org/~eric/debian/">people.debian.org</a> as
+href="https://people.debian.org/~eric/debian/">people.debian.org</a> as
 well.</p>
 
 <p><strong>Man-pages to be moved to non-free?</strong> A recent <a

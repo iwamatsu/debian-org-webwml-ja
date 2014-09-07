@@ -18,11 +18,11 @@ levels of experience.</p>
 <define-tag involve>
 
 <p>Alexander Zangerl will give a <a
-href="http://people.debian.org/~az/vic-2004/">talk</a> about
+href="https://people.debian.org/~az/vic-2004/">talk</a> about
 "Practical Debian Administration".</p> 
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0312-sage-au.wml,v 1.2 2004-03-15 10:15:19 joey Exp $
+# $Id: 0312-sage-au.wml,v 1.3 2014/09/07 08:56:09 pabs Exp $
 #Related Links here (free form)

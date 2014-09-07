@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-07-22" SUMMARY="Packaging, Hosting, LinuxTag, DFSG, Java, Source, PNG, Chart, Release, Unicode, FDL, CD"
-# $Id: index.wml,v 1.15 2014/04/30 06:30:43 pabs Exp $
+# $Id: index.wml,v 1.16 2014/09/07 08:55:14 pabs Exp $
 
 <p>Welcome to this year's 29th issue of DWN, the weekly newsletter for the
 Debian community.  Linus Torvalds is working on pre-releases of Linux 2.6,
@@ -35,7 +35,7 @@ commitment to Free Software, said Richard Yoo, Big Kahuna, ServerBeach.</p>
 <p><strong>Debian Free Software Guidelines FAQ.</strong> Barak Pearlmutter <a
 href="https://lists.debian.org/debian-legal-0307/msg00122.html">composed</a> a
 draft Debian Free Software Guidelines (DFSG) <a
-href="http://people.debian.org/~bap/dfsg-faq.html">FAQ</a>.  It is meant as an
+href="https://people.debian.org/~bap/dfsg-faq.html">FAQ</a>.  It is meant as an
 introduction to issues discussed on the <a
 href="https://lists.debian.org/debian-legal/">debian-legal</a> mailing list,
 with some general background material to help bring new readers up to date.

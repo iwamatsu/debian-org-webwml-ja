@@ -4,7 +4,7 @@
 <define-tag where>Bangalore, India</define-tag>
 <define-tag startdate>2005-08-20</define-tag>
 <define-tag enddate>2005-08-20</define-tag>
-<define-tag infolink>http://people.debian.org/~rkrishnan/debconf-india.pdf</define-tag>
+<define-tag infolink>https://people.debian.org/~rkrishnan/debconf-india.pdf</define-tag>
 <define-tag coord><a href="mailto:rkrishnan@symonds.net">Ramakrishnan Muthukrishnan</a></define-tag>
 
 <define-tag intro>
@@ -26,7 +26,7 @@ Jaldhar H. Vyas will be played as well.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0820-debconf-india.wml,v 1.1 2005-08-22 09:23:44 joey Exp $
+# $Id: 0820-debconf-india.wml,v 1.2 2014/09/07 08:56:10 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0820-debconf-india-report">Report</a>

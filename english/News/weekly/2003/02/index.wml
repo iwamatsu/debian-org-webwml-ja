@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-01-14" SUMMARY="SPI, Screenshots, x86-64, Itsy, Licenses, Encoding, Kernel, Laptop, Radius, CUPS, OSCAR, Privacy"
-# $Id: index.wml,v 1.18 2014/04/30 06:30:31 pabs Exp $
+# $Id: index.wml,v 1.19 2014/09/07 08:55:03 pabs Exp $
 
 <p>Welcome to this year's second issue of DWN, the weekly newsletter for the
 Debian community.  It looks as if the GCC transition reported
@@ -43,7 +43,7 @@ href="https://lists.debian.org/debian-boot-0301/msg00059.html">request</a> from
 magazine, for snapshots of the woody installation process.  Thorsten Sauter
 was <a href="https://lists.debian.org/debian-boot-0301/msg00068.html">kind
 enough</a> to produce a set of <a
-href="http://people.debian.org/~joey/misc/woody-install.tar.bz2">PNG images</a>,
+href="https://people.debian.org/~joey/misc/woody-install.tar.bz2">PNG images</a>,
 that shows all important steps of installing a woody system.</p>
 
 <p><strong>3.0r1 Update CDs Available.</strong> Significant <a

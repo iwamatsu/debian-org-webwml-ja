@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-05-04" SUMMARY="General Resolutions, Install, Planet, Debconf, PEAR, Tags, GFDL, Power Management"
-# $Id: index.wml,v 1.10 2014/04/30 06:31:01 pabs Exp $
+# $Id: index.wml,v 1.11 2014/09/07 08:55:30 pabs Exp $
 
 <p>Welcome to this year's 18th issue of DWN, the weekly newsletter for the
 Debian community.  The <a href="https://lists.debian.org/debian-devel/">\
@@ -105,7 +105,7 @@ archive.</p>
 <p><strong>Draft Position Statement on the GFDL.</strong> Manoj Srivastava <a
 href="https://lists.debian.org/debian-legal-0405/msg00030.html">started</a> a
 new discussion on a draft position <a
-href="http://people.debian.org/~srivasta/Position_Statement.xhtml">statement</a>
+href="https://people.debian.org/~srivasta/Position_Statement.xhtml">statement</a>
 on the GNU <a href="http://www.gnu.org/copyleft/fdl.html">Free Documentation
 License</a>.  The Debian project has been <a
 href="https://lists.debian.org/debian-legal-0202/msg00071.html">discussing</a>

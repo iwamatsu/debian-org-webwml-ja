@@ -1,9 +1,9 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-30" SUMMARY="Social Contract, GNOME, DPL, UUCP, Kernel, Installer, Release"
-# $Id: index.wml,v 1.10 2014/04/30 06:30:59 pabs Exp $
+# $Id: index.wml,v 1.11 2014/09/07 08:55:29 pabs Exp $
 
 <p>Welcome to this year's 13th issue of DWN, the weekly newsletter for the
 Debian community.  The next update to Debian GNU/Linux 3.0 is being <a
-href="http://people.debian.org/~joey/3.0r3/">prepared</a> together with a
+href="https://people.debian.org/~joey/3.0r3/">prepared</a> together with a
 discussion about the <a
 href="https://lists.debian.org/debian-lsb-0403/msg00004.html">Linux Standard
 Base</a>.  Manoj Srivastava

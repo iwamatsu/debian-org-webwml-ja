@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Med article in Brave GNU World - Issue #41</define-tag>
 <define-tag release_date>2002-07-23</define-tag>
 #use wml::debian::news
-# $Id: 20020723.wml,v 1.6 2008-11-21 21:32:34 tille Exp $
+# $Id: 20020723.wml,v 1.7 2014/09/07 08:56:04 pabs Exp $
 
 <h2>Debian Med article in <a
 href="http://www.gnu.org/brave-gnu-world/issue-41">Brave GNU
@@ -25,10 +25,10 @@ World - Issue #41</a></h2>
 <h2>Logos</h2>
 <p>
  There are first suggestions for <a
- href="http://people.debian.org/~tille/debian-med/logos/">logos</a>.
+ href="https://people.debian.org/~tille/debian-med/logos/">logos</a>.
  Critics and further suggestions are welcome and can be send to the
  mailing list or <a href="mailto:tille@debian.org">Andreas
  Tille</a>. (If someone wants to improve the layout of the <a
- href="http://people.debian.org/~tille/debian-med/logos/">logo page</a>
+ href="https://people.debian.org/~tille/debian-med/logos/">logo page</a>
  - patches are welcome ...)
 </p>

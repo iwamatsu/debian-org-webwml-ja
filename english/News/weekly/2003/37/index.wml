@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-09-16" SUMMARY="Tcl, testing, woody, Banjos, FDL, PTS, DebConf, BTS, Installer, Subversion, Debmirror"
-# $Id: index.wml,v 1.13 2014/07/20 02:02:59 pabs Exp $
+# $Id: index.wml,v 1.14 2014/09/07 08:55:18 pabs Exp $
 
 <p>Welcome to this year's 37th issue of DWN, the weekly newsletter for the
 Debian community.  Several readers told us that the first hardware audio
@@ -167,7 +167,7 @@ href="https://lists.debian.org/debian-boot-0309/msg00146.html">invitation</a>
 to the <a href="http://oldenburger.linuxtage.de/Oldenburg2003/">8th Oldenburg
 Linux developers meeting</a> was sent to the debian-boot list since it will
 host a <a
-href="http://people.debian.org/~pere/debian-installer/di-debcamp-2003-1.html">\
+href="https://people.debian.org/~pere/debian-installer/di-debcamp-2003-1.html">\
 debian-installer debcamp</a>.  The meeting will take place at the last weekend
 on September in Oldenburg, Germany.  Several developers who work on the
 debian-installer already subscribed to the meeting.</p>

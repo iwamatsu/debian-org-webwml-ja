@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-09-05" SUMMARY="Advertisements, Tcl/Tk, Compiling, Bug Squashing, Quoting, Archive"
-# $Id: index.wml,v 1.15 2014/04/30 07:41:45 pabs Exp $
+# $Id: index.wml,v 1.16 2014/09/07 08:55:53 pabs Exp $
 
 <p>Welcome to this year's 36th issue of DWN, the weekly newsletter for the
 Debian community.  Alexander Sack <a
@@ -74,7 +74,7 @@ href="https://lists.debian.org/debian-devel-announce/2006/09/msg00003.html">\
 reminder</a> about the bug squashing <a
 href="https://wiki.debian.org/BSPMarathon">party</a> in Vienna, Austria, at
 September 8th to 10th and explained the process.  The RC bug squashing <a
-href="http://people.debian.org/~vorlon/rc-bugsquashing.html">howto</a> by
+href="https://people.debian.org/~vorlon/rc-bugsquashing.html">howto</a> by
 Steve Langasek gives a good introduction and is probably a must-read for
 beginners.  He also added a lot of tasks everybody could do to help Debian
 move forward with the release of <a href="$(HOME)/releases/etch/">\

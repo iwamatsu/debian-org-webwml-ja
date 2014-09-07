@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-11-21" SUMMARY="Bug Tracking System, Spellchecking, Freeze Update, Boot-Floppies"
-# $Id: index.wml,v 1.12 2014/04/30 09:22:21 pabs Exp $
+# $Id: index.wml,v 1.13 2014/09/07 08:54:45 pabs Exp $
 
 <p><strong>Searching Bugs per Source Package.</strong> Adam Heath added the <a
 href="https://lists.debian.org/debian-devel-0111/msg01031.html">ability</a> to
@@ -81,7 +81,7 @@ packages will be removed from Woody. Among these are a whole bunch of commonly
 used programs like gpm, Mutt, CVS, Procmail, Apache and Mozilla. People who
 can fix bugs in these packages and care about them are encouraged to send in
 patches or upload fixed packages using Anthony's <a
-href="http://people.debian.org/~ajt/nmus.txt">unofficial NMU guidelines</a>.
+href="https://people.debian.org/~ajt/nmus.txt">unofficial NMU guidelines</a>.
 </p>
 
 <p><strong>GNU/Hurd Hardware Compatibility Guide.</strong> If you are

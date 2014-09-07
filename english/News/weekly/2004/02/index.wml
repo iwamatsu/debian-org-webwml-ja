@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-01-13" SUMMARY="Kernel, CD, Vision, non-free, Perl, EU, Mail, License, XFree86, Sarge, Translation"
-# $Id: index.wml,v 1.12 2014/04/30 06:30:55 pabs Exp $
+# $Id: index.wml,v 1.13 2014/09/07 08:55:24 pabs Exp $
 
 <p>Welcome to this year's second issue of DWN, the weekly newsletter for the
 Debian community.  Taran Rampersad <a
@@ -77,7 +77,7 @@ organisation</a> listing.</p>
 
 <p><strong>Statistics on non-free Usage.</strong> John Goerzen <a
 href="https://lists.debian.org/debian-vote-0401/msg00391.html">investigated</a>
-the <a href="http://people.debian.org/~ballombe/popcon/">popularity
+the <a href="https://people.debian.org/~ballombe/popcon/">popularity
 contest</a> to find out how much non-free is used.  From the data it is
 obvious that the 4 most popular packages in non-free are
 <code>acroread</code>, <a href="https://packages.debian.org/unrar">unrar</a>,

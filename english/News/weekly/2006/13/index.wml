@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-28" SUMMARY="Packaging, Events, Skolelinux, Bugs, Fonts, Installer, GCC"
-# $Id: index.wml,v 1.11 2014/04/30 06:31:57 pabs Exp $
+# $Id: index.wml,v 1.12 2014/09/07 08:55:52 pabs Exp $
 
 <p>Welcome to this year's 13th issue of DWN, the weekly newsletter for the
 Debian community.  David Moreno Garza <a
@@ -72,7 +72,7 @@ href="https://lists.debian.org/debian-i18n/2006/03/msg00055.html">\
 indicated</a> that work was going on for the installer localisation. He <a
 href="https://lists.debian.org/debian-i18n/2006/03/msg00054.html">\
 cleaned out</a> his debian-installer supported languages <a
-href="http://people.debian.org/~bubulle/d-i/i18n-doc/languages.html">\
+href="https://people.debian.org/~bubulle/d-i/i18n-doc/languages.html">\
 list</a>. New languages are <a
 href="https://lists.debian.org/debian-i18n/2006/03/msg00074.html">still</a>
 being added but if people want their language to be supported in

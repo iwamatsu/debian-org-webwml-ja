@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 updated (r4)</define-tag>
 <define-tag release_date>2005-01-01</define-tag>
 #use wml::debian::news
-# $Id: 20050101.wml,v 1.5 2014/04/30 09:21:55 pabs Exp $
+# $Id: 20050101.wml,v 1.6 2014/09/07 08:54:40 pabs Exp $
 
 <define-tag revision>3.0r4</define-tag>
 
@@ -129,7 +129,7 @@ data integrity.</p>
 rationale is on the preparation page for this revision:</p>
 
 <div class="center">
-  <url "http://people.debian.org/~joey/<revision>/">
+  <url "https://people.debian.org/~joey/<revision>/">
 </div>
 
 <h2>URLs</h2>

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-17" SUMMARY="Automake, Kernels, Licenses, PNG Library, Testing, SPAM, Freedom, Birthday, Conference"
-# $Id: index.wml,v 1.13 2014/04/30 06:30:41 pabs Exp $
+# $Id: index.wml,v 1.14 2014/09/07 08:55:13 pabs Exp $
 
 <p>Welcome to this year's 24th issue of DWN, the weekly newsletter for the
 Debian community.  A <a href="http://www.wewantlinux.org/pickcountry.php">\
@@ -211,7 +211,7 @@ or another.  He intends to ask ftp-master to remove them.</p>
 Malcolm <a href="https://lists.debian.org/debian-lex-0306/msg00006.html">\
 asked</a> about the experience of sub-projects to get some ground-rules sorted
 out before he makes too many irreversible decisions for <a
-href="http://people.debian.org/~terminus/debian-lex/">debian-lex</a>.  In
+href="https://people.debian.org/~terminus/debian-lex/">debian-lex</a>.  In
 particular he has looked at the <a href="$(HOME)/devel/debian-jr/">\
 debian-jr</a> sub-project and their use of meta packages.</p>
 

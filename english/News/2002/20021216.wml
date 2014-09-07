@@ -1,6 +1,6 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 updated (r1)</define-tag>
 <define-tag release_date>2002-12-16</define-tag>
-# $Id: 20021216.wml,v 1.5 2014/04/30 09:21:53 pabs Exp $
+# $Id: 20021216.wml,v 1.6 2014/09/07 08:54:39 pabs Exp $
 #use wml::debian::news
 
 <define-tag revision>3.0r1</define-tag>
@@ -159,7 +159,7 @@ The following packages had to be removed from the distribution:
 rationale is on the preparation page for this revision:</p>
 
 <div class="center">
-  <url "http://people.debian.org/~joey/<revision>/">
+  <url "https://people.debian.org/~joey/<revision>/">
 </div>
 
 <h2>URLs</h2>

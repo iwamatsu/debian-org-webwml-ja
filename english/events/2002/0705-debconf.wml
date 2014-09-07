@@ -28,11 +28,11 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0705-debconf.wml,v 1.5 2014/04/29 15:27:59 pabs Exp $
+# $Id: 0705-debconf.wml,v 1.6 2014/09/07 08:56:08 pabs Exp $
 #Related Links here (free form)
 <ul>
   <li><a href="0705-debconf-schedule">Preliminary Schedule</a><br>
   <li><a href="http://raw.no/debconf2/">Presentations</a>
-  <li><a href="http://people.debian.org/~treacy/debconf/">Photos</a>
+  <li><a href="https://people.debian.org/~treacy/debconf/">Photos</a>
   <li><a href="http://www.hyperpoem.net/debconf/debconf2.html">Report</a> by Michael Cardenas
 </ul>

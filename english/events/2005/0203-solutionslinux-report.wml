@@ -1,5 +1,5 @@
 #use wml::debian::template title="Solutions Linux Paris 2005 -- Report"
-# $Id: 0203-solutionslinux-report.wml,v 1.7 2014/04/29 15:28:01 pabs Exp $
+# $Id: 0203-solutionslinux-report.wml,v 1.8 2014/09/07 07:09:42 pabs Exp $
 
 <p>Solutions Linux Paris was held from February, 1st to February, 3rd
 at the CNIT in Paris-La Défense. This year again, we were offered a
@@ -20,7 +20,7 @@ offered their help, and thanks to our kind sponsors. Actually, it's
 been our best booth since the first edition of this exhibition.</p>
 
 <p>Other reports and photos can be found on
-<a href="http://people.debian.org/~jblache/events/sl2005">my page</a>.</p>
+<a href="https://people.debian.org/~jblache/events/sl2005">my page</a>.</p>
 
 
 <h3>"When will Sarge be released?"</h3>

@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Med"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.54 2014/04/30 07:42:26 pabs Exp $
+# $Id: index.wml,v 1.55 2014/09/07 08:56:04 pabs Exp $
 
 <h2>Project description</h2>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p>For a more in-depth discussion, 
-   <a href="http://people.debian.org/~tille/talks/">several talks about
+   <a href="https://people.debian.org/~tille/talks/">several talks about
    Debian Med and Debian Pure Blends in general</a>
    are available as slides, partly with video recording.
 </p>

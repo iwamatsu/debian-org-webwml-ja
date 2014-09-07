@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-01-09" SUMMARY="Web Pages, KDE, Debian Development, Quality Assurance, Debian-Med, 2.2r5"
-# $Id: index.wml,v 1.16 2014/04/30 06:30:09 pabs Exp $
+# $Id: index.wml,v 1.17 2014/09/07 08:54:51 pabs Exp $
 
 <p>Welcome to the second issue of Debian Weekly News, the weekly newsletter
 for the Debian community.</p>
@@ -89,7 +89,7 @@ some newbie users and developers.</p>
 # The next one is from Tollef Fog Heen <tollef@add.no>
 
 <p><strong>Debian 2.2r5.</strong> Martin 'Joey' Schulze is <a
-href="http://people.debian.org/~joey/2.2r5/">preparing</a> the fifth point
+href="https://people.debian.org/~joey/2.2r5/">preparing</a> the fifth point
 release of Potato.  It includes numerous bug fixes and renders some
 previously uninstallable packages installable.  Most of the bug fixes are security
 related, so be sure to upgrade once the new point release hits the mirrors.

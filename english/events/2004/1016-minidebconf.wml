@@ -4,7 +4,7 @@
 <define-tag where>Sesto S. Giovanni, Italy</define-tag>
 <define-tag startdate>2004-10-16</define-tag>
 <define-tag enddate>2004-10-17</define-tag>
-<define-tag infolink>http://people.debian.org/~ccontavalli/</define-tag>
+<define-tag infolink>https://people.debian.org/~ccontavalli/</define-tag>
 <define-tag coord><a href="mailto:ccontavalli@debian.org">Carlo Contavalli</a></define-tag>
 
 <define-tag intro>
@@ -29,9 +29,9 @@ party.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 1016-minidebconf.wml,v 1.5 2013-02-25 08:54:41 victory-guest Exp $
+# $Id: 1016-minidebconf.wml,v 1.6 2014/09/07 08:56:09 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><report href="http://blog.bofh.it/id_62">Report</report></li>
- <li><a href="http://people.debian.org/~ccontavalli/#program">schedule</a></li>
+ <li><a href="https://people.debian.org/~ccontavalli/#program">schedule</a></li>
 </ul>

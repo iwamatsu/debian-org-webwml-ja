@@ -1,8 +1,8 @@
 <define-tag pagetitle>Debian GNU/Linux 3.0 のアップデート (リビジョン 3)</define-tag>
 <define-tag release_date>2004-10-26</define-tag>
 #use wml::debian::news
-# $Id: 20041026.wml,v 1.8 2014/04/30 09:26:06 pabs Exp $
-#use wml::debian::translation-check translation="1.8"
+# $Id: 20041026.wml,v 1.9 2014/09/07 09:01:50 pabs Exp $
+#use wml::debian::translation-check translation="1.9"
 
 <define-tag revision>3.0r3</define-tag>
 
@@ -306,7 +306,7 @@ Debian の FTP/HTTP ミラーのどれか一つを参照するように
 このリビジョンのための準備のページにあります。</p>
 
 <div class="center">
-  <url "http://people.debian.org/~joey/<revision>/">
+  <url "https://people.debian.org/~joey/<revision>/">
 </div>
 
 <h2>URL</h2>

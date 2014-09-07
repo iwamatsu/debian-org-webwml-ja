@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-10-23" SUMMARY="Progeny, Xmodmap, XFree86, RMS, NewbieDoc"
-# $Id: index.wml,v 1.13 2014/04/30 06:30:02 pabs Exp $
+# $Id: index.wml,v 1.14 2014/09/07 08:54:44 pabs Exp $
 
 <p><strong>No Progeny Debian Anymore?</strong> In a recent <a
 href="http://www.progeny.com/archive/debian/">announcement</a> Progeny
@@ -45,7 +45,7 @@ Version 4.1.0-8 has already been uploaded.</p>
 <p><strong>Release Notes.</strong> The next version of Debian GNU/Linux will
 be 3.0 (sorry folks, but the Hurd doesn't seem to be ready for release yet).
 Rob Bradford is preparing <a
-href="http://people.debian.org/~robster/docs/releasenotes/i386.en.html/">Release
+href="https://people.debian.org/~robster/docs/releasenotes/i386.en.html/">Release
 Notes</a> for Woody already.  As you can see only the structure is in place,
 the purpose of this draft is to discuss exactly what we want to mention in the
 release notes.  Any ideas for structure/content would be much appreciated.

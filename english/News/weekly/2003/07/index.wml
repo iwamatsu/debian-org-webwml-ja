@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-02-18" SUMMARY="Election, Keyring, Timeserver, libdb, mICQ, old ITPs, Bug Closing, Survey, Events, OpenLDAP, License, Zaurus"
-# $Id: index.wml,v 1.19 2014/04/30 06:30:33 pabs Exp $
+# $Id: index.wml,v 1.20 2014/09/07 08:55:05 pabs Exp $
 
 <p>Welcome to this year's seventh issue of DWN, the weekly newsletter for the
 Debian community.  In addition to the <a
@@ -29,7 +29,7 @@ connected set, in which all keys are able to reach all others (via
 bidirectional signatures).  Unfortunately, his <a
 href="http://liw.iki.fi/liw/temp/keyring/">research</a> also discloses that 487
 are not part of a strong connected set.  Peter Palfrader mentioned the <a
-href="http://people.debian.org/~weasel/weboftrust/">trust analysis</a> 
+href="https://people.debian.org/~weasel/weboftrust/">trust analysis</a> 
 he is running on the Debian Keyring.</p>
 
 <p><strong>Timeserver Round Robin Project.</strong> Adrian von Bidder <a

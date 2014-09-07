@@ -1,5 +1,5 @@
 #use wml::debian::template title="LWE 2003 -- Report"
-# $Id: 1027-lwe-report.wml,v 1.12 2005-10-23 21:18:20 witch Exp $
+# $Id: 1027-lwe-report.wml,v 1.13 2014/09/07 08:56:08 pabs Exp $
 
 <h1>Linux World Conference and Expo, Frankfurt, Germany -- Report</h1>
 
@@ -40,7 +40,7 @@ taking a CD enforced us to take their
 donation. And our visitors were quite freehanded! We received 50 or
 even 100 Euro from single persons!</p>
 
-<p>J&ouml;rg Jaspert brought really good <a href="http://people.debian.org/~seppy/foilstickers/">swirl- and Debian-stickers</a>. Not
+<p>J&ouml;rg Jaspert brought really good <a href="https://people.debian.org/~seppy/foilstickers/">swirl- and Debian-stickers</a>. Not
 such cheap, printed ones, but professional ones, which are cut out of a
 plastic foil and should hang on your notebook some years. They sold very
 well, covering his expenses and giving us a good part of the donations.

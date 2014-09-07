@@ -46,11 +46,11 @@ architecture. There will be burned CDs available for other architectures.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0623-linuxtag.wml,v 1.4 2004-08-12 05:04:45 joey Exp $
+# $Id: 0623-linuxtag.wml,v 1.5 2014/09/07 08:56:09 pabs Exp $
 #Related Links here (free form)
 <ul>
   <li><a href="http://www.infodrom.org/Debian/events/LinuxTag2004/day.html">Debian Day</a>
-  <li><a href="http://people.debian.org/~mbanck/reports/lt2004.html">Report</a>
+  <li><a href="https://people.debian.org/~mbanck/reports/lt2004.html">Report</a>
   <li><a href="http://www.infodrom.org/Debian/events/LinuxTag2004/">Debian Coordination</a>
   <li><a href="http://www.infodrom.org/Mail-Archive/debian-events-de/">Debian-events-eu mailing list</a>
 </ul>

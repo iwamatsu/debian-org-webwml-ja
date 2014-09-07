@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-21" SUMMARY="Upgrade, Legacy, SELinux, Menu, Embedded, Conferences, Etch, PostgreSQL"
-# $Id: index.wml,v 1.7 2014/04/30 06:31:25 pabs Exp $
+# $Id: index.wml,v 1.8 2014/09/07 08:55:47 pabs Exp $
 
 
 <p>Welcome to this year's 25th issue of DWN, the weekly newsletter for the
@@ -78,7 +78,7 @@ more.</p>
 href="https://lists.debian.org/debian-devel/2005/06/msg00500.html">announced</a>
 that the switch to a new architecture of PostgreSQL packages is being
 implemented now.  The new structure is a lot easier to maintain and also
-offers many new <a href="http://people.debian.org/~mpitt/postgresql-ng.html">\
+offers many new <a href="https://people.debian.org/~mpitt/postgresql-ng.html">\
 features</a> for users.  All packages that formerly depended on
 <code>postgresql-dev</code> need to be altered and uploaded again.</p>
 

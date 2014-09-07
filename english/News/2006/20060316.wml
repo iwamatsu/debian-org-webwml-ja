@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian considers GNU FDL conditionally free</define-tag>
 <define-tag release_date>2006-03-16</define-tag>
 #use wml::debian::news
-# $Id: 20060316.wml,v 1.4 2014/04/30 09:21:56 pabs Exp $
+# $Id: 20060316.wml,v 1.5 2014/09/07 08:54:41 pabs Exp $
 
 <p>The Debian project has decided that documents distributed under the
 GNU Free Documentation License (FDL) are considered free with regards
@@ -29,7 +29,7 @@ the main Debian archive even if it is licensed under the GNU FDL.</p>
 <ul>
 <li><a href="$(HOME)/vote/2006/vote_001">\
     General Resolution</a></li>
-<li><a href="http://people.debian.org/~srivasta/Position_Statement.xhtml">\
+<li><a href="https://people.debian.org/~srivasta/Position_Statement.xhtml">\
     Draft Debian Position Statement about the GNU Free Documentation License</a></li>
 <li><a href="$(HOME)/social_contract">\
     Debian Free Software Guidelines</a></li>

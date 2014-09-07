@@ -1,5 +1,5 @@
 #use wml::debian::template title="Solutions Linux Paris 2004 -- Report"
-# $Id: 0203-solutionslinux-report.wml,v 1.6 2011-05-26 10:05:32 rhonda Exp $
+# $Id: 0203-solutionslinux-report.wml,v 1.7 2014/09/07 07:09:38 pabs Exp $
 
 <p>Solutions Linux Paris was held from February 3rd to 5th. Debian has been
 offered a booth in the .Org Pavilion, as for the past few years. The .Org
@@ -53,7 +53,7 @@ people looking for CDs, but unfortunately we had none.</p>
 <p>I gave 2 talks related to Debian. The first one was part of the official
 conference sessions, the other one happened on the Linux Magazine France
 booth. Details and slides (in French) are on my
-<a href="http://people.debian.org/~jblache/events/sl2004/">personal
+<a href="https://people.debian.org/~jblache/events/sl2004/">personal
 report</a>  of the event.</p>
 
 <p>Jean-Michel Kelbert spent the day with us. Quite a few French

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-05-27" SUMMARY="Donations, I18n, GCC, Kernel, DebConf, Multimedia, Wiki, CDs, Robots, Patents, Tags, Keysigning, BTS"
-# $Id: index.wml,v 1.21 2014/04/30 07:41:27 pabs Exp $
+# $Id: index.wml,v 1.22 2014/09/07 08:55:11 pabs Exp $
 
 <p>Welcome to this year's 21st issue of DWN, the weekly newsletter for the
 Debian community.  The GNOME project <a
@@ -84,7 +84,7 @@ href="https://lists.debian.org/debian-devel-0305/msg01423.html">announced</a>
 that he has uploaded packages of <a
 href="http://www.mozilla.org/projects/firebird/">Mozilla Firebird</a>,
 formally known as Phoenix, to his personal <a
-href="http://people.debian.org/~eric/debian/">apt repository</a>.  Eric plans
+href="https://people.debian.org/~eric/debian/">apt repository</a>.  Eric plans
 to upload this package to unstable after a few more tweaks, if there are no
 objections.  The packages don't conflict with the Phoenix packages he provided
 earlier, since they were also unofficial packages.</p>

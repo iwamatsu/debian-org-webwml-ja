@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2001-12-12" SUMMARY="No Ports, FOSDEM, Acronyms, Apache, Testing FAQ, KDE, Menus"
-# $Id: index.wml,v 1.12 2014/04/30 09:22:21 pabs Exp $
+# $Id: index.wml,v 1.13 2014/09/07 08:54:45 pabs Exp $
 
 <p><strong>No Ports Anymore?</strong> Some people were <a
 href="https://lists.debian.org/debian-www-0112/msg00010.html">wondering</a> why
@@ -74,7 +74,7 @@ questions with regard to the testing distribution.  In an attempt to compile
 and present knowledge about the testing distribution, which is currently
 spread among those developers who read Anthony Towns' postings most carefully,
 Jules Bean has prepared an <a
-href="http://people.debian.org/~jules/testingfaq.html">Unofficial Debian
+href="https://people.debian.org/~jules/testingfaq.html">Unofficial Debian
 Testing FAQ</a>.</p>
 
 <p><strong>Debian Menus Policy.</strong> This week, Rob Bradford brought up

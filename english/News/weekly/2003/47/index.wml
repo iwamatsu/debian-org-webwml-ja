@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-11-26" SUMMARY="Break-In, Testing, SPI, Update, Guide, Installer, Beer"
-# $Id: index.wml,v 1.11 2014/04/30 06:30:53 pabs Exp $
+# $Id: index.wml,v 1.12 2014/09/07 08:55:21 pabs Exp $
 
 <p>Welcome to this year's 47th issue of DWN, the weekly newsletter for the
 Debian community.  We were not able to
@@ -45,7 +45,7 @@ href="$(HOME)/News/2003/20031121a">updated</a> the woody release again.  This
 revision adds 143 security updates to the stable release, that were formerly
 distributed through <a href="$(HOME)/security/">security.debian.org</a>, and
 18 important bugfixes to various packages.  Details of this update are on the
-<a href="http://people.debian.org/~joey/3.0r2/">preparation page</a>.</p>
+<a href="https://people.debian.org/~joey/3.0r2/">preparation page</a>.</p>
 
 <p><strong>Beginners Guide to GNU/Linux.</strong> Not exactly Debian related,
 but Chris Walden released a nine part <a

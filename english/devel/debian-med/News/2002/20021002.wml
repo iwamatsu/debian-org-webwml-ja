@@ -1,7 +1,7 @@
 <define-tag pagetitle>Talks at LinuxDays Luxembourg 2002</define-tag>
 <define-tag release_date>2002-10-02</define-tag>
 #use wml::debian::news
-# $Id: 20021002.wml,v 1.7 2010-05-04 20:09:31 tille Exp $
+# $Id: 20021002.wml,v 1.8 2014/09/07 08:56:04 pabs Exp $
 
 <h2>Talks at <a
 href="http://www.linuxday.lu/">LinuxDays Luxembourg</a></h2>
@@ -9,7 +9,7 @@ href="http://www.linuxday.lu/">LinuxDays Luxembourg</a></h2>
 Andreas Tille had two talks about Debian Internal Projects
 and Debian Med at LinuxDays
 2002 in Luxembourg.  The complete scripts of these and all future
-talks will be collected at <a href="http://people.debian.org/~tille/talks/">the talks
+talks will be collected at <a href="https://people.debian.org/~tille/talks/">the talks
 page of Andreas</a> where you can also find complete
 preformatted slides of all talks about Debian Med.
 </p>

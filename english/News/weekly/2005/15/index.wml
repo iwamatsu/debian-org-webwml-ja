@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-04-12" SUMMARY="Election, PHP3, Licenses, Firmware, Testing, Openswan, GNOME, SELinux, SPI"
-# $Id: index.wml,v 1.8 2014/04/30 06:31:21 pabs Exp $
+# $Id: index.wml,v 1.9 2014/09/07 08:55:44 pabs Exp $
 
 <p>Welcome to this year's 15th issue of DWN, the weekly newsletter for the
 Debian community.  After an unscheduled downtime of one major host in the
@@ -32,7 +32,7 @@ upgrading.</p>
 <p><strong>Creative Commons License Committee.</strong> Evan Prodromou <a
 href="https://lists.debian.org/debian-legal/2005/04/msg00031.html">reported</a>
 that he was contacted by Creative Commons to work out the <a
-href="http://people.debian.org/~evan/ccsummary.html">issues</a> over their
+href="https://people.debian.org/~evan/ccsummary.html">issues</a> over their
 licenses.  The project leader has appointed him as official representative in
 this matter.  He created a work group of Debian developers who will participate
 in the discussions.</p>

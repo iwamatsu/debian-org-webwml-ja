@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-11-19" SUMMARY="W3C Patent, Removed Packages, OpenOffice, Voting, LSB, MAME, URLs, Phoenix, Accessibility, Knoppix-Med"
-# $Id: index.wml,v 1.16 2014/04/30 06:30:26 pabs Exp $
+# $Id: index.wml,v 1.17 2014/09/07 08:54:58 pabs Exp $
 
 <p>Welcome to this year's 45th issue of DWN, the weekly newsletter for the
 Debian community.  If you don't know yet what to give for Christmas,
@@ -146,7 +146,7 @@ really rather large.</p>
 href="https://lists.debian.org/debian-devel-0211/msg01291.html">summarized</a>
 the current state of issues regarding accessibility in Debian, and also tried
 to give a bit of <a
-href="http://people.debian.org/~mlang/DebianAccessibilityProject.html">\
+href="https://people.debian.org/~mlang/DebianAccessibilityProject.html">\
 overview</a> of tasks which are necessary to ensure that Debian is accessible
 to people with disabilities.  It includes references to software that is
 already part of Debian, and tries to summarize the situation as well as

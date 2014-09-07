@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-08-12" SUMMARY="Crontab, Libraries, MTA, Python, Bugs, Debconf, Advantages, Hurd, Ant, Birthday, LPI"
-# $Id: index.wml,v 1.12 2014/04/30 06:30:45 pabs Exp $
+# $Id: index.wml,v 1.13 2014/09/07 08:55:16 pabs Exp $
 
 <p>Welcome to this year's 32nd issue of DWN, the weekly newsletter for the
 Debian community.  Following the <a href="$(HOME)/News/weekly/2003/26/">\
@@ -126,7 +126,7 @@ has developed an extensive set of policies and procedures for packaging and
 delivering software.  These standards are backed up by tools, automation, and
 documentation implementing all of Debian's key elements in an open and visible
 way.  As a present, Jörg Jaspert created a <a
-href="http://people.debian.org/~joerg/rettcd/">rescue CD</a> in the size of a
+href="https://people.debian.org/~joerg/rettcd/">rescue CD</a> in the size of a
 <a
 href="http://www.linuxland.de/katalog/01_linuxdistri_bs/debian/debiangeburtstag/framify">\
 business card</a> which will be handed out in Berlin and Wallenrod.</p>

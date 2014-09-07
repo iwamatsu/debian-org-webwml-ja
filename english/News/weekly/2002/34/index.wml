@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-09-03" SUMMARY="OpenOffice, WNPP, Security, Bug-Fixing, Bugs, Testing, TrueType Fonts, Apsfilter, Debian on CD"
-# $Id: index.wml,v 1.16 2014/08/03 03:14:03 pabs Exp $
+# $Id: index.wml,v 1.17 2014/09/07 08:54:55 pabs Exp $
 
 <p>Welcome to this year's 34th issue of DWN, the weekly newsletter for the
 Debian community.  Good news is coming from Venezuela, since <a
@@ -55,7 +55,7 @@ Andres Salomon <a
 href="https://lists.debian.org/debian-project-0208/msg00212.html">warned</a>
 that this could change the goal people have to changes from fixing bugs to
 simply closing them.  Here's a <a
-href="http://people.debian.org/~mbanck/debbugs-log">summary</a> from an
+href="https://people.debian.org/~mbanck/debbugs-log">summary</a> from an
 associated IRC discussion.</p>
 
 <p><strong>No uncompressed Packages Files anymore.</strong> Anthony Towns <a

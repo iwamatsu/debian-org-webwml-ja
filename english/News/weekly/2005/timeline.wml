@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2005 Timeline"
-# $Id: timeline.wml,v 1.14 2014/04/30 09:22:23 pabs Exp $
+# $Id: timeline.wml,v 1.15 2014/09/07 08:55:39 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2005 in the Debian community.  This is
@@ -205,7 +205,7 @@ about 610&nbsp;kB and the Debian project attended more than 30 events.</p>
 
 <li> David Nusinow <a
      href="http://www.livejournal.com/users/gravityboy/14794.html">announced</a>
-     Debian <a href="http://people.debian.org/~dnusinow/xorg/">packages</a> for
+     Debian <a href="https://people.debian.org/~dnusinow/xorg/">packages</a> for
      X.Org.</li>
 
 <li> The Debian project <a

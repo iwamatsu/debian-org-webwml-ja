@@ -12,7 +12,7 @@
 <p>This is the largest GNU/Linux event in France, formerly known as
 Linux Expo. It will take place at CNIT, Paris La D&eacute;fense.</p>
 
-<p class="center"><img src="http://people.debian.org/~jblache/sl2005/banner.png" width=468 height=60 alt="Solutions Linux 2005 Banner"></p>
+<p class="center"><img src="https://people.debian.org/~jblache/sl2005/banner.png" width=468 height=60 alt="Solutions Linux 2005 Banner"></p>
 
 </define-tag>
 
@@ -25,7 +25,7 @@ and demonstrate Debian GNU/Linux.</p>
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0203-solutionslinux.wml,v 1.7 2005-10-23 21:20:56 witch Exp $
+# $Id: 0203-solutionslinux.wml,v 1.8 2014/09/07 07:09:42 pabs Exp $
 #Related Links here (free form)
 <ul>
  <li><a href="0203-solutionslinux-report">Report</a>

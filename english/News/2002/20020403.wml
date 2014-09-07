@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian GNU/Linux 2.2 updated (r6)</define-tag>
 <define-tag release_date>2002-04-03</define-tag>
 #use wml::debian::news
-# $Id: 20020403.wml,v 1.5 2014/04/30 09:21:53 pabs Exp $
+# $Id: 20020403.wml,v 1.6 2014/09/07 08:54:38 pabs Exp $
 
 <define-tag revision>2.2r6</define-tag>
 
@@ -90,7 +90,7 @@ data integrity.</p>
 rationale is on the preparation page for this revision:</p>
 
 <div class="center">
-  <a href="http://people.debian.org/~joey/<revision>/">http://people.debian.org/~joey/<revision>/</a>
+  <a href="https://people.debian.org/~joey/<revision>/">https://people.debian.org/~joey/<revision>/</a>
 </div>
 
 <h2>URLs</h2>

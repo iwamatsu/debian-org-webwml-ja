@@ -17,11 +17,11 @@ Australia.</p>
 <define-tag involve>
 
 <p>Alexander Zangerl gave a <a
-href="http://people.debian.org/~az/sage-2003/">talk</a> about Debian
+href="https://people.debian.org/~az/sage-2003/">talk</a> about Debian
 for System Administrators.</p> 
 
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0804-sage-au.wml,v 1.1 2003-08-21 17:11:53 joey Exp $
+# $Id: 0804-sage-au.wml,v 1.2 2014/09/07 08:56:08 pabs Exp $
 #Related Links here (free form)

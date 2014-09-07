@@ -12,7 +12,7 @@
    This is the Linux Expo (also known as Solutions Linux) in Paris,
    France, which is the number 1 GNU/Linux event in France.
 
-   <p class="center"><img src="http://people.debian.org/~tomasera/solutionslinux.png" width=234 height=60 alt="Solutions Linux Banner"></p>
+   <p class="center"><img src="https://people.debian.org/~tomasera/solutionslinux.png" width=234 height=60 alt="Solutions Linux Banner"></p>
 
 </define-tag>
 
@@ -27,7 +27,7 @@
 </define-tag>
 
 #use wml::debian::past_event
-# $Id: 0204-linexpo-paris.wml,v 1.5 2005-10-23 21:15:19 witch Exp $
+# $Id: 0204-linexpo-paris.wml,v 1.6 2014/09/07 07:09:35 pabs Exp $
 #Related Links here (free form)
 <ul>
   <li> <a href="http://lists.glou.net/cgi-bin/mailman/listinfo/debian-le2003">debian-le2003</a></li>

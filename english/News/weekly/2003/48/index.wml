@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-12-02" SUMMARY="Bugs, Mozilla, BSD, Stallman, Roadmap, Archive, Accounts, API, XML, Setup"
-# $Id: index.wml,v 1.6 2014/04/30 06:30:53 pabs Exp $
+# $Id: index.wml,v 1.7 2014/09/07 08:55:22 pabs Exp $
 
 <p>Welcome to this year's 48th issue of DWN, the weekly newsletter for the
 Debian community.  Still not all services have been resurrected from the
@@ -25,7 +25,7 @@ against this package and require skilled people to fix them.  Any takers?</p>
 <p><strong>Glibc-based GNU/KNetBSD</strong>. Robert Millan <a
 href="https://lists.debian.org/debian-bsd-0311/msg00008.html">announced</a>
 that a Debian GNU/KNetBSD system (K for 'kernel of') based on the GNU libc is
-now <a href="http://people.debian.org/~rmh/knetbsd/pub/">available</a>.  He
+now <a href="https://people.debian.org/~rmh/knetbsd/pub/">available</a>.  He
 added that it was easy to port the base system, and key packages like XFree86
 are also available.  The system in its current state is usable for
 development.</p>
