@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2007 Timeline"
-# $Id: timeline.wml,v 1.7 2014/04/30 09:22:24 pabs Exp $
+# $Id: timeline.wml,v 1.8 2014/09/08 07:16:12 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2007 in the Debian community.  This is
@@ -196,7 +196,7 @@ discussions.</p>
 	support for Darcs</a>, the testing-security team posted
 	<a href="https://lists.debian.org/debian-devel-announce/2007/10/msg00006.html">an update</a>,
 	the security team <a href="https://lists.debian.org/debian-devel-announce/2007/10/msg00010.html">announced</a>
-	the <a href="http://security-tracker.debian.net/tracker/">Debian
+	the <a href="https://security-tracker.debian.org/tracker/">Debian
 	Security Tracker</a>.</li>
 
 <li>	The Project decides to 
