@@ -323,7 +323,7 @@ Sponsor: dotsrc.org - Open Source Software Project Hosting http://dotsrc.org
 IPv6: yes
 
 Site: ftp.it.debian.org
-Includes: vlad-tepes.bofh.it
+Includes: ftp.linux.it
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
 Archive-ftp: /debian/
@@ -333,8 +333,7 @@ Archive-upstream: ftp2.de.debian.org, ftp.uk.debian.org
 Country: IT Italy
 IPv6: no
 
-Site: vlad-tepes.bofh.it
-Alias: ftp.bofh.it
+Site: ftp.linux.it
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
 Archive-ftp: /debian/
@@ -1006,8 +1005,22 @@ Sponsor: Information Technology Services, Vienna University of Technology http:/
 IPv6: no
 
 Site: ftp.no.debian.org
+Includes: ftp.uio.no
+Type: Push-Secondary
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+Archive-method: push
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+Country: NO Norway
+Location: Oslo
+IPv6: yes
+
+Site: ftp.uio.no
 Alias: ftp.uninett.no
-Alias: ftp.uio.no
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
 Archive-ftp: /debian/
