@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-09-29" SUMMARY="Bits from the release team and Jessie's freeze, reports from DebConf14, DebConf15 dates and fund raising, discussions about OpenPGP, LTS Reports, Cinnamon environment now available in testing, rebuild of Debian using Clang, Debian turns 21 and celebrates, Google Summer of Code"
 
-# $Id: index.wml,v 1.1 2014/09/29 19:44:52 boutil Exp $
+# $Id: index.wml,v 1.4 2014/10/01 09:41:59 jipege1-guest Exp $
 # $Rev: 5730 $
 # Status: content-frozen
 
@@ -131,7 +131,7 @@ paid contributors to provide a public monthly report of their paid work.
 In July and August of this year Freexian sponsored 
 <a href="http://layer-acht.org/thinking/blog/20140819-lts-july-2014/">Holger Levsen</a> and
 <a href="http://blog.alteholz.eu/2014/07/my-debian-activities-in-july-2014/">Thorsten
-Akteholz</a>, who have both reported on their progress in July.
+Alteholz</a>, who have both reported on their progress in July.
 While Freexian has not reached its minimal goal of 
 funding the equivalent of a half-time position which is reflected in the results, the 
 program has learned a few things such as that paid contributors handle almost 70%
@@ -147,7 +147,7 @@ Raphael Hertzog posted an <a
 href="http://raphaelhertzog.com/2014/09/02/my-free-software-activities-in-august-2014/">August
 update</a> on his Free Software Activities.
 Distro Tracker has Python 3 compatibility, and the full test suite passes with Python 3.4
-and Djando 1.6. <a href="https://tracker.debian.org/docs/contributing.html">Help</a>
+and Django 1.6. <a href="https://tracker.debian.org/docs/contributing.html">Help</a>
 is still needed. Django 1.7 had patches applied for  
 <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=755651">horizon</a>,
 <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=755607">django-restricted-resource</a>
@@ -210,9 +210,9 @@ href="http://sylvestre.ledru.info/blog/media/blogs/sylvestre/evolution-clang-sep
 decrease</a> in build failures  
 from 2,040 packages (9.5%) to 1,261 (5.7%). Upstream fixes started
 with bugs such as <a
-href="http://clang.debian.net/status.php?version=3.5.0&key=CONFLICTING_TYPE">conflicting
+href="http://clang.debian.net/status.php?version=3.5.0&amp;key=CONFLICTING_TYPE">conflicting
 types</a> and <a
-href="http://clang.debian.net/status.php?version=3.5.0&key=DEFAULT_CONSTRUCTOR">changes
+href="http://clang.debian.net/status.php?version=3.5.0&amp;key=DEFAULT_CONSTRUCTOR">changes
 of the default constructor</a>,
 then moved to a different parallel approach of focusing on improving GCC 
 compatibility with a warning category instead of errors.
