@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-04-29" SUMMARY="Release date for Wheezy announced, first Qt 5 packages in experimental, Debian Edu Wheezy alpha"
 
-# $Id: index.wml,v 1.5 2014/04/30 07:42:15 pabs Exp $
+# $Id: index.wml,v 1.6 2014/10/19 04:55:32 pabs Exp $
 # $Rev: 4887 $
 # Status: [content-frozen]
 
@@ -79,7 +79,7 @@ has been released and covers the following topics:</p>
 <p>
 Niels Thykier sent some <a href="https://lists.debian.org/debian-devel-announce/2013/04/msg00008.html">bits
 from the Lintian maintainers</a> presenting some of its new features.
-<a href="http://lintian.debian.org/">Lintian</a> is one of the most important and most used package checkers
+<a href="https://lintian.debian.org/">Lintian</a> is one of the most important and most used package checkers
 for Debian packages, primarily checking for Debian Policy violations and violations of various sub-policies.
 </p>
 

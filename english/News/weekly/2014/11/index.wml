@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-07-03" SUMMARY="Google Summer of Code updates, The first set of talks for DebConf14 have been accepted!, Debian is moving (back) to GLIBC"
 
-# $Id: index.wml,v 1.3 2014/07/04 17:39:11 boutil Exp $
+# $Id: index.wml,v 1.4 2014/10/19 07:59:28 pabs Exp $
 # $Rev: 5713 $
 # Status: content-frozen
 
@@ -111,7 +111,7 @@ Debian, IRILL, Mozilla and the Tor project.
 ##XXX applicants have been
 ##<a href="https://lists.debian.org/...">accepted</a>
 ##	as Debian Maintainer, and
-15 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+15 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DC

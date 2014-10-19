@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-05-26" SUMMARY="ARM64 help wanted, edos.debian.net back as qa.debian.org/dose, bits from the Debian GNU/Hurd porters"
 
-# $Id: index.wml,v 1.1 2014/05/26 16:03:05 boutil Exp $
+# $Id: index.wml,v 1.2 2014/10/19 07:59:27 pabs Exp $
 # $Rev: 5634 $
 # Status: [content-frozen]
 
@@ -98,7 +98,7 @@ wiki page</a>.
 ##XXX applicants have been
 ##<a href="https://lists.debian.org/...">accepted</a>
 ##	as Debian Maintainer, and
-12 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+12 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DCs

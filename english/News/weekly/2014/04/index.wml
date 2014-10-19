@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-03-03" SUMMARY="Debian Technical Committee chooses systemd, Debian selected for Google Summer of Code 2014, DebConf14 organising team needs your help to raise funds, Barcelona Debian Women mini-DebConf"
-# $Id: index.wml,v 1.6 2014/04/30 07:42:19 pabs Exp $
+# $Id: index.wml,v 1.7 2014/10/19 04:16:03 pabs Exp $
 # $Rev: 5445 $
 # Status: [content-frozen]
 
@@ -44,7 +44,7 @@ a program that allows post-secondary students aged
 projects during the summer.
 
 Nicolas Dandrimont
-<a href="http://bits.debian.org/2014/02/call-for-students-gsoc-2014.html">sent a call</a>
+<a href="https://bits.debian.org/2014/02/call-for-students-gsoc-2014.html">sent a call</a>
 for mentors and students to participate in this year's Summer of Code.
 
 Mentors for prospective projects can submit proposals on the
@@ -75,7 +75,7 @@ them, and ask, or if you are not comfortable asking directly, to contact the
 
 <p>
 Mònica Ramírez Arceda
-<a href="http://bits.debian.org/2014/02/minidebconf-barcelona-announce.html">sent
+<a href="https://bits.debian.org/2014/02/minidebconf-barcelona-announce.html">sent
 a public invitation</a> for the mini-DebConf in Barcelona on 15–16 March organised
 by <a href="$(HOME)/women">Debian Women</a>.
 

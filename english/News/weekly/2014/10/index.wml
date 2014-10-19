@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-06-09" SUMMARY="A logo for DebConf15, hello, MATE!, the Debian Continuous Integration project"
 
-# $Id: index.wml,v 1.2 2014/06/09 19:23:43 boutil Exp $
+# $Id: index.wml,v 1.3 2014/10/19 07:59:27 pabs Exp $
 # $Rev: 5683 $
 # Status: content-frozen
 
@@ -94,7 +94,7 @@ its delegation</a>.
 Five applicants have been
 <a href="https://lists.debian.org/debian-project/2014/06/msg00001.html">accepted</a>
 	as Debian Maintainers, and
-six people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+six people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DM

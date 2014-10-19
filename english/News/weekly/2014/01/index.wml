@@ -1,7 +1,7 @@
 #use wml::debian::projectnews::header PUBDATE="2014-01-06" SUMMARY="SteamOS, a game oriented Debian derivative, mini-DebConf in Phnom Penh, mini-DebConf in Barcelona, Greens/EFA Group in the European Parliament to use Debian for email encryption, an automatic list of Debian contributors, bits from the DPL, bits from the Release Team"
 
 
-# $Id: index.wml,v 1.9 2014/04/30 07:42:18 pabs Exp $
+# $Id: index.wml,v 1.11 2014/10/19 06:52:10 pabs Exp $
 # $Rev: 5363 $
 # Status: [freeze]
 
@@ -132,7 +132,7 @@ Niels Thykier sent some
 from the Release Team</a>, with a precise timeline of events
 that need to happen before the freeze for the next stable Debian release, Jessie,
 which is scheduled for November 5 2014.
-He also mentioned that the results from <a href="http://piuparts.debian.org/">piuparts</a>,
+He also mentioned that the results from <a href="https://piuparts.debian.org/">piuparts</a>,
 a tool to test installation, upgrade and removal of Debian packages, are now integrated
 into Britney, the software taking care of the migration of packages from unstable to testing.
 </p>
@@ -186,7 +186,7 @@ on Debian systems running unstable.
 Niels Thykier
 <a href="http://nthykier.wordpress.com/2013/12/23/automated-reprocessing-of-packages-on-lintian-debian-org/">announced</a>
 that he has automated the reprocessing of packages in the Debian archive when
-there is a new version of <a href="http://lintian.debian.org/">Lintian</a>, a
+there is a new version of <a href="https://lintian.debian.org/">Lintian</a>, a
 tool to find bugs and policy violations in packages. Reprocessing the whole
 Debian archive with Lintian 2.5.20 is expected to take about 3 to 4 weeks.
 </p>

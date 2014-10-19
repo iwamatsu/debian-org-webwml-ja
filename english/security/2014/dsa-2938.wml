@@ -67,7 +67,7 @@ following all uploads in <q>debian-lts</q>:
 <q>squeeze-lts</q> happens to be unaffected while <q>wheezy</q> is affected) will be 
 tracked in the Debian Security Tracker:</p>
 
-<p><url "http://security-tracker.debian.org" /></p>
+<p><url "https://security-tracker.debian.org" /></p>
 
 <p>If you happen to spot an error in the data, please see 
 <url "https://security-tracker.debian.org/tracker/data/report" /></p>
@@ -75,4 +75,4 @@ tracked in the Debian Security Tracker:</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-2938.data"
-# $Id: dsa-2938.wml,v 1.4 2014/05/28 12:04:28 kaare Exp $
+# $Id: dsa-2938.wml,v 1.5 2014/10/19 07:44:15 pabs Exp $

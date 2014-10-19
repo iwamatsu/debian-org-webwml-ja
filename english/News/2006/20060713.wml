@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Server restored after Compromise</define-tag>
 <define-tag release_date>2006-07-13</define-tag>
 #use wml::debian::news
-# $Id: 20060713.wml,v 1.6 2014/04/30 09:21:56 pabs Exp $
+# $Id: 20060713.wml,v 1.7 2014/10/19 04:55:29 pabs Exp $
 
 <p>One core Debian server has been reinstalled after a compromise and
 services have been restored.  On July 12th the host gluck.debian.org
@@ -12,7 +12,7 @@ developer account.</p>
 <p>The services affected and temporarily taken down are: <a
 href="http://cvs.debian.org/">cvs</a>, <a
 href="http://ddtp.debian.org/">ddtp</a>, <a
-href="http://lintian.debian.org/">lintian</a>, <a
+href="https://lintian.debian.org/">lintian</a>, <a
 href="$(HOME)/devel/people">people</a>, <a
 href="http://popcon.debian.org/">popcon</a>, <a
 href="http://planet.debian.org/">planet</a>, <a

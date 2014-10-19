@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-08-14" SUMMARY="Debian Day 2014, Help needed with ejabberd testing, 2014-Debian Developers per Country, OpenAmbit is now in unstable, Debian Arm64 port at 85%, First steps towards source-only uploads, Check the schedule for DebConf14"
 
-# $Id: index.wml,v 1.5 2014/08/18 06:55:59 kaare Exp $
+# $Id: index.wml,v 1.6 2014/10/19 07:59:29 pabs Exp $
 # $Rev: 5753 $
 # Status: freeze
 
@@ -142,7 +142,7 @@ DebConf.
 <a href="https://lists.debian.org/debian-project/2014/07/msg00007.html">have been</a>
 <a href="https://lists.debian.org/debian-project/2014/07/msg00021.html">accepted</a>
 	as Debian Maintainers, and
-32 people have <a href="http://udd.debian.org/cgi-bin/new-maintainers.cgi">started
+32 people have <a href="https://udd.debian.org/cgi-bin/new-maintainers.cgi">started
         to maintain packages</a> since the previous issue of the Debian
 	Project News. Please welcome
 #DDs
