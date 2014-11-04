@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-10-27" SUMMARY="Debian &amp; Stuff podcast, Debian switching back to GNOME as the default desktop, contributing to Debian in other ways, the Ada initiative and the Outreach Program For Women, who is 15?!, Squeeze long term support reports, general resolution: init system coupling, bits from the Debian Multimedia Maintainers, Debian Quiz Game, help wanted!, Debian DebUtsav 14"
 
-# $Id: index.wml,v 1.2 2014/10/28 06:50:45 kaare Exp $
+# $Id: index.wml,v 1.3 2014/11/03 21:01:50 scottmir-guest Exp $
 # $Rev: 5730 $
 # Status: [content-frozen]
 
@@ -112,7 +112,7 @@ the effort.
 Levsen's September 2014 LTS report</a> relayed work on the Debian Security   
 Tracker which he is happy to announce looks good and professional. Eight bugs were
 squashed, a backport of dgit was uploaded to wheezy-backports, and uploads to 
-squeeze-lts were made for apache2, nss, libplack-perl, icinfa, libstrus1, and
+squeeze-lts were made for apache2, nss, libplack-perl, icinga, libstrus1, and
 wordpress. 
 </p>
 
@@ -152,7 +152,7 @@ Basin, and mpv, among others. As the overall goal is to improve quality, a few p
 were dropped, such as beast, plotmn, phat, and mplayer. The team invites 
 interested parties to join them on the
 <a href="mailto:pkg-multimedia-maintainers@lists.alioth.debian.org">pkg-multimedia-maintainers mailing list</a>
-on <a href="http://lists.alioth.debian.org/cgi-bin/mailman/listinfo/pkg-multimedia-maintainers">Alioth</a>
+on <a href="https://lists.alioth.debian.org/cgi-bin/mailman/listinfo/pkg-multimedia-maintainers">Alioth</a>
 or on the OFTC #debian-multimedia IRC channel.
 </p>
 
