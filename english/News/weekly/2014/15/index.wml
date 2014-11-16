@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-11-14" SUMMARY="The Debian Community combats Global Warming with a Freeze, Tokyo area Debian study group, first Jessie based Debian Edu released, LTS Reports for October 2014, other reports, Open Source Conference 2014 Tokyo/Fall, Who's using Debian Audit, 2014 Mini-DebConf in Cambridge at ARM"
 
-# $Id: index.wml,v 1.1 2014/11/14 21:55:28 boutil Exp $
+# $Id: index.wml,v 1.2 2014/11/15 16:48:30 jipege1-guest Exp $
 # $Rev: 5730 $
 # Status: [content-frozen]
 
@@ -13,7 +13,7 @@
 <intro issue="fifteen" />
 <toc-display/>
 
-<toc-add-entry name="Freezing">The Debian Community combats Global Warming with a Freeze.</toc-add-entry>
+<toc-add-entry name="Freezing">The Debian Community combats Global Warming with a Freeze</toc-add-entry>
 
 <p>The Release Team is proud to <a href="https://lists.debian.org/debian-devel-announce/2014/11/msg00003.html">announce</a> that Debian 8.0 "Jessie" is frozen.
 Further updates to this release will be restricted to bug fixes only.
