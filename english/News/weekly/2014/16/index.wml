@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-12-01" SUMMARY="DebConf15 welcomes its first eleven sponsors!, Debian running on a graphing calculator, votes  on the General Resolution on init system coupling, bits from the Debian Med team, Freexian's 3rd report about Debian Long Term Support, Newcomer tag in BTS, FOSS Outreach program for women, Release Team Sprint Results, Fun and Sanity in Debian, Notes on the Cambridge Mini-DebConf, DebConf14 final report, Debian Description Translation Project, LiMux Munich Bug Squashing Party, DPN asks: Hams, What do you do?"
 
-# $Id: index.wml,v 1.1 2014/12/01 20:53:59 boutil Exp $
+# $Id: index.wml,v 1.2 2014/12/02 16:39:51 jipege1-guest Exp $
 # $Rev: 5730 $
 # Status: [content-frozen]
 
@@ -102,6 +102,7 @@ a while to indicate bugs which are suitable for new contributors to use as an
 entry point to working on specific packages. The <q>newcomer</q> tag has been added as a
 more appropriately named equivalent and has been added to the BTS documentation.
 </p>
+<p>
 All of the previously tagged <q>gift</q> bugs have been tagged with the new <q>newcomer</q> tag.
 </p>
 <p>
