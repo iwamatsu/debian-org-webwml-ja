@@ -1,7 +1,7 @@
 #use wml::debian::template title="Work-Needing and Prospective Packages"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
-# $Id: index.wml,v 1.41 2014/04/30 06:33:13 pabs Exp $
+# $Id: index.wml,v 1.43 2014/12/14 08:27:04 gusnan Exp $
 
 <define-tag toc-title-formatting endtag=required><h3>%body</h3></define-tag>
 
@@ -57,6 +57,13 @@ or <a href="help_requested_bypop">by popularity</a>
 <p>Note: these lists are updated six times a day; for more up-to-date information
 please check the <a href="https://bugs.debian.org/wnpp">wnpp pseudo package</a>
 entry in the BTS.</p>
+
+<p>You can search the above information by package, description or type
+on the <a href="http://wnpp.debian.net">WNPP search</a> website.</p>
+
+<p>You can browse the above information broken down into various categories
+(based on <a href="http://debtags.debian.net/">debtags</a>) on the 
+<a href="http://wnpp-by-tags.debian.net">WNPP-by-tags</a> website.</p>
 
 <hrline />
 
