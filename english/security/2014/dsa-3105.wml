@@ -7,7 +7,7 @@ implementation of the <q>mail</q> command:</p>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2004-2771">CVE-2004-2771</a>
 
-    <p>mailx interprets interprets shell meta-characters in certain email
+    <p>mailx interprets shell meta-characters in certain email
     addresses.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2014-7844">CVE-2014-7844</a>
@@ -36,4 +36,4 @@ version 12.5-2+deb7u1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2014/dsa-3105.data"
-# $Id: dsa-3105.wml,v 1.1 2014/12/16 19:29:39 kaare Exp $
+# $Id: dsa-3105.wml,v 1.2 2014/12/17 08:24:42 kaare Exp $
