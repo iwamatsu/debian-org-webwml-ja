@@ -4591,6 +4591,20 @@ projects negotiable.>
 <rates   Please contact for rates.>
 </p>
 
+# Consultant: GB
+# added on 24.12.2014
+<p>
+<name	 Adam Palmer>
+<company IO Digital Sec>
+<address <country-name GB>>
+<phone	 +44(0)208-123-9497>
+<email	 adam@adampalmer.me>
+<contact "http://www.iodigitalsec.com/contact-us/">
+<URL	 "http://www.iodigitalsec.com/linux-consultant/">
+<rates   From £85 + VAT per hour.>
+<additional_info io_digital>
+</p>
+
 
 <h1><a name="US"><country-name US>:</a></h1>
 
@@ -4727,19 +4741,6 @@ projects negotiable.>
 <email   bcoffman@infofromdata.com>
 #<URL     "http://www.infofromdata.com/">
 <rates   Call for current rates.>
-</p>
-
-# Consultant: US
-# mail sent to check status: 16.07.2013 holger-guest. Result: still active.
-<p>
-<name    Ivan Kohler>
-<company Freeside Internet Services, Inc.>
-<address Truckee, CA, <country-name US>>
-<phone   +1-415-462-1624>
-<email   ivan-debconsult@sisd.com>
-#<URL     "http://www.sisd.com/">
-<rates   Upon request; discounted rates for open-source work.>
-<additional_info ivan_k>
 </p>
 
 # Consultant: US
