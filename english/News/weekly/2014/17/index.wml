@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-12-29" SUMMARY="Online Source Editing, Debian Code Search, UEFI Support in Jessie, Technical Committee Term Limits, Debian Long Term Support and Freexian's 4th report, C++11 talk, notes, and use in Jessie, Bug Reports for Jessie, DPN asks: Auditors, What do you do?, Other news"
 
-# $Id: index.wml,v 1.2 2015/01/02 15:38:34 dnorwood-guest Exp $
+# $Id: index.wml,v 1.3 2015/01/04 00:39:30 dnorwood-guest Exp $
 # $Rev: 5933 $
 # Status: [content-frozen]
 
@@ -79,7 +79,7 @@ track of the most senior committee members.
 <a href="$(HOME)/vote/howto_follow">Standard Resolution Procedure</a> will govern the voting process.
 </p>
 
-<toc-add-entry name="4th_LTS">Debian Long Term Support and Freexian's 4th report</toc-add-entry>
+<toc-add-entry name="forth_LTS">Debian Long Term Support and Freexian's 4th report</toc-add-entry>
 <p>
 Freexian's <a href="http://raphaelhertzog.com/2014/12/11/freexians-fourth-report-about-debian-long-term-support/">fourth report on Debian Long Term Support</a> was released.
 </p>
