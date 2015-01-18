@@ -24,7 +24,7 @@ You can also donate via the <a href="#other">other methods listed below</a>.
 
 <p>
 Up to August 2015, you can also support Debian by supporting DebConf15; this year's
-editiion of Debian's developer conference. In this case, it is best to donate to
+edition of Debian's developer conference. In this case, it is best to donate to
 <a href="http://debconf15.debconf.org/verein.xhtml">DebConf e.V.</a> directly.
 </p>
 
@@ -75,6 +75,14 @@ hold assets in trust for Debian and recieve donations on Debian's behalf.
  <a href="#debianfrance-other">other</a>
 </td>
 <td>France, tax-exempt non-profit</td>
+</tr>
+<tr>
+<td><a href="#debianch">debian.ch</a></td>
+<td>
+ <a href="#debianch-bank">wire transfer</a>,
+ <a href="#debianch-other">other</a>
+</td>
+<td>Switzerland, non-profit</td>
 </tr>
 <tr>
 <td><a href="#debian">Debian</a></td>
@@ -208,6 +216,28 @@ These can be directed to the Debian France specifically, or the Debian
 Project in general.
 </p>
 
+<h3 id="debianch">debian.ch</h3>
+
+<p>
+<a href="http://debian.ch/">debian.ch</a> was founded to represent the
+Debian project in Switzerland and in the Principality of Liechtenstein.
+</p>
+
+<h4 id="debianch-bank">Wire transfer</h4>
+
+<p>
+Donations via wire transfer from both Swiss and international banks are
+available to the bank accounts listed on the
+<a href="http://debian.ch/">debian.ch website</a>.
+</p>
+
+<h4 id="debianch-other">Other</h4>
+
+<p>
+Donations via other methods can be achieved by contacting the donations address
+listed on the <a href="http://debian.ch/">debian.ch website</a>.
+</p>
+
 # Template:
 #<h3 id=""></h3>
 #
@@ -261,14 +291,15 @@ we are looking into being able to support this method of donation.
 
 <h3 id="debconf">DebConf e.V.</h3>
 
+<p>
 <a href="http://debconf15.debconf.org/verein.xhtml">DebConf e.V.</a> is a tax-exempt non-profit corporation based in Germany. It has been incorporated to provide a legal entity for DebConf15.
+</p>
 
 <h4 id="debconf-bank">Wire transfer</h4>
 
+<p>
 You can find bank details <a href="http://debconf15.debconf.org/verein.xhtml">here</a>.
 At your request, we will mail you a signed donation receipt for tax purposes.
-
-<p>
 </p>
 
 <h2 id="donors">Donors</h2>
