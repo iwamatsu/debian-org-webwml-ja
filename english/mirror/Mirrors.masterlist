@@ -227,7 +227,7 @@ IPv6: yes
 
 Site: ftp.monash.edu.au
 Type: leaf
-Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
+Archive-architecture: amd64 i386
 Archive-http: /pub/linux/debian/
 Archive-ftp: /pub/linux/debian/
 Archive-rsync: debian/
@@ -1432,8 +1432,8 @@ Location: Esslingen, Germany
 Sponsor: Computing Center, University of Applied Sciences Esslingen http://www.hs-esslingen.de/
 Bandwidth: 2Gbps
 
-Site: debian.sh.cvut.cz
-Alias: ftp.sh.cvut.cz
+Site: ftp.sh.cvut.cz
+Alias: debian.sh.cvut.cz
 Type: leaf
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
 Archive-ftp: /debian/
@@ -2109,9 +2109,9 @@ Country: IS Iceland
 Site: ftp.rhnet.is
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
 Archive-upstream: ftp.se.debian.org
 Maintainer: Olafur Osvaldsson <ftpadm@rhnet.is>
 Country: IS Iceland
@@ -2442,8 +2442,8 @@ IPv6: yes
 Site: mirror.anl.gov
 Type: leaf
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /pub/debian/
-Archive-http: /debian/
+X-Archive-ftp: /pub/debian/
+X-Archive-http: /debian/
 Archive-upstream: ftp.egr.msu.edu
 Maintainer: cis-mirror-subscriptions@lists.anl.gov
 Country: US United States
@@ -3163,7 +3163,7 @@ IPv6: no
 Site: debian.inode.at
 Type: leaf
 Archive-ftp: /debian/
-Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 powerpc s390x sparc
+Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 powerpc sparc
 Archive-http: /debian/
 Archive-rsync: debian/debian/
 Archive-upstream: ftp.at.debian.org
@@ -5631,8 +5631,8 @@ Site: mirrors.compuscene.org
 Alias: ns34892.ovh.net
 Type: leaf
 Archive-architecture: amd64 armel i386
-Archive-ftp: /debian/
-Archive-http: /debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
 Archive-upstream: ftp.fr.debian.org
 Maintainer: Vincent VAN HOLLEBEKE <administrateur@compuscene.org>
 Country: FR France
@@ -6222,9 +6222,9 @@ Site: ftp.ba.debian.org
 Includes: mirror.debian.com.ba
 Type: Push-Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
 Archive-method: push
 Archive-upstream: syncproxy.eu.debian.org
 Country: BA Bosnia & Herzegovina
@@ -6232,9 +6232,9 @@ Country: BA Bosnia & Herzegovina
 Site: mirror.debian.com.ba
 Type: Push-Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
+X-Archive-rsync: debian/
 Archive-method: push
 Archive-upstream: syncproxy.eu.debian.org
 IPv6: no
@@ -6985,15 +6985,15 @@ Bandwidth: 60Mbps
 
 Site: debian.cc.lehigh.edu
 Type: Push-Secondary
-Archive-architecture: amd64 i386
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
-Archive-upstream: debian.lcs.mit.edu
+Archive-upstream: mirror.cc.columbia.edu
 Backports-http: /debian-backports/
 Backports-rsync: debian-backports/
 Backports-upstream: ftp.at.debian.org
 IPv6: no
-Updates: push
+Updates: four
 Maintainer: Keith Erekson <keith.erekson@gmail.com>, hostmaster@lehigh.edu
 Country: US United States
 Location: Bethlehem, Pennsylvania
@@ -7598,7 +7598,7 @@ X-Comment: missing most of dists/ files for squeeze and some for wheezy
 Site: debian.mirror.evertje.net
 Type: leaf
 Archive-architecture: amd64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
-Archive-http: /debian/
+X-Archive-http: /debian/
 IPv6: yes
 Archive-upstream: ftp.nl.debian.org
 Updates: twice
