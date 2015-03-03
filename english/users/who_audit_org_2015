@@ -98,7 +98,8 @@ Funda de Amparo e Desenvolvimento da Pesquisa (FADESP)
 fadesp.wml  
 Contact: bdiniz@fadesp.org.br
  Audit 1: Email on 12/10/14 -  Waiting for update/response
- Audit 2: Email on 03/02/15 -  Waiting for update/response
+ Audit 2: Email on 03/02/15 -   host zimbra.fadesp.org.br [200.129.138.100]: 550 5.1.1 <bdiniz@fadesp.org.br>:
+                                Recipient address rejected: fadesp.org.br
 
 Globeenet France
  globenet.wml  
@@ -115,7 +116,7 @@ Greenpeace Spain
  greenpeace-spain.wml  
  Contact: manuel.campos@es.greenpeace.org
  Audit 1: Email on 12/10/14 -  Waiting for update/response
- Audit 2: Email on 03/02/15 -  Waiting for update/response
+ Audit 2: Email on 03/02/15 -  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
 
 Grefa - Groupo para la rehabilitacion de la fauna autocnoma
  grefa.wml  
@@ -126,5 +127,5 @@ GSI Helmholtzzentrum für Schwerionenforschung
  gsi.wml  
  Contact: C.Huhn@gsi.de
  Audit 1: Email on 12/10/14 -   Waiting for update/response
- Audit 2: Email on 03/02/15 -   Waiting for update/response
+ Audit 2: Email on 03/02/15 -   Partial response. 
 
