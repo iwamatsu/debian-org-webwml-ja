@@ -1,5 +1,8 @@
 #use wml::debian::cdimage title="Artwork for Debian CDs" BARETITLE=true
-# $Id: index.wml,v 1.40 2011-03-12 18:06:53 hertzog Exp $
+# $Id: index.wml,v 1.41 2015/04/20 10:33:16 pabs Exp $
+
+<p>Official artwork for current and recent releases may be available on the
+<a href="https://wiki.debian.org/DebianArt/Themes">themes</a> wiki page.
 
 <p>If you have made your own images for CD covers and want to share
 them with us, <a
