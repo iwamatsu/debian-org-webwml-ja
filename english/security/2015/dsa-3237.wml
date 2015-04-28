@@ -68,8 +68,8 @@ leaks.</p>
 
     <p>This may be mitigated by disabling processing of IPv6 router
     advertisements if they are not needed:<br />
-    <code>sysctl net.ipv6.conf.default.accept_ra=0</code<br />
-    <code>sysctl net.ipv6.conf.<interface>.accept_ra=0</code></p></li>
+    <code>sysctl net.ipv6.conf.default.accept_ra=0</code><br />
+    <code>sysctl net.ipv6.conf.&lt;interface&gt;.accept_ra=0</code></p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2015-3331">CVE-2015-3331</a>
 
@@ -102,15 +102,15 @@ by <a href="https://security-tracker.debian.org/tracker/CVE-2015-3332">CVE-2015-
 
 <p>For the stable distribution (jessie), these problems have been fixed in
 version 3.16.7-ckt9-3~deb8u1 or earlier versions. Additionally, this
-version fixes a regression in the xen-netfront driver (#782698).</p>
+version fixes a regression in the xen-netfront driver (<a href="https://bugs.debian.org/782698">#782698</a>).</p>
 
 <p>For the unstable distribution (sid), these problems have been fixed in
 version 3.16.7-ckt9-3 or earlier versions.  Additionally, this version
-fixes a regression in the xen-netfront driver (#782698).</p>
+fixes a regression in the xen-netfront driver (<a href="https://bugs.debian.org/782698">#782698</a>).</p>
 
 <p>We recommend that you upgrade your linux packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dsa-3237.data"
-# $Id: dsa-3237.wml,v 1.1 2015/04/27 05:31:37 kaare Exp $
+# $Id: dsa-3237.wml,v 1.4 2015/04/27 15:31:33 gusnan Exp $
