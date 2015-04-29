@@ -40,7 +40,7 @@ href="https://bugs.debian.org/">Bug Tracking System</a> for those packages.  You
 can also get involved directly in package maintenance by becoming a member of a
 group maintenance team or get involved with software that is being developed
 for Debian by joining a software project at <a
-href="http://alioth.debian.org/">Alioth</a>.</li>
+href="https://alioth.debian.org/">Alioth</a>.</li>
 
 <li>You can help writing documentation either by working with the official
 documentation provided by the <a href="$(HOME)/doc/ddp">Debian Documentation
@@ -64,6 +64,10 @@ information read the <a href="$(HOME)/devel/">Debian Developer's Corner</a>.</li
 <a href="$(HOME)/security/audit/">find</a> and 
 <a href="$(DOC)/manuals/developers-reference/pkgs.html#bug-security">fix</a>
 <a href="$(HOME)/security/">security issues</a> within the packages in Debian.
+You can also help harden
+<a href="https://wiki.debian.org/Hardening">packages</a>,
+<a href="https://wiki.debian.org/Hardening/RepoAndImages">repositories and images</a>
+and <a href="https://wiki.debian.org/Hardening/Goals">other things</a>.
 </li>
 
 <li>You can <a href="$(HOME)/donations">donate equipment and services</a> to the Debian project so that 
