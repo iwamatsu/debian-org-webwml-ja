@@ -33,6 +33,7 @@
  pages yet, and most of them are on external sites.  We are working on
  collecting information on all ports, to be mirrored along with the Debian
  website.
+ More ports may be <a href="https://wiki.debian.org/CategoryPorts">listed</a> on the wiki.
 </p>
 </div>
 
@@ -239,6 +240,14 @@ computers, and the Atari and Amiga personal computers.</td>
 <td>discontinued/being revived</td>
 </tr>
 <tr>
+<td><a href="https://wiki.debian.org/mips64el">mips64el</a></td>
+<td>MIPS (64-bit little-endian mode)</td>
+<td>
+This port is little-endian, uses the N64 ABI, the MIPS64r1 ISA and hardware floating-point. 
+</td>
+<td>in progress</td>
+</tr>
+<tr>
 <td><a href="netbsd/">netbsd-i386</a></td>
 <td>32-bit PC (i386)</td>
 <td>A port of the Debian operating system, complete with apt,
@@ -261,9 +270,35 @@ has been abandoned.</td>
 <td>in progress</td>
 </tr>
 <tr>
+<td><a href="https://wiki.debian.org/PowerPCSPEPort">powerpcspe</a></td>
+<td>PowerPC Signal Processing Engine</td>
+<td>
+A port to the "Signal Processing Engine" hardware present on low-power 32-bit FreeScale and IBM "e500" CPUs.
+</td>
+<td>in progress</td>
+</tr>
+<tr>
+<td><a href="https://wiki.debian.org/Sparc64">sparc64</a></td>
+<td>64-bit SPARC</td>
+<td>
+A 64-bit port to SPARC processors.
+</td>
+<td>in progress</td>
+</tr>
+<tr>
 <td><a href="https://lists.debian.org/debian-superh/">sh</a></td>
 <td>SuperH</td>
 <td>A port to Hitachi SuperH processors.</td>
+<td>in progress</td>
+</tr>
+<tr>
+<td><a href="https://wiki.debian.org/X32Port">x32</a></td>
+<td>64-bit PC with 32-bit pointers</td>
+<td>
+X32 is an ABI for amd64/x86_64 CPUs using 32-bit pointers.
+The idea is to combine the larger register set of x86_64 with
+the smaller memory and cache footprint resulting from 32-bit pointers.
+</td>
 <td>in progress</td>
 </tr>
 </tbody>
