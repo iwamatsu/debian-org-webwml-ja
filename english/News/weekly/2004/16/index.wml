@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-04-20" SUMMARY="Java, Firmware, GNOME, License, Installer, Packaging, Reference Card, DVD"
-# $Id: index.wml,v 1.12 2014/09/07 08:55:30 pabs Exp $
+# $Id: index.wml,v 1.13 2015/05/10 17:03:06 holger-guest Exp $
 
 <p>Welcome to this year's 16th issue of DWN, the weekly newsletter for the
 Debian community.  Distributing firmware blobs in the Linux kernel is still
@@ -108,7 +108,7 @@ href="https://lists.debian.org/debian-boot-0404/msg01865.html">wanted</a> to
 work on the German translation but couldn't find the manual.  Frans Pop <a
 href="https://lists.debian.org/debian-boot-0404/msg01867.html">explained</a>
 that the coordinator for the manual is Miroslav Kure and that the manual
-itself is hosted on <a href="http://d-i.alioth.debian.org/manual/">\
+itself is hosted on <a href="https://d-i.alioth.debian.org/manual/">\
 Alioth</a>.</p>
 
 <p><strong>Security Updates.</strong> You know the drill.  Please make sure

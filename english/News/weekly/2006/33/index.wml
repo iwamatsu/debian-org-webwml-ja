@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-15" SUMMARY="Packaging, Release, Python, Birthday, DPL Report, Installer"
-# $Id: index.wml,v 1.12 2014/09/07 08:55:53 pabs Exp $
+# $Id: index.wml,v 1.13 2015/05/10 17:03:07 holger-guest Exp $
 
 <p>Welcome to this year's 33rd issue of DWN, the weekly newsletter for the
 Debian community.  Debian turns 13 this week, so make sure you find a <a
@@ -82,7 +82,7 @@ href="$(HOME)/ports/mipsel">little endian MIPS</a> and
 Installation CDs, other media and detailed errata are <a
 href="$(HOME)/devel/debian-installer/">available</a>.  All
 changes are documented in the development version of the <a
-href="http://d-i.alioth.debian.org/manual">installation guide</a>.</p>
+href="https://d-i.alioth.debian.org/manual">installation guide</a>.</p>
 
 <p><strong>Security Updates.</strong> You know the drill.  Please make sure
 that you update your systems if you have any of these packages installed.</p>
