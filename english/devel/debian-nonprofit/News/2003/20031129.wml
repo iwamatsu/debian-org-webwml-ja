@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian-NP Bootable CD Released</define-tag>
 <define-tag release_date>2003-11-29</define-tag>
 #use wml::debian::news
-# $Id: 20031129.wml,v 1.3 2014/04/29 15:27:54 pabs Exp $
+# $Id: 20031129.wml,v 1.4 2015/05/13 21:24:45 holger-guest Exp $
 
 <p>In preparation for the <a href="http://www.itu.int/wsis/">World
 Summit on the Information Society</a> conference in Geneva, the
@@ -35,7 +35,7 @@ sk, tr, tw, uk, us</tt></p></blockquote>
 below.</p>
 
 <ul>
-  <li><a href="http://debian-np.alioth.debian.org/">Debian-NP Alioth
+  <li><a href="https://debian-np.alioth.debian.org/">Debian-NP Alioth
        Files Page Containing ISO CD Images</a></li>
   <li><a href="https://lists.debian.org/debian-nonprofit/2003/debian-nonprofit-200311/msg00013.html">Initial
        Email Announcement</a></li>

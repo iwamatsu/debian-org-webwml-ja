@@ -1,5 +1,5 @@
 #use wml::debian::template title="LinuxWorld Expo -- Report"
-# $Id: 0121-lwe-report.wml,v 1.7 2011-05-26 10:05:31 rhonda Exp $
+# $Id: 0121-lwe-report.wml,v 1.8 2015/05/13 21:24:47 holger-guest Exp $
 
 <p>Some of you may already know my theory on how the location of the .org
 pavilion indicates the health of the GNU/Linux business world.  For those who
@@ -29,7 +29,7 @@ NewsForge</a> of Adam and Jimmy in our booth.</p>
 <p>We decided we were going to do some proper PR this year but had some
 mixed results some of which were due to totally underestimating the
 response we thought we would get.  I was going to produce posters and
-<a href="http://debianintro.alioth.debian.org/">flyers</a>.  The first printer I
+<a href="https://debianintro.alioth.debian.org/">flyers</a>.  The first printer I
 approached to make the posters botched the job so at the last minute I
 had to have one made at Kinkos.  They charged a hideous amount of money
 so I only had one made.  The flyers were good but I didn't make enough
