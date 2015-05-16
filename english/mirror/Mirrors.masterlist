@@ -1707,8 +1707,8 @@ IPv6: no
 Site: ftp.rediris.es
 Type: leaf
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
+X-Archive-ftp: /debian/
+X-Archive-http: /debian/
 Archive-upstream: ftp.de.debian.org
 X-CDImage-ftp: /mirror/debian-cd/
 X-CDImage-http: /debian-cd/
@@ -4097,8 +4097,8 @@ IPv6: no
 Site: ftp.gva.es
 Type: Push-Secondary
 Archive-architecture: amd64 armhf i386 kfreebsd-amd64 kfreebsd-i386
-Archive-ftp: /mirror/debian/
-Archive-http: /mirror/debian/
+X-Archive-ftp: /mirror/debian/
+X-Archive-http: /mirror/debian/
 X-CDImage-ftp: /mirror/debian-cd/
 X-CDImage-http: /mirror/debian-cd/
 X-NonUS-http: /mirror/debian-non-US/
