@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-03-17" SUMMARY="The Supercomputing and Visualization Center of Madrid provides a Debian VPS service, DebConf, past and future, upcoming votes in the Debian Project: DPL elections and a code of conduct, bits from the DPL, bits from the Security Team"
 
-# $Id: index.wml,v 1.11 2014/04/30 07:42:20 pabs Exp $
+# $Id: index.wml,v 1.12 2015/05/16 19:38:42 holger-guest Exp $
 # $Rev: 5486 $
 # Status: [freeze]
 
@@ -160,7 +160,7 @@ Enrico Zini
 that the <a href="https://sso.debian.org">Debian Single SignOn</a> service can now
 use not only the credentials of official
 Debian Members, but also those from <a
-href="http://alioth.debian.org/">Alioth</a>, the Debian sourceforge.
+href="https://alioth.debian.org/">Alioth</a>, the Debian sourceforge.
 At the moment, contributors with an Alioth account are able to log in
 to <a href="https://contributors.debian.org">contributors.debian.org</a>
 with their Alioth password, and have access to detailed information about

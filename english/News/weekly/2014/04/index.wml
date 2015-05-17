@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-03-03" SUMMARY="Debian Technical Committee chooses systemd, Debian selected for Google Summer of Code 2014, DebConf14 organising team needs your help to raise funds, Barcelona Debian Women mini-DebConf"
-# $Id: index.wml,v 1.7 2014/10/19 04:16:03 pabs Exp $
+# $Id: index.wml,v 1.8 2015/05/16 19:38:42 holger-guest Exp $
 # $Rev: 5445 $
 # Status: [content-frozen]
 
@@ -55,7 +55,7 @@ with mentors and prepare their applications.
 People interested in this program are encouraged to come and chat with the
 Debian GSoC team on the #debian-soc IRC channel on irc.oftc.net, or to send an
 email to the
-<a href="http://lists.alioth.debian.org/cgi-bin/mailman/listinfo/soc-coordination">SoC coordination mailing list</a>.
+<a href="https://lists.alioth.debian.org/cgi-bin/mailman/listinfo/soc-coordination">SoC coordination mailing list</a>.
 </p>
 
 
