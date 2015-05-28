@@ -13,7 +13,7 @@ version 0.52.2-10+etch1.</p>
 version 0.52.2-11.3+lenny1.</p>
 
 <p>For the testing distribution (squeeze) and the unstable distribution
-(sid), this problem will be fixed soon</p>
+(sid), this problem will be fixed soon.</p>
 
 
 <p>We recommend that you upgrade your newt packages.</p>
@@ -21,4 +21,4 @@ version 0.52.2-11.3+lenny1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2009/dsa-1894.data"
-# $Id: dsa-1894.wml,v 1.1 2009-09-24 13:14:11 spaillard Exp $
+# $Id: dsa-1894.wml,v 1.2 2015/05/27 10:29:03 dogsleg-guest Exp $
