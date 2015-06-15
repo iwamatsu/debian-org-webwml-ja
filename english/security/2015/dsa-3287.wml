@@ -47,11 +47,11 @@ Layer toolkit.</p>
     unknown hash function OID. This could allow remote attackers to cause
     a denial of service.</p></li>
 
-	<li><p>Additionally OpenSSL will now reject handshakes using DH parameters
-	shorter than 768 bits as a countermeasure against the Logjam attack
-	(<a href="https://security-tracker.debian.org/tracker/CVE-2015-4000">CVE-2015-4000</a>).</p></li>
-
 </ul>
+
+	<p>Additionally OpenSSL will now reject handshakes using DH parameters
+	shorter than 768 bits as a countermeasure against the Logjam attack
+	(<a href="https://security-tracker.debian.org/tracker/CVE-2015-4000">CVE-2015-4000</a>).</p>
 
 <p>For the oldstable distribution (wheezy), these problems have been fixed
 in version 1.0.1e-2+deb7u17.</p>
@@ -70,4 +70,4 @@ version 1.0.2b-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dsa-3287.data"
-# $Id: dsa-3287.wml,v 1.2 2015/06/14 16:50:31 gusnan Exp $
+# $Id: dsa-3287.wml,v 1.3 2015/06/15 09:05:47 kaare Exp $
