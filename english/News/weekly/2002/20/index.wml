@@ -1,9 +1,9 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-15" SUMMARY="BTS Redesign, DebConf2, Woody DVD, Hams, Hurd, SGML, Boot-Floppies"
-# $Id: index.wml,v 1.20 2014/09/07 08:54:51 pabs Exp $
+# $Id: index.wml,v 1.21 2015/06/23 11:19:04 pabs Exp $
 
 <p>Welcome to this year's twentieth issue of DWN, the weekly newsletter for
 the Debian community.  According to this <a
-href="https://ftp-master.debian.org/testing/update_excuses.html">list of
+href="https://release.debian.org/britney/update_excuses.html">list of
 excuses</a>, which says "Gimme an F, gimme an R, gimme an E, E, Z, E. What
 does it spell?", it looks like Woody entered the next step.  Not all of you
 will know this, but Bdale Garbee is a ham, and as such he will deliver the
