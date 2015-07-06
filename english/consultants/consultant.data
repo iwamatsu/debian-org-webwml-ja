@@ -2736,6 +2736,7 @@ Maintenance Plan rates available.>
 # 09.10.14 holger-guest: mail bounced, commented out.
 # 24.10.14 holger-guest: entry re-enabled, since their mail is working,
 # according to discussion on consultants@d.o
+# 05.07.15 holger-guest: entry updated
 <p>
 <name	 Uwe Disch>
 <company Disch Services GmbH>
@@ -2743,7 +2744,7 @@ Maintenance Plan rates available.>
 <phone	 +49(0)9123-966-2512>
 <fax	 +49(0)9123-966-2516>
 <email	 info@disch-services.de>
-<URL	 "http://disch-services.de">
+<URL	 "http://disch.com.de/de/dienstleistungen-fuer-debian/">
 <rates	 Please contact us for rates.>
 <additional_info disch>
 </p>
@@ -3534,7 +3535,19 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 #</p>
 
 
-# <h1><a name="MX"><country-name MX>:</a></h1>
+<h1><a name="MX"><country-name MX>:</a></h1>
+
+# Consultant: MX
+# added on 05.07.2015
+<p>
+<name    Isaac Quezada>
+<company OpenSolutionsMx>
+<address <country-name MX>>
+<email   isaac@opensolutions.mx>
+<URL     "http://www.opensolutions.mx">
+<rates   Please email me for rates.>
+<additional_info open_solutions>
+</p>
 
 
 <h1><a name="MA"><country-name MA>:</a></h1>
