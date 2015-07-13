@@ -3566,6 +3566,20 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 </p>
 
 
+<h1><a name="NG"><country-name NG>:</a></h1>
+
+# Consultant: NG
+# added on 12.07.2015
+<p>
+<name    Hodonou SOUNTON>
+<company Reysh Tech>
+<address 07 BP 0637 Cotonou, Benin, <country-name NG>>
+<phone   (229) 95 30 24 24>
+<email   hodonou@sounton.me>
+<rates   $50 per hour>
+</p>
+
+
 <h1><a name="NL"><country-name NL>:</a></h1>
 
 # Consultant: NL
@@ -5157,6 +5171,17 @@ please check our website for pricing.>
 <email   bfrancom@gmail.com>
 <URL     "http://www.benfrancom.com/debian/">
 <rates   Negotiable.>
+</p>
+
+# Consultant: US
+# re-added on 12.07.2015
+<p>
+<name    John Michael Rulnick, Ph.D.>
+<company Rulnick Engineering>
+<address Boston MA, <country-name US>>
+<email   debian@rulnick.com scramble="yes">
+<rates   Free initial consultation; discounts for small businesses,
+         non-profits, and educational institutions; please see rulnick.com.>
 </p>
 
 
