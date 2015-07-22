@@ -6,11 +6,11 @@
 <bind-gettext-domain domain="cdimage" />
 
 # Release name
-<define-tag release-name>jessie</define-tag>
+<define-tag release-name>stretch</define-tag>
 # Version
-<define-tag version>8.0</define-tag>
-<define-tag shortversion>8.0</define-tag>
-<define-tag humanversion>Jessie (8.0)</define-tag>
+<define-tag version>alpha1</define-tag>
+<define-tag shortversion>a1</define-tag>
+<define-tag humanversion>Stretch Alpha 1</define-tag>
 
 # If arches are added here, then also comment them out for the
 # devel-other-images tag below
@@ -19,11 +19,6 @@
 # Reinstated for official releases
 <define-tag netinst-images>
 <images-list url="http://cdimage.debian.org/cdimage/<release-name />_di_<version />/@ARCH@/iso-cd/debian-<release-name />-DI-<shortversion />-@ARCH@-netinst.iso" arch="<strip-arches "<devel-images-arches />" "s390 s390x source" />" />
-</define-tag>
-
-# Reinstated for official releases
-<define-tag businesscard-images>
-<images-list url="http://cdimage.debian.org/cdimage/<release-name />_di_<version />/@ARCH@/iso-cd/debian-<release-name />-DI-<shortversion />-@ARCH@-businesscard.iso" arch="<strip-arches "<devel-images-arches />" "s390 s390x source" />" />
 </define-tag>
 
 # Turned out not to be such a good idea for official releases as the link would
