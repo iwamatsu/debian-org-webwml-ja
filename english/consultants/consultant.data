@@ -1090,6 +1090,17 @@ rates, it depends on your needs.>
 <rates   Negotiable.>
 </p>
 
+# Consultant: BR
+# added on 28.07.2015
+<p>
+<company COLIVRE>
+<address <country-name BR>>
+<email   debian@colivre.coop.br>
+<URL     "http://colivre.coop.br/">
+<rates   Negotiable.>
+<additional_info colivre>
+</p>
+
 
 # <h1><a name="BG"><country-name BG>:</a></h1>
 
@@ -1999,6 +2010,16 @@ prices during summer holidays.>
 <URL	 "http://www.sysnove.fr/">
 <rates   Please contact us for rates.>
 <additional_info sysnove>
+</p>
+
+# Consultant: FR
+# added on 28.07.2015
+<p>
+<name    Samuel MARTIN MORO>
+<address 94270, Kremlin-Bicetre, <country-name FR>>
+<phone   +33-630520179>
+<email   faust64@gmail.com scramble="yes">
+<rates   from 25$/hour.>
 </p>
 
 
@@ -3871,6 +3892,19 @@ Universiti Teknologi MARA, 40450 Shah Alam, Selangor, <country-name MY>>
 <additional_info linuxlabs>
 </p>
 
+# Consultant: PL
+# added on 28.07.2015
+<p>
+<name	 Patryk Gorczyca>
+<company NetFS>
+<address Szczecin / Slupsk, <country-name PL>>
+<phone   (+48)600-076-192>
+<email   a@netfs.pl>
+<URL	 "https://netfs.pl">
+<rates	 Depending on requirements, please contact us for details.>
+<additional_info netfs>
+</p>
+
 
 <h1><a name="PT"><country-name PT>:</a></h1>
 
@@ -5180,8 +5214,21 @@ please check our website for pricing.>
 <company Rulnick Engineering>
 <address Boston MA, <country-name US>>
 <email   debian@rulnick.com scramble="yes">
+<URL     "https://rulnick.com/">
 <rates   Free initial consultation; discounts for small businesses,
          non-profits, and educational institutions; please see rulnick.com.>
+</p>
+
+# Consultant: US
+# re-added on 28.07.2015
+<p>
+<company ScratchSpace Inc.>
+<address 101 Cooper Street, Suite 218, Santa Cruz, CA 95060, <country-name US>>
+<phone   831-621-7928>
+<email   sales@scratchspace.com>
+<URL     "http://www.scratchspace.com">
+<rates   Hourly, Project, and Maintenance plans available.>
+<additional_info scratchspace>
 </p>
 
 
