@@ -5,7 +5,7 @@
 ## * Use "sent" if the issue has been sent our; furhter changes should now
 ##   be done in Debian's webwml repository
 # Status: [content-frozen]
-# $Id: 20150805.wml,v 1.1 2015/08/05 08:03:25 neilm Exp $
+# $Id: 20150805.wml,v 1.3 2015/08/06 15:48:06 gusnan Exp $
 # $Rev: 5854 $
 
 ##
@@ -33,8 +33,6 @@
 
 ## You may use plain HTML here; we recommend to stick with paragraphs,
 ## lists and tables
-
-<p><strong>5 August 2015</strong></p>
 
 <ul>
 <li>16th Debian conference, first time in Germany, 15&ndash;22 August 2015, Heidelberg</li>
@@ -121,7 +119,7 @@ hours).</p>
 
 <h2>About Debian and DebConf</h2>
 
-<p>The <a href="http://debian.org>">Debian Project</a> is an association of
+<p>The <a href="http://debian.org">Debian Project</a> is an association of
 volunteer individuals who have made common cause to create an operating system
 comprised entirely of Free Software.
 Debian is used in numerous businesses, NGOs and the public sector world-wide.
