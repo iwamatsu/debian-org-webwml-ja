@@ -5,7 +5,7 @@ also present in kpdf, the PDF viewer for KDE.  A specially crafted PDF
 file could cause infinite resource consumption, in terms of both CPU
 and disk space.</p>
 
-<p>The old stable distribution (woody) is not affected by this problem.</p>
+<p>The oldstable distribution (woody) is not affected by this problem.</p>
 
 <p>For the stable distribution (sarge) this problem has been fixed in
 version 3.3.2-2sarge1.</p>
@@ -18,4 +18,4 @@ as the necessary libraries have made their C++ ABI transition.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2005/dsa-780.data"
-# $Id: dsa-780.wml,v 1.1 2005-08-22 09:39:48 joey Exp $
+# $Id: dsa-780.wml,v 1.2 2015/09/01 07:34:12 dogsleg-guest Exp $
