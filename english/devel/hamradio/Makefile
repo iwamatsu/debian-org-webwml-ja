@@ -3,13 +3,13 @@
 
 WMLBASE=../..
 CUR_DIR=devel/hamradio
-SUBS=News Pics
+SUBS=News Pics get
 
 include $(WMLBASE)/Make.lang
 
 index.$(LANGUAGE).html: index.wml $(TEMPLDIR)/basic.wml
 
-live.$(LANGUAGE).html: live.wml $(TEMPLDIR)/basic.wml
+about.$(LANGUAGE).html: about.wml $(TEMPLDIR)/basic.wml
 
 dev.$(LANGUAGE).html: dev.wml $(TEMPLDIR)/basic.wml
 

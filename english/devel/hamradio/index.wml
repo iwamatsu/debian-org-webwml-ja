@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Hamradio Pure Blend" NOHEADER="true"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.5 2015/08/30 20:53:48 irl Exp $
+# $Id: index.wml,v 1.7 2015/08/31 12:08:42 irl Exp $
 
 <link rel="stylesheet" href="../../debhome.css">
 <style type="text/css">
@@ -32,6 +32,8 @@ Every <a href="http://blends.debian.org/">Pure Blend</a> is a subset of Debian
 that is configured to support a particular target group out-of-the-box. This
 blend aims to support the needs of radio amateurs.</p>
 
+<p><a href="./about">Read more&hellip;</a></p>
+
 <div id="hometoc">
 <ul id="hometoc-cola">
   <li><a href="./about">About the blend</a></li>
@@ -41,8 +43,8 @@ blend aims to support the needs of radio amateurs.</p>
 <ul id="hometoc-colb">
   <li><a href="./get/">Getting the blend</a>
   <ul>
-    <li><a href="./get/live">Download DVD images</a></li>
-    <li><a href="./get/live-testing">Development live images</a></li>
+    <li><a href="./get/live">Download live images</a></li>
+    <li><a href="./get/metapackages">Using the metapackages</a></li>
   </ul></li>
 </ul>
 <ul id="hometoc-colc">
