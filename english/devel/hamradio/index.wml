@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Hamradio Pure Blend" NOHEADER="true"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.7 2015/08/31 12:08:42 irl Exp $
+# $Id: index.wml,v 1.8 2015/09/01 12:23:40 irl Exp $
 
 <link rel="stylesheet" href="../../debhome.css">
 <style type="text/css">
@@ -50,7 +50,7 @@ blend aims to support the needs of radio amateurs.</p>
 <ul id="hometoc-colc">
   <li><a href="./docs">Documentation</a>
   <ul>
-    <li><a href="./docs/handbook">Debian Hamradio Handbook</a></li>
+    <li><a href="https://wiki.debian.org/DebianHams/Handbook">Debian Hamradio Handbook</a></li>
   </ul></li>
   <li><a href="./support">Support</a></li>
 </ul>
