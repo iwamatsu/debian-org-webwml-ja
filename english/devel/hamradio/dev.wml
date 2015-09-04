@@ -1,5 +1,5 @@
 #use wml::debian::template title="Blend Development"
-# $Id: dev.wml,v 1.1 2015/08/30 17:26:54 irl Exp $
+# $Id: dev.wml,v 1.2 2015/09/03 17:09:00 dogsleg-guest Exp $
 
 <h2>Packaging</h2>
 
@@ -47,7 +47,7 @@ sudo lb build</pre>
 <p><i>Note: you will need <a
  href="https://packages.debian.org/unstable/git-buildpackage">git-buildpackage</a>
 	and <a href="https://packages.debian.org/unstable/live-build">live build</a>
-	installed to build the source.</a></i></p>
+	installed to build the source.</i></p>
 
 <p>To learn more about how to work with live-build sources, see the <a
  href="http://live.debian.net/manual/unstable/html/live-manual/toc.en.html">Live
