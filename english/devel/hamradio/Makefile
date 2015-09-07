@@ -14,3 +14,7 @@ about.$(LANGUAGE).html: about.wml $(TEMPLDIR)/basic.wml
 dev.$(LANGUAGE).html: dev.wml $(TEMPLDIR)/basic.wml
 
 contact.$(LANGUAGE).html: contact.wml $(TEMPLDIR)/basic.wml
+
+support.$(LANGUAGE).html: support.wml $(TEMPLDIR)/basic.wml
+
+fun.$(LANGUAGE).html: fun.wml $(TEMPLDIR)/basic.wml
