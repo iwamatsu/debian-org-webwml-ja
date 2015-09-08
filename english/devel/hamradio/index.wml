@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian Hamradio Pure Blend" NOHEADER="true"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.10 2015/09/07 01:37:25 irl Exp $
+# $Id: index.wml,v 1.11 2015/09/07 20:20:28 irl Exp $
 
 <link rel="stylesheet" href="../../debhome.css">
 <style type="text/css">
@@ -64,6 +64,7 @@ blend aims to support the needs of radio amateurs.</p>
 </ul>
 <ul id="hometoc-cole">
   <li><a href="./fun">Fun</a></li>
+  <li><a href="https://twitter.com/DebianHamradio"><img src="Pics/twitter.gif" alt="Twitter" width="80" height="15" /></li>
 </ul>
 </div>
 
