@@ -1,5 +1,6 @@
-#use wml::debian::template title="Documentation"
-# $Id: index.wml,v 1.1 2015/09/01 12:23:42 irl Exp $
+#use wml::debian::blend title="Documentation"
+#use "../navbar.inc"
+# $Id: index.wml,v 1.2 2015/09/08 17:24:08 irl Exp $
 
 <p>
 There are many sources of documentation available for using hamradio software

@@ -1,5 +1,6 @@
-#use wml::debian::template title="Contact"
-# $Id: contact.wml,v 1.1 2015/08/30 20:53:48 irl Exp $
+#use wml::debian::blend title="Contact"
+#use "navbar.inc"
+# $Id: contact.wml,v 1.2 2015/09/08 17:24:07 irl Exp $
 
 <p>The primary point of contact for hamradio related topics in Debian is the
 Debian Hamradio Maintainers team. You can contact the team by email or by
