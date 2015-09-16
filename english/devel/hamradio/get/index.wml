@@ -1,6 +1,7 @@
 #use wml::debian::blend title="Getting the blend"
+#use wml::debian::blends::hamradio
 #use "../navbar.inc"
-# $Id: index.wml,v 1.5 2015/09/08 17:24:09 irl Exp $
+# $Id: index.wml,v 1.6 2015/09/15 14:41:09 irl Exp $
 # This page is nowhere near done
 
 <p>The Debian Hamradio Pure Blend is distributed <a href="../../../intro/free">freely</a>
@@ -46,9 +47,9 @@ over Internet.</p>
     </p>
     <ul class="quicklist downlist">
       <li><a title="Download live image for 64-bit Intel and AMD PC"
-	     href="http://irl.sdf.org/hamradio-images/debian-hamradio-jessie-preview-amd64.iso">64-bit PC live</a></li>
+	     href="<stable-amd64-url/>">64-bit PC live</a></li>
       <li><a title="Download live image 32-bit Intel and AMD PC"
-	     href="http://irl.sdf.org/hamradio-images/debian-hamradio-jessie-preview-i386.iso">32-bit PC live</a></li>
+	     href="<stable-i386-url/>">32-bit PC live</a></li>
     </ul>
   </div>
 </div>

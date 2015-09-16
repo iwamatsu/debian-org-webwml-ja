@@ -4,12 +4,6 @@
 <ifneq "$(BLENDHOME)" "" "
 <link rel='stylesheet' href='$(CSS:-$(HOME))/debhome.css'>
 <style type='text/css'>
-span.download a {
-        padding-top: 7px;
-}
-span.download {
-        line-height: 1.1 !important;
-}
 h1#hamradio {
         background-image: url('Pics/splash_hamradio.png') !important;
 }

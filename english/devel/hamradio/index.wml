@@ -1,9 +1,10 @@
 #use wml::debian::blend title="Debian Hamradio Pure Blend" NOHEADER="true" BLENDHOME="true"
 #use wml::debian::recent_list
-# $Id: index.wml,v 1.13 2015/09/08 17:24:07 irl Exp $
+#use wml::debian::blends::hamradio
+# $Id: index.wml,v 1.15 2015/09/15 14:51:30 irl Exp $
 
-<span class="download"><a href="http://irl.sdf.org/hamradio-images/debian-hamradio-jessie-preview-amd64.iso">
-Download Debian Hamradio<br>Pure Blend Jessie Preview<em>(64-bit LiveDVD)</em></a>
+<span class="download"><a href="<stable-amd64-url/>">
+Download Debian Hamradio <stable-version/><br/><em>(64-bit LiveDVD)</em></a>
 </span>
 <div id="splash">
 	<h1 id="hamradio">Debian Hamradio Pure Blend</h1>
@@ -34,7 +35,7 @@ blend aims to support the needs of radio amateurs.</p>
 <ul id="hometoc-colc">
   <li><a href="./docs">Documentation</a>
   <ul>
-    <li><a href="../../doc/manuals/hamradio-handbook/">Debian Hamradio Handbook</a></li>
+    <li><a href="<hamradio-handbook-html/>">Debian Hamradio Handbook</a></li>
   </ul></li>
   <li><a href="./support">Support</a></li>
 </ul>
@@ -42,7 +43,7 @@ blend aims to support the needs of radio amateurs.</p>
   <li><a href="./dev">Development</a>
     <ul>
       <li><a href="https://wiki.debian.org/DebianHams">Hamradio Maintainers Team</a></li>
-      <li><a href="../../doc/hamradio-maintguide/">Hamradio Maintainers Guide</a></li>
+      <li><a href="<hamradio-maintguide-html/>">Hamradio Maintainers Guide</a></li>
     </ul>
   </li>
 </ul>
