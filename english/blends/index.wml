@@ -1,17 +1,19 @@
 #use wml::debian::template title="Debian Pure Blends" BARETITLE="true"
 
-   <p>A general purpose operating system like Debian can be the perfect
-solution for many different problems. Whether you want Debian to work for you
-in the classroom, as a games machine, or in the office, each problem area has
-its own unique needs and requires a different subset of packages tailored in a
-different way.</p>
-   <p>Debian Pure Blends provide support for special user interests. They
-implement a new approach to cover interests of specialised users, who might be
-children, lawyers, medical staff, visually impaired people, etc. Of late,
-several Debian Pure Blends have evolved. The common goal of those is to make
-installation and administration of computers for their target users as easy as
-possible, and to serve in the role as the missing link between software
-developers and users well.</p>
+<p>Debian Pure Blends are a solution for special groups of users with different
+skills and interests. Not only do they provide handy collections (metapackages)
+of specific program packages, but they also ease installation and configuration
+for the intended purpose.</p>
+
+<p>Debian Pure Blends are not forks from Debian. As the name underlines, they are
+pure Debian and just provide a specific flavour. So if you obtain the complete
+Debian GNU/Linux distribution, you have all available Debian Pure Blends
+available for installation.</p>
+
+<p>Debian Pure Blends are also just called Blends when used clearly in the
+Debian internal context which makes "Pure" and "Debian" obvious, like on this
+page.</p>
+
    <p>You can read more about Debian Pure Blends in the <a
 href="http://blends.debian.org/blends/">Pure Blends Manual</a>.</p>
 
@@ -26,16 +28,13 @@ href="http://blends.debian.org/blends/">Pure Blends Manual</a>.</p>
   <h2>Released Blends</h2>
   <div>
    <p>These blends have been released with Debian <a
-href="https://www.debian.org/releases/jessie/">jessie</a>. Those with
+href="https://www.debian.org/releases/jessie/">jessie</a>. Those with official
 installation media available are marked with a <img src="Pics/Compact_disc.svg"
 alt="[CD]" height="15" width="15">.</p>
    <dl>
     <dt><a href="http://blends.debian.org/debichem">DebiChem (Chemistry)</a></dt>
     <dd>The goal of DebiChem is to make Debian a good platform for chemists in
         their day-to-day work.</dd>
-    <dt><a href="http://blends.debian.org/edu">Debian Edu (Education)</a></dt>
-    <dd>The goal of Debian Edu is to provide a Debian OS system suitable for
-        educational use and in schools.</dd>
     <dt><a href="http://blends.debian.org/games">Debian Games</a></dt>
     <dd>The goal of Debian Games is to provide games in Debian from arcade and
         aventure to simulation and strategy.</dd>
@@ -45,7 +44,7 @@ alt="[CD]" height="15" width="15">.</p>
     <dt><a href="http://blends.debian.org/junior">Debian Junior</a></dt>
     <dd>The goal of Debian Junior is to make Debian an OS that children will
         enjoy using.</dd>
-    <dt><a href="http://blends.debian.org/med">Debian Med</a></dt>
+    <dt><a href="http://blends.debian.org/med">Debian Med (Medical and Life Sciences)</a></dt>
     <dd>The goal of Debian Med is a complete free and open system for all tasks
 	in medical care and research. To achieve this goal Debian Med
 	integrates related free and open source software for medical imaging,
@@ -76,6 +75,9 @@ src="Pics/Compact_disc.svg" alt="[CD]" height="15" width="15">.</p>
     <dt><a href="https://wiki.debian.org/Design">Debian Design</a></dt>
     <dd>The goal of Debian Design is to provide applications for designers.
         This includes graphic design, web design and multimedia design.</dd>
+    <dt><a href="http://blends.debian.org/edu">Debian Edu (Education)</a></dt>
+    <dd>The goal of Debian Edu is to provide a Debian OS system suitable for
+        educational use and in schools.</dd>
     <dt><a href="http://blends.debian.org/ezgo">Debian EzGo (Asian Localisation)</a></dt>
     <dd>The goal of Debian EzGo is to provide culture-based open and free
 	technology with native language support and appropriate user friendly,
@@ -83,6 +85,12 @@ src="Pics/Compact_disc.svg" alt="[CD]" height="15" width="15">.</p>
 	hardwares to empower human capacity building and technology development
 	in many areas and regions, like Africa, Afghanistan, Indonesia, Vietnam
         using Debian.</dd>
+    <dt><a href="https://wiki.debian.org/FreedomBox">FreedomBox</a></dt>
+    <dd>The goal of FreedomBox is to develop, design and promote personal
+	servers running free software for private, personal communications.
+	Applications include blogs, wikis, websites, social networks, email,
+	web proxy and a Tor relay on a device that can replace a wireless
+        router so that data stays with the users.</dt>
     <dt><a href="./hamradio">Debian Hamradio</a> <img src="Pics/Compact_disc.svg" alt="[CD]" height="15" width="15"></dt>
     <dd>The goal of Debian Hamradio is to support the needs of radio amateurs
 	in Debian by providing logging, data mode and packet mode applications
