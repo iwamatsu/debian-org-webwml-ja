@@ -6,7 +6,7 @@ and Exposures project identifies the following problems:</p>
 
 <ul>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-9297">CVE-2014-9297</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-9750">CVE-2014-9750</a>
 
     <p>Stephen Roettger of the Google Security Team, Sebastian Krahmer of
     the SUSE Security Team and Harlan Stenn of Network Time Foundation
@@ -14,7 +14,7 @@ and Exposures project identifies the following problems:</p>
     validated in several code paths in ntp_crypto.c, which could lead to
     information leakage or denial of service (ntpd crash).</p></li>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-9298">CVE-2014-9298</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2014-9751">CVE-2014-9751</a>
 
     <p>Stephen Roettger of the Google Security Team reported that ACLs
     based on IPv6 ::1 addresses can be bypassed.</p></li>
@@ -32,4 +32,4 @@ version 1:4.2.6.p5+dfsg-4.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dsa-3154.data"
-# $Id: dsa-3154.wml,v 1.1 2015/02/05 21:15:09 carnil Exp $
+# $Id: dsa-3154.wml,v 1.2 2015/10/06 04:55:19 carnil Exp $
