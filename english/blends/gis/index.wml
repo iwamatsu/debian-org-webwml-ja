@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Debian GIS Pure Blend" NOHEADER="true" BLENDHOME="true" BARETITLE="true"
 #use wml::debian::recent_list
 #use wml::debian::blends::gis
-# $Id: index.wml,v 1.4 2015/10/08 01:30:50 irl Exp $
+# $Id: index.wml,v 1.5 2015/10/15 08:17:30 irl Exp $
 
 <span class="download"><a href="<stable-amd64-url/>">
 Download Debian GIS <stable-version/><br/><em>(64-bit LiveDVD)</em></a>
@@ -45,9 +45,8 @@ distribution.</p>
   <li><a href="./deriv">Derivatives</a></li>
 </ul>
 <ul id="hometoc-cold">
-  <li><a href="./dev">Development</a>
+  <li><a href="https://wiki.debian.org/DebianGis">Development</a>
     <ul>
-      <li><a href="https://wiki.debian.org/DebianGis">GIS Team</a></li>
       <li><a href="<gis-policy-html/>">GIS Team Policy</a></li>
     </ul>
   </li>
