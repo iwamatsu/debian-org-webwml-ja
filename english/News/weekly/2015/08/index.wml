@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-10-22" SUMMARY="Welcome to the New DPN, Internal News and Happenings, Calls for Help, More than just code, Reports, Outside News"
 
-# $Id: index.wml,v 1.1 2015/10/23 04:00:34 dnorwood-guest Exp $
+# $Id: index.wml,v 1.4 2015/10/23 09:29:23 holger-guest Exp $
 # $Rev$
 # Status: [content-frozen]
 
@@ -15,7 +15,7 @@
 
 <intro issue="eight" />
 <toc-display/>
-<toc-add-entry name="newdpn">Welcome to the "New" Debian Project News!</toc-add-entry>
+<toc-add-entry name="newdpn">Welcome to the <q>New</q> Debian Project News!</toc-add-entry>
 
 <p>We hope that you enjoy our first newly revised issue of the DPN. We have shifted 
 some of the content around, introduced new sections, and moved some content 
@@ -30,7 +30,7 @@ Please be sure to follow us on <a href="https://identi.ca/debian">identi.ca/debi
 
 <p>One of the major changes is the removal of the DSA security advisories from 
 the newsletter. Debian's Security Team releases current advisories on a daily
-basis (<a href="$(HOME)/security/2015/dsa-">Security Advisories 2015</a>), so
+basis (<a href="$(HOME)/security/2015/">Security Advisories 2015</a>), so
 please read them carefully and take the proper measures.</p>
 
 <p>If you need to be kept up to date about security advisories released by the 
@@ -320,5 +320,5 @@ Weekly News website</a>.</p>
 
 <continue-dpn />
 
-#use wml::debian::projectnews::footer editor="Cédric Boutillier, Jean-Pierre Giraud, Donald Norwood, Laura Arjona Reina, Justin B Rye, and Paul Wise"
+#use wml::debian::projectnews::footer editor="Cédric Boutillier, Jean-Pierre Giraud, Donald Norwood, Laura Arjona Reina, Justin B Rye, Paul Wise"
 # Translators may also add a translator="foo, bar, baz" to the previous line
