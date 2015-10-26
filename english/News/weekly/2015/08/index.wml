@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-10-22" SUMMARY="Welcome to the New DPN, Internal News and Happenings, Calls for Help, More than just code, Reports, Outside News"
 
-# $Id: index.wml,v 1.4 2015/10/23 09:29:23 holger-guest Exp $
+# $Id: index.wml,v 1.5 2015/10/25 10:06:23 holger-guest Exp $
 # $Rev$
 # Status: [content-frozen]
 
@@ -162,7 +162,7 @@ and reviews of other people's translations. </p>
 <a href="https://wiki.debian.org/Teams/Welcome/Translators">Welcome Translators</a> wiki page.
 </p>
 
-<p><b>Packages needing help</p></b>
+<p><b>Packages needing help</b></p>
 ## link= link to the mail report from wnpp@debian.org to debian-devel ML
 ## orphaned= number of packages orphaned according to $link
 ## rfa= number of packages up for adoption according to $link
@@ -184,7 +184,6 @@ There are <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?tag=newcomer">1
 
 <toc-add-entry name="namesuggestionneeded">More than just code</toc-add-entry>
 
-<p>
 <p><b>Tips and Tricks</b></p>
 
 <p>Several members of the Debian community shared tips: François Marier
