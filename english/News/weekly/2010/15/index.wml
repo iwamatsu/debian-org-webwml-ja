@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.17 2014/04/30 09:22:35 pabs Exp $
+$Id: index.wml,v 1.19 2015/11/09 03:32:54 pabs Exp $
 $Rev: 1116 $
 Status: sent 
   -->
@@ -70,7 +70,7 @@ href="https://lists.debian.org/20101027075154.GA29575@anguilla.debian.or.at">rep
 of the <a href="http://en.opensuse.org/Portal:Conference">openSUSE
 Conference</a> where she has been representing Debian through a
 talk about <q>Debian - The Project and its Resources</q> whose
-<a href="http://deb.li/DebSuSE">slides</a> are available.
+<a href="https://deb.li/DebSuSE">slides</a> are available.
 One topic raised was about package naming schemes, sometimes diverting from
 upstream for consistency reasons, so inter-distribution tools would require
 some layer to map the package name from one distribution to another.
@@ -114,7 +114,7 @@ success</a> gathering about 150 people from all over Europe.
 Stefano finalized the <a href="https://wiki.debian.org/Sprints">Debian Sprint
 Program</a>, and <a href="http://www.lucas-nussbaum.net/blog/?p=593">Lucas
 Nussbaum</a> worked on <a href="https://udd.debian.org/bugs.cgi">UDD</a> and <a
-href="http://svn.debian.org/wsvn/collab-qa/debcluster/scripts/tasks/instest.rb">his
+href="https://anonscm.debian.org/viewvc/collab-qa/debcluster/scripts/tasks/instest.rb">his
 piuparts replacement</a> between <a
 href="http://www.loria.fr/~lnussbau/files/minidebconfparis2010-debian-ubuntu.pdf">two</a>
 <a href="http://www.loria.fr/~lnussbau/files/minidebconfparis2010-debian-qa.pdf">talks</a>.

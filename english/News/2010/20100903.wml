@@ -1,7 +1,7 @@
 <define-tag pagetitle>Italian Debian Community Conference 2010 - 17th-19th September, Perugia (PG - Italy)</define-tag>
 <define-tag release_date>2010-09-03</define-tag>
 #use wml::debian::news
-# $Id: 20100903.wml,v 1.3 2014/04/30 07:41:22 pabs Exp $
+# $Id: 20100903.wml,v 1.4 2015/11/09 03:32:51 pabs Exp $
 
 <p>The Debian Project and the Debian Italian community are pleased to announce
 that the 5th edition of the Debian Italian community conference will take place
@@ -9,7 +9,7 @@ from the 17th to the 19th of September in Perugia, Italy. For the first time,
 the conference has been organized in association with the <a
 href="http://www.ubuntu-it.org/">Italian Ubuntu community</a>, joining efforts
 with the traditional Italian Ubuntu Meeting. For the occasion the conference
-has been renamed to <a href="http://deb.li/duccit10"><q>Italian Debian/Ubuntu
+has been renamed to <a href="https://deb.li/duccit10"><q>Italian Debian/Ubuntu
 Community Conference</q></a> (DUCC-IT '10 for short) and will focus on bringing
 together both communities and improving cross-distribution collaboration.
 Users, contributors, and enthusiasts of Debian, Ubuntu, and any other

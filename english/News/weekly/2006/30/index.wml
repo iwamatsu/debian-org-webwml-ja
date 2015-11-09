@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-07-25" SUMMARY="DzongkhaLinux, SSL, Documentation, Assets, PTS, Release, Installer, DVD/CD"
-# $Id: index.wml,v 1.12 2014/10/19 04:55:31 pabs Exp $
+# $Id: index.wml,v 1.13 2015/11/09 03:28:22 pabs Exp $
 
 <p>Welcome to this year's 30th issue of DWN, the weekly newsletter for the
 Debian community.  Christoph Berg <a
@@ -8,7 +8,7 @@ implemented</a> an overview page for tasks in  the <a
 href="https://qa.debian.org/developer.php">packages overview</a>.  He also <a
 href="https://lists.debian.org/debian-qa/2006/07/msg00086.html">announced</a>
 that the repository has been moved to <a
-href="http://svn.debian.org/wsvn/qa/trunk/">Subversion</a> and that
+href="https://anonscm.debian.org/viewvc/qa/trunk/">Subversion</a> and that
 notifications are now handled by the Package Tracking System directly.</p>
 
 <p><strong>DzongkhaLinux launched.</strong> The Debian project <a
