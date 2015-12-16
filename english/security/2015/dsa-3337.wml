@@ -11,14 +11,14 @@ in version 2.26.1-1+deb7u1.</p>
 version 2.31.1-2+deb8u2.</p>
 
 <p>For the testing distribution (stretch), this problem has been fixed
-in version 2.31.5-1.</p>
+in version 2.31.7-1.</p>
 
 <p>For the unstable distribution (sid), this problem has been fixed in
-version 2.31.5-1.</p>
+version 2.31.7-1.</p>
 
 <p>We recommend that you upgrade your gdk-pixbuf packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dsa-3337.data"
-# $Id: dsa-3337.wml,v 1.1 2015/08/18 16:13:06 kaare Exp $
+# $Id: dsa-3337.wml,v 1.2 2015/12/15 17:33:55 carnil Exp $
