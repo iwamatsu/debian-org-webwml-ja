@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Debian Hamradio Pure Blend" NOHEADER="true" BLENDHOME="true"
 #use wml::debian::recent_list
 #use wml::debian::blends::hamradio
-# $Id: index.wml,v 1.1 2015/09/27 14:40:54 irl Exp $
+# $Id: index.wml,v 1.2 2015/12/17 23:14:02 irl Exp $
 
 <span class="download"><a href="<stable-amd64-url/>">
 Download Debian Hamradio <stable-version/><br/><em>(64-bit LiveDVD)</em></a>
@@ -52,6 +52,14 @@ blend aims to support the needs of radio amateurs.</p>
   <li><a href="https://twitter.com/DebianHamradio"><img src="Pics/twitter.gif" alt="Twitter" width="80" height="15" /></a></li>
 </ul>
 </div>
+
+<h2>Getting Started</h2>
+
+<ul>
+<li>If you've already got Debian installed, check out the <a href="./get/metapackages">list of metapackages</a> to discover amateur radio software you can install.</li>
+<li>If you're new to Debian, you can try out a <a href="./get/live">live image</a> which will allow you to experience the Debian Hamradio blend without making changes to your system. It also includes an installer so you can install it to your system if you like what you find.</li>
+<li>To get help in using amateur radio software in Debian, you can use one of our <a href="./support">support channels</a>.</li>
+</ul>
 
 <h2>News</h2>
 
