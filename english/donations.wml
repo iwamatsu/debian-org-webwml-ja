@@ -15,19 +15,23 @@ and other things.
 Thanks to all of our <a href="#donors">donors</a> for supporting Debian!
 </p>
 
-<p id="spi-usa-epay">
+<p id="default">
+<!--
+Hidden due to an issue with USAePay/Paysimple
+https://lists.debian.org/msgid-search/CABJgS1ZtpcfM3uzA+j9_mp6ocR2H=p4cOcWWs2rjSNwhWYWepw@mail.gmail.com
+<span id="spi-usa-epay">
 The easiest method of donating to Debian is by credit/debit card via USA ePay
 to <a href="http://www.spi-inc.org/" title="SPI">Software in the Public Interest</a>,
 a non-profit organization that holds assets in trust for Debian.
+</span>
 You can also donate via the <a href="#other">other methods listed below</a>.
+-->
+You can donate via the <a href="#other">methods listed below</a>.
 </p>
 
-<p>
-Up to August 2015, you can also support Debian by supporting DebConf15; this year's
-edition of Debian's developer conference. In this case, it is best to donate to
-<a href="http://debconf15.debconf.org/verein.xhtml">DebConf e.V.</a> directly.
-</p>
-
+<!--
+Hidden due to an issue with USAePay/Paysimple
+https://lists.debian.org/msgid-search/CABJgS1ZtpcfM3uzA+j9_mp6ocR2H=p4cOcWWs2rjSNwhWYWepw@mail.gmail.com
 <form method="post" action="https://www.usaepay.com/interface/epayform/">
 <div>
   <span>$<input type="text" name="UMamount" size="6"> USD, paid once only</span>
@@ -37,6 +41,7 @@ edition of Debian's developer conference. In this case, it is best to donate to
   <input type="submit" tabindex="2" value="Donate" />
 </div>
 </form>
+-->
 
 <h2 id="other">Other methods</h2>
 
@@ -54,7 +59,11 @@ hold assets in trust for Debian and recieve donations on Debian's behalf.
 <tr>
 <td><a href="#spi"><acronym title="Software in the Public Interest">SPI</acronym></a></td>
 <td>
+<!--
+Hidden due to an issue with USAePay/Paysimple
+https://lists.debian.org/msgid-search/CABJgS1ZtpcfM3uzA+j9_mp6ocR2H=p4cOcWWs2rjSNwhWYWepw@mail.gmail.com
  <a href="#spi-usa-epay">USA ePay</a>,
+-->
  <a href="#spi-click-n-pledge">Click &amp; Pledge</a> (recurring donations),
  <a href="#spi-cheque">cheque</a> (USD/CAD),
  <a href="#spi-other">other</a>
