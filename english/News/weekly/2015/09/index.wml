@@ -1,6 +1,6 @@
-#use wml::debian::projectnews::header PUBDATE="2016-01-01" SUMMARY="Internal News and Happenings, Calls for Help, Reports, Outside News"
+#use wml::debian::projectnews::header PUBDATE="2016-01-01" SUMMARY="Mourning Ian Murdock, Internal News and Happenings, Calls for Help, Reports, Outside News"
 
-# $Id: index.wml,v 1.2 2016/01/02 07:13:52 dnorwood-guest Exp $
+# $Id: index.wml,v 1.6 2016/01/02 21:21:51 jipege1-guest Exp $
 # $Rev$
 # Status: [content-frozen]
 
@@ -133,14 +133,14 @@ collaborate with Debian specifically in Brazil, and gave an <q>everything you wa
 to know about Debian</q> session. In addition to the presentation, the project had a
 stand available at the exposition to receive stakeholders and distribute merchandise.</p>
 
-<p><b>Annual Deb Med Advent Calendar</b></b>
+<p><b>Annual Deb Med Advent Calendar</b></p>
 
 <p>The <a href="http://debian-med.alteholz.de/advent/">Debian Med
 Advent Calendar</a> ran from December 1 through to 24. This
 <a href="https://lists.debian.org/debian-med/2015/12/msg00006.html">annual event</a>   
 aims at squashing bugs each day and marking them on their Advent Calendar. This
 year they were able to close more than 50% of open bugs, 150 in total! Many
-thanks to all who contributed.<p>
+thanks to all who contributed.</p>
 
 <p><b>General Resolution: Update Standard Resolution Procedure</b></p>
 
@@ -159,6 +159,7 @@ proposal of the amendment, seconds, and voting results were recently
 
 <p><b>Once upon a time in Debian:</b></p>
 
+<ul>
 <li>1996-12-12 The <a href="https://lists.debian.org/debian-announce/1996/msg00026.html">Debian
 GNU/Linux 1.2 <q>Rex</q> release </a> announced by Bruce Perens.</li>
 <li>2004-11-28 <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=203741">Package
@@ -230,7 +231,6 @@ newcomer bugs available.</p>
 
 <toc-add-entry name="namesuggestionneeded">More than just code</toc-add-entry>
 
-<p>
 <p><b>Tips and Tricks</b></p>
 
 <p>David Bremner shares a quick How-To for a <a href="http://www.cs.unb.ca/~bremner//blog/posts/bootable-usb/">Bootable Debian USB</a>. Jonathan McDowell
@@ -272,7 +272,7 @@ average of the last months.
 </p>
 
 <p>Guido Günther reported on his contributed LTS work for <a href="http://honk.sigxcpu.org/con/archive/2015/09/">August</a>; he worked on
-pykerberors, wordpress and the Common Vulnerabilities and Exposures (CVE) 
+pykerberos, wordpress and the Common Vulnerabilities and Exposures (CVE) 
 triage for nine CVE items. In <a
 href="http://honk.sigxcpu.org/con/archive/2015/10/">September</a> he worked on glibc and nss, with nine CVEs.
 For the month of <a href="http://honk.sigxcpu.org/con/archive/2015/11/">October</a> he worked on krb5 and the triaging of 16 CVEs. He also
@@ -314,11 +314,26 @@ on package and toolchain fixes in the Stretch cycle.</p>
 
 <li><a href="https://people.debian.org/~lunar/blog/posts/reproducible_builds_stretch_week_31/">Week 31</a> reports 17 packages moved to reproducible state, 78 packages reviewed and a total of 49 packages updated. 25 packages have been identified as failing to build from source.</li>
 
-<li><a href="https://people.debian.org/~lunar/blog/posts/reproducible_builds_stretch_week_32/">Week 32<a/> reports 21 packages moved to reproducible state, 27 packages reviewed and a total of 14 packages updated. 4 packages have been identified as failing to build from source.</li>
+<li><a 
+href="https://people.debian.org/~lunar/blog/posts/
+reproducible_builds_stretch_week_32/">Week 32</a> reports 21 packages 
+moved to reproducible state, 27 packages reviewed and a total of 14 
+packages updated. 4 packages have been identified as failing to build 
+from source.</li>
 
-<li><a href="https://people.debian.org/~lunar/blog/posts/reproducible_builds_stretch_week_33/">Week 33<a/> reports 43 packages moved to reproducible state, 113 packages reviewed and a total of 56 packages updated. 42 packages have been identified as failing to build from source.</li>
+<li><a 
+href="https://people.debian.org/~lunar/blog/posts/
+reproducible_builds_stretch_week_33/">Week 33</a> reports 43 packages 
+moved to reproducible state, 113 packages reviewed and a total of 56 
+packages updated. 42 packages have been identified as failing to build 
+from source.</li>
 
-<li><a href="https://people.debian.org/~lunar/blog/posts/reproducible_builds_stretch_week_34/">Week 34<a/> reports 61 packages moved to reproducible state, 143 packages reviewed and a total of 22 packages updated. 12 packages have been identified as failing to build from source.</li>
+<li><a 
+href="https://people.debian.org/~lunar/blog/posts/
+reproducible_builds_stretch_week_34/">Week 34</a> reports 61 packages 
+moved to reproducible state, 143 packages reviewed and a total of 22 
+packages updated. 12 packages have been identified as failing to build 
+from source.</li>
 </ul>
 
 
