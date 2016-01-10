@@ -76,14 +76,9 @@ ARM ports.
 
 <ul>
 
-<li>Martin Michlmayr <email "tbm@cyrius.com">
+<li>Ian Campbell <email "ijc@debian.org">
 <br />
-Documentation, debian-installer, kernel
-</li>
-
-<li>Riku Voipio <email "riku.voipio@iki.fi">
-<br />
-armel porter and buildd maintainer
+debian-installer, kernel
 </li>
 
 <li>Aurelien Jarno <email "aurel32@debian.org">
@@ -91,14 +86,24 @@ armel porter and buildd maintainer
 ARM buildd maintainer and general porter
 </li>
 
-<li>Wookey <email "wookey@wookware.org">
-<br />
-Documentation
-</li>
-
 <li>Steve McIntyre <email "steve@einval.com">
 <br />
 Local admin for ARM machines, documentation and general porter
+</li>
+
+<li>Martin Michlmayr <email "tbm@cyrius.com">
+<br />
+Documentation, debian-installer
+</li>
+
+<li>Riku Voipio <email "riku.voipio@iki.fi">
+<br />
+armel porter and buildd maintainer
+</li>
+
+<li>Wookey <email "wookey@wookware.org">
+<br />
+Documentation
 </li>
 
 </ul>
