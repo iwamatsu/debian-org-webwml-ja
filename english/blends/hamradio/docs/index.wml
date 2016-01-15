@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Documentation"
 #use "../navbar.inc"
-# $Id: index.wml,v 1.1 2015/09/27 14:40:57 irl Exp $
+# $Id: index.wml,v 1.2 2016/01/15 00:34:13 pabs Exp $
 
 <p>
 There are many sources of documentation available for using hamradio software
@@ -30,6 +30,6 @@ for GUI applications. To view the man page for an installed application, run:
 <p>
 If you'd like to view the man page for an application that you do not currently
 have installed, you can search at <a
-href="http://manpages.debian.net/">manpages.debian.net</a>.
+href="http://manpages.debian.org/">manpages.debian.org</a>.
 </p>
 

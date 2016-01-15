@@ -1,5 +1,5 @@
 #use wml::debian::projectnews::header PUBDATE="2014-03-03" SUMMARY="Debian Technical Committee chooses systemd, Debian selected for Google Summer of Code 2014, DebConf14 organising team needs your help to raise funds, Barcelona Debian Women mini-DebConf"
-# $Id: index.wml,v 1.8 2015/05/16 19:38:42 holger-guest Exp $
+# $Id: index.wml,v 1.9 2016/01/15 00:42:13 pabs Exp $
 # $Rev: 5445 $
 # Status: [content-frozen]
 
@@ -103,7 +103,7 @@ a small GSoC-like operation to recruit new Debian contributors. It will be mainl
 interest for French-speaking candidates since the reward is a paperback copy of the
 <a href="http://raphaelhertzog.fr/livre/cahier-admin-debian/">French translation</a>
 of the
-<a href="http://debian-handbook.info">Debian Administrator's Handbook</a>.
+<a href="https://debian-handbook.info">Debian Administrator's Handbook</a>.
 
 Debian France is now actively looking for potential mentors to propose projects. The
 scope of the projects is much smaller than a Google Summer of Code (from about
