@@ -48,7 +48,7 @@ solution on x86 hardware.</p>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2015-8550">CVE-2015-8550</a>
 
-    <p>Felix Wilhelm of ERNW Research that the PV backend drivers are
+    <p>Felix Wilhelm of ERNW Research discovered that the PV backend drivers are
     vulnerable to double fetch vulnerabilities, possibly resulting in
     arbitrary code execution.</p></li>
 
@@ -61,8 +61,7 @@ solution on x86 hardware.</p>
     exhaustion).</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2015-8567">CVE-2015-8567</a>
-
-<p><a href="https://security-tracker.debian.org/tracker/CVE-2015-8568">CVE-2015-8568</a></p>
+    <a href="https://security-tracker.debian.org/tracker/CVE-2015-8568">CVE-2015-8568</a>
 
     <p>Qinghao Tang of Qihoo 360 Inc. discovered that the vmxnet3 device
     emulator could be used to intentionally leak host memory, thus
@@ -133,4 +132,4 @@ version 1:2.1+dfsg-12+deb8u5a.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3471.data"
-# $Id: dsa-3471.wml,v 1.1 2016/02/08 20:12:14 kaare Exp $
+# $Id: dsa-3471.wml,v 1.3 2016/02/09 09:11:13 kaare Exp $
