@@ -1,6 +1,6 @@
 <define-tag description>security update</define-tag>
 <define-tag moreinfo>
-<p>Several vulnerabilities have been fixed in the GNU C Library, glibc.                              </p>
+<p>Several vulnerabilities have been fixed in the GNU C Library, glibc.</p>
 
 <p>The first vulnerability listed below is considered to have critical
 impact.</p>
@@ -36,14 +36,14 @@ impact.</p>
     <p>The catopen function contains several unbound stack allocations
     (stack overflows), causing it the crash the process (denial of
     service).  No applications where this issue has a security impact
-    are currently known.</p>
-
-<p>While it is only necessary to ensure that all processes are not using
-the old glibc anymore, it is recommended to reboot the machines after
-applying the security upgrade.</p></li>
+    are currently known.</p></li>
 
 </ul>
 
+
+<p>While it is only necessary to ensure that all processes are not using
+the old glibc anymore, it is recommended to reboot the machines after
+applying the security upgrade.</p>
 <p>For the stable distribution (jessie), these problems have been fixed in
 version 2.19-18+deb8u3.</p>
 
@@ -55,4 +55,4 @@ version 2.21-8.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3481.data"
-# $Id: dsa-3481.wml,v 1.1 2016/02/16 14:49:12 carnil Exp $
+# $Id: dsa-3481.wml,v 1.2 2016/02/20 11:25:48 gusnan Exp $
