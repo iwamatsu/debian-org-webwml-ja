@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-02-18" SUMMARY="Internal News and Happenings: Debtags, Point Release, Remembering Ian, Tails Installer, Events, Reports, Outside News"
 
-# $Id: index.wml,v 1.5 2016/02/28 17:14:16 ayanokouzi-guest Exp $
+# $Id: index.wml,v 1.6 2016/02/29 17:13:24 ayanokouzi-guest Exp $
 # $Rev$
 # Status: [frozem]
 
@@ -312,8 +312,6 @@ Tor to download Debian packages</a>.</p>
 ## many others</a> are:</p>
 
 <toc-add-entry name="reports">Reports</toc-add-entry>
-
-<p>
 
 <p>Norbert Preining <a 
 href="http://www.preining.info/blog/2016/01/10-years-tex-live-in-debian/">
