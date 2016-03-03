@@ -12,7 +12,7 @@ checking.</p>
 
 <p>With this update Perl changes the behavior to match the following:</p>
 
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
     <li>%ENV is populated with the first environment variable, as getenv
         would return.</li>
     <li>Duplicate environment entries are removed.</li>
@@ -32,4 +32,4 @@ version 5.22.1-8.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3501.data"
-# $Id: dsa-3501.wml,v 1.2 2016/03/01 15:53:28 kaare Exp $
+# $Id: dsa-3501.wml,v 1.3 2016/03/02 19:39:11 ayanokouzi-guest Exp $
