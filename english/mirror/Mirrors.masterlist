@@ -4689,7 +4689,7 @@ CDImage-upstream: ftp.uni-sofia.bg
 IPv6: no
 Updates: twice
 Maintainer: Free Software Macedonia <info@slobodensoftver.org.mk>
-Country: MK Macedonia
+Country: MK Macedonia, Republic of
 Location: Skopje
 Sponsor: CableTel Macedonia http://cabletel.com.mk
 Bandwidth: 1Gbps
@@ -5483,18 +5483,6 @@ Sponsor: Rochester Institute of Technology, RITLUG http://www.ritlug.org
 Comment: connected to the academic backbone and will soon be on ipv6/I2.
 Bandwidth: 200Mbps
 
-Site: debian.corenetworks.net
-Type: leaf
-Archive-architecture: amd64 i386
-Archive-http: /debian/
-IPv6: no
-Archive-upstream: ftp.egr.msu.edu
-Updates: twice
-Maintainer: Russell <russell@corenetworks.net>
-Country: US United States
-Sponsor: CoreNetworks Dedicated Servers http://corenetworks.net
-Bandwidth: 1Gbps
-
 Site: mirror.debianforum.de
 Type: leaf
 Maintainer: Sebastian Feltel <sebastian@feltel.de>
@@ -5739,18 +5727,6 @@ Country: US United States
 Location: Phoenix, AZ
 Sponsor: Easynews, Inc. http://www.easynews.com/
 Comment: Gigabit connectivity
-IPv6: no
-
-Site: debian.sth.sze.hu
-Alias: mirrors.sth.sze.hu
-Type: leaf
-Archive-architecture: amd64 i386
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-upstream: ftp.hu.debian.org
-Maintainer: Peter Hanesz <root@sth.sze.hu>
-Country: HU Hungary
-Sponsor: Szécheny István University Dormitory http://www.sth.sze.hu/
 IPv6: no
 
 Site: ftp.ncnu.edu.tw
@@ -6294,18 +6270,6 @@ Archive-upstream: ftp.au.debian.org
 Maintainer: OptusNet Server Group <servers@staff.optus.net>, mirror@staff.optusnet.com.au
 Country: AU Australia
 Sponsor: OptusNet http://www.optusnet.com.au/
-IPv6: no
-
-Site: debian.unesr.edu.ve
-Type: leaf
-Archive-architecture: amd64 i386
-Archive-http: /debian/
-Archive-upstream: http.us.debian.org
-Security-http: /debian-security/
-Maintainer: mirror@unesr.edu.ve, mirror.unesr@gmail.com
-Country: VE Venezuela
-Location: Caracas
-Sponsor: Universidad Nacional Experimental Simon Rodriguez http://www.unesr.edu.ve
 IPv6: no
 
 Site: ftp.ccc.uba.ar
