@@ -87,7 +87,7 @@ leak or data loss.</p>
     lacked a necessary check for a null pointer, allowing a user
     with access to a sound sequencer device to cause a denial-of service (crash).</p></li>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2016-2544">CVE-2016-2544</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2016-2544">CVE-2016-2544</a>,
 <a href="https://security-tracker.debian.org/tracker/CVE-2016-2546">CVE-2016-2546</a>,
 <a href="https://security-tracker.debian.org/tracker/CVE-2016-2547">CVE-2016-2547</a>,
 <a href="https://security-tracker.debian.org/tracker/CVE-2016-2548">CVE-2016-2548</a>
@@ -138,4 +138,4 @@ affect the stable distribution.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3503.data"
-# $Id: dsa-3503.wml,v 1.4 2016/03/04 18:17:02 ayanokouzi-guest Exp $
+# $Id: dsa-3503.wml,v 1.5 2016/03/05 05:09:36 carnil Exp $
