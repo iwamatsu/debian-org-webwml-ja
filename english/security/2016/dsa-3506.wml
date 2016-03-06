@@ -7,7 +7,7 @@ decoders of the libav multimedia library.</p>
 in version 6:0.8.17-2.</p>
 
 <p>For the stable distribution (jessie), libav has been updated to
-11.6-1~deb8u1 which brings several further bugfixes as detailed in
+6:11.6-1~deb8u1 which brings several further bugfixes as detailed in
 the upstream changelog:
 <a href="https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.6">
 https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.6</a></p>
@@ -17,4 +17,4 @@ https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.6</a></p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3506.data"
-# $Id: dsa-3506.wml,v 1.1 2016/03/05 18:21:59 dogsleg Exp $
+# $Id: dsa-3506.wml,v 1.2 2016/03/06 06:54:35 carnil Exp $
