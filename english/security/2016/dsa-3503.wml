@@ -6,7 +6,8 @@ leak or data loss.</p>
 
 <ul>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4312">CVE-2013-4312</a>
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2013-4312">CVE-2013-4312</a>,
+<a href="https://security-tracker.debian.org/tracker/CVE-2016-2847">CVE-2016-2847</a>
 
     <p>Tetsuo Handa discovered that users can use pipes queued on local
     (Unix) sockets to allocate an unfair share of kernel memory, leading
@@ -129,7 +130,7 @@ in version 3.2.73-2+deb7u3. The oldstable distribution (wheezy) is not
 affected by <a href="https://security-tracker.debian.org/tracker/CVE-2015-8830">CVE-2015-8830</a>.</p>
 
 <p>For the stable distribution (jessie), these problems have been fixed in
-version 3.16.7-ckt20-1+deb8u4. <a href="https://security-tracker.debian.org/tracker/CVE-2015-7566">CVE-2015-7566</a>, <a href="https://security-tracker.debian.org/tracker/CVE-2015-8767">CVE-2015-8767</a> and
+version 3.16.7-ckt20-1+deb8u4. <a href="https://security-tracker.debian.org/tracker/CVE-2013-4312">CVE-2013-4312</a>, <a href="https://security-tracker.debian.org/tracker/CVE-2015-7566">CVE-2015-7566</a>, <a href="https://security-tracker.debian.org/tracker/CVE-2015-8767">CVE-2015-8767</a> and
 <a href="https://security-tracker.debian.org/tracker/CVE-2016-0723">CVE-2016-0723</a> were already fixed in DSA-3448-1. <a href="https://security-tracker.debian.org/tracker/CVE-2016-0774">CVE-2016-0774</a> does not
 affect the stable distribution.</p>
 
@@ -138,4 +139,4 @@ affect the stable distribution.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3503.data"
-# $Id: dsa-3503.wml,v 1.5 2016/03/05 05:09:36 carnil Exp $
+# $Id: dsa-3503.wml,v 1.7 2016/03/06 19:21:55 carnil Exp $
