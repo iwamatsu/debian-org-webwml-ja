@@ -123,8 +123,21 @@ Comment: HTTP redirector that uses the geo and network location of the
  few other things. Details: http://httpredir.debian.org
 Sponsor: http://httpredir.debian.org/
 
-
-
+Site: debian-archive.trafficmanager.net
+Type: GeoDNS
+Archive-architecture: amd64 i386
+Archive-http: /debian/
+Archive-upstream: syncproxy.cna.debian.org
+Security-architecture: amd64 i386
+Security-http: /debian-security/
+Security-upstream: syncproxy.cna.debian.org
+IPv6: no
+Updates: push
+Maintainer: Bastian Blank <waldi@debian.org>, Martin Zobel-Helas <zobel@debian.org>
+Country: US United States
+Sponsor: Microsoft http://azure.microsoft.com/
+Restricted-to: cloud
+Comment: Geolocated mirror for Debian images inside Microsoft Azure
 
 
 Site: backports-master.debian.org
@@ -691,23 +704,6 @@ Location: Zagreb
 Sponsor: CARNet, Croatian Academic and Research Network http://www.carnet.hr/
 Comment: GE
 IPv6: yes
-
-Site: debian.unam.mx
-Alias: nisamox.fciencias.unam.mx
-Type: Push-Primary
-Archive-ftp: /debian/
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
-Archive-upstream: syncproxy.wna.debian.org
-Maintainer: Sergio Mendoza <sergio@astroscu.unam.mx>, sergio@cyberspace.org, Gunnar Wolf <gwolf@gwolf.org>
-Country: MX Mexico
-Sponsor: Facultad de Ciencias, Universidad Nacional Autonoma de Mexico http://www.fciencias.unam.mx/
-Comment: NFS access can be obtained if you are inside an academic institution
- in MEXICO; hard disk donations are very welcome, please email
- webmaster@nisamox.fciencias.unam.mx
-Bandwidth: 100Mbps
-IPv6: no
 
 Site: ftp3.nrc.ca
 Alias: ftp3.ca.debian.org
@@ -5386,15 +5382,6 @@ Location: Strasbourg
 Sponsor: RevolSyS Interactive http://www.revolsys.fr/
 Bandwidth: 100Mbps
 
-Site: ftp.is.co.za
-Type: leaf
-Archive-ftp: /debian/
-Archive-architecture: amd64 armel hurd-i386 i386 ia64 mips mipsel powerpc s390 sparc
-Archive-upstream: ftp.uk.debian.org
-X-CDImage-ftp: /debian-cd/
-Maintainer: IS FTP Admin <ftpadmin@is.co.za>
-Country: ZA South Africa
-
 Site: ftp.utexas.edu
 Alias: ftp.the.net
 Type: leaf
@@ -7995,3 +7982,36 @@ Maintainer: MKT mirror <mirroradmin@telekom.mk>
 Country: MK Macedonia, Republic of
 Location: Skopje
 Sponsor: Makedonski Telekom http://www.t-home.mk/
+
+Site: mirror.0x.sg
+Type: leaf
+Archive-architecture: amd64 armel armhf arm64 hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390x sparc 
+Archive-http: /debian/
+Archive-rsync: debian/
+Backports-http: /debian-backports/
+Backports-rsync: debian-backports/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+IPv6: no
+Archive-upstream: ftp.kr.debian.org
+Backports-upstream: ftp.tw.debian.org
+CDImage-upstream: ftp.cuhk.edu.hk
+Updates: four
+Maintainer: Andrew Yong <me@ndoo.sg>
+Country: SG Singapore
+Location: Singapore
+Sponsor: mirror.0x.sg http://mirror.0x.sg/
+Bandwidth: 1Gbps
+
+Site: ftp.is.co.za
+Type: leaf
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: /debian/
+Archive-architecture:  amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc ppc64el s390 s390x sparc
+Archive-upstream: free.hands.com
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: /debian-cd/
+Maintainer: IS FTP Admin <ftpadmin@is.co.za>
+Country: ZA South Africa
