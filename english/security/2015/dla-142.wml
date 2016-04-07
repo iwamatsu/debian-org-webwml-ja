@@ -1,0 +1,32 @@
+<define-tag description>LTS security update</define-tag>
+<define-tag moreinfo>
+<p>Several vulnerabilities have been fixed in privoxy, a privacy enhancing
+HTTP proxy:</p>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2015-1031">CVE-2015-1031</a>, CID66394:
+
+    <p>unmap(): Prevent use-after-free if the map only consists of one item.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2015-1031">CVE-2015-1031</a>, CID66376 and CID66391:
+
+     <p>pcrs_execute(): Consistently set *result to NULL in case of errors.
+     Should make use-after-free in the caller less likely.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2015-1381">CVE-2015-1381</a>:
+
+     <p>Fix multiple segmentation faults and memory leaks in the pcrs code.</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2015-1382">CVE-2015-1382</a>:
+
+     <p>Fix invalid read to prevent potential crashes.</p></li>
+
+</ul>
+
+<p>We recommend that you upgrade your privoxy packages.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2015/dla-142.data"
+# $Id: dla-142.wml,v 1.2 2016/04/06 22:47:55 djpig Exp $
