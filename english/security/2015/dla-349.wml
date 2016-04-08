@@ -5,7 +5,7 @@ template filter of Django, a web-development framework.</p>
 
 <p>If an application allows users to specify an unvalidated format for
 dates and passes this format to the date filter, e.g.
-{{ last_updated|date:user_date_format }}, then a malicious user
+<tt>{{ last_updated|date:user_date_format }}</tt>, then a malicious user
 could obtain any secret in the application's settings by specifying
 a settings key instead of a date format. e.g. <q>SECRET_KEY</q> instead
 of "j/m/Y".</p>
@@ -20,4 +20,4 @@ version 1.2.3-3+squeeze15.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-349.data"
-# $Id: dla-349.wml,v 1.1 2016/04/06 22:10:36 djpig Exp $
+# $Id: dla-349.wml,v 1.2 2016/04/07 20:24:54 djpig Exp $

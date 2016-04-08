@@ -3,11 +3,11 @@
     <p>A vulnerability was found in screen causing a stack overflow which results
 in crashing the screen server process, resulting in denial of service.</p>
 
-    <p>See DSA-3352-1 for information on other Debian releases.</p>
+    <p>See <a href="./dsa-3352">DSA-3352-1</a> for information on other Debian releases.</p>
 
     <p>We recommend that you upgrade your screen packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-305.data"
-# $Id: dla-305.wml,v 1.1 2016/04/06 22:10:35 djpig Exp $
+# $Id: dla-305.wml,v 1.2 2016/04/07 20:24:54 djpig Exp $

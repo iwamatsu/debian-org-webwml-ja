@@ -25,7 +25,7 @@ systems.</p>
     to execute arbitrary SQL commands via the graph_template_id
     parameter to graph_templates.php</p>
 
-<p>Unassigned CVE SQL injection VN:JVN#78187936 / TN:JPCERT#98968540</p>
+<li>Unassigned CVE SQL injection VN:JVN#78187936 / TN:JPCERT#98968540
 
     <p>SQL injection vulnerability in the settings page</p></li>
 
@@ -34,4 +34,4 @@ systems.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-255.data"
-# $Id: dla-255.wml,v 1.1 2016/04/06 22:10:35 djpig Exp $
+# $Id: dla-255.wml,v 1.2 2016/04/07 20:24:54 djpig Exp $

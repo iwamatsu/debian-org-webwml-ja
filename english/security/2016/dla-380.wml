@@ -1,0 +1,24 @@
+<define-tag description>LTS security update</define-tag>
+<define-tag moreinfo>
+
+<p>An issue had been discovered and resolved by the libvncserver upstream
+developer Karl Runge addressing thread-safety in libvncserver when
+libvncserver is used for handling multiple VNC connections [1].</p>
+
+<p>Unfortunately, it is not trivially feasible (because of ABI breakage) to
+backport the <a href="https://github.com/LibVNC/libvncserver/commit/804335f9d296440bb708ca844f5d89b58b50b0c6">related patch</a> to libvncserver 0.9.7 as shipped in Debian
+squeeze(-lts).</p>
+
+<p>However, the thread-safety patch discussed resolved a related issue of
+memory corruption caused by freeing global variables without nullifying
+them when reusing them in another <q>thread</q>, especially occurring when
+libvncserver is used for handling multiple VNC connections</p>
+
+<p>The described issue has been resolved with this version of libvncserver
+and users of VNC are recommended to upgrade to this version of the
+package.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2016/dla-380.data"
+# $Id: dla-380.wml,v 1.2 2016/04/07 20:54:44 djpig Exp $

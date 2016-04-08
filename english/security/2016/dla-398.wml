@@ -1,0 +1,19 @@
+<define-tag description>LTS security update</define-tag>
+<define-tag moreinfo>
+
+<ul>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2016-1982">CVE-2016-1982</a>
+    <p>Prevent invalid reads in case of corrupt chunk-encoded content</p></li>
+
+<li><a href="https://security-tracker.debian.org/tracker/CVE-2016-1983">CVE-2016-1983</a>
+
+    <p>Remove empty Host headers in client requests; resulting in
+    invalid reads.</p></li>
+
+</ul>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2016/dla-398.data"
+# $Id: dla-398.wml,v 1.2 2016/04/07 20:54:44 djpig Exp $

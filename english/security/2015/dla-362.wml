@@ -3,7 +3,7 @@
 <p>Guido Vranken discovered several memory-related vulnerabilities
 while fuzzing DHCP messages sent to dhcpcd.</p>
 
-<p>For Debian 6 “Squeeze”, those issues have been fixed in version
+<p>For Debian 6 <q>Squeeze</q>, those issues have been fixed in version
 1:3.2.3-5+squeeze2.</p>
 
 <ul>
@@ -25,4 +25,4 @@ while fuzzing DHCP messages sent to dhcpcd.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-362.data"
-# $Id: dla-362.wml,v 1.1 2016/04/06 22:10:36 djpig Exp $
+# $Id: dla-362.wml,v 1.2 2016/04/07 20:27:56 djpig Exp $

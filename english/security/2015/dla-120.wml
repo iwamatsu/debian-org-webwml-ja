@@ -9,11 +9,11 @@ windows.</p>
 squeeze-lts fixes this regression in the following way:</p>
 
 <p>The length checking code validates PutImage height and byte width by
-making sure that <tt>byte-width >= INT32_MAX / height</tt>. If height is zero,
+making sure that <tt>byte-width &gt;= INT32_MAX / height</tt>. If height is zero,
 this generates a divide by zero exception. Allow zero height requests
 explicitly, bypassing the INT32_MAX check (in dix/dispatch.c).</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-120.data"
-# $Id: dla-120.wml,v 1.2 2016/04/06 22:47:55 djpig Exp $
+# $Id: dla-120.wml,v 1.3 2016/04/07 20:24:53 djpig Exp $

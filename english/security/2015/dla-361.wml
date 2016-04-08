@@ -5,7 +5,7 @@ is within the elliptic curve, which makes it easier for remote attackers
 to obtain private keys via a series of crafted elliptic curve Diffie
 Hellman (ECDH) key exchanges, aka an "invalid curve attack."</p>
 
-<p>For Debian 6 “Squeeze”, this issue has been fixed in version
+<p>For Debian 6 <q>Squeeze</q>, this issue has been fixed in version
 1.44+dfsg-2+deb6u1 of bouncycastle.</p>
 
 <p>Many thanks to upstream author Peter Dettmann who reviewed the backport
@@ -14,4 +14,4 @@ that we prepared.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-361.data"
-# $Id: dla-361.wml,v 1.1 2016/04/06 22:10:36 djpig Exp $
+# $Id: dla-361.wml,v 1.2 2016/04/07 20:27:56 djpig Exp $

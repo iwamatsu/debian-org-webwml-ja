@@ -1,0 +1,20 @@
+<define-tag description>LTS security update</define-tag>
+<define-tag moreinfo>
+<p>Several issues have been found in the MySQL database server. These
+issues have been addressed by upgrading to the most recent upstream
+release of MySQL, 5.5.47. Please, look at the MySQL 5.5 Release Notes
+and Oracle's Critical Patch Update advisory for further details:</p>
+
+<ul>
+  <li><a href="http://dev.mysql.com/doc/relnotes/mysql/5.5/en/news-5-5-47.html">http://dev.mysql.com/doc/relnotes/mysql/5.5/en/news-5-5-47.html</a></li>
+  <li><a href="http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html">http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html</a></li>
+</ul>
+
+<p>For Debian 6 <q>Squeeze</q>, these issues have been fixed in mysql-5.5
+version 5.5.47-0+deb6u1. We recommend you to upgrade your mysql-5.5
+packages.</p>
+</define-tag>
+
+# do not modify the following line
+#include "$(ENGLISHDIR)/security/2016/dla-409.data"
+# $Id: dla-409.wml,v 1.2 2016/04/07 20:54:44 djpig Exp $
