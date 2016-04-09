@@ -7,8 +7,10 @@ parser mishandles certain kinds of malformed input documents, resulting
 in a segmentation fault during a parse operation. An unauthenticated
 attacker could use this flaw to cause an application using the
 xerces-c library to crash.</p>
+
+<p>For Debian 6 <q>Squeeze</q>, these issues have been fixed in xerces-c version 3.1.1-1+deb6u1</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-181.data"
-# $Id: dla-181.wml,v 1.1 2016/04/06 22:10:34 djpig Exp $
+# $Id: dla-181.wml,v 1.2 2016/04/08 20:32:24 djpig Exp $

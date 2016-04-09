@@ -29,8 +29,9 @@
 </ul>
 
 <p>We recommend that you upgrade your rpm packages.</p>
+<p>For Debian 6 <q>Squeeze</q>, these issues have been fixed in rpm version 4.8.1-6+squeeze2</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-140.data"
-# $Id: dla-140.wml,v 1.2 2016/04/06 22:47:55 djpig Exp $
+# $Id: dla-140.wml,v 1.3 2016/04/08 20:32:23 djpig Exp $

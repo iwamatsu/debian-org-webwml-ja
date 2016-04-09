@@ -31,8 +31,10 @@ parameter to keep usage consistent across all distributions.</p>
     <p>out-of-bounds memory access</p></li>
 
 </ul>
+
+<p>For Debian 6 <q>Squeeze</q>, these issues have been fixed in file version 5.04-5+squeeze9</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-131.data"
-# $Id: dla-131.wml,v 1.2 2016/04/06 22:47:55 djpig Exp $
+# $Id: dla-131.wml,v 1.3 2016/04/08 20:32:23 djpig Exp $

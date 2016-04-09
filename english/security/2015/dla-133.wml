@@ -16,8 +16,10 @@
                        3c7ff3f888de0f0d957fe67b6bd4bec9c0d475f3</p></li>
 
 </ul>
+
+<p>For Debian 6 <q>Squeeze</q>, these issues have been fixed in unrtf version 0.19.3-1.1+deb6u1</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-133.data"
-# $Id: dla-133.wml,v 1.2 2016/04/06 22:47:55 djpig Exp $
+# $Id: dla-133.wml,v 1.3 2016/04/08 20:32:23 djpig Exp $

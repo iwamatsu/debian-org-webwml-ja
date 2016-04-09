@@ -10,9 +10,10 @@
 
 </ul>
 
+<p>For Debian 6 <q>Squeeze</q>, this issue has been fixed in libksba version 1.0.7-2+deb6u1</p>
 <p>We recommend that you upgrade your libksba packages.</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-141.data"
-# $Id: dla-141.wml,v 1.2 2016/04/06 22:47:55 djpig Exp $
+# $Id: dla-141.wml,v 1.3 2016/04/08 20:32:24 djpig Exp $

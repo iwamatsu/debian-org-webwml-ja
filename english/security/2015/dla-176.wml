@@ -21,8 +21,10 @@
     and can be considered insecure.</p></li>
 
 </ul>
+
+<p>For Debian 6 <q>Squeeze</q>, these issues have been fixed in mono version 2.6.7-5.1+deb6u1</p>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-176.data"
-# $Id: dla-176.wml,v 1.1 2016/04/06 22:10:34 djpig Exp $
+# $Id: dla-176.wml,v 1.2 2016/04/08 20:32:24 djpig Exp $
