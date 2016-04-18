@@ -1,0 +1,1023 @@
+    1	93sam	Steve McIntyre
+    2	aba	Andreas Barth
+    3	abe	Axel Beckert
+    4	abi	Michael Ablassmeier
+    5	absurd	Stephan Suerken
+    6	achernya	Alexander Chernyakhovsky
+    7	acid	Julien Danjou
+    8	acornet	Arnaud Cornet
+    9	adamm	Adam Majer
+   10	adconrad	Adam Conrad
+   11	adejong	Arthur de Jong
+   12	adn	Mohammed Adnène Trojette
+   13	adsb	Adam D. Barratt
+   14	aeb	Andreas E. Bombe
+   15	afif	Afif Elghraoui
+   16	ag	Aurélien Gérôme
+   17	agi	Alberto Gonzalez Iniesta
+   18	agmartin	Agustín Martín Domingo
+   19	agney	Agney Lopes Roth Ferraz
+   20	agx	Guido Guenther
+   21	ah	Andreas Henriksson
+   22	ahs3	Al Stone
+   23	aigarius	Aigars Mahinovs
+   24	ajmitch	Andrew Mitchell
+   25	ajqlee	Andrew Lee
+   26	ajt	Anthony Towns
+   27	akira	Akira Yamada
+   28	akumar	Kumar Appaiah
+   29	alain	Alain Schroeder
+   30	alee	Ho-seok Lee
+   31	alejandro	Alejandro Garrido Mota
+   32	alerios	Alejandro Ríos Peña
+   33	alessio	Alessio Treglia
+   34	alex	Alexander List
+   35	alexander	Alexander Neumann
+   36	alexp	Alex Pennace
+   37	alfs	Stefan Alfredsson
+   38	algernon	Gergely Nagy
+   39	alteholz	Thorsten Alteholz
+   40	amacater	Andrew Martin Adrian Cater
+   41	amaya	Amaya Rodrigo Sastre
+   42	amejia	Andres Mejia
+   43	ametzler	Andreas Metzler
+   44	ana	Ana Beatriz Guerrero López
+   45	anarcat	Antoine Beaupré
+   46	anbe	Andreas Beckmann
+   47	and	Andrea Veri
+   48	anderson	Stuart R. Anderson
+   49	andi	Andreas B. Mundt
+   50	andreas	Andreas Schuldei
+   51	andree	Andree Leidenfrost
+   52	andrelop	Andre Luis Lopes
+   53	andrewsh	Andrew Shadura
+   54	anfra	Andreas Franzen
+   55	angdraug	Dmitry Borodaenko
+   56	angel	Angel Abad
+   57	anibal	Anibal Monsalve Salazar
+   58	anoe	Alexandre Delanoë
+   59	ansgar	Ansgar Burchardt
+   60	antonio	Antonio Radici
+   61	apeeters	Adriaan Peeters
+   62	apoikos	Apollon Oikonomopoulos
+   63	apollock	Andrew Pollock
+   64	apo	Markus Koschany
+   65	appaji	Giridhar Appaji Nag Yasa
+   66	apw	Amos Waterland
+   67	aquette	Arnaud Quette
+   68	ardo	Ardo van Rangelrooij
+   69	ari	Ari Pollak
+   70	arjan	Arjan Oosting
+   71	arnau	Arnaud Fontaine
+   72	arno	Arno Töll
+   73	aroldan	Andrés Roldán
+   74	aron	Aron Xu
+   75	arthurliu	Obey Arthur Liu
+   76	ar	Yasuhiro Araki
+   77	asac	Alexander Sack
+   78	asb	Andrew Starr-Bochicchio
+   79	ash	Albert Huang
+   80	asias	Asias He
+   81	atterer	Richard Atterer
+   82	aurel32	Aurelien Jarno
+   83	aviau	Alexandre Viau
+   84	avtobiff	Per Andersson
+   85	awm	Andrew McMillan
+   86	awoodland	Alan Woodland
+   87	azadi	Sukhbir Singh
+   88	az	Alexander Zangerl
+   89	azekulic	Alen Zekulic
+   90	bab	Ben Burton
+   91	bahner	Lars Bahner
+   92	ballombe	Bill Allombert
+   93	bam	Brian May
+   94	bame	Paul D. Bame
+   95	baozich	Chen Baozi
+   96	bap	Barak A. Pearlmutter
+   97	baran	Miroslaw Baran
+   98	barbier	Denis Barbier
+   99	barry	Barry Warsaw
+  100	bartm	Bart Martens
+  101	bas	Bas Zoetekouw
+  102	bayle	Christian Bayle
+  103	bcwhite	Brian White
+  104	bdale	Bdale Garbee
+  105	bdefreese	Barry deFreese
+  106	bdrung	Benjamin Drung
+  107	behanw	Behan Webster
+  108	ben	Benjamin Mesing
+  109	bencer	Jorge Salamero Sanz
+  110	bengen	Hilko Bengen
+  111	benh	Ben Hutchings
+  112	bernat	Vincent Bernat
+  113	berni	Bernhard Schmidt
+  114	berto	Alberto Garcia
+  115	bertol	Nicolas Bertolissio
+  116	beuc	Sylvain Beucler
+  117	bg66	Akira Ohashi
+  118	bgoglin	Brice Goglin
+  119	bgupta	Brian Gupta
+  120	biebl	Michael Biebl
+  121	bigeasy	Sebastian Andrzej Siewior
+  122	bigon	Laurent Bigonville
+  123	blackxored	Adrian Perez
+  124	blade	Eduard Bloch
+  125	blarson	Robert Alan Larson
+  126	bod	Brendan O'Dea
+  127	bootc	Chris Boot
+  128	bossekr	Raphael Bossek
+  129	bottoms	Maitland Bottoms
+  130	boutil	Cédric Boutillier
+  131	bpellin	Brian Pellin
+  132	brad	Bradley Bosch
+  133	bradsmith	Bradley Smith
+  134	branden	Branden Robinson
+  135	bremner	David Bremner
+  136	brianr	Brian Ristuccia
+  137	brlink	Bernhard R. Link
+  138	broonie	Mark Brown
+  139	brother	Martin Bagge
+  140	bs	Bernd Schumacher
+  141	btb	Bradley Bell
+  142	bubulle	Christian Perrier
+  143	bureado	Jose Parrella
+  144	bzed	Bernd Zeimetz
+  145	camm	Camm Maguire
+  146	camrdale	Cameron Dale
+  147	capriott	Andrea Capriotti
+  148	carey	Carey Evans
+  149	carnil	Salvatore Bonaccorso
+  150	caroll	Ana Carolina Comandulli
+  151	carsten	Carsten Hey
+  152	cascardo	Thadeu Cascardo
+  153	cas	Craig Sanders
+  154	cate	Giacomo Catenazzi
+  155	cavedon	Ludovico Cavedon
+  156	cavok	Domenico Andreoli
+  157	ccheney	Christopher L. Cheney
+  158	cech	Petr Cech
+  159	cedric	Cédric Delfosse
+  160	certik	Ondrej Certik
+  161	cespedes	Juan Cespedes
+  162	chaica	Carl Chenet
+  163	ch	Christian Hammers
+  164	chrisb	Chris Butler
+  165	chrish	Christian Hudon
+  166	chrism	Christoph Martin
+  167	christine	Anne Christine Spang
+  168	christoph	Christoph Egger
+  169	chrisvdb	Chris Vanden Berghe
+  170	cjwatson	Colin Watson
+  171	ckk	Christian Kastner
+  172	cklin	Chuan-kai Lin
+  173	clameter	Christoph Lameter
+  174	claviola	Carlos Laviola
+  175	cleto	Cleto Martín Angelina
+  176	clint	Clint Adams
+  177	clown	Alexei Nikolov
+  178	cmb	Chris Boyle
+  179	cmc	Claire Connelly
+  180	cnanakos	Chrysostomos Nanakos
+  181	codehelp	Neil Williams
+  182	colint	Colin Tuckley
+  183	cord	Cord Beermann
+  184	corsac	Yves-Alexis Perez
+  185	costela	Leo Costela
+  186	coven	Pawel Wiecek
+  187	cowboy	Richard A. Nelson
+  188	cph	Chris Hanson
+  189	cristian	Cristian Greco
+  190	csmall	Craig Small
+  191	csurchi	Christian Surchi
+  192	ctaylor	Christopher Taylor
+  193	cts	Christian T. Steigies
+  194	cupis	Paul Cupis
+  195	curan	Kai Wasserbäch
+  196	cworth	Carl Worth
+  197	cwryu	Changwoo Ryu
+  198	cyb	Cyril Bouthors
+  199	czchen	ChangZhuo Chen
+  200	daf	Dafydd Harries
+  201	dai	Daisuke Higuchi
+  202	daigo	Daigo Moriwaki
+  203	dajobe	Dave Beckett
+  204	danai	Danai Sae-Han
+  205	dancer	Junichi Uekawa
+  206	danchev	George Danchev
+  207	dannf	Dann Frazier
+  208	dapal	David Paleino
+  209	dap	David Parker
+  210	darek	Dariusz Dwornikowski
+  211	dato	Dato Simó
+  212	dave	Dave Holland
+  213	davidc	David L. Coe
+  214	dbugger	Dennis L. Clark
+  215	dburrows	Daniel Burrows
+  216	debacle	Wolfgang Borgert
+  217	debalance	Philipp Huebner
+  218	decklin	Decklin Foster
+  219	deek	Jeff Teunissen
+  220	deepak	Deepak Tripathi
+  221	delaunay	Eric Delaunay
+  222	dererk	Ulises Vitulli
+  223	des	Damián Viano
+  224	devin	Devin Carraway
+  225	dexter	Piotr Roszatycki
+  226	diane	Diane Trout
+  227	dilinger	Andres Salomon
+  228	dima	Dima Barsky
+  229	diocles	Tim Retout
+  230	directhex	Jo Shields
+  231	dirson	Yann Dirson
+  232	djpig	Frank Lichtenheld
+  233	dkg	Daniel Kahn Gillmor
+  234	dktrkranz	Luca Falavigna
+  235	dld	Drake Diedrich
+  236	dlehn	David I. Lehn
+  237	dleidert	Daniel Leidert
+  238	dmartin	Dale Martin
+  239	dmn	Damyan Ivanov
+  240	dnusinow	David Nusinow
+  241	dod	Dominique Dumont
+  242	dogsleg	Lev Lamberov
+  243	doko	Matthias Klose
+  244	dom	Dominic Hargreaves
+  245	domibel	Dominique Belhachemi
+  246	don	Don Armstrong
+  247	doogie	Adam Heath
+  248	dopey	Matt Hope
+  249	dottedmag	Mikhail Gusarov
+  250	dparsons	Drew Parsons
+  251	drazzib	Damien Raude-Morvan
+  252	dreamind	Stefan Pfetzing
+  253	dsilvers	Daniel Silverstone
+  254	duck	Marc Dequènes
+  255	dwatson	David Watson
+  256	dz	Massimo Dal Zotto
+  257	ean	Ean Schuessler
+  258	ebourg	Emmanuel Bourg
+  259	edd	Dirk Eddelbuettel
+  260	ed	Ed Boraas
+  261	edelhard	Edelhard Becker
+  262	edmonds	Robert Edmonds
+  263	eevans	Eric Evans
+  264	eichin	Mark Eichin
+  265	eighthave	Hans-Christoph Steiner
+  266	eike	Eike Sauer
+  267	elbrus	Paul Mathijs Gevers
+  268	elf	Marc Singer
+  269	ellert	Mattias Ellert
+  270	eloy	Krzysztof Krzyzaniak
+  271	ema	Emanuele Rocca
+  272	emfox	Emfox Zhou
+  273	emschwar	Eric Schwartz
+  274	ender	David Martínez
+  275	enrico	Enrico Zini
+  276	eppesuig	Giuseppe Sacco
+  277	eriberto	Joao Eriberto Mota Filho
+  278	eric	Eric Dorland
+  279	erich	Erich Schubert
+  280	erik	Erik Wenzel
+  281	eriks	Erik Schanze
+  282	erinn	Erinn Clark
+  283	error	Jacob Appelbaum
+  284	etbe	Russell Coker
+  285	etobi	Tobias Grimm
+  286	eugene	Eugene Zhukov
+  287	eugen	Eugeniy Meshcheryakov
+  288	evan	Evan Prodromou
+  289	evgeni	Evgeni Golov
+  290	evo	Davide Puricelli
+  291	fabbe	Fabian Fagerholm
+  292	fabbione	Fabio Massimo Di Nitto
+  293	fabian	Fabian Greffrath
+  294	fabo	Fathi Boudra
+  295	falk	Falk Hueffner
+  296	faw	Felipe Augusto van de Wiel
+  297	federico	Federico Ceratto
+  298	fenio	Bartosz Fenski
+  299	fgeyer	Felix Geyer
+  300	fh	Florian Hinzmann
+  301	filippo	Filippo Giunchedi
+  302	fladi	Michael Fladischer
+  303	flimsy	Jonathan J. Hall
+  304	flo	Florian Lohoff
+  305	florian	Florian Ernst
+  306	fog	Federico Di Gregorio
+  307	foka	Anthony Fok
+  308	formorer	Alexander Wirt
+  309	fourmond	Vincent Fourmond
+  310	fpeters	Frederic Peters
+  311	franam	Francesco Namuri
+  312	francisco	Francisco Manuel García Claramonte
+  313	francois	Francois Marier
+  314	frank	Frank Küster
+  315	frankie	Francesco Lovergine
+  316	freee	Free Ekanayaka
+  317	free	Free Ekanayaka
+  318	frob	Roland McGrath
+  319	fsateler	Felipe Sateler
+  320	fs	Frederik Schüler
+  321	fsfs	Florian Schlichting
+  322	fuddl	Bruno Kleinert
+  323	fuji	Peter Kelemen
+  324	fw	Florian Weimer
+  325	garabik	Radovan Garabik
+  326	garden	Ludovico Gardenghi
+  327	gareuselesinge	Enrico Tassi
+  328	gaudenz	Gaudenz Steinlin
+  329	gcs	László Böszörményi
+  330	geiger	Guenter Geiger
+  331	geissert	Raphael Geissert
+  332	genannt	Jonas Genannt
+  333	georgesk	Georges Khaznadar
+  334	ghedo	Alessandro Ghedini
+  335	ghe	Juan Gregorio Hernando Rivero
+  336	ghostbar	Jose Luis Rivas Contreras
+  337	ginggs	Graham Inggs
+  338	gio	Giovanni Mascellani
+  339	giskard	Riccardo Setti
+  340	gismo	Luca Capello
+  341	gladk	Anton Gladky
+  342	glandium	Mike Hommey
+  343	glaubitz	John Paul Adrian Glaubitz
+  344	glaweh	Henning Glawe
+  345	gleydson	Gleydson Mazioli da Silva
+  346	glondu	Stéphane Glondu
+  347	gniibe	NIIBE Yutaka
+  348	godisch	Martin A. Godisch
+  349	goedson	Goedson Teixeira Paixao
+  350	goneri	Gonéri Le Bouder
+  351	gotom	Masanori Goto
+  352	gq	Alexander GQ Gerasiov
+  353	grantma	Matthew Grant
+  354	gregoa	Gregor Herrmann
+  355	greuff	Thomas Wana
+  356	gris	Christoph Göhre
+  357	grisu	Michael Bramer
+  358	guillem	Guillem Jover
+  359	guoliang	Liang Guo
+  360	gus	Angus Lees
+  361	gusnan	Andreas Rönnquist
+  362	guus	Guus Sliepen
+  363	gwolf	Gunnar Wolf
+  364	haas	Christoph Haas
+  365	hakan	Hakan Ardo
+  366	hallon	Fredrik Hallenberg
+  367	halls	Chris Halls
+  368	harmoney	Patty Langasek
+  369	harshula	Harshula Jayasuriya
+  370	hartmans	Sam Hartman
+  371	hattas	Shuzo Hatta
+  372	hazelsct	Adam Powell
+  373	hecker	Richard Hecker
+  374	hector	Hector Garcia
+  375	helen	Helen Faulkner
+  376	helmutg	Helmut Grohne
+  377	he	Marc Brockschmidt
+  378	henrich	Hideki Yamane
+  379	hertzog	Raphaël Hertzog
+  380	hle	Hugo Lefeuvre
+  381	hlieberman	Harlan Lieberman-Berg
+  382	hmh	Henrique de Moraes Holschuh
+  383	hoexter	Sven Hoexter
+  384	holger	Holger Levsen
+  385	holmgren	Magnus Holmgren
+  386	honey	Lukasz Jachowicz
+  387	horms	Simon Horman
+  388	hsteoh	Hwei Sheng Teoh
+  389	hug	Philipp Hug
+  390	hvhaugwitz	Hannes von Haugwitz
+  391	hyperair	Loong Jin Chow
+  392	iamfuzz	Brian Thomason
+  393	ianb	Ian Beckwith
+  394	ianw	Ian Wienand
+  395	ijc	Ian James Campbell
+  396	ijones	Isaac Jones
+  397	iko	Anders Hammarquist
+  398	infinity0	Ximin Luo
+  399	ingo	Ingo Saitz
+  400	intrigeri	Intrigeri
+  401	irl	Iain R. Learmonth
+  402	ishikawa	Mutsumi Ishikawa
+  403	iuculano	Giuseppe Iuculano
+  404	iustin	Iustin Pop
+  405	ivan	Ivan Kohler
+  406	ivodd	Ivo De Decker
+  407	iwamatsu	Nobuhiro Iwamatsu
+  408	iwj	Ian Jackson
+  409	jab	Jeff Breidenbach
+  410	jackyf	Eugene V. Lyubimkin
+  411	jaime	Jaime Robles
+  412	jak	Julian Andres Klode
+  413	jaldhar	Jaldhar H. Vyas
+  414	jamespage	James Downing Page
+  415	jamessan	James McCoy
+  416	jamuraa	Michael Janssen
+  417	jandd	Jan Dittberner
+  418	jan	Jan Niehusmann
+  419	janos	Janos Guljas
+  420	jaq	Jamie Wilkinson
+  421	jaqque	John H. IV Robinson
+  422	jason	Jason Thomas
+  423	jas	Simon Josefsson
+  424	jaybonci	Jay Bonci
+  425	jbelmonte	John V. Belmonte
+  426	jbernard	Jon Bernard
+  427	jbouse	Jeremy Bouse
+  428	jcorbier	Jérémie Corbier
+  429	jcowgill	James Cowgill
+  430	jcristau	Julien Cristau
+  431	jdg	Julian Gilbey
+  432	jeb	James Bromberger
+  433	jello	Joseph Nahmias
+  434	jelmer	Jelmer Vernooij
+  435	jenner	Igor Stroh
+  436	jeroen	Jeroen van Wolffelaar
+  437	jewel	John Leuner
+  438	jfs	Javier Fernandez-Sanguino Pen~a
+  439	jgoerzen	John Goerzen
+  440	jhirche	Johannes Hirche
+  441	jh	Jörgen Hägg
+  442	jhr	Jan Hauke Rahm
+  443	jimmy	Jimmy Kaplowitz
+  444	jjr	Jeffrey Ratcliffe
+  445	jlines	John Lines
+  446	jluebbe	Jan Lübbe
+  447	jmarler	Jonathan Marler
+  448	jmaslibre	Josue Abarca
+  449	jmm	Moritz Muehlenhoff
+  450	jmtd	Jon Dowland
+  451	jmw	Jonathan Wiltshire
+  452	jochen	Jochen Friedrich
+  453	jodal	Stein Magnus Jodal
+  454	joel	Joel Rosdahl
+  455	joerg	Joerg Jaspert
+  456	joey	Martin Schulze
+  457	johfel	Johann Felix Soden
+  458	johnf	John Francesco Ferlito
+  459	johns	John Sullivan
+  460	jon	Jonathan Oxer
+  461	jonny	Jonny Lamb
+  462	joostvb	Joost van Baal
+  463	jordi	Jordi Mallach
+  464	josch	Johannes Schauer
+  465	josem	Jose M. Moya
+  466	joshk	Joshua Kwan
+  467	joss	Josselin Mouette
+  468	joussen	Mario Joussen
+  469	joy	Josip Rodin
+  470	jredrejo	José L. Redrejo Rodríguez
+  471	jrnieder	Jonathan Nieder
+  472	jsa	Juergen Salk
+  473	js	Jonas Smedegaard
+  474	jsogo	Jose Carlos Garcia Sogo
+  475	jsw	John Wright
+  476	jule	Juliane Friederike Holzt
+  477	julian	Julián Moreno Patiño
+  478	jurij	Jurij Smakov
+  479	jwilk	Jakub Wilk
+  480	kaare	Kåre Thor Olsen
+  481	kabi	Zdenek Kabelac
+  482	kalfa	Cosimo Alfarano
+  483	kamal	Kamal Mostafa
+  484	kamop	Atsushi Kamoshida
+  485	kaol	Kari Pahula
+  486	kaplan	Lior Kaplan
+  487	kapouer	Jérémy Lal
+  488	kartik	Kartik Mistry
+  489	kcoyner	Kevin Coyner
+  490	kcr	Karl Ramm
+  491	kees	Kees Cook
+  492	keithp	Keith Packard
+  493	kelbert	Jean-Michel Kelbert
+  494	keving	Kevin Glynn
+  495	keybuk	Scott James Remnant
+  496	khalid	Khalid Aziz
+  497	khkim	Ki-Heon Kim
+  498	kibi	Cyril Brulebois
+  499	kilian	Kilian Krause
+  500	kilobyte	Adam Borowski
+  501	kitame	Takuo KITAME
+  502	kitterman	Scott Kitterman
+  503	kix	Rodolfo García Peñas
+  504	kju	Michael Holzt
+  505	klee	Klee Dienes
+  506	kmr	Kevin M. Rosenberg
+  507	kmuto	Kenshi Muto
+  508	knok	Takatsugu Nokubi
+  509	kobold	Fabio Tranchitella
+  510	kolter	Emmanuel Bouthenot
+  511	koster	Kanru Chen
+  512	kov	Gustavo Noronha
+  513	kraai	Matt Kraai
+  514	krala	Antonin Kral
+  515	kreckel	Richard Kreckel
+  516	krisrose	Kristoffer Rose
+  517	kritzefitz	Sven Bartscher
+  518	kroeckx	Kurt Roeckx
+  519	lamby	Chris Lamb
+  520	lamont	Lamont Jones
+  521	laney	Iain Lane
+  522	lange	Thomas Lange
+  523	larjona	Laura Arjona Reina
+  524	lars	Lars Wirzenius
+  525	lawrencc	Christopher Lawrence
+  526	lazyfrosch	Markus Frosch
+  527	lbrenta	Ludovic Brenta
+  528	ldrolez	Ludovic Drolez
+  529	leatherface	Julien Patriarca
+  530	leist	Yven Johannes Leist
+  531	leo	Carsten Leonhardt
+  532	lfaraone	Luke Faraone
+  533	lfilipoz	Luca Filipozzi
+  534	licquia	Jeff Licquia
+  535	lidaobing	LI Daobing
+  536	lightsey	John Lightsey
+  537	liiwi	Jaakko Niemi
+  538	lindi	Timo Juhani Lindfors
+  539	lingnau	Anselm Lingnau
+  540	lintux	Wilmer van der Gaast
+  541	lisandro	Lisandro Damián Nicanor Pérez Meyer
+  542	ljlane	Laurence Lane
+  543	lkajan	Laszlo Kajan
+  544	lmamane	Lionel Elie Mamane
+  545	locutusofborg	Gianfranco Costamagna
+  546	lohner	Nils Lohner
+  547	loic	Loic Dachary
+  548	lolando	Roland Mas
+  549	lool	Loïc Minier
+  550	lopippo	Filippo Rusconi
+  551	lucab	Luca Bruno
+  552	lucas	Lucas Nussbaum
+  553	luciano	Luciano Bello
+  554	luigi	Luigi Gangitano
+  555	luk	Luk Claes
+  556	lunar	Jérémy Bobbio
+  557	lupus	Paolo Molaro
+  558	lutin	Albin Tonnerre
+  559	maarten	Maarten Bernardus Lankhorst
+  560	mace	Miah Gregory
+  561	madamezou	Francesca Ciceri
+  562	madcoder	Pierre Habouzit
+  563	madduck	Martin F. Krafft
+  564	madhack	Mike Markley
+  565	madkiss	Martin Loschwitz
+  566	maehara	Keita Maehara
+  567	mafm	Manuel A. Fernandez Montecelo
+  568	makholm	Peter Makholm
+  569	mak	Matthias Klumpp
+  570	mako	Benjamin Hill
+  571	maks	Maximilian Attems
+  572	malat	Mathieu Malaterre
+  573	malattia	Mattia Dongili
+  574	malex	Oleksandr V. Moskalenko
+  575	ma	Martin Albert
+  576	manty	Santiago Garcia Mantinan
+  577	manuel	Manuel Prinz
+  578	mapache	Eduardo Trápani
+  579	marcot	Marco Túlio Gontijo e Silva
+  580	marga	Margarita Manterola
+  581	marillat	Christian Marillat
+  582	mario	Mario Iseli
+  583	markos	Konstantinos Margaritis
+  584	marks	Mark Shuttleworth
+  585	markus	Markus Wanner
+  586	maswan	Mattias Wadenstein
+  587	matrix	Francois Gurin
+  588	mattb	Matthew Brown
+  589	matthew	Matthew Vernon
+  590	matthijs	Matthijs Möhlmann
+  591	mattia	Mattia Rizzolo
+  592	mattice	Michael D. Mattice
+  593	maxx	Martin Wuertele
+  594	maxy	Maximiliano Curia
+  595	mazen	Mazen NEIFER
+  596	mbanck	Michael Banck
+  597	mbr	Markus Braun
+  598	mbuck	Martin Buck
+  599	mckinstry	Alastair McKinstry
+  600	mdj	Mikael Djurfeldt
+  601	md	Marco d'Itri
+  602	mdz	Matt Zimmerman
+  603	mechanix	Filip Van Raemdonck
+  604	meebey	Mirco Bauer
+  605	mehdi	Mehdi Dogguy
+  606	mejo	Jonas Meurer
+  607	mendoza	Cesar Mendoza
+  608	mennucc1	Andrea Mennucci
+  609	merker	Karsten Merker
+  610	meskes	Michael Meskes
+  611	metal	Marcelo Jorge Vieira
+  612	meyering	Jim Meyering
+  613	mez	Martin Meredith
+  614	mfurr	Mike Furr
+  615	mfv	Matteo F. Vescovi
+  616	mgilbert	Michael Gilbert
+  617	mhatta	Masayuki Hatta
+  618	mhy	Mark Hymers
+  619	micah	Micah Anderson
+  620	micha	Micha Lenk
+  621	michi	Michael Schutte
+  622	midget	Dario Minnucci
+  623	mih	Michael Hanke
+  624	mika	Michael Prokop
+  625	milan	Milan Kupcevic
+  626	miquels	Miquel van Smoorenburg
+  627	miriam	Miriam Ruiz
+  628	mithrandi	Tristan Seligmann
+  629	mitya57	Dmitry Shachnev
+  630	mjb	Michael Beattie
+  631	mjr	M J Ray
+  632	mjt	Michael Tokarev
+  633	mkoch	Michael Koch
+  634	mlang	Mario Lang
+  635	mlt	Marcela Tiznado
+  636	mmagallo	Marcelo Magallon
+  637	mmind	Heiko Stübner
+  638	mnencia	Marco Nenciarini
+  639	mnordstr	Mattias Nordstrom
+  640	modax	Modestas Vainius
+  641	moeller	Steffen Möller
+  642	mones	Ricardo Mones Lastra
+  643	monga	Mattia Monga
+  644	monica	Mònica Ramírez Arceda
+  645	mooch	Jesus Climent
+  646	moray	Moray Allan
+  647	morimura	Teruyuki Morimura
+  648	morph	Sandro Tosi
+  649	mpalmer	Matthew Palmer
+  650	mpitt	Martin Pitt
+  651	mquinson	Martin Quinson
+  652	mrd	Matthew Danish
+  653	msameer	Mohammed Sameer
+  654	ms	Michael Schiansky
+  655	msp	Mark Purcell
+  656	mstone	Michael Stone
+  657	mt	Michael Tautschnig
+  658	mtmiller	Mike Miller
+  659	muammar	Muammar El Khatib
+  660	murat	Murat Demirten
+  661	mvo	Michael Vogt
+  662	myon	Christoph Berg
+  663	naoliv	Nelson A. de Oliveira
+  664	nas	Neil A. Schemenauer
+  665	nathans	Nathan Scott
+  666	nattie	Nattie Mayer-Hutchings
+  667	nboullis	Nicolas Boullis
+  668	nbreen	Nicholas Breen
+  669	negm	Ayman Negm
+  670	neilm	Neil McGovern
+  671	neil	Neil L. Roeth
+  672	netzwurm	David Spreen
+  673	nhandler	Nathan Harrison Handler
+  674	nickrusnov	Nick Rusnov
+  675	nicolas	Nicolas Boulenguez
+  676	nijel	Michal Cihar
+  677	nion	Nico Golde
+  678	nirgal	Jean-Michel Vourgère
+  679	njordan	Norman Jordan
+  680	noahm	Noah Meyerhans
+  681	nobse	Norbert Tretkowski
+  682	noel	Noèl Köthe
+  683	nomadium	Miguel Landaeta
+  684	nomeata	Joachim Breitner
+  685	nonaka	Ken Nonaka
+  686	noodles	Jonathan McDowell
+  687	noshiro	Shigeo Noshiro
+  688	nthykier	Niels Thykier
+  689	ntyni	Niko Tyni
+  690	nveber	Norbert Veber
+  691	nwp	Nick Phillips
+  692	obergix	Olivier Berger
+  693	ocsi	Lenart Janos
+  694	odyx	Didier Raboud
+  695	ogi	Ognyan Kulev
+  696	ohura	Makoto OHURA
+  697	okoli	Oliver Korff
+  698	olasd	Nicolas Dandrimont
+  699	olebole	Ole Streicher
+  700	oliva	Gennaro Oliva
+  701	olly	Olly Betts
+  702	omote	Masahito Omote
+  703	ondrej	Ondrej Sury
+  704	onlyjob	Dmitry Smirnov
+  705	oohara	Yuuma Oohara
+  706	opal	Ola Lundqvist
+  707	osallou	Olivier Sallou
+  708	osamu	Osamu Aoki
+  709	otavio	Otavio Salvador
+  710	otto	Otto Kekäläinen
+  711	ovek	Ove Kåven
+  712	p2	Peter De Schrijver
+  713	pabs	Paul Wise
+  714	paco	Francisco Moya
+  715	pape	Gerrit Pape
+  716	paravoid	Faidon Liambotis
+  717	pascal	Pascal Giard
+  718	pasc	Pascal Hakim
+  719	patryk	Patryk Cisek
+  720	paulliu	Ying-Chun Liu
+  721	paul	Paul Slootman
+  722	paulproteus	Asheesh Laroia
+  723	paultag	Paul Richards Tagliamonte
+  724	paulvt	Paul van Tilburg
+  725	paulwaite	Paul Waite
+  726	pdm	Milan Zamazal
+  727	pelle	Per Olofsson
+  728	peloy	Eloy A. Paris
+  729	pere	Petter Reinholdtsen
+  730	periapt	Nicholas Bamber
+  731	petere	Peter Eisentraut
+  732	peters	Peter Samuelson
+  733	pfaffben	Ben Pfaff
+  734	philh	Philip Hands
+  735	philipp	Philipp Benner
+  736	picca	Frédéric-Emmanuel Picca
+  737	piefel	Michael Piefel
+  738	piem	Paul Brossier
+  739	pik	Paul Cannon
+  740	pini	Gilles Filippini
+  741	pino	Pino Toscano
+  742	piotr	Piotr Ozarowski
+  743	pjb	Phil Brooke
+  744	pkern	Philipp Kern
+  745	plessy	Charles Plessy
+  746	plugwash	Peter Green
+  747	pmachard	Pierre Machard
+  748	pmatthaei	Patrick Matthäi
+  749	pmhahn	Philipp Matthias Hahn
+  750	pm	Paul Martin
+  751	pochu	Emilio Pozuelo Monfort
+  752	pocock	Daniel Pocock
+  753	pollux	Pierre Chifflier
+  754	porridge	Marcin Owsiany
+  755	pouelle	Patrick Ouellette
+  756	ppatters	Patrick Patterson
+  757	prach	Prach Pongpanich
+  758	praveen	Praveen Arimbrathodiyil
+  759	preining	Norbert Preining
+  760	prh	Paul Robert Hedderly
+  761	profeta	Mickael Profeta
+  762	pronovic	Kenneth J. Pronovici
+  763	prudhomm	Christophe Prudhomme
+  764	psg	Peter S. Galbraith
+  765	pstorralba	Pablo S. Torralba
+  766	pvaneynd	Peter Van Eynde
+  767	pyro	Brian Nelson
+  768	qjb	Jay Berkenbilt
+  769	racke	Stefan Hornburg
+  770	radu	Radu Spineanu
+  771	rafl	Florian Ragwitz
+  772	rak	Ryan Kavanagh
+  773	ras	Russell Stuart
+  774	rattusrattus	Andy Simpkins
+  775	rbalint	Balint Reczey
+  776	rbd	Roland Dreier
+  777	rcp	Ross Peachey
+  778	rcw	Robert Woodcock
+  779	reg	Gregory Colpart
+  780	regis	Regis Boudin
+  781	reichel	Joachim Reichel
+  782	rene	Rene Engelhard
+  783	rfrancoise	Romain Francoise
+  784	rganesan	Ganesan Rajagopal
+  785	rhonda	Gerfried Fuchs
+  786	richih	Richard Michael Hartmann
+  787	riku	Riku Voipio
+  788	risko	RISKO Gergely
+  789	rjs	Roderick Schertler
+  790	rkrishnan	Ramakrishnan Muthukrishnan
+  791	rlb	Rob Browning
+  792	rmayorga	Rene Mayorga
+  793	rmayr	Rene Mayrhofer
+  794	rmgolbeck	Ryan M. Golbeck
+  795	rmh	Robert Millan
+  796	rmurray	Ryan Murray
+  797	robertc	Robert Collins
+  798	robertle	Robert Lemmen
+  799	roberto	Roberto C. Sanchez
+  800	robert	Robert Luberda
+  801	robotux	Thomas Preud'homme
+  802	robster	Rob Bradford
+  803	rogerso	Roger So
+  804	roktas	Recai Oktas
+  805	roland	Roland Rosenfeld
+  806	ron	Ron Lee
+  807	ross	Ross Burton
+  808	rotty	Andreas Rottmann
+  809	rousseau	Ludovic Rousseau
+  810	rover	Roberto Lumbreras
+  811	rra	Russ Allbery
+  812	rrs	Ritesh Raj Sarraf
+  813	rudi	Roland Marcus Rutschmann
+  814	rudy	Rudy Godoy
+  815	rvr	Rogerio Reis
+  816	rweber	Rene Weber
+  817	ryan	Ryan Niebur
+  818	sacha	Alexander Kotelnikov
+  819	salve	Davide G.M. Salvetti
+  820	samj	Sam Johnston
+  821	samo	Sam Clegg
+  822	santiago	Santiago Ruano Rincón
+  823	sanvila	Santiago Vila
+  824	sasa	Szalay Attila
+  825	sathieu	Mathieu Parent
+  826	scheffczyk	Thomas Scheffczyk
+  827	schepler	Daniel Schepler
+  828	schimmi	Stefan Schimanski
+  829	schlue	Michael Schlueter
+  830	schmitz	Michael Schmitz
+  831	schoenfeld	Patrick Schoenfeld
+  832	schultmc	Michael C. Schultheiss
+  833	sdier	Scott M. Dier
+  834	sdt	Stuart Teasdale
+  835	seamus	Angel Ramos
+  836	seanius	Sean Finney
+  837	seb128	Sebastien Bacher
+  838	sebastic	Sebastiaan Couwenberg
+  839	sebastien	Sébastien Villemot
+  840	seb	Sebastien Delafond
+  841	segre	Carlo U. Segre
+  842	sesse	Steinar H. Gunderson
+  843	sez	Serafeim Zanikolas
+  844	sfrost	Stephen Frost
+  845	sf	Stefan Fritsch
+  846	sgevatter	Siegfried-Angel Gevatter Pujals
+  847	sgolovan	Sergei Golovan
+  848	sgran	Stephen Gran
+  849	shachar	Shachar Shemesh
+  850	shaka	Øystein Gisnås
+  851	shane	Shane Wegner
+  852	sharkey	Eric Sharkey
+  853	sharky	Jeremy Lainé
+  854	shlomme	Torsten Marek
+  855	sho	Samuel Hocevar
+  856	showard	Scott Sheridan Howard
+  857	shugo	Shugo Maeda
+  858	siretart	Reinhard Tartler
+  859	sjackman	Shaun Jackman
+  860	sjoerd	Sjoerd Simons
+  861	sjr	Simon Richter
+  862	skainz	Simon Kainz
+  863	skitt	Stephen Kitt
+  864	slomo	Sebastian Dröge
+  865	smarenka	Stephen R. Marenka
+  866	smcv	Simon McVittie
+  867	smimram	Samuel Mimram
+  868	smr	Steven Michael Robbins
+  869	smurf	Matthias Urlichs
+  870	sonne	Soeren Sonnenburg
+  871	spaillard	Simon Paillard
+  872	spamaps	Clint Byrum
+  873	spa	Salvador Abreu
+  874	spectra	Pablo Lorenzzoni
+  875	sramacher	Sebastian Ramacher
+  876	sre	Sebastian Reichel
+  877	srittau	Sebastian Rittau
+  878	srivasta	Manoj Srivastava
+  879	srk	Simon Kelley
+  880	ssm	Stig Sandbeck Mathisen
+  881	stapelberg	Michael Stapelberg
+  882	stappers	Geert Stappers
+  883	stefanor	Stefano Rivera
+  884	steinm	Uwe Steinmann
+  885	stender	Daniel Stender
+  886	stephe	Stephen Leake
+  887	stevegr	Steve Greenland
+  888	stevenk	Steve Kowalik
+  889	steve	Steve Kostecke
+  890	sthibault	Samuel Thibault
+  891	stigge	Roland Stigge
+  892	stone	Fredrik Steen
+  893	sto	Sergio Talens-Oliag
+  894	stratus	Gustavo Franco
+  895	stuart	Stuart Prescott
+  896	sune	Sune Vuorela
+  897	sunweaver	Mike Gabriel
+  898	susumuo	Susumu Osawa
+  899	sven	Sven Mueller
+  900	sylvestre	Sylvestre Ledru
+  901	synrg	Ben Armstrong
+  902	syq	YunQiang Su
+  903	tach	Taku Yasui
+  904	taffit	David Prévot
+  905	taggart	Matt Taggart
+  906	takaki	Takaki Taniguchi
+  907	tale	Tapio Lehtonen
+  908	tanguy	Tanguy Ortolo
+  909	tao	David Weinehall
+  910	taru	Masato Taruishi
+  911	tassia	Tássia Camões Araújo
+  912	tats	Tatsuya Kinoshita
+  913	tbm	Martin Michlmayr
+  914	tb	Thomas Bushnell
+  915	tehnick	Boris Pek
+  916	terceiro	Antonio Terceiro
+  917	terpstra	Wesley W. Terpstra
+  918	tfheen	Tollef Fog Heen
+  919	tgg	Thomas Girard
+  920	thansen	Tobias Hansen
+  921	thb	Thaddeus H. Black
+  922	thep	Theppitak Karoonboonyanan
+  923	thibaut	Thibaut Jean-Claude Paumard
+  924	thierry	Thierry Randrianiriana
+  925	thijs	Thijs Kinkhorst
+  926	thom	Thom May
+  927	thorvald	Thorvald Natvig
+  928	tiago	Tiago Bortoletto Vaz
+  929	tianon	Tianon Gravi
+  930	tille	Andreas Tille
+  931	timo	Timo Jyrinki
+  932	timr	Tim Riker
+  933	tin	Agustin Henze
+  934	tincho	Martín Ferrari
+  935	tiwe	Timo Weingärtner
+  936	tjaalton	Timo Aaltonen
+  937	tjhukkan	Teemu Hukkanen
+  938	tjrc1	Tim Cutts
+  939	tmancill	Tony Mancill
+  940	toabctl	Thomas Bechtold
+  941	tobald	Christophe Siraut
+  942	tobi	Tobias Frost
+  943	toddy	Tobias Quathamer
+  944	tokkee	Sebastian Harl
+  945	tomasz	Tomasz Buchert
+  946	toma	Tamas Szerb
+  947	tomfa	Tomas Fasth
+  948	toni	Toni Mueller
+  949	toots	Romain Beauxis
+  950	torsten	Torsten Landschoff
+  951	tpo	Tomas Pospisek
+  952	treinen	Ralf Treinen
+  953	troup	James Troup
+  954	troyh	Troy Heber
+  955	tschmidt	Thomas Schmidt
+  956	ttroxell	Todd Troxell
+  957	turbo	Turbo Fredriksson
+  958	tvainika	Tommi Vainikainen
+  959	tvincent	Thomas Vincent
+  960	tweber	Thomas Weber
+  961	twerner	Torsten Werner
+  962	tytso	Theodore Y. Ts'o
+  963	tzafrir	Tzafrir Cohen
+  964	ucko	Aaron M. Ucko
+  965	uhoreg	Hubert Chan
+  966	ukleinek	Uwe Kleine-König
+  967	uli	Ulrich Dangel
+  968	ultrotter	Guido Trotter
+  969	umlaeute	IOhannes m zmölnig
+  970	unera	Dmitry Oboukhov
+  971	uwe	Uwe Hermann
+  972	vagrant	Vagrant Cascadian
+  973	vanicat	Remi Vanicat
+  974	varenet	Thibaut Varene
+  975	varun	Varun Hiremath
+  976	vcheng	Vincent Cheng
+  977	vdanjean	Vincent Danjean
+  978	vela	Matej Vela
+  979	venthur	Bastian Venthur
+  980	vicho	Javier Merino Cacho
+  981	viiru	Arto Jantunen
+  982	vince	Vincent Sanders
+  983	vlegout	Vincent Legout
+  984	vlm	Vince Mulhollon
+  985	vorlon	Steve Langasek
+  986	vseva	Victor Seva
+  987	waja	Jan Wagner
+  988	waldi	Bastian Blank
+  989	warp10	Andrea Colangelo
+  990	wart	Wartan Hachaturow
+  991	wdg	Daniel Glassey
+  992	weasel	Peter Palfrader
+  993	wehe	Werner Heuser
+  994	werner	Morten Werner Forsbring
+  995	wijnen	Bas Wijnen
+  996	willi	Willi Mann
+  997	will	Will Newton
+  998	willy	Matthew Wilcox
+  999	winnie	Patrick Winnertz
+ 1000	wookey	Wookey
+ 1001	wouter	Wouter Verhelst
+ 1002	wrar	Andrey Rahmatullin
+ 1003	xaiki	Niv Sardi-Altivanik
+ 1004	xam	Max Vozeler
+ 1005	xavier	Xavier Roche
+ 1006	xluthi	Xavier Lüthi
+ 1007	xnox	Dmitrijs Ledkovs
+ 1008	xoswald	Xavier Oswald
+ 1009	yaegashi	Takeshi YAEGASHI
+ 1010	ygh	Guanghui Yu
+ 1011	yoh	Yaroslav Halchenko
+ 1012	yooseong	Yooseong Yang
+ 1013	yoush	Nikita V. Youshchenko
+ 1014	yyabuki	Yukiharu Yabuki
+ 1015	zack	Stefano Zacchiroli
+ 1016	zed	Zed Pobre
+ 1017	zeha	Christian Hofstaedtler
+ 1018	zigo	Thomas Goirand
+ 1019	zinoviev	Anton Zinoviev
+ 1020	zobel	Martin Zobel-Helas
+ 1021	zufus	Marco Presi
+ 1022	zugschlus	Marc Haber
+ 1023	zumbi	Hector Oron
