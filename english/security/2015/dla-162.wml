@@ -1,6 +1,6 @@
 <define-tag description>LTS security update</define-tag>
 <define-tag moreinfo>
-<p>ose Duart of the Google Security Team discovered a buffer overflow in
+<p>Jose Duart of the Google Security Team discovered a buffer overflow
 in e2fsprogs, a set of utilities for the ext2, ext3, and ext4 file
 systems.  This issue can possibly lead to arbitrary code execution if
 a malicious device is plugged in, the system is configured to
@@ -20,4 +20,4 @@ on the device's malicious filesystem.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-162.data"
-# $Id: dla-162.wml,v 1.2 2016/04/08 20:32:24 djpig Exp $
+# $Id: dla-162.wml,v 1.3 2016/04/27 20:37:46 dogsleg Exp $

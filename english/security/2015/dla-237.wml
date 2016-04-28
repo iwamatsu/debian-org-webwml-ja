@@ -11,7 +11,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2014-9390">CVE-2014-9390</a>
 
-    <p>is a security vulnerability that affects mercurial repositories in a
+    <p>There is a security vulnerability that affects mercurial repositories in a
     case-insensitive filesystem (eg. VFAT or HFS+).  It allows for remote
     code execution of a specially crafted repository.  This is less
     severe for the average Debian installation as they are usually set
@@ -22,4 +22,4 @@
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-237.data"
-# $Id: dla-237.wml,v 1.2 2016/04/07 19:21:20 djpig Exp $
+# $Id: dla-237.wml,v 1.3 2016/04/27 21:14:44 dogsleg Exp $
