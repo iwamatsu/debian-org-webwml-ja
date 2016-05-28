@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-05-26" SUMMARY="Over 50k packages, Stretch freeze, New DPL, LTS Security, Firefox, Java, The Debian Japanese Translation team and The Debian Administrator's Handbook, ZFS, Upcoming events and event reports, Help needed, Discussions, News, Reports, Quick Links"
 
-# $Id: index.wml,v 1.1 2016/05/26 21:41:15 dnorwood-guest Exp $
+# $Id: index.wml,v 1.3 2016/05/27 19:30:24 ayanokouzi-guest Exp $
 # $Rev$
 # Status: [frozen]
 
@@ -168,13 +168,13 @@ and talks on the <a href="$(HOME)/events">events section</a> of the Debian websi
 <p>Debian Ruby Team</p>
 
 <p>In February the Debian Ruby Team held a <a 
-href="http://softwarelivre.org/terceiro/blog/debian-ruby-sprint-2016-day-
-1">Sprint</a> at the Curitiba Federal Technological University of Paraná 
+href="http://softwarelivre.org/terceiro/blog/debian-ruby-sprint-2016-day-1">Sprint</a>
+at the Curitiba Federal Technological University of Paraná 
 (UTFPR). Eight participants over the course of five days were able to focus on working to
 fix many of the bugs that occur between new versions of the Ruby interpreter.
 The sprint was not all work as they were able to enjoy <a 
-href="http://softwarelivre.org/terceiro/blog/debian-ruby-sprint-2016-day-2-
-japanese-cuisine-bug-fixes-and-mini-cheesewine-party">cheese and wine</a>,
+href="http://softwarelivre.org/terceiro/blog/debian-ruby-sprint-2016-day-2-japanese-cuisine-bug-fixes-and-mini-cheesewine-party">cheese
+and wine</a>,
 solve some confusion about Tinder, and work out how to improve sprints in the 
 future. </p>
 <p>The team completed over 151 uploads, worked on the transition to Ruby 2.3 in 
@@ -274,7 +274,7 @@ system. A discussion followed which give a bit of history and procedure as to
 how the mount command mounts and sometimes hides files. </p>
 
 <p>Debian user Jude DaShiell asked about <a
-href="https://lists.debian.org/debian-user/2016/04/msg00016.html"><q>running Linux
+href="https://lists.debian.org/debian-user/2016/04/msg00017.html"><q>running Linux
 without a display</q></a>, which talked about headless server setup, dummy 
 display, and screen readers.</p>
 
