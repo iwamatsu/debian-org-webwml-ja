@@ -52,19 +52,19 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2015-3329">CVE-2015-3329</a>
 
-    <p>Buffer Overflow when parsing tar/zip/phar in phar_set_inode)</p></li>
+    <p>Buffer Overflow when parsing tar/zip/phar in phar_set_inode</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2015-3330">CVE-2015-3330</a>
 
     <p>PHP potential remote code execution with apache 2.4 apache2handler</p>
 
 <li>CVE-2015-temp-68819
-    
-    <p>denial of service when processing a crafted file with Fileinfo</p></li>
+
+    <p>Denial of service when processing a crafted file with Fileinfo</p></li>
 
 </ul>
 </define-tag>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-212.data"
-# $Id: dla-212.wml,v 1.3 2016/04/07 19:21:20 djpig Exp $
+# $Id: dla-212.wml,v 1.4 2016/06/03 15:47:10 dogsleg Exp $
