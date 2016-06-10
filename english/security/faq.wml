@@ -1,6 +1,6 @@
 #use wml::debian::template title="Debian security FAQ"
 #include "$(ENGLISHDIR)/security/faq.inc"
-# $Id: faq.wml,v 1.92 2016/06/06 15:47:01 luciano Exp $
+# $Id: faq.wml,v 1.94 2016/06/09 21:38:16 luciano Exp $
 
 <maketoc>
 
@@ -17,10 +17,10 @@
    was present. Therefore, you should update all the binary packages from
    that source package. To check the binary packages to update, visit
    <tt>https://packages.debian.org/src:<i>source-package-name</i></tt> and
-   and click on <i>[show ... binary packages]</i> for the distribution you
+   click on <i>[show ... binary packages]</i> for the distribution you
    are updating.</p>
 
-<p>It may also be necessarily to restart a service or a running process. The
+<p>It may also be necessary to restart a service or a running process. The
    command <a href="https://manpages.debian.org/checkrestart"><tt>checkrestart</tt></a>
    included in the package
    <a href="https://packages.debian.org/debian-goodies">debian-goodies</a>
