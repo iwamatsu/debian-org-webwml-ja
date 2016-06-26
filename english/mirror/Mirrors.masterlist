@@ -1084,24 +1084,6 @@ Location: Aachen, Germany
 Sponsor: RWTH Aachen University http://www.rwth-aachen.de/
 Bandwidth: 10Gbps
 
-Site: debian.morphium.info
-Type: Push-Primary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
-Security-ftp: /debian-security/
-Security-http: /debian-security/
-Security-rsync: debian-security/
-Security-upstream: syncproxy3.eu.debian.org
-Security-method: push
-IPv6: yes
-Archive-upstream: kassia.debian.org
-Maintainer: Theodor Reppe <debian@morphium.info>
-Country: DE Germany
-Location: manitu data center (manitu.de)
-Sponsor: Theodor 'morphium' Reppe http://www.morphium.info/
-
 Site: ftp.sv.debian.org
 Includes: debian.salud.gob.sv
 Type: Push-Primary
@@ -1236,35 +1218,6 @@ Country: MD Moldova
 Location: Chisinau
 Sponsor: Trabia-Network http://www.trabia.net
 Bandwidth: 1Gbps
-
-
-
-
-
-
-Site: debian.mirror.dkm.cz
-Type: Push-Secondary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
-CDImage-ftp: /debian-cd/
-CDImage-http: /debian-cd/
-CDImage-rsync: debian-cd/
-Security-ftp: /debian-security/
-Security-http: /debian-security/
-Security-rsync: debian-security/
-IPv6: yes
-Archive-upstream: syncproxy.eu.debian.org
-Security-upstream: security.debian.org
-CDImage-upstream: cdimage.debian.org
-Updates: twice
-Maintainer: Tomas Zvala <tz@dkm.cz>
-Country: CZ Czech Republic
-Location: Prague
-Sponsor: UPC http://www.upc.cz/
-Comment: mirror hw: Xeon 3220, 8GB RAM, 11xWD4000YR RAID5, 2x1Gbit link to our backbone router.
-Bandwidth: 2Gbps
 
 Site: mirror.ancl.hawaii.edu
 Type: Push-Secondary
@@ -2792,6 +2745,24 @@ Updates: four
 Maintainer: victorien brunet <victorien@vbrunet.eu>
 Country: FR France
 Sponsor: vbrunet http://www.vbrunet.eu
+
+Site: mirror.dkm.cz
+Type: leaf
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
+Archive-ftp: /debian/
+Archive-http: /debian/
+Archive-rsync: debian/
+CDImage-ftp: /debian-cd/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+IPv6: yes
+Archive-upstream: ftp.cz.debian.org
+CDImage-upstream: ftp.cz.debian.org
+Updates: four
+Maintainer: Lukas Krudl <houmles@gmail.com>
+Country: CZ Czech Republic
+Location: Prague, Czech Republic
+Sponsor: UPC Czech Republic s.r.o. https://www.upc.cz/
 
 Site: debmirror.tuxis.nl
 Type: leaf
@@ -7633,3 +7604,30 @@ Location: Guaranda, Bolivar, Ecuador
 Sponsor: Universidad Estatal de Bolivar http://www.ueb.edu.ec
 Comment: Also connected to I2
 
+Site: mirrors.cug.edu.cn
+Type: leaf
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-http: /debian/
+Archive-rsync: debian/
+CDImage-http: /debian-cd/
+CDImage-rsync: debian-cd/
+IPv6: yes
+Archive-upstream: ftp.cn.debian.org
+CDImage-upstream: ftp.cn.debian.org
+Updates: four
+Maintainer: PointStone Team <mirrors@cug.edu.cn>
+Country: CN China
+Location: Wuhan City, Hubei Province, China
+Sponsor: China University of Geosciences http://www.cug.edu.cn/
+
+Site: debian.redimadrid.es
+Type: leaf
+Archive-architecture:  amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-http: /debian/
+IPv6: no
+Archive-upstream: ftp.de.debian.org
+Updates: four
+Maintainer: REDIMadrid NOC <noc@redimadrid.es>
+Country: ES Spain
+Location: Madrid
+Sponsor: REDIMadrid http://www.redimadrid.es
