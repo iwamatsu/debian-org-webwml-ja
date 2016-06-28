@@ -408,8 +408,11 @@
     <current>Martin Zobel-Helas
     <member>Benjamin Mako Hill
     <member>Rob Bradford
-  <job <a name="auditor" href="https://wiki.debian.org/Teams/Auditor"><gettext domain="organization">Auditor</gettext></a>> <genericemail auditor@debian.org> <delegationmail 20101009140120.GA26192@upsilon.cc>
-    <member>Martin Michlmayr<delegate_male>
+  <job <a name="auditor" href="https://wiki.debian.org/Teams/Auditor"><gettext domain="organization">Auditor</gettext></a>> <genericemail auditor@debian.org> <delegationmail 20160416194934.GD2171@halon.org.uk>
+    <member>Brian Gupta<delegate_male>
+    <member>Philipp Hug<delegate_male>
+    <member>Hector Oron<delegate_male>
+    <member>Martin Michlmayr
     <member>Martin Wuertele
   <job <gettext domain="organization"><a name="trademark" href="m4_HOME/trademark">Trademark</a> use requests</gettext>> <genericemail trademark@debian.org>
     <member>Brian Gupta
@@ -434,6 +437,8 @@
   <job <a name="antiharassment" href="https://wiki.debian.org/AntiHarassment"><gettext domain="organization">Anti-harassment</gettext></a>> <genericemail antiharassment@debian.org>
     <member>Margarita Manterola
     <member>Patty Langasek
+    <member>Laura Arjona Reina
+    <member>Neil McGovern
   <job <a name="outreach" href="https://wiki.debian.org/Teams/Outreach"><gettext domain="organization">Outreach</gettext></a>> <genericemail outreach@debian.org> <delegationmail 20150416113514.GB8087@xanadu.blop.info>
     <member>Nicolas Dandrimont
     <member>Sylvestre Ledru
