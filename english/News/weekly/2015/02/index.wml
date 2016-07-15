@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-03-12" SUMMARY="Reports from the DebianMed sprint, Debian LTS status, Delegation of the Trademark Team, Debian Partners call for help, Upcoming DPL Election, DebConf15 registration opens, DebConf16 location, Debian in the Movies, DPN asks: DSA, What do you do?, Interviews with Joey Hess and Paul Wise"
 
-# $Id: index.wml,v 1.5 2015/05/13 15:05:35 tvincent-guest Exp $
+# $Id: index.wml,v 1.6 2016/07/14 19:34:01 holger-guest Exp $
 # $Rev: 6064 $
 # Status: [content-frozen|sent]
 
@@ -154,7 +154,7 @@ feel free to <a href="https://bugs.debian.org/cgi-bin/pkgreport.cgi?users=debian
 </p>
 
 <p>
-For more information or to contact the team, visit their web page: <a href="$(HOME)/Teams/DSA">DSA Team</a>.
+For more information or to contact the team, visit their web page: <a href="https://wiki.debian.org/Teams/DSA">DSA Team</a>.
 </p>
 
 <toc-add-entry name="interviews">Interviews</toc-add-entry>
