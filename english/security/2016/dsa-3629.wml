@@ -49,7 +49,7 @@ daemon and utility programs:</p>
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2016-1550">CVE-2016-1550</a>
 
     <p>Matthew van Gundy, Stephen Gray and Loganaden Velvindron discovered
-    that timing leaks in the the packet authentication code could result
+    that timing leaks in the packet authentication code could result
     in recovery of a message digest.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2016-2516">CVE-2016-2516</a>
@@ -78,4 +78,4 @@ version 1:4.2.8p7+dfsg-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3629.data"
-# $Id: dsa-3629.wml,v 1.2 2016/07/26 11:51:03 dogsleg Exp $
+# $Id: dsa-3629.wml,v 1.3 2016/07/28 23:05:08 jipege1-guest Exp $

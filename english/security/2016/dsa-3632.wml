@@ -6,7 +6,7 @@ version 10.0.26. Please see the MariaDB 10.0 Release Notes for further
 details:</p>
 
 <ul>
-<li<a href="https://mariadb.com/kb/en/mariadb/mariadb-10026-release-notes/">\
+<li><a href="https://mariadb.com/kb/en/mariadb/mariadb-10026-release-notes/">\
 https://mariadb.com/kb/en/mariadb/mariadb-10026-release-notes/</a></li>
 </ul>
 
@@ -21,4 +21,4 @@ version 10.0.26-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3632.data"
-# $Id: dsa-3632.wml,v 1.1 2016/07/27 14:52:14 carnil Exp $
+# $Id: dsa-3632.wml,v 1.2 2016/07/28 17:20:22 jipege1-guest Exp $
