@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-07-29" SUMMARY="Mate 1.14 in unstable, Misc Developer News, Point releases, Changes in the NM process, Wheezy LTS OpenJDK 7, Bits from the DPL, GCC 6 for stretch, new pkg-security team, General Resolutions, DebConf16, FISL17, Freeze, Once upon a time, stretch artwork, Contributors, Discussions, Tips and Tricks, Outreachy, GSoC, LTS, Reproducible Builds, Social Media"
 
-# $Id: index.wml,v 1.2 2016/07/29 22:37:37 jipege1-guest Exp $
+# $Id: index.wml,v 1.3 2016/07/30 03:41:31 dnorwood-guest Exp $
 # $Rev$
 # Status: [content-frozen]
  
@@ -501,6 +501,6 @@ part of Debian. Simon worked with Debian Developer Alexandre Viau and together t
 
 <p><a href="https://lists.debian.org/debian-news/">Subscribe or Unsubscribe</a> from the Debian News mailing list</p>
 
-#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Giovani Augusto Ferreira, contributor2, contributor3"
+#use wml::debian::projectnews::footer editor="The Publicity Team with contributions from Giovani Augusto Ferreira, Justin B. Rye, Holger Wansing"
 # Please add the contributors to the /dpn/CREDITS file
 # Translators may also add a translator="foo, bar, baz" to the previous line
