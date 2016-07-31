@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-07-29" SUMMARY="Mate 1.14 in unstable, Misc Developer News, Point releases, Changes in the NM process, Wheezy LTS OpenJDK 7, Bits from the DPL, GCC 6 for stretch, new pkg-security team, General Resolutions, DebConf16, FISL17, Freeze, Once upon a time, stretch artwork, Contributors, Discussions, Tips and Tricks, Outreachy, GSoC, LTS, Reproducible Builds, Social Media"
 
-# $Id: index.wml,v 1.3 2016/07/30 03:41:31 dnorwood-guest Exp $
+# $Id: index.wml,v 1.4 2016/07/31 01:43:17 ayanokouzi-guest Exp $
 # $Rev$
 # Status: [content-frozen]
  
@@ -378,35 +378,35 @@ href="https://wiki.debian.org/SummerOfCode2016/RTCProjects">Summer of Code
 Students</a> working on WebRTC (Real-Time Communications) and Communications 
 projects.</p> 
 <p><a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/ 
-MesutCanGurle">Mesut Can Gurle</a> is making plugins for genuinely free WebRTC 
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/MesutCanGurle">Mesut
+Can Gurle</a> is making plugins for genuinely free WebRTC 
 with open standards like SIP, recently creating the <a 
 href="https://github.com/mesutcang/wpcall">WPCall</a> plugin for WordPress.</p>
 <p><a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/
-KeerthanaKrishnan">Keerthana Krishnan</a> has started work on creating a 
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/KeerthanaKrishnan">Keerthana
+Krishnan</a> has started work on creating a 
 similar plugin for MediaWiki.</p>
 
 <p><a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/
-Jaminy">Jaminy Prabaharan</a> is working on a tool to help users to find all the
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/Jaminy">Jaminy
+Prabaharan</a> is working on a tool to help users to find all the
 phone numbers and ham radio callsigns in old emails.</p>
 
 <p><a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/SimonD%C3%
-A9saulniers">Simon Désaulniers</a>, <a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/OlivierGr%C3%
-A9goire">Olivier Gregoire</a>, <a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/
-NicolasReynaud">Nicolas Reynaud</a>, and <a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/
-AlokAnand">Alok Anand</a> are working on a peer-to-peer alternative to SIP, XMPP
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/SimonD%C3%A9saulniers">Simon
+Désaulniers</a>, <a 
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/OlivierGr%C3%A9goire">Olivier
+Gregoire</a>, <a 
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/NicolasReynaud">Nicolas
+Reynaud</a>, and <a 
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/AlokAnand">Alok
+Anand</a> are working on a peer-to-peer alternative to SIP, XMPP
 and WebRTC, along with 
 <a href="https://www.savoirfairelinux.com/">Savoir Faire Linux</a> in work on
 the <a href="https://ring.cx/">Ring</a> softphone.</p>
 <p><a 
-href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/
-PranavJain">Pranav Jain</a> has been working on streamlining the provisioning 
+href="https://wiki.debian.org/SummerOfCode2016/StudentApplications/PranavJain">Pranav
+Jain</a> has been working on streamlining the provisioning 
 of SIP accounts, hoping as well to provide mechanisms for privately operated SIP 
 PBXes such as Asterisk.</p>
 <p><a 
