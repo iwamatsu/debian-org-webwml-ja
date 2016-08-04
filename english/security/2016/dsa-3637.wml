@@ -82,7 +82,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2016-5137">CVE-2016-5137</a>
 
-    <p>Xiaoyin Liu discovered a way to discover whether an HSTS web side had been
+    <p>Xiaoyin Liu discovered a way to discover whether an HSTS web site had been
     visited.</p></li>
 
 </ul>
@@ -98,4 +98,4 @@ have been fixed in version 52.0.2743.82-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3637.data"
-# $Id: dsa-3637.wml,v 1.2 2016/08/01 12:30:15 dogsleg Exp $
+# $Id: dsa-3637.wml,v 1.3 2016/08/03 21:41:58 jipege1-guest Exp $
