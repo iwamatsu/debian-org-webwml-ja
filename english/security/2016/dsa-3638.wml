@@ -16,7 +16,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2016-5421">CVE-2016-5421</a>
 
-    <p>Marcelo Echeverria and Fernando MuÃ±oz discovered that libcurl was
+    <p>Marcelo Echeverria and Fernando Muñoz discovered that libcurl was
     vulnerable to a use-after-free flaw.</p></li>
 
 </ul>
@@ -32,4 +32,4 @@ version 7.50.1-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3638.data"
-# $Id: dsa-3638.wml,v 1.1 2016/08/04 09:34:10 kaare Exp $
+# $Id: dsa-3638.wml,v 1.2 2016/08/06 18:53:04 jipege1-guest Exp $
