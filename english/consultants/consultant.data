@@ -1233,17 +1233,6 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 <additional_info linuxmagic>
 </p>
 
-# Consultant: CA
-# mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry up-to-date.
-<p>
-<name	 Derrick Webber>
-<company Advosys Consulting Inc.>
-<address Ottawa, Ontario, <country-name CA>>
-<phone	 +1-613-290-7731>
-<email	 contact@advosys.ca>
-<URL	 "http://advosys.ca/">
-<rates	 Please contact us.>
-</p>
 
 # Consultant: CA
 # mail sent to check status: 26.02.2013 holger-guest. Result: still active, entry updated.
@@ -3418,21 +3407,6 @@ Slipi-Palmerah, Jakarta Barat 11480, <country-name ID>>
 # Consultant: IT
 # mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
 <p>
-<name    Alessio Cecchi>
-<company CBS - cecchi.biz>
-<address Via Pollative 111/o - 59100 Prato (PO), <country-name IT>>
-<phone   +39 057 40 26 03 0>
-<fax     +39 057 47 89 01 8>
-<email   box-online@cecchi.biz>
-<url     "http://www.cecchi.biz/open_source/quale_distribuzione_linux.html">
-<url     "http://www.cecchi.biz/">
-<rates   Please contact for rates.>
-<additional_info cecchi>
-</p>
-
-# Consultant: IT
-# mail sent to check status: 13.04.2013 holger-guest. Result: still active, entry updated.
-<p>
 <name    Mirco Piccin>
 <company Xuni Technology>
 <address Via Cima Mandria 19 - 31044 Montebelluna - Treviso, <country-name IT>>
@@ -5518,19 +5492,7 @@ Discounts to bona fide, non-profits negotiable.>
 </p>
 
 
-<h1><a name="AE"><country-name AE>:</a></h1>
-
-# Consultant: AE
-# mail sent to check status: 16.07.2013 holger-guest. Result: still active, entry updated.
-<p>
-<name    Christian Schmidt>
-<company DN-Systems International Limited>
-<address Box 500 581, Dubai, <country-name AE>>
-<phone   +971-50-2861299>
-<email   debhelp@dn-systems.com>
-<URL     http://www.dn-systems.com>
-<rates   Please get a quotation first.>
-</p>
+# <h1><a name="AE"><country-name AE>:</a></h1>
 
 
 <h1><a name="VE"><country-name VE>:</a></h1>
