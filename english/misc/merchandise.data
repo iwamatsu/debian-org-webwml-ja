@@ -35,7 +35,7 @@
 
 <mercentry>
   <vendor Debian France>
-  <URL "http://www.enventelibre.org/debian">
+  <URL "https://enventelibre.org/42-debian">
   <their_products <polo_shirts>, <stickers>, <other_clothing>, <knives>, <umbrellas>>
 </mercentry>
 
@@ -127,8 +127,10 @@
 </mercentry>
 
 
-<mercentry>
-  <vendor STS Stitching>
-  <URL "https://www.etsy.com/shop/STSStitching?ref=hdr_shop_menu">
-  <their_products <hats>>
-</mercentry>
+# disable, shop has no products currently (2016/09/17)    
+#<mercentry>
+#  <vendor STS Stitching>
+# <URL "https://www.etsy.com/shop/STSStitching?ref=hdr_shop_menu"> 
+# <their_products <hats>>
+#</mercentry>
+
