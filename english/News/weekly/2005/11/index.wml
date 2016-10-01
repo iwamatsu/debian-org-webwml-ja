@@ -1,11 +1,11 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-03-15" SUMMARY="DebConf, Logo, USB, Documentation, Election, Release, NEW Queue"
-# $Id: index.wml,v 1.8 2014/09/07 08:55:43 pabs Exp $
+# $Id: index.wml,v 1.9 2016/10/01 04:55:28 pabs Exp $
 
 <p>Welcome to this year's 11th issue of DWN, the weekly newsletter for the
 Debian community.  Sean Finney <a
 href="https://lists.debian.org/debian-devel/2005/03/msg00150.html">\
 uploaded</a> the first version of the <a
-href="https://people.debian.org/~seanius/policy/examples/">\
+href="https://packages.debian.org/source/sid/dbconfig-common">\
 dbconfig-common</a> package which implements a general database maintenance
 interface and is intended to be used by other packages.</p>
 
