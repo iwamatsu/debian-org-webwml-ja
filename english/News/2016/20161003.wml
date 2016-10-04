@@ -1,5 +1,5 @@
 # Status: [frozen]
-# $Id: 20161003.wml,v 1.1 2016/10/03 16:30:54 larjona Exp $
+# $Id: 20161003.wml,v 1.2 2016/10/04 07:20:45 kaare Exp $
 # $Rev$
 
 <define-tag pagetitle>Several donations boost reliability of Debian's core infrastructure</define-tag>
@@ -25,6 +25,7 @@
 </p>
 <p>
   HPE's in-kind donations will allow Debian:
+</p>
   <ul>
     <li>
       to significantly enhance core service
@@ -46,7 +47,6 @@
       HPE ProLiant DL360 Gen9 Servers.
     </li>
   </ul>
-</p>
 <p>
   <q>Hewlett Packard Enterprise relies on Debian's technologies
   for HPE Linux, a technology standard across the company,</q>
