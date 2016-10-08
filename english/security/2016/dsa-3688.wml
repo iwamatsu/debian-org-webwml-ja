@@ -59,7 +59,7 @@ start.  In certain system configurations, this allowed local users to
 escalate their privileges.</p>
 
 <p>This update contains further correctness and stability fixes without
-immediate security impact.</p></li>
+immediate security impact.</p>
 
 <p>For the stable distribution (jessie), these problems have been fixed in
 version 2:3.26-1+debu8u1.</p>
@@ -72,4 +72,4 @@ version 2:3.23-1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2016/dsa-3688.data"
-# $Id: dsa-3688.wml,v 1.2 2016/10/06 19:30:01 dogsleg Exp $
+# $Id: dsa-3688.wml,v 1.3 2016/10/07 19:49:48 dogsleg Exp $
