@@ -7,10 +7,10 @@
 # names as parameters to create the .ics file
 
 # Originally written 2002-12-29 by Peter Karlsson <peterk@debian.org>
-# © Copyright 2002-2003 Software in the public interest, Inc.
+# Â© Copyright 2002-2003 Software in the public interest, Inc.
 # This program is released under the GNU General Public License, v2.
 
-# $Id: make_ics.pl,v 1.8 2014/04/30 09:22:45 pabs Exp $
+# $Id: make_ics.pl,v 1.9 2016/11/05 15:16:21 pabs Exp $
 
 # FIXME: Handle character entities for non-iso-8859-1 pages?
 
