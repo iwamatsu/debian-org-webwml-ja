@@ -473,6 +473,18 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 <rates   Contact for rates.>
 </p>
 
+# Consultant: AU
+# Added on 10.11.2016
+<p>
+<name	 Guido Tapia>
+<company Picnet Pty Ltd>
+<address 120 Christie St, St Leonards NSW 2065, <country-name AU>>
+<phone	 (02) 8437 7977>
+<email	 picnet@picnet.com.au>
+<url     "http://www.picnet.com.au/business-it-support/">
+<rates   Available on Request.>
+</p>
+
 
 <h1><a name="AT"><country-name AT>:</a></h1>
 
@@ -888,11 +900,12 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 # Consultant: BR
 # email checked on 2010-11-13
 # mail sent to check status: 23.02.2013 holger-guest. Result: still active, entry updated.
+# data updated on 10.11.2016
 <p>
 <name    Reinaldo Gil Lima de Carvalho>
 <address Bel&eacute;m, PA, <country-name BR>>
-<phone   +55-91-3229-5009>
-<phone   +55-91-8802-8171>
+<phone   +55-91-98102-6966>
+<phone   +55-91-98802-8171>
 <email   reinaldoc@gmail.com>
 <URL     "http://reinaldoc.wordpress.com/about/debian-consultant/">
 <rates   Negotiable.>
@@ -1364,18 +1377,6 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 <email   info@koumbit.org>
 <URL     "http://koumbit.org/">
 <rates   100$/hr, sliding scale for non-profits and community groups.>
-</p>
-
-# Consultant: CA
-# added on 23.06.2013
-# data updated: 07.08.2016
-<p>
-<name    Antoine Beaupré>
-<address Montréal, QC, <country-name CA>>
-<email   anarcat+jobs@anarc.at>
-<URL	 "https://anarc.at/">
-<rates   150CAD, negotiable for non-profits, community groups and free 
-software projects.>
 </p>
 
 
@@ -3168,6 +3169,17 @@ Slipi-Palmerah, Jakarta Barat 11480, <country-name ID>>
 <rates   Please contact for rates.>
 </p>
 
+# Consultant: ID
+# added on 10.11.2016
+<p>
+<name	 Robertus Halomoan Hutagalung>
+<company PT. Ontel Studio>
+<address Gebang XIX RT 05 RW 45 No.36 Sleman, Kab. Sleman, D.I Yogyakarta, <country-name ID>>
+<phone	 +6285751777392>
+<email	 say@obet.us>
+<rates   Please contact for rates.>
+</p>
+
 
 <h1><a name="IE"><country-name IE>:</a></h1>
 
@@ -3688,19 +3700,6 @@ Government Administrative Centre, 62502 Putrajaya, <country-name MY>>
 <URL     "http://www.opensolutions.mx">
 <rates   Please email me for rates.>
 <additional_info open_solutions>
-</p>
-
-# Consultant: MX
-# added on 07.08.2016
-<p>
-<name    Alberto Rodriguez Sanchez>
-<company Independent Consultor>
-<address <country-name MX>>
-<email   arodriguezsa@linux.com>
-<contact "http://www.bt0.ninja/contact-me/">
-<URL     "http://www.bt0.ninja/professional-services/">
-<rates   Please email me for rates.>
-<additional_info a_r_sanchez>
 </p>
 
 
@@ -4481,6 +4480,17 @@ open-source projects. Free help available on IM.>
 <email	 info@orestad-linux.se>
 <URL     "http://www.orestad-linux.se">
 <rates   Depending on the project, please contact us for quote.>
+</p>
+
+# Consultant: SE
+# added on 10.11.2016
+<p>
+<name	 Andreas Henriksson>
+<company Endian Technologies AB>
+<address Flöjelbergsgatan 11, 43137 Mölndal, <country-name SE>>
+<phone   +46-31-706 06 00>
+<email	 andreas.henriksson@endian.se>
+<rates   Negotiable.>
 </p>
 
 
