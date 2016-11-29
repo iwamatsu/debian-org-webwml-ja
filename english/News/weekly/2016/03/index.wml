@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2016-07-29" SUMMARY="Mate 1.14 in unstable, Misc Developer News, Point releases, Changes in the NM process, Wheezy LTS OpenJDK 7, Bits from the DPL, GCC 6 for stretch, new pkg-security team, General Resolutions, DebConf16, FISL17, Freeze, Once upon a time, stretch artwork, Contributors, Discussions, Tips and Tricks, Outreachy, GSoC, LTS, Reproducible Builds, Social Media"
 
-# $Id: index.wml,v 1.5 2016/08/16 19:52:32 baptiste-guest Exp $
+# $Id: index.wml,v 1.8 2016/11/28 23:14:11 larjona Exp $
 # $Rev$
 # Status: [content-frozen]
  
