@@ -2,7 +2,7 @@
 #use wml::debian::acronyms
 
 <!--
-$Id: index.wml,v 1.16 2014/04/30 09:22:31 pabs Exp $
+$Id: index.wml,v 1.17 2016/11/30 04:06:35 pabs Exp $
 $Rev: 291 $
   -->
 
@@ -154,7 +154,7 @@ security.debian.org entry in <tt>/etc/apt/sources.list</tt> files.</p>
 <p>Roland Mas <a
 href="http://roland.entierement.nu/blog/2010/05/23/fusionforge-news-may-2010.html">blogged</a>
 bits of news from the FusionForge project, the software running <a
-href="http://alioth.debian.org">Debian's collaboration platform</a>.</p>
+href="https://alioth.debian.org">Debian's collaboration platform</a>.</p>
 
 <p>While a similar list for Debian Developers already existed for some time, it
 was <a

@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-12-02" SUMMARY="Bits from the Release team, a new member for the Technical Committee, Alioth is back, reports from November mini DebConfs, bits from the Debian Med team"
 
-# $Id: index.wml,v 1.8 2014/04/30 09:22:40 pabs Exp $
+# $Id: index.wml,v 1.9 2016/11/30 04:06:37 pabs Exp $
 # $Rev: 5315 $
 # Status: [frozen]
 
@@ -60,7 +60,7 @@ the universal operating system</a></q>, Keith said.
 <p>
 On November 10, the Debian server <tt>vasks</tt> suffered catastrophic disk
 failure. This machine was hosting the storage for
-<tt><a href="http://alioth.debian.org/">alioth.debian.org</a></tt>,
+<tt><a href="https://alioth.debian.org/">alioth.debian.org</a></tt>,
 the Debian service running FusionForge and giving access to repositories of
 many packaging teams.
 After 10 days of intense work to recover the data and move the Alioth service

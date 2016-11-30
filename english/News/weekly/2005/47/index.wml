@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-11-22" SUMMARY="Packaging, Disclosing, Delegations, Debtags, Events, Testing, Archive, Alioth, License"
-# $Id: index.wml,v 1.13 2014/07/20 02:03:02 pabs Exp $
+# $Id: index.wml,v 1.14 2016/11/30 04:06:30 pabs Exp $
 
 <p>Welcome to this year's 47th issue of DWN, the weekly newsletter for the
 Debian community.  Nathanael Nerode <a
@@ -89,7 +89,7 @@ files.</p>
 
 <p><strong>Automatic File Updates in Alioth.</strong> Frank Küster <a
 href="https://lists.debian.org/debian-devel/2005/10/msg01014.html">wondered</a>
-how files on <a href="http://alioth.debian.org/">Alioth</a> could be kept
+how files on <a href="https://alioth.debian.org/">Alioth</a> could be kept
 up-to-date with the Subversion <a href="http://svn.debian.org/">repository</a>
 and already proposed to use a <code>post-hook</code>.  Enrico Zini <a
 href="https://lists.debian.org/debian-devel/2005/10/msg01017.html">explained</a>

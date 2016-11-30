@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-06-03" SUMMARY="Knoppix, Lists, Flames, Menu, Indian, Sound, PowerPC, Events, Subversion, BTS, FDL, Embedded, Patents"
-# $Id: index.wml,v 1.22 2014/09/07 08:55:12 pabs Exp $
+# $Id: index.wml,v 1.23 2016/11/30 04:06:18 pabs Exp $
 
 <p>Welcome to this year's 22nd issue of DWN, the weekly newsletter for the
 Debian community.  Petter Reinholdtsen <a
@@ -54,7 +54,7 @@ his program.</p>
 href="https://lists.debian.org/debian-devel-announce-0305/msg00016.html">\
 announced</a> that the menu system is actively maintained again.  Bill and
 Morten Brix Pedersen fixed more than 80 bugs in the package and created a <a
-href="http://alioth.debian.org/projects/menu/">project</a> in Alioth.  The
+href="https://alioth.debian.org/projects/menu/">project</a> in Alioth.  The
 package also <a
 href="https://lists.debian.org/debian-i18n-0304/msg00008.html">supports</a>
 internationalisation.  He also <a

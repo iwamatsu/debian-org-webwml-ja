@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-09-20" SUMMARY="Volunteers, Documentation, Release, Women, Booting, Scripts, Bugs, Front Desk, License, Security"
-# $Id: index.wml,v 1.12 2014/04/30 07:09:26 pabs Exp $
+# $Id: index.wml,v 1.13 2016/11/30 04:06:29 pabs Exp $
 
 <p>Welcome to this year's 38th issue of DWN, the weekly newsletter for the
 Debian community.  David Moreno Garza <a
@@ -59,7 +59,7 @@ catch up on the Debian-Women project and general Debian development.</p>
 
 <p><strong>Parallelised Boot Sequence.</strong> Petter Reinholdtsen <a
 href="https://lists.debian.org/debian-devel/2005/08/msg01100.html">restarted</a>
-the <a href="http://alioth.debian.org/projects/initscripts-ng/">discussion</a>
+the <a href="https://alioth.debian.org/projects/initscripts-ng/">discussion</a>
 about executing init scripts in parallel and provided a simple patch against
 <code>rc</code> that will simply execute all scripts with the same priority in
 parallel.  Based on the <a

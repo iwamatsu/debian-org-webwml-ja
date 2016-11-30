@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-10-07" SUMMARY="emDebian, Conferences, DebCamp, Sarge, Logo, Aptitude, Description, License"
-# $Id: index.wml,v 1.15 2014/09/07 08:55:19 pabs Exp $
+# $Id: index.wml,v 1.16 2016/11/30 04:06:20 pabs Exp $
 
 <p>Welcome to this year's 40th issue of DWN, the weekly newsletter for the
 Debian community.  DivisionTwo.com wrote an amusing <a
@@ -97,7 +97,7 @@ about several annoying things in <a
 href="https://packages.debian.org/aptitude">aptitude</a>.  Daniel Burrows <a
 href="https://lists.debian.org/debian-devel-0310/msg00079.html">explained</a>
 that he currently does not have enough time to get <a
-href="http://alioth.debian.org/projects/aptitude">aptitude</a> working the way
+href="https://alioth.debian.org/projects/aptitude">aptitude</a> working the way
 he likes.  He also called for codevelopers who submit patches for the issues
 he outlined.</p>
 

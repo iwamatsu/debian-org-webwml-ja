@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-03-28" SUMMARY="Packaging, Events, Skolelinux, Bugs, Fonts, Installer, GCC"
-# $Id: index.wml,v 1.12 2014/09/07 08:55:52 pabs Exp $
+# $Id: index.wml,v 1.13 2016/11/30 04:06:30 pabs Exp $
 
 <p>Welcome to this year's 13th issue of DWN, the weekly newsletter for the
 Debian community.  David Moreno Garza <a
@@ -57,8 +57,8 @@ explained</a> the goals of the foundation of a font
 packages maintenance team for Debian. One of the goals for this team
 is setting up a font packaging policy to improve
 the incorporation of new fonts in Debian. A dedicated <a
-href="http://alioth.debian.org/projects/pkg-fonts/">project</a>
-was set up on <a href="http://alioth.debian.org/">Alioth</a>
+href="https://alioth.debian.org/projects/pkg-fonts/">project</a>
+was set up on <a href="https://alioth.debian.org/">Alioth</a>
 along with a Subversion repository and a <a
 href="http://lists.alioth.debian.org/pipermail/pkg-fonts-devel/">\
 mailing list</a>.</p>

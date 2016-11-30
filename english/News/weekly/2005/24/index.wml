@@ -1,12 +1,12 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-06-14" SUMMARY="Release, C++, DebConf, AMD64, Sarge, dpkg, Packaging, Customisation, SELinux"
-# $Id: index.wml,v 1.6 2014/04/30 06:31:24 pabs Exp $
+# $Id: index.wml,v 1.7 2016/11/30 04:06:26 pabs Exp $
 
 <p>Welcome to this year's 24th issue of DWN, the weekly newsletter for the
 Debian community.  Last week has seen a lot of discussion on release goals and
 the release team for etch.  Several people are already keen on discussing the
 preparation and timing for the next release.  Branden Robinson <a
 href="https://lists.debian.org/debian-project/2005/05/msg00092.html">\
-explained</a> where news about <a href="http://alioth.debian.org/">Alioth</a>
+explained</a> where news about <a href="https://alioth.debian.org/">Alioth</a>
 should be sent to instead of using private mail.</p>
 
 <p><strong>Release Policy Changes.</strong> Andreas Barth <a

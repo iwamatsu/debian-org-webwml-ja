@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-05-17" SUMMARY="Admin, Licenses, Alioth, Upgrade, Testing, Free BIOS"
-# $Id: index.wml,v 1.10 2014/04/30 07:09:26 pabs Exp $
+# $Id: index.wml,v 1.11 2016/11/30 04:06:26 pabs Exp $
 
 <p>Welcome to this year's 20th issue of DWN, the weekly newsletter for the
 Debian community.  A <a
@@ -33,7 +33,7 @@ different license.</p>
 
 <p><strong>Alioth on the Move.</strong> Wichert Akkerman <a
 href="https://lists.debian.org/debian-devel-announce/2005/05/msg00008.html">\
-announced</a> that <a href="http://alioth.debian.org/">Alioth</a>, Debian's
+announced</a> that <a href="https://alioth.debian.org/">Alioth</a>, Debian's
 GForge incarnation, will move to a new server.  Now that the <a
 href="$(HOME)/ports/amd64/">AMD64</a> archive has been <a
 href="https://lists.debian.org/debian-devel-announce/2005/05/msg00004.html">\

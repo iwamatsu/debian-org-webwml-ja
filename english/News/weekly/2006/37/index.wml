@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-09-12" SUMMARY="APT, Alioth, CD/DVD, Resolution, License, Packaging, Mini DebConf, Stable, Firefox"
-# $Id: index.wml,v 1.12 2014/04/30 07:41:45 pabs Exp $
+# $Id: index.wml,v 1.13 2016/11/30 04:06:32 pabs Exp $
 
 <p>Welcome to this year's 37th issue of DWN, the weekly newsletter for the
 Debian community.  Debian will be <a
@@ -29,7 +29,7 @@ reported</a> that Alioth was abused as IRC proxy.  Upon investigation the Alioth
 team discovered that many projects are running custom-installed web
 applications and asked the project administrators to review the installed
 software.  Raphaël added that a service like <a
-href="http://alioth.debian.org/">Alioth</a> is of great use for everybody,
+href="https://alioth.debian.org/">Alioth</a> is of great use for everybody,
 but its openness is also its weakness.</p>
 
 <p><strong>CD/DVD Creation Report.</strong> Steve McIntyre <a

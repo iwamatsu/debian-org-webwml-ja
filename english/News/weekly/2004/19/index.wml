@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-05-11" SUMMARY="OASIS, Documentation, Installer, SATA-RAID, Trademarks, MiniConf, Licenses, Kernel, PNG, Bittorrents"
-# $Id: index.wml,v 1.13 2014/04/30 09:22:22 pabs Exp $
+# $Id: index.wml,v 1.15 2016/11/30 04:12:35 pabs Exp $
 
 <p>Welcome to this year's 19th issue of DWN, the weekly newsletter for the
 Debian community.  If you were a fan of the original PacMan game, you'll
@@ -98,7 +98,7 @@ findings of debian-legal on the Debian website with regards to software
 licenses.  Similar lists are maintained by the <a
 href="http://www.gnu.org/licenses/license-list">Free Software
 Foundation</a> and the <a
-href="http://opensource.org/licenses/index.html">Open Source
+href="https://opensource.org/licenses/">Open Source
 Initiative</a>.  However, the Debian project uses different
 criteria to judge the categorisation of licenses, as shown in the
 <a href="$(HOME)/legal/licenses/byname">list</a>.</p>
@@ -113,7 +113,7 @@ suited.</p>
 
 <p><strong>Kernel Maintenance Group.</strong> Andres Salomon <a
 href="https://lists.debian.org/debian-devel/2004/05/msg00288.html">suggested</a>
-to form an <a href="http://alioth.debian.org/">Alioth</a> kernel packaging
+to form an <a href="https://alioth.debian.org/">Alioth</a> kernel packaging
 project to facilitate kernel maintenance in Debian.  Francesco Lovergine <a
 href="https://lists.debian.org/debian-devel/2004/05/msg00324.html">noted</a>
 that the first step in this direction, the creation of the debian-kernel

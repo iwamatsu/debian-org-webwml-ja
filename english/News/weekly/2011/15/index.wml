@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2011-12-14" SUMMARY="sun-java6 removed, bits from the DPL, India mini-DebConf report, new mirror in El Salvador, bug squashing party marathon"
 
-# $Id: index.wml,v 1.11 2014/04/30 09:22:38 pabs Exp $
+# $Id: index.wml,v 1.12 2016/11/30 04:06:37 pabs Exp $
 # $Rev: 2837 $
 # Status: [content-frozen]
 
@@ -164,7 +164,7 @@ contributions</a>, since the current team members are busy.
 </p>
 
 <p><a href="https://wiki.debian.org/Debexpo">Debexpo</a> is maintained as an
-<a href="http://alioth.debian.org/projects/debexpo/">Alioth project</a>.
+<a href="https://alioth.debian.org/projects/debexpo/">Alioth project</a>.
 </p>
 
 

@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-11-28" SUMMARY="GNOME, DebConf, Installer, Etch, FAQ, Sparc, Key"
-# $Id: index.wml,v 1.14 2014/04/30 07:41:46 pabs Exp $
+# $Id: index.wml,v 1.15 2016/11/30 04:06:33 pabs Exp $
 
 <p>Welcome to this year's 41st issue of DWN, the newsletter for the
 Debian community.  Due to unfortunate <a href="http://www.dunc-tank.org/">\
@@ -14,7 +14,7 @@ the upgrade goes.</p>
 
 <p><strong>GNOME 2.14 in Etch.</strong> Jordi Mallach <a
 href="http://oskuro.net/blog/freesoftware/gnome-2.16-etch-2006-10-06-21-45">\
-announced</a> that the <a href="http://alioth.debian.org/projects/pkg-gnome">\
+announced</a> that the <a href="https://alioth.debian.org/projects/pkg-gnome">\
 Debian GNOME team</a> has decided to ship <a
 href="http://www.gnome.org/">GNOME</a> 2.14 with the upcoming <a
 href="$(HOME)/releases/etch/">etch</a> release.  Due to several problems with

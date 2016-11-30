@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-04-06" SUMMARY="Hotplug, Snapshot, Naming, RPM, Security, Custom, Kernel, April, Translations, l10n, BTS, Zope, Donation"
-# $Id: index.wml,v 1.14 2014/09/07 08:55:29 pabs Exp $
+# $Id: index.wml,v 1.15 2016/11/30 04:06:22 pabs Exp $
 
 <p>Welcome to this year's 14th issue of DWN, the weekly newsletter for the
 Debian community.  Manoj Srivastava sent out the <a
@@ -70,7 +70,7 @@ distribution.</p>
 href="https://lists.debian.org/debian-devel-announce-0404/msg00002.html">\
 announced</a> a <a
 href="https://people.debian.org/~tille/debian-med/talks/paper-cdd/debian-cdd.html/">\
-paper</a> he wrote about <a href="http://alioth.debian.org/projects/cdd/">\
+paper</a> he wrote about <a href="https://alioth.debian.org/projects/cdd/">\
 custom Debian distributions</a>, the techniques used and the goals behind
 them.  This is an implicit call for participation for all those people inside
 and outside the Debian project.  Custom Debian distributions try to provide a

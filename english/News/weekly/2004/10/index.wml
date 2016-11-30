@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2004-03-09" SUMMARY="Election, Installer, Video, Women, Ballot, Hurd, DebConf, Source, non-free"
-# $Id: index.wml,v 1.11 2014/09/07 08:55:27 pabs Exp $
+# $Id: index.wml,v 1.12 2016/11/30 04:06:22 pabs Exp $
 
 <p>Welcome to this year's tenth issue of DWN, the weekly newsletter for the
 Debian community.  Christoph Berg <a
@@ -8,7 +8,7 @@ about a Knoppix based <a
 href="http://www.afu-knoppix.de/">live CD</a> including
 lots of the hamradio software Debian ships.  Wichert Akkerman <a
 href="https://lists.debian.org/debian-devel-announce-0403/msg00002.html">\
-announced</a> that the <a href="http://alioth.debian.org/">alioth</a> service
+announced</a> that the <a href="https://alioth.debian.org/">alioth</a> service
 has been moved to a new server.  Additionally, Ethan Sommer has set up a <a
 href="http://ossadvocacy.org/">collection</a> of Open Source advocacy
 papers.</p>

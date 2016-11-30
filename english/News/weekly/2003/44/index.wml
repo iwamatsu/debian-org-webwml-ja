@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2003-11-04" SUMMARY="Recovery, KDE, Amendment, Enterprise, FDL, Debconf, NetBSD, Hardware, PostgreSQL, Bugs, Kernel"
-# $Id: index.wml,v 1.12 2014/09/07 08:55:20 pabs Exp $
+# $Id: index.wml,v 1.13 2016/11/30 04:06:20 pabs Exp $
 
 <p>Welcome to this year's 44th issue of DWN, the weekly newsletter for the
 Debian community.  Bruce Perens <a
@@ -130,7 +130,7 @@ sophisticated solution should be found to handle them equally.</p>
 <p><strong>Multiple PostgreSQL Packages.</strong> Oliver Elphick <a
 href="https://lists.debian.org/debian-devel-0310/msg02058.html">pondered</a>
 whether and how to have multiple versions of the PostgreSQL packages <a
-href="http://alioth.debian.org/plugins/scmcvs/cvsweb.php/common/postgresql-client.html?cvsroot=pkg-postgresql">\
+href="https://alioth.debian.org/plugins/scmcvs/cvsweb.php/common/postgresql-client.html?cvsroot=pkg-postgresql">\
 installed</a> at once.  This is to get round problems with upgrading major
 versions, and to allow people to have multiple database clusters, possibly at
 different software versions.</p>

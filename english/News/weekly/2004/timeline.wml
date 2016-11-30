@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2004 Timeline"
-# $Id: timeline.wml,v 1.8 2014/09/07 08:55:23 pabs Exp $
+# $Id: timeline.wml,v 1.9 2016/11/30 04:06:21 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2004 in the Debian community.  This is
@@ -170,7 +170,7 @@ href="http://news.netcraft.com/archives/2004/01/28/debian_fastest_growing_linux_
 
 <li> Andres Salomon <a
      href="https://lists.debian.org/debian-devel/2004/05/msg00288.html">suggested</a>
-     to form an <a href="http://alioth.debian.org/">Alioth</a> kernel packaging
+     to form an <a href="https://alioth.debian.org/">Alioth</a> kernel packaging
      project to facilitate kernel maintenance in Debian.</li>
 
 <li> Mattias Wadenstein
