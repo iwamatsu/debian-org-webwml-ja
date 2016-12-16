@@ -1,7 +1,7 @@
 #use wml::debian::template title="Work-Needing and Prospective Packages"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
-# $Id: index.wml,v 1.43 2014/12/14 08:27:04 gusnan Exp $
+# $Id: index.wml,v 1.44 2016/12/16 07:37:07 pabs Exp $
 
 <define-tag toc-title-formatting endtag=required><h3>%body</h3></define-tag>
 
@@ -62,7 +62,7 @@ entry in the BTS.</p>
 on the <a href="http://wnpp.debian.net">WNPP search</a> website.</p>
 
 <p>You can browse the above information broken down into various categories
-(based on <a href="http://debtags.debian.net/">debtags</a>) on the 
+(based on <a href="https://debtags.debian.org/">debtags</a>) on the 
 <a href="http://wnpp-by-tags.debian.net">WNPP-by-tags</a> website.</p>
 
 <hrline />
