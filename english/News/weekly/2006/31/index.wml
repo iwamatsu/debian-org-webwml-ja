@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-01" SUMMARY="Packaging, Responsibility, Xen, Branding, Secure APT, Exim, Documentation, Translations"
-# $Id: index.wml,v 1.11 2014/04/30 06:32:03 pabs Exp $
+# $Id: index.wml,v 1.13 2016/12/20 23:02:19 larjona Exp $
 
 <p>Welcome to this year's 31st issue of DWN, the weekly newsletter for the
 Debian community.  Christoph Berg <a
@@ -98,7 +98,7 @@ for testing of <a href="https://packages.debian.org/apt">APT</a> from
 experimental. This version supports translated package descriptions which are
 already available for <a href="$(HOME)/releases/sid/">sid</a> on many
 mirrors and on the Debian description translation <a
-href="http://ddtp.debian.net/">project</a>.  A few features which where available in the
+href="https://ddtp2.debian.net/">project</a>.  A few features which where available in the
 past such as reviewing of a translation are not yet implemented but are <a
 href="https://lists.debian.org/debian-devel/2006/07/msg01379.html">planned</a>
 as part of the new internationalisation framework.</p>

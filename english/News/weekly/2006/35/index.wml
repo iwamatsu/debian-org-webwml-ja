@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-08-29" SUMMARY="Firmware, FrOSCon, Events, Cuba, Translations, GIT, Sarge, Etch"
-# $Id: index.wml,v 1.14 2014/04/30 07:41:45 pabs Exp $
+# $Id: index.wml,v 1.16 2016/12/20 23:02:19 larjona Exp $
 
 <p>Welcome to this year's 35th issue of DWN, the weekly newsletter for the
 Debian community.  Bug squashing parties have been announced for September 8th
@@ -59,7 +59,7 @@ Faculty in the University of Havana.</p>
 Martijn van Oosterhout <a
 href="https://lists.debian.org/debian-i18n/2006/08/msg00030.html">announced</a>
 that he wrote a system that can send and receive e-mails from the <a
-href="http://ddtp.debian.net/">Debian Description Translation Project</a>
+href="https://ddtp2.debian.net/">Debian Description Translation Project</a>
 and provides a web <a href="http://kleptog.org/cgi-bin/ddtss2-cgi/xx">\
 frontend</a> where translating actually takes place.
 The most important advantage over the pure e-mail interface is that this
