@@ -33,4 +33,4 @@ RAR 処理コードの削除) が入っています。</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2008/dsa-1497.data"
-# $Id: dsa-1497.wml,v 1.5 2014/04/30 07:17:13 pabs Exp $
+# $Id: dsa-1497.wml,v 1.6 2016/12/15 09:29:48 kmuto Exp $
