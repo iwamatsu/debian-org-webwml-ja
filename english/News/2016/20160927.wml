@@ -1,11 +1,11 @@
 <define-tag pagetitle>Debian Project mourns the loss of Kristoffer H. Rose</define-tag>
 <define-tag release_date>2016-09-27</define-tag>
 #use wml::debian::news
-# $Id: 20160927.wml,v 1.2 2016/10/01 12:13:43 ana Exp $
+# $Id: 20160927.wml,v 1.3 2017/01/03 22:13:27 sblondon-guest Exp $
 
 <p>The Debian Project recently learned that it has lost a member of its
 community. Kristoffer H. Rose died on September 17th after an intense but
-short battle with myelo fibrosis.</p>
+short battle with myelofibrosis.</p>
 
 <p>
 Kristoffer was a Debian contributor from the very early days of the project,
