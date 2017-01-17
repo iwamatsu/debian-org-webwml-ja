@@ -1,12 +1,9 @@
 #use wml::debian::common_translation
 #include "$(ENGLISHDIR)/distrib/pre-installed.defs"
 
-#
-#
-# NOTE: ONLY USE ASCII CHARACTERS IN THIS FILE.
-# DATA FROM THIS FILE IS INCLUDED IN SOME TRANSLATIONS WHICH ARE NOT UTF-8.
-#
-# 
+############################################
+## Argentina (.ar)
+############################################
 
 <country code="ar" name="<country-name AR>">
 
@@ -20,8 +17,13 @@
   1&ordm; de Mayo 161<br />
   (CP 3200) Concordia<br />
   Entre R&iacute;os, <country-name AR>" />
+
 </country>
 
+
+############################################
+## Australia (.au)
+############################################
 
 <country code="au" name="<country-name AU>">
 
@@ -52,6 +54,11 @@ Balwyn North, Vic, 3104<br />
 
 </country>
 
+
+############################################
+## Austria (.at)
+############################################
+
 #<country code="at" name="<country-name AT>">
 
 #<vendor name="G-TEC / Open Source Solutions"
@@ -66,6 +73,11 @@ Balwyn North, Vic, 3104<br />
 #  <country-name AT>" />
 
 #</country>
+
+
+############################################
+## Belgium (.be)
+############################################
 
 <country code="be" name="<country-name BE>">
 
@@ -88,7 +100,13 @@ Balwyn North, Vic, 3104<br />
   smail="Linux-service.be<br/>
 Grenadierslaan 65<br/>
 B-9890 Gavere" />
+
 </country>
+
+
+############################################
+## Brazil (.br)
+############################################
 
 #<country code="br" name="<country-name BR>">
 
@@ -99,8 +117,13 @@ B-9890 Gavere" />
 #  phone="(55) 91-2114777"
 #  phone="(55) 91-40054777"
 #  fax="(55) 91-2761646" />
-#
+
 #</country>
+
+
+############################################
+## Canada (.ca)
+############################################
 
 <country code="ca" name="<country-name CA>">
 
@@ -121,7 +144,7 @@ B-9890 Gavere" />
   phone="+1-613-263-0844"
   ship="yes" />
 
-<vendor name=" NExcess Technologies inc."
+<vendor name="NExcess Technologies inc."
   country="ca"
   URL="http://www.nexcess.ca"
   email="info@nexcess.ca"
@@ -129,7 +152,17 @@ B-9890 Gavere" />
   ship="yes"
   smail="NExcess Technologies inc.<br />
   161 rue Calixta-Laberge<br />
-  Boischatel (Québec)  Canada G0A 1H0" /> 
+  Boischatel (Québec)  Canada G0A 1H0" />
+
+<vendor name="PCKicks Computer Help Force"
+  country="ca"
+  URL="https://www.pckicks.ca/"
+  email="gethelp@pckicks.ca"
+  phone="416-200-3937"
+  ship="no"
+  smail="PCKicks Computer Help Force<br />
+  370 Highway 7 east #105<br />
+  Richmond Hill Ontario L4B 0C4" />
 
 <vendor name="Precise-ITC, Inc."
   country="ca"
@@ -151,7 +184,13 @@ Canada K2H 1B9" />
 Gatineau, Qu&eacute;bec<br />
 Ottawa, Ontario<br />
 <country-name CA>" />
+
 </country>
+
+
+############################################
+## Costa Rica (.cr)
+############################################
 
 <country code="cr" name="<country-name CR>">
 
@@ -165,7 +204,13 @@ Ottawa, Ontario<br />
 Av 10 Calle 31 # 3110<br />
 SJO<br />
 <country-name CR>" />
+
 </country>
+
+
+############################################
+## Czech Republic (.cz)
+############################################
 
 <country code="cz" name="<country-name CZ>">
 
@@ -186,7 +231,6 @@ Nov&aacute; 225/1<br />
   phone="+42 0724 573 528"
   ship="yes" />
 
-
 <vendor name="opensource company"
   country="cz"
   URL="http://www.opensource-company.com"
@@ -197,20 +241,32 @@ Nov&aacute; 225/1<br />
 Alexander Hu<br />
 Skuhrov 4<br />
 CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
+
 </country>
 
-<country code="dk" name="<country-name DK>">
 
-<vendor name="C. Iversen Konsult"
-  country="dk"
-  URL="http://www.civersen.dk"
-  email="civ@civersen.dk"
-  phone="+45 74 69 39 47"
-  fax="+45 69 66 10 39"
-  ship="yes"
-  smail="C. Iversen Konsult<br />
-&Oslash;stergade 5, st, DK-6230 R&oslash;dekro" />
-</country>
+############################################
+## Denmark (.dk)
+############################################
+
+#<country code="dk" name="<country-name DK>">
+
+#<vendor name="C. Iversen Konsult"
+#  country="dk"
+#  URL="http://www.civersen.dk"
+#  email="civ@civersen.dk"
+#  phone="+45 74 69 39 47"
+#  fax="+45 69 66 10 39"
+#  ship="yes"
+#  smail="C. Iversen Konsult<br />
+#&Oslash;stergade 5, st, DK-6230 R&oslash;dekro" />
+
+#</country>
+
+
+############################################
+## Finland (.fi)
+############################################
 
 #<country code="fi" name="<country-name FI>">
 
@@ -224,7 +280,13 @@ CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
 #PB 158<br/>
 #65101 Vaasa<br/>
 #<country-name FI>" />
+
 #</country>
+
+
+############################################
+## France (.fr)
+############################################
 
 <country code="fr" name="<country-name FR>">
 
@@ -256,7 +318,7 @@ CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
  email="texou@accelibreinfo.eu"
  phone="+33 6 76 34 93 37"
  ship="yes" />
- 
+
 <vendor name="Micr-OS.com"
   country="fr"
  URL="http://www.micr-os.com"
@@ -291,7 +353,6 @@ CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
  30960 Le Martinet<br />
 <country-name FR>" />
 
-
 #<vendor name="Proformatique"
 #  country="fr"
 #  URL="http://www.proformatique.com/"
@@ -302,7 +363,13 @@ CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
 #  smail="Proformatique<br/>
 #67 rue Voltaire<br/>
 #92800 Puteaux" />
+
 </country>
+
+
+############################################
+## Germany (.de)
+############################################
 
 <country code="de" name="<country-name DE>">
 
@@ -495,6 +562,11 @@ Kattunbleiche 18<br />
 D-22041 Hamburg" />
 </country>
 
+
+############################################
+## Greece (.gr)
+############################################
+
 # <country code="gr" name="<country-name GR>">
 
 #<vendor name="Step"
@@ -507,14 +579,20 @@ D-22041 Hamburg" />
 #  smail="Step<br/>
 #36 Akti Moutsopoulou str.<br/>
 #18536 Piraeus" />
+
 #</country>
+
+
+############################################
+## Hungary (.hu)
+############################################
 
 <country code="hu" name="<country-name HU>">
 
 #  <vendor name="ENEXIS Informatics Ltd."
 #  country="hu"
-  # URL="http://www.enexis.hu/"
-  # email="info@enexis.hu"
+#  URL="http://www.enexis.hu/"
+#  email="info@enexis.hu"
 #  phone="+36-70/339-1197"
 #  ship="no" />
 
@@ -534,7 +612,13 @@ D-22041 Hamburg" />
   ship="no"
   smail="INTEGRITY Ltd.<br />
   1132 Budapest, Victor Hugo u. 18-22" />
+
 </country>
+
+
+############################################
+## India (.in)
+############################################
 
 <country code="in" name="<country-name IN>">
 
@@ -572,7 +656,13 @@ Cochin-682035" />
 TKD Road, Marappalam<br />
 Pattom P. O., Trivandrum<br />
 Kerala - 695004, <country-name IN>" />
+
 </country>
+
+
+############################################
+## Italy (.it)
+############################################
 
 <country code="it" name="<country-name IT>">
 
@@ -723,9 +813,13 @@ C.so E. Filiberto, 74<br/>
 #  smail="HAPPY S.r.l.<br/>
 #Via Collepiano, 20<br/>
 #CAP 82030 Torrecuso (BN)" />
+
 </country>
 
 
+############################################
+## Mexico (.mx)
+############################################
 
 <country code="mx" name="<country-name MX>">
 
@@ -738,7 +832,7 @@ C.so E. Filiberto, 74<br/>
    smail="Soft Gator S.A. de C.V.<br />
    Hda. Bilbao N0.58 Fracc. Urbi Hacienda Balboa,<br />
    Col. Atlanta Edo. Mexico C.P. 54740" />
- 
+
 #<vendor name="Linux OpenSource de M&eacute;xico S.A. de C.V."
 #  country="mx"
 #  URL="http://www.linuxopensource.com.mx/"
@@ -750,7 +844,13 @@ C.so E. Filiberto, 74<br/>
 #Linux OpenSource<br/>
 #Ray&oacute;n #523. Colonia Centro CP 58000<br/>
 #Morelia, Michoac&aacute;n. M&eacute;xico" />
+
 </country>
+
+
+############################################
+## Netherlands (.nl)
+############################################
 
 <country code="nl" name="<country-name NL>">
 
@@ -765,6 +865,18 @@ C.so E. Filiberto, 74<br/>
   9717 EP Groningen" />
 </country>
 
+<vendor name="SnaakSystems"
+  country="nl"
+  URL="https://laptopzelfsamenstellen.nl/"
+  email="info@snaaksystems.nl"
+  phone="+31 6 12 87 70 27"
+  ship="some" />
+
+
+############################################
+## Poland (.pl)
+############################################
+
 <country code="pl" name="<country-name PL>">
 
 <vendor name="kamlegIT"
@@ -777,10 +889,16 @@ C.so E. Filiberto, 74<br/>
 ul. Ks. Ja&#x142;owego 6A/24, 35-010<br />
 Rzesz&oacute;w<br />
 <country-name PL>" />
+
 </country>
 
+
+############################################
+## Romania (.ro)
+############################################
+
 #<country code="ro" name="<country-name RO>">
-#
+
 #<vendor name="SC NECSYS SRL"
 #  country="ro"
 #  URL="http://www.necsys.ro"
@@ -791,7 +909,13 @@ Rzesz&oacute;w<br />
 #  Str. poligonului BI. B11 Ap.15<br />
 #  Alba Iulia<br />
 #  <country-name RO>" />
+
 #</country>
+
+
+############################################
+## Slovakia (.sk)
+############################################
 
 <country code="sk" name="<country-name SK>">
 
@@ -806,7 +930,13 @@ Rzesz&oacute;w<br />
 Bodona 74<br />
 Piestany 921 01<br />
 <country-name SK>" />
+
 </country>
+
+
+############################################
+## South Africa (.za)
+############################################
 
 <country code="za" name="<country-name ZA>">
 
@@ -822,7 +952,6 @@ Piestany 921 01<br />
 #512 Govenmbeki ave northend <br />
 #<country-name ZA>" />
 
-
 <vendor name="Radiant Networks (Pty) Ltd"
   country="za"
  URL="http://www.radiantnet.co.za/"
@@ -834,7 +963,13 @@ Piestany 921 01<br />
 P.O. Box 15594<br />
 Lyttelton, Gauteng 0140<br />
 <country-name ZA>" />
+
 </country>
+
+
+############################################
+## Spain (.es)
+############################################
 
 <country code="es" name="<country-name ES>">
 
@@ -912,7 +1047,13 @@ Ausi&agrave;s Marc, 56<br/>
   46001 Valencia <br />
   Comunidad Valenciana <br />
   <country-name ES>" />
+
 </country>
+
+
+############################################
+## Switzerland (.ch)
+############################################
 
 <country code="ch" name="<country-name CH>">
 
@@ -950,7 +1091,7 @@ CH-6006 Luzern<br />
   Roeschibachstr. 24-26<br />
   8037 Zurich<br />
   <country-name CH>" />
-# 
+
 #<vendor name="Panthera Systems"
 #  country="ch"
 #   URL="http://www.panthera-systems.net/"
@@ -961,8 +1102,13 @@ CH-6006 Luzern<br />
 #   smail="Panthera Systems<br/>
 # Burgunderstrasse 3<br/>
 # CH-4562 Biberist" />
-# 
+
 </country>
+
+
+############################################
+## United Kingdom (.uk)
+############################################
 
 <country code="gb" name="<country-name GB>">
 
@@ -976,7 +1122,7 @@ CH-6006 Luzern<br />
   Warwickshire<br />
   CV11 5BX<br />
   <country-name GB>" />
-  
+
 <vendor name="Digital Networks UK Ltd"
   country="gb"
   URL="http://www.dnuk.com"
@@ -1006,7 +1152,19 @@ NJ 08822<br />
 
 </country>
 
+
+############################################
+## United States, USA (.us)
+############################################
+
 <country code="us" name="<country-name US>">
+
+<vendor name="AdoraDeal LLC"
+  country="us"
+  URL="https://www.adoradeal.com/"
+  email="info@adoradeal.com"
+  phone="619-377-7673"
+  ship="no" />
 
 <vendor name="AVADirect Custom Computers"
   country="us"
@@ -1036,6 +1194,19 @@ Fremont, CA 94538<br />
   email="support@ctquantum.com"
   phone="+1 (401) 244-5855"
   ship="yes" />
+
+<vendor name="CurrentBuild Computer"
+  country="us"
+  URL="http://www.currentbuild.com/"
+  email="kamil@currentbuild.com"
+  phone="310-828-6064"
+  fax="310-828-6064"
+  ship="yes"
+  smail="CurrentBuild Computer<br />
+1934 Idaho Avenue<br />
+Santa Monica<br />
+CA 90403<br />
+<country-name US>" />
 
 <vendor name="EmperorLinux"
   country="us"
@@ -1113,6 +1284,17 @@ San Jose CA 95131<br />
 #Sunnyvale, CA  94086<br/>
 #<country-name US>" />
 
+#<vendor name="LinuxCertified, Inc."
+#  country="us"
+#  URL="http://www.linuxcertified.com/"
+#  email="info@linuxcertified.com"
+#  phone="+1 408 314 6700"
+#  ship="yes"
+#  smail="LinuxCertified, Inc.<br/>
+#1072 S. De Anza Blvd. #A107-19<br/>
+#San Jose, CA 95129<br/>
+#<country-name US>" />
+
 <vendor name="Los Alamos Computers"
   country="us"
   URL="http://www.laclinux.com/"
@@ -1147,6 +1329,16 @@ Los Alamos, NM 87544<br />
 #2693 Texas Hill Rd.<br/>
 #Hinesburg VT 05461<br/>
 #<country-name US>" />
+
+<vendor name="Psychsoftpc"
+  country="us"
+  URL="http://www.psychsoftpc.com/"
+  email="sales@psychsoftpc.com"
+  phone="617-471-8733"
+  ship="no"
+  smail="Psychsoftpc<br />
+Quincy, MA 02171<br />
+<country-name US>" />
 
 #<vendor name="Sean Brady, LLC"
 #  country="us"
@@ -1183,39 +1375,6 @@ Brooklyn, NY 11229<br />
 Richardson, TX 75081<br />
 <country-name US>" />
 
-<vendor name="ZaReason"
-  country="us"
-  URL="http://www.zareason.com/"
-  email="info@zareason.com"
-  phone="510 868 5000"
-  fax="510 868 1053"
-  ship="no"
-  smail="ZaReason<br />
-1647 Hopkins St<br />
-Berkeley, CA 94707<br />
-<country-name US>" />
-
-#<vendor name="LinuxCertified, Inc."
-#  country="us"
-#  URL="http://www.linuxcertified.com/"
-#  email="info@linuxcertified.com"
-#  phone="+1 408 314 6700"
-#  ship="yes"
-#  smail="LinuxCertified, Inc.<br/>
-#1072 S. De Anza Blvd. #A107-19<br/>
-#San Jose, CA 95129<br/>
-#<country-name US>" />
-
-<vendor name="Psychsoftpc"
-  country="us"
-  URL="http://www.psychsoftpc.com/"
-  email="sales@psychsoftpc.com"
-  phone="617-471-8733"
-  ship="no"
-  smail="Psychsoftpc<br />
-Quincy, MA 02171<br />
-<country-name US>" />
-
 <vendor name="ThinkPenguin, Inc"
   country="us"
   URL="https://www.thinkpenguin.com/"
@@ -1226,6 +1385,18 @@ Quincy, MA 02171<br />
 203 Main St #325<br />
 Flemington<br />
 NJ 08822<br />
+<country-name US>" />
+
+<vendor name="ZaReason"
+  country="us"
+  URL="http://www.zareason.com/"
+  email="info@zareason.com"
+  phone="510 868 5000"
+  fax="510 868 1053"
+  ship="no"
+  smail="ZaReason<br />
+1647 Hopkins St<br />
+Berkeley, CA 94707<br />
 <country-name US>" />
 
 </country>
