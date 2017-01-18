@@ -863,15 +863,18 @@ C.so E. Filiberto, 74<br/>
   smail="Firma van der Vlis <br />
   Johan Willem Frisostraat 24 <br />
   9717 EP Groningen" />
-</country>
 
 <vendor name="SnaakSystems"
   country="nl"
   URL="https://laptopzelfsamenstellen.nl/"
   email="info@snaaksystems.nl"
   phone="+31 6 12 87 70 27"
-  ship="some" />
+  ship="yes"
+  smail="SnaakSystems<br />
+  Harmoleweg 4<br />
+  7482 PL Haaksbergen"  />
 
+</country>
 
 ############################################
 ## Poland (.pl)
