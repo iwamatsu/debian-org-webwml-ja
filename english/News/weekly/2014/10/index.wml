@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2014-06-09" SUMMARY="A logo for DebConf15, hello, MATE!, the Debian Continuous Integration project"
 
-# $Id: index.wml,v 1.3 2014/10/19 07:59:27 pabs Exp $
+# $Id: index.wml,v 1.4 2017/01/29 03:32:43 pabs Exp $
 # $Rev: 5683 $
 # Status: content-frozen
 
@@ -47,7 +47,7 @@ Integration project which checks inter-package dependencies across the entire
 Debian archive. The origins of the project go back to the introduction of
 the <a href="https://packages.debian.org/autopkgtest">autopkgtest tool</a>,
 which tests packages in their installed form, and was later adopted as the 
-<a href="http://anonscm.debian.org/gitweb/?p=autopkgtest/autopkgtest.git;a=blob_plain;f=doc/README.package-tests;hb=HEAD">DEP-8 standard</a>.
+<a href="https://anonscm.debian.org/cgit/autopkgtest/autopkgtest.git/plain/doc/README.package-tests.rst">DEP-8 standard</a>.
 The continuous integration tool, called
 <a href="https://packages.debian.org/debci">debci</a>, is run against the entire archive for 
 packages that declare a test suite using the DEP-8 format. Debian CI runs at most four tests per day
