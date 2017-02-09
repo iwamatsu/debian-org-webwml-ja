@@ -139,7 +139,6 @@ Includes: mirrors.kernel.org debian.osuosl.org debian.csail.mit.edu debian.gtisc
 Type: Push-Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
 Archive-http: /debian/
-Archive-ftp: /debian/
 Archive-rsync: debian/
 Archive-upstream: ftp-master.debian.org
 Country: US United States
@@ -441,51 +440,15 @@ IPv6: yes
 Site: mirrors.kernel.org
 Type: Push-Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-Archive-ftp: /debian/
 Archive-http: /debian/
 Archive-rsync: debian/
 Archive-upstream: syncproxy.wna.debian.org
-CDImage-ftp: /debian-cd/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 CDImage-upstream: cdimage.debian.org
 Maintainer: ftpadmin@kernel.org
 Country: US United States
 Location: Santa Clara, California
-Sponsor: Linux Kernel Archives https://www.kernel.org/
-IPv6: no
-
-Site: mirrors.nl.kernel.org
-Type: Push-Primary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-X-Archive-ftp: /debian/
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
-Archive-upstream: ftp-master.debian.org
-X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
-X-CDImage-rsync: debian-cd/
-CDImage-upstream: cdimage.debian.org
-Maintainer: ftpadmin@kernel.org
-Country: NL Netherlands
-Location: Amsterdam
-Sponsor: Linux Kernel Archives https://www.kernel.org/
-IPv6: no
-
-Site: mirrors.se.kernel.org
-Type: Push-Primary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-X-Archive-ftp: /debian/
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
-Archive-upstream: ftp-master.debian.org
-X-CDImage-ftp: /debian-cd/
-X-CDImage-http: /debian-cd/
-X-CDImage-rsync: debian-cd/
-CDImage-upstream: cdimage.debian.org
-Maintainer: ftpadmin@kernel.org
-Country: SE Sweden
-Location: Umea
 Sponsor: Linux Kernel Archives https://www.kernel.org/
 IPv6: no
 
@@ -3382,20 +3345,6 @@ Location: Melbourne, Australia
 Sponsor: Hostcentral http://www.hostcentral.net.au/
 Bandwidth: 1Gbps
 
-Site: debian.os6.org
-Aliases: debian.os6.org
-Type: leaf
-X-CDImage-http: /debian-cd/
-CDImage-rsync: debian-cd/
-IPv6: yes
-CDImage-upstream: mirrors.kernel.org
-Updates: four
-Maintainer: Shaun <debianmirror@os6.org>
-Country: US United States
-Location: Irvine, CA
-Sponsor: http://os6.org http://os6.org
-Bandwidth: 1Gbps
-
 Site: mirror.zol.co.zw
 Type: leaf
 Archive-architecture: amd64 armel armhf i386
@@ -4476,20 +4425,6 @@ Location: Sydney
 Sponsor: MirrorMax http://www.mirrormax.net/
 Bandwidth: 100Mbps
 
-Site: mirrors.ispros.com.bd
-Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x
-Archive-ftp: /debian/
-Archive-http: /debian/
-Archive-rsync: debian/
-IPv6: no
-Archive-upstream: mirrors.nl.kernel.org
-Maintainer: Nyamul Hassan <mnhassan@usa.net>
-Country: BD Bangladesh
-Location: Bangladesh
-Sponsor: IS Pros Limited http://www.ispros.com.bd/
-Bandwidth: 100Mbps
-
 Site: mirrors.xservers.ro
 Type: leaf
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
@@ -4985,23 +4920,6 @@ Maintainer: UTnet <mirrors@argus.gw.utexas.edu>
 Country: US United States
 Sponsor: The University of Texas at Austin http://www.utexas.edu
 Bandwidth: 10Mbps access for external users, 1Gbps access for UT users
-
-Site: mirror.fdcservers.net
-Type: leaf
-Archive-architecture: amd64 armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
-Archive-ftp: /debian/
-Archive-http: /debian/
-X-Security-ftp: /debian-security/
-X-Security-http: /debian-security/
-IPv6: no
-Archive-upstream: mirrors.kernel.org
-Security-upstream: security.debian.org
-Updates: twice
-Maintainer: Phill <mirror@fdcservers.net>
-Country: US United States
-Location: Chicago Illinois
-Sponsor: FDCServers.net LLC http://www.fdcservers.net
-Bandwidth: 1Gbps
 
 Site: debian.univ-reims.fr
 Type: leaf
@@ -5785,7 +5703,7 @@ Archive-ftp: /pub/debian/
 Archive-http: /pub/debian/
 CDImage-ftp: /pub/debian-cd/
 CDImage-http: /pub/debian-cd/
-Archive-upstream: ftp1.us.debian.org
+Archive-upstream: mirror.cs.uwm.edu
 CDImage-upstream: mirrors.kernel.org
 Updates: four
 Maintainer: Chris Kuehn and Daniel Lewart <cites-cosmos@illinois.edu>
@@ -6081,19 +5999,6 @@ Maintainer: Yu-Chung Chen <julian@opensource.nchc.org.tw>, ftpadmin@opensource.n
 Comment: maintainer addresses bounce
 Country: TW Taiwan
 Sponsor: Opensource Taskforce, National Center for High-Performance Computing http://opensource.nchc.gov.tw/
-IPv6: no
-
-Site: debian.uni.edu.ni
-Type: leaf
-Archive-http: /debian/
-Archive-architecture: amd64 i386
-Archive-upstream: mirrors.kernel.org
-Maintainer: debmir@uni.edu.ni
-Country: NI Nicaragua
-Location: Managua
-Sponsor: Universidad Nacional de Ingenier&iacute;a http://www.uni.edu.ni/
-Bandwidth: 2Mbps
-Updates: once
 IPv6: no
 
 Site: ftp.ps.pl
@@ -6718,7 +6623,6 @@ IPv6: yes
 
 Site: archive.kernel.org
 Type: leaf
-Old-ftp: /debian-archive/
 Old-http: /debian-archive/
 Old-rsync: debian-archive/
 Old-upstream: archive.debian.org
@@ -7382,14 +7286,13 @@ Country: US United States
 Comment: We (Matthew Weeks and Jonathan Ketchum) are long time users of Debian and would like to help the project out by hosting a mirror.
  Our maximum bandwidth is 100Mbps.
 
-
 Site: mirror.akl.tmnetwork.co.nz
 Type: leaf
 Archive-architecture: amd64 i386 
 Archive-http: /debian/
 Archive-rsync: debian/
 IPv6: no
-Archive-upstream: mirrors.kernel.org
+Archive-upstream: ftp.nz.debian.org
 Updates: four
 Maintainer: Systems Team <set@trademe.co.nz>
 Country: NZ New Zealand
@@ -7767,7 +7670,7 @@ Archive-rsync: debian/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 IPv6: yes
-Archive-upstream: mirrors.kernel.org
+Archive-upstream: debian.gtisc.gatech.edu
 CDImage-upstream: mirrors.kernel.org
 Updates: four
 Maintainer: Daniel Ballenger <dballenger@svwh.net>
@@ -7781,7 +7684,7 @@ Archive-architecture: amd64 i386
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 IPv6: yes
-Archive-upstream: mirrors.nl.eu.kernel.org
+Archive-upstream: mirrors.kernel.org
 CDImage-upstream: debian.inode.at
 Updates: four
 Maintainer: Edwin Gomez <edwin.gomez@upb.edu.co>
