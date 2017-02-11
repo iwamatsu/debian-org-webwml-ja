@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2017-02-05" SUMMARY="Updated Debian 8: 8.7 released, News on Debian Stretch, Upcoming events: Debian at FOSDEM 2017 and MiniDebConfs, DebConf17, Bid deadline for DebConf18, Event Reports: Mini Debian Conference Japan 2016, Debian Med Team sprint, BSP on 27-29 January 2017 in Cambridge, Quick Links from Debian Social Media"
 
-# $Id: index.wml,v 1.2 2017/02/07 09:53:02 baptiste-guest Exp $
+# $Id: index.wml,v 1.3 2017/02/10 19:15:24 larjona Exp $
 # $Rev$
 # Status: [frozen]
 
@@ -226,7 +226,7 @@ about the work of paid contributors to Debian Long Term Support.
 
 <p>Follow the <a
 href="https://reproducible.alioth.debian.org/blog/">reproducible
-builds blog</a> to get the weekly reports on their work in the <q>Stretch</q> cycle</a>.
+builds blog</a> to get the weekly reports on their work in the <q>Stretch</q> cycle.
 </p>
 
 
