@@ -13,7 +13,7 @@ require 5.001;
 my @filter_arches=qw(); # Architectures not to list.
 
 my $officialsiteregex = q{^ftp\d?(?:\.wa)?\...\.debian\.org$};
-my $internalsiteregex = q{^((ftp|security|volatile)-master|ftp)\.debian\.org$};
+my $internalsiteregex = q{^((ftp|security)-master|ftp)\.debian\.org$};
 
 use Getopt::Long;
 my ($mirror_source, $output_type, $help);
@@ -31,7 +31,7 @@ $mirror_source = 'Mirrors.masterlist' if (! defined $mirror_source);
 my $last_modify = gmtime((stat($mirror_source))[9]);
 
 my (@mirror, %countries, %countries_sorted, %countries_sponsors, %longest);
-my ($count, $volatilecount, $cdimagecount);
+my ($count, $cdimagecount);
 my (%code_of_country, %plain_name_of_country);
 my %includedsites;
 
@@ -75,14 +75,7 @@ sub process_line {
       $mirror[$count-1]{$key}=\@arches;
     }
   }
-  elsif ($line =~ /^([\w-]+-upstream):\s*(.+)\s*$/s) {
-    $field = lc $1;
-    # no need for this private data in the %mirror hash
-    if ($field !~ /^x-/) {
-      $mirror[$count-1]{$field} = $2;
-    }
-  }
-  elsif ($line=~ /^((Archive|Security|CDimage|Jigdo|Old|Volatile)-(\w*)):\s*(.*)\s*$/i) {
+  elsif ($line=~ /^((Archive|Security|CDimage|Jigdo|Old)-(\w*)):\s*(.*)\s*$/i) {
     my $type = lc $1;
     my $value = $4;
     $mirror[$count-1]{method}{$type} = $value;
@@ -133,9 +126,6 @@ sub aptlines {
       if ($mirror[$id]{'Archive-architecture'}) {
         $archcomm=" # ".join(" ", sort @{$mirror[$id]{'Archive-architecture'}})."\n";
       }
-      if (defined $mirror[$id]{method}{'archive-ftp'}) {
-        print "deb ftp://$mirror[$id]{site}$mirror[$id]{method}{'archive-ftp'} stable main contrib non-free$archcomm\n";
-      }
       if (defined $mirror[$id]{method}{'archive-http'}) {
         print "deb http://$mirror[$id]{site}$mirror[$id]{method}{'archive-http'} stable main contrib non-free$archcomm\n";
       }
@@ -166,15 +156,14 @@ sub secondary_mirrors {
 <table border="0" class="center">
 <tr>
   <th>Host name</th>
-  <th>FTP</th>
   <th>HTTP</th>
   <th>Architectures</th>
 </tr>
 END
     } else {
-      my $formatstring = "%-$longest{site}s %-$longest{'archive-ftp'}s%-$longest{'archive-http'}s%s\n";
-      printf $formatstring, "HOST NAME", "FTP", "HTTP", "ARCHITECTURES";
-      printf $formatstring, "---------", "---", "----", "-------------";
+      my $formatstring = "%-$longest{site}s %-$longest{'archive-http'}s%s\n";
+      printf $formatstring, "HOST NAME", "HTTP", "ARCHITECTURES";
+      printf $formatstring, "---------", "----", "-------------";
     }
   } elsif ($wml) {
     print "<perl>\n";
@@ -184,8 +173,7 @@ END
     my $countrycode = $code_of_country{$country};
     my %our_mirrors;
     foreach my $id (@{ $countries{$country} }) {
-      if (defined $mirror[$id]{method}{'archive-ftp'} ||
-          defined $mirror[$id]{method}{'archive-http'}) {
+      if (defined $mirror[$id]{method}{'archive-http'}) {
         $our_mirrors{$id} = 1;
       }
     }
@@ -203,7 +191,7 @@ END
       print "\n";
     }
     foreach my $id (@{ $countries_sorted{$country} }) {
-      next unless (defined $mirror[$id]{method}{'archive-ftp'} or defined $mirror[$id]{method}{'archive-http'});
+      next unless defined $mirror[$id]{method}{'archive-http'};
       my $aliaslist;
       if (exists $mirror[$id]{'aliases'}) {
         if (!exists $mirror[$id]{includes}) {
@@ -247,34 +235,6 @@ SUBSITEID:  foreach my $mid (0 .. $#mirror) {
       } elsif ($text) {
         my $formatstring = "%-$longest{site}s ";
         printf $formatstring, $mirror[$id]{site};
-      }
-      if (defined $mirror[$id]{method}{'archive-ftp'}) {
-        my $rest = $longest{'archive-ftp'} - length($mirror[$id]{method}{'archive-ftp'});
-        if ($html) {
-          print <<END;
-<td valign=top><a rel="nofollow" href="ftp://$mirror[$id]{site}$mirror[$id]{method}{'archive-ftp'}">$mirror[$id]{method}{'archive-ftp'}</a></td>
-END
-        } elsif ($text) {
-          my $formatstring = "%s%${rest}s";
-          printf $formatstring, $mirror[$id]{method}{'archive-ftp'}, '';
-        } elsif ($wml) {
-          print <<EOF;
-  push \@{ \$secondaries{"<${countrycode}c>"}{"$mirror[$id]{site}"} },
-        "<a rel=\\\"nofollow\\\" href=\\\"ftp://$mirror[$id]{site}$mirror[$id]{method}{'archive-ftp'}\\\">$mirror[$id]{method}{'archive-ftp'}</a>";
-EOF
-        }
-      } else {
-        if ($html) {
-          print "<td></td>\n";
-        } elsif ($text) {
-          my $formatstring = "%-$longest{'archive-ftp'}s";
-          printf $formatstring, " ";
-        } elsif ($wml) {
-          print <<EOF;
-  push \@{ \$secondaries{"<${countrycode}c>"}{"$mirror[$id]{site}"} },
-        "";
-EOF
-        }
       }
       if (defined $mirror[$id]{method}{'archive-http'}) {
         my $rest = $longest{'archive-http'} - length($mirror[$id]{method}{'archive-http'});
@@ -810,9 +770,6 @@ access method for each type.
   archive, with sections for Debian packages that could not be
   distributed in the US due to software patents or use of encryption.
   The debian-non-US updates were discontinued with Debian 3.1.
-<dt><strong>Volatile packages</strong>
-  <dd>Packages from the debian-volatile project. See
-  <a href="https://www.debian.org/volatile/">https://www.debian.org/volatile/</a> for details.
 </dl>
 
 <p>The following access methods are possible:
@@ -948,7 +905,6 @@ EOF
         $display =~ s/cdimage-/CD Images /;
         $display =~ s/jigdo-/Jigdo files /;
         $display =~ s/old-/Old releases /;
-        $display =~ s/volatile-/Volatile packages /;
         $display =~ s/ftp/over FTP/;
         $display =~ s/http/over HTTP/;
         $display =~ s/nfs/over NFS/;
@@ -994,12 +950,6 @@ EOF
       }
       print "\n";
       print "<br>" if $wml;
-      if (exists $mirror[$id]{'ipv6'}) {
-        if ($mirror[$id]{ipv6} ne 'no') {
-          print "IPv6: ".$mirror[$id]{ipv6}."\n";
-          print "<br>" if $wml;
-        }
-      }
       if (exists $mirror[$id]{'comment'}) {
         print "Comment: ";
         print "<span style=\"white-space: pre;\">" if $wml;
@@ -1106,7 +1056,6 @@ END
 
 
 # fork of secondary_mirrors
-# Changed for debian-volatile by Francesco Paolo Lovergine, 2005 
 sub generate_html_matrix {
   my $archive_name = $_[0];
   my $archive_name_lc = lc($archive_name);
@@ -1161,312 +1110,6 @@ sub generate_html_matrix {
   print "</tbody>\n</table>\n";
 }
 
-# originally generate-nsupdate.pl -- generate the nsupdate commands for mirror.debian.net
-# written by Joy 2008-03-2x
-sub generate_nsupdate {
-
-  my @ccodes;
-  foreach my $country (sort keys %countries) {
-    push @ccodes, lc $code_of_country{$country};
-  }
-
-  my %arches;
-  my %includedsomewhere;
-  foreach my $id (0..$#mirror) {
-    if (exists $mirror[$id]{'Archive-architecture'}) {
-      foreach my $arch (@{ $mirror[$id]{'Archive-architecture'} }) {
-        if ($arch eq 'ALL') {
-          warn "found an ALL-architecture entry for $mirror[$id]{site}";
-          next;
-        }
-        $arches{$arch} = 1 unless $arches{$arch};
-      }
-    }
-    if (exists $mirror[$id]{'includes'}) {
-      foreach my $s ( @{ $mirror[$id]{'includes'} } ) {
-  #      warn "marking $s as included somewhere";
-        $includedsomewhere{ $s } = 1;
-      }
-    }
-  }
-
-  my %zone_entries;
-
-  # the pre-filling of the zone entries hash is here just so that
-  # we later execute all the 'delete' statements unconditionally
-  # (because we need to clear out any old data even if there's no
-  # new data to add in - indeed, especially then)
-  foreach my $cc (@ccodes) {
-    foreach my $arch (keys %arches) {
-      $zone_entries{$cc}{$arch}{0} = 0;
-    }
-  }
-
-  use Net::hostent;
-  use Socket(qw/inet_ntoa/);
-  use LWP::UserAgent;
-
-  foreach my $id (0..$#mirror) {
-    my $site = $mirror[$id]{site};
-
-    warn "\nchecking $site (#$id)...\n";
-
-    if (defined $mirror[$id]{includes}) {
-      warn "skipping $site because it includes other sites.\n";
-      next;
-    }
-
-    if ($site =~ /$internalsiteregex/) {
-      warn "skipping $site because it's an internal site.\n";
-      next;
-    }
-
-    my @site_arches;
-    if (exists $mirror[$id]{'Archive-architecture'}) {
-      @site_arches = @{$mirror[$id]{'Archive-architecture'}};
-    } elsif (exists $mirror[$id]{'x-archive-architecture'}) {
-      if (exists $includedsomewhere{$site}) {
-        warn "using x-archive-architecture for $site, as it's included somewhere.\n";
-        foreach my $arch (split (/ /, $mirror[$id]{'x-archive-architecture'})) {
-          push @site_arches, $arch;
-        }
-      }
-    }
-
-    if ($#site_arches < 0) {
-      warn "skipping $site because it doesn't carry any (main) archive architectures.\n";
-      next;
-    }
-
-    if ($site_arches[0] eq 'ALL') {
-      warn "skipping $site because of an ALL-architecture entry";
-      next;
-    }
-
-    if (not exists $mirror[$id]{method}{'archive-http'} or
-        not exists $mirror[$id]{method}{'archive-ftp'}) {
-      warn "skipping $site because it doesn't have both archive-{http,ftp}.\n";
-      next;
-    }
-
-    if ($mirror[$id]{method}{'archive-http'} ne '/debian/' or
-        $mirror[$id]{method}{'archive-ftp'} ne '/debian/') {
-      warn "skipping $site because one or both of its archive-{http,ftp} settings isn't /debian/.\n";
-      next;
-    }
-
-    my $cc = lc $code_of_country{ $mirror[$id]{country} };
-
-    my $h;
-    warn "resolving $site...\n";
-    unless ($h = gethost($site)) {
-      warn "$0: no such host: $site (h_errno: $?)\n";
-      next;
-    }
-    my @site_ip_v4;
-    foreach my $addr ( sort @{$h->addr_list} ) {
-      my $a = inet_ntoa($addr);
-
-    # need to check if the HTTP server accepts connections properly to our name
-      my $tracefile = "http://".$a.$mirror[$id]{method}{'archive-http'}."project/trace/ftp-master.debian.org";
-      my $ua = LWP::UserAgent->new;
-      $ua->timeout(10);
-      $ua->default_header('Host' => "$cc.i386.mirror.debian.net");
-      my $myurl = $ua->get($tracefile);
-      if ($myurl->is_success) {
-        warn "using $a for $site\n";
-        push @site_ip_v4, $a;
-      } else {
-        warn "skipping $a of $site because the HTTP server isn't set up right.\n";
-        warn "fetching $tracefile as $cc.i386.m.d.n returned " . $myurl->status_line . "\n";
-        next;
-      }
-    }
-
-  #  my @site_ip_v6 = ...
-  # TODO: some getaddrinfo() implementation provided by libsocket6-perl
-
-    next if ($#site_ip_v4 < 0);
-
-    warn "adding " . ($#site_ip_v4 + 1) . " address(es) for "
-         . ($#site_arches + 1) . " architectures "
-         . "as $cc.arch.m.d.n.\n";
-
-    foreach my $arch (@site_arches) {
-      foreach my $a (@site_ip_v4) {
-        $zone_entries{$cc}{$arch}{$a} = 1 unless exists $zone_entries{$cc}{$arch}{$a};
-      }
-  #    foreach my $aaaa (@site_ip_v6) {
-  #      $zone_entries{$cc}{$arch}{$a} = 1 unless exists $zone_entries{$cc}{$arch}{$a};
-  #    }
-    }
-  }
-
-  warn "writing out nsupdate commands...\n";
-
-  # these aren't strictly necessary, but I thought they should help a bit
-  print "server db.debian.org\n";
-  print "zone mirror.debian.net\n";
-
-  foreach my $cc (sort keys %zone_entries) {
-    foreach my $arch (sort keys %{$zone_entries{$cc}}) {
-      # we need to do the 'update delete' in order to flush everything out,
-      # because there is no old state (which would be used for a nice
-      # incremental removal of old data)
-      print "update delete $cc.$arch.mirror.debian.net.\n";
-      foreach my $a (sort keys %{$zone_entries{$cc}{$arch}}) {
-        next if ($a eq 0);
-        # poor man's IPv6 detection :)
-        print "update add $cc.$arch.mirror.debian.net. 14400";
-        if ($a !~ /:/) { print " A "; }
-        else { print " AAAA "; }
-        print "$a\n";
-      }
-    }
-    # we also need to 'send' more often than just once, because if we
-    # try everything at once, nsupdate aborts with:
-    # dns_request_createvia3: ran out of space
-    print "send\n";
-  }
-
-}
-
-sub mirror_tree_by_origin {
-  my %origins;
-  foreach my $country (sort keys %countries) {
-    foreach my $id (sort @{ $countries{$country} }) {
-#      if ($mirror[$id]{site} =~ /$officialsiteregex/) {
-      if (exists $mirror[$id]{method}{'archive-http'} or exists $mirror[$id]{method}{'archive-ftp'}) {
-        my $tfm = $mirror[$id]{method}{'archive-http'} || $mirror[$id]{method}{'archive-ftp'};
-        my $tf = "http://" . $mirror[$id]{site} . $tfm . "project/trace/";
-        my $mf;
-        if (exists $mirror[$id]{includes}) {
-          my $numsubsites = @{ $mirror[$id]{includes} };
-          my $snum = 0;
-          foreach my $subsite (@{ $mirror[$id]{includes} }) {
-            $tf = "http://" . $subsite . $mirror[$id]{method}{'archive-http'} . "project/trace/";
-            $mf = exists $mirror[$id]{'archive-upstream'} ? $mirror[$id]{'archive-upstream'} : "ftp-master.debian.org";
-            my @mfs = split(',\s*', $mf);
-            foreach my $mfss (@mfs) {
-              $origins{$mfss}{$subsite} = $tf;
-            }
-          }
-        } else {
-          my $mfdefault = $mirror[$id]{site} =~ /$officialsiteregex/ ? "ftp-master.debian.org" : "unknown-origin";
-          $mf = exists $mirror[$id]{'archive-upstream'} ? $mirror[$id]{'archive-upstream'} : $mfdefault;
-          my @mfs = split(',\s*', $mf);
-          foreach my $mfss (@mfs) {
-            $origins{$mfss}{ $mirror[$id]{site} } = $tf;
-          }
-        }
-      }
-    }
-  }
-
-  $origins{ 'ftp-master.debian.org' }{ 'syncproxy.eu.debian.org' } = 1;
-  $origins{ 'ftp-master.debian.org' }{ 'syncproxy.wna.debian.org' } = 1;
-
-  print "<h2>Mirrors sorted by origin</h2>\n";
-  print "<ul>\n";
-  print "<li>ftp-master.debian.org</li>";
-
-  sub crawl_origins($%) {
-    my $top = shift;
-    my %origins = shift;
-#      print "<pre>";
-#      use Data::Dumper;
-#      print Dumper(%origins);
-#      print "</pre>";
-    print "<ul>\n";
-    my @tocheck = ();
-    foreach my $o (keys %origins) {
-      if ($o ne $top) {
-        push @tocheck, $o;
-      } else {
-        
-      }
-    }
-    my $o; # FIXME
-      if ($o ne $top) {
-        print "<p>recursing with $o, " . join(",", keys %{$origins{$o}}) . "\n";
-#        crawl_origins($o, keys %{$origins{$o}}) unless ($o eq $top);
-      } else {
-        foreach my $oo (keys %{$origins{$o}}) {
-          print "<li>$oo";
-          print " (<a href=\"$origins{$o}{$oo}\">p/t</a>)"
-        }
-      }
-    print "</ul>\n";
-  }
-
-  crawl_origins('ftp-master.debian.org', %origins);
-
-if (0) {
-  print "<ul>\n";
-  print "<li>syncproxy.eu.debian.org</li>";
-  print "<ul>\n";
-  foreach my $o (keys %{$origins{'syncproxy.eu.debian.org'}}) {
-    print "<li>$o";
-    print " (<a href=\"". $origins{'syncproxy.eu.debian.org'}{$o} ."\">p/t</a>)";
-    print "<ul>\n";
-    foreach my $oo (keys %{$origins{$o}}) {
-      print "<li>$oo";
-      print " (<a href=\"$origins{$o}{$oo}\">p/t</a>)";
-      delete $origins{$o}{$oo};
-    }
-    print "</ul>\n";
-    delete $origins{'syncproxy.eu.debian.org'}{$o};
-  }
-  print "</ul>\n";
-  print "<li>syncproxy.wna.debian.org</li>";
-  print "<ul>\n";
-  foreach my $o (keys %{$origins{'syncproxy.wna.debian.org'}}) {
-    print "<li>$o";
-    print " (<a href=\"". $origins{'syncproxy.wna.debian.org'}{$o} ."\">p/t</a>)";
-    print "<ul>\n";
-    foreach my $oo (keys %{$origins{$o}}) {
-      print "<li>$oo";
-      print " (<a href=\"$origins{$o}{$oo}\">p/t</a>)";
-      delete $origins{$o}{$oo};
-    }
-    print "</ul>\n";
-    delete $origins{'syncproxy.wna.debian.org'}{$o};
-  }
-  print "</ul>\n";
-  foreach my $o (keys %{$origins{'ftp-master.debian.org'}}) {
-    next if ($o =~ /^syncproxy.(eu|wna).debian.org$/);
-    print "<li>$o";
-    print " (<a href=\"". $origins{'ftp-master.debian.org'}{$o} ."\">p/t</a>)";
-    print "<ul>\n";
-    foreach my $oo (keys %{$origins{$o}}) {
-      print "<li>$oo";
-      print " (<a href=\"$origins{$o}{$oo}\">p/t</a>)";
-      delete $origins{$o}{$oo};
-    }
-    print "</ul>\n";
-    delete $origins{'ftp-master.debian.org'}{$o};
-  }
-  print "<pre>";
-  use Data::Dumper;
-  print Dumper(%origins);
-  print "</pre>";
-  print "<li>unknown-origin</li>";
-  foreach my $o (keys %origins) {
-    print "<ul>\n";
-    foreach my $oo (keys %{$origins{$o}}) {
-      print "<li>$oo";
-      print " (<a href=\"$origins{$o}{$oo}\">p/t</a>)"
-    }
-    print "</ul>\n";
-  }
-  print "<ul>\n";
-  print "</ul>\n";
-  print "</ul>\n";
-
-} # if (0)
-
-}
-
 ######### Begin main routine ###########################
 
 if (defined $help) {
@@ -1516,10 +1159,6 @@ foreach my $id (reverse @filtered) { # reverse order so indexes are valid
 # count the number of mirrors
 # the masterlist parser's $count included the filtered sites
 $count = @mirror;
-
-foreach my $id (0..$#mirror) {
-  $volatilecount++ if (defined $mirror[$id]{method}{'volatile-ftp'} || defined $mirror[$id]{method}{'volatile-http'});
-}
 
 # Create arrays of countries, with their mirrors.
 foreach my $id (0..$#mirror) {
@@ -1612,13 +1251,6 @@ if ($output_type eq 'html') {
   cdimage_mirrors("httpftp");
 } elsif ($output_type eq 'cdimages-rsync') {
   cdimage_mirrors("rsync");
-} elsif ($output_type eq 'volatile-wml') {
-  generate_html_matrix("Volatile");
-  footer_stuff('wml', $volatilecount);
-} elsif ($output_type eq 'nsupdate') {
-  generate_nsupdate();
-} elsif ($output_type eq 'origins') {
-  mirror_tree_by_origin();
 } else {
   die "Error: unknown output type requested, $output_type\n";
 }
@@ -1640,7 +1272,6 @@ Usage: $0 [mt|--type type] [-m|--mirror mirror_list_source]
     sponsors
     cdimages-httpftp
     cdimages-rsync
-    volatile-html
     nsupdate
 END
 }
