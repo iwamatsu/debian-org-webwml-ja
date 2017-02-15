@@ -237,7 +237,6 @@ Maintainer: Adam Lackorzynski <adam@os.inf.tu-dresden.de>, ftpadm@inf.tu-dresden
 Country: DE Germany
 Location: Dresden
 Sponsor: Technical University of Dresden, Dept. of Computer Science http://www.inf.tu-dresden.de/
-Comment: DFN
 
 Site: ftp.pl.debian.org
 Includes: ftp.task.gda.pl
@@ -370,7 +369,6 @@ Maintainer: Heikki Vatiainen <ice-mirror@cs.tut.fi>
 Country: FI Finland
 Location: Tampere
 Sponsor: Tampere University of Technology http://www.tut.fi/
-Bandwidth: 1Gbps
 
 Site: mirrors.kernel.org
 Type: Push-Primary
@@ -462,7 +460,6 @@ Maintainer: ftpadm@ntua.gr, ftpadm@noc.ntua.gr
 Country: GR Greece
 Location: Athens
 Sponsor: National Technical University of Athens http://www.ntua.gr/
-Bandwidth: 1Gbps
 
 Site: debian.osuosl.org
 Includes: ftp-nyc.osuosl.org ftp-chi.osuosl.org ftp-osl.osuosl.org
@@ -517,6 +514,7 @@ Country: HR Croatia
 
 Site: debian.carnet.hr
 Alias: arrakis.carnet.hr
+Alias: ftp.carnet.hr
 Type: Push-Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
 Archive-http: /debian/
@@ -528,7 +526,6 @@ Maintainer: Josip Rodin <ftp-admin@carnet.hr>
 Country: HR Croatia
 Location: Zagreb
 Sponsor: CARNet, Croatian Academic and Research Network http://www.carnet.hr/
-Comment: GE
 
 Site: ukdebian.mirror.anlx.net
 Type: Push-Primary
@@ -586,7 +583,6 @@ Country: KR Korea, Republic of
 Location: Daejeon
 Sponsor: Korea Advanced Institute of Science and Technology http://www.kaist.ac.kr/
 Sponsor: SPARCS http://sparcs.kaist.ac.kr/
-Bandwidth: 1Gbps
 
 Site: debian.mirror.rafal.ca
 Alias: mirror.mountaincable.net
@@ -601,7 +597,6 @@ Location: Ontario
 Sponsor: Rafal Rzeczkowski http://www.rafal.ca/
 Sponsor: Mountain Cablevision http://www.mountaincable.net/
 Sponsor: Tetraplex Limited http://www.tetraplex.com/
-Bandwidth: 100Mbps connection, 700Mbps aggregate bandwidth, TorIX peering.
 
 Site: ftp.ch.debian.org
 Includes: debian.ethz.ch
@@ -626,15 +621,13 @@ Maintainer: mirror@phys.ethz.ch
 Country: CH Switzerland
 Location: Zurich, Hoenggerberg
 Sponsor: ETHZ, Department of Physics http://www.phys.ethz.ch/
-Comment: 10 GBit/s ethernet connection, disk I/O approximately 150 MBytes/s
-Bandwidth: at least 50Mbps
 
 Site: ftp.es.debian.org
 Includes: ulises.hostalia.com
 Type: Push-Primary
 Archive-http: /debian/
 Archive-rsync: debian/
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386  
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386
 Archive-method: push
 Country: ES Spain
 
@@ -642,12 +635,11 @@ Site: ulises.hostalia.com
 Type: Push-Primary
 Archive-http: /debian/
 Archive-rsync: debian/
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386  
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386
 Archive-method: push
 Maintainer: Javier Fernandez-Sanguino <jfs@debian.org>, junta@debian-es.org
 Country: ES Spain
 Sponsor: Hostalia http://www.hostalia.com/
-Bandwidth: 200Mbps
 
 Site: debian.mirror.iweb.ca
 Alias: ftp2.ca.debian.org
@@ -662,7 +654,6 @@ Maintainer: Jean-Francois Chevrette <mirrors@iweb.ca>
 Country: CA Canada
 Location: Montreal
 Sponsor: iWeb http://www.iweb.ca/
-Bandwidth: 100Mbps. Connected to various backbones: Teleglobe, Cogent,
  Videotron and Peer1, and also to TORIX (Toronto Internet Exchange).
 
 Site: ftp.mx.debian.org
@@ -672,7 +663,6 @@ Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64
 Archive-http: /debian/
 Archive-rsync: debian/
 Country: MX Mexico
-Bandwidth: 100Mbps
 
 Site: mmc.geofisica.unam.mx
 Type: Push-Primary
@@ -683,7 +673,6 @@ Maintainer: Antonio Carrillo Ledesma <antonio@mmc.geofisica.unam.mx>
 Country: MX Mexico
 Location: Mexico D.F.
 Sponsor: Grupo de Modelacion Matematica y Computacional http://www.mmc.geofisica.unam.mx
-Bandwidth: 100Mbps
 
 Site: ftp.jp.debian.org
 Alias: cdn.debian.or.jp
@@ -722,7 +711,6 @@ Country: SK Slovakia
 Location: Bratislava, Slovakia
 Sponsor: GTS Slovakia http://www.gts.sk/
 Updates: push
-Bandwidth: 100Mbps
 
 
 Site: ftp.au.debian.org
@@ -760,18 +748,17 @@ Archive-rsync: debian/
 Maintainer: Imre Oolberg <imre.oolberg@riik.ee>, ftpmaster@aso.ee
 Country: EE Estonia
 Sponsor: Estonian Informatics Centre http://www.ria.ee/
-Bandwidth: 100Mbps
 
 Site: hanzubon.jp
 Alias: air.hanzubon.jp
 Type: Push-Primary
-X-Archive-architecture: amd64 i386 ia64 mips mipsel powerpc s390 sparc
-X-Archive-http: /debian/
-X-Archive-rsync: debian/
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
+Archive-http: /debian/
+Archive-rsync: debian/
 CDImage-http: /debian-cd/
-X-CDImage-rsync: debian-cd/
-X-Old-http: /debian-archive/
-X-Old-rsync: debian-archive/
+CDImage-rsync: debian-cd/
+Old-http: debian-archive/
+Old-rsync: debian-archive/
 Maintainer: ISHIKAWA Mutsumi <ishikawa@hanzubon.jp>
 Country: JP Japan
 Location: Tokyo
@@ -813,7 +800,6 @@ Maintainer: Carsten Otto <ftp@halifax.rwth-aachen.de>
 Country: DE Germany
 Location: Aachen, Germany
 Sponsor: RWTH Aachen University http://www.rwth-aachen.de/
-Bandwidth: 10Gbps
 
 Site: ftp.sv.debian.org
 Includes: debian.salud.gob.sv
@@ -841,7 +827,6 @@ Maintainer: Vladimir Nikolic <vladimir.nikolic@amis.si>, debian-mirrors@amis.si
 Country: SI Slovenia
 Location: Maribor
 Sponsor: Amis http://www.amis.net
-Bandwidth: 1Gbps
 
 Site: mirror.mephi.ru
 Type: Push-Primary
@@ -858,7 +843,6 @@ Maintainer: Andrew Savchenko <mirror@mephi.ru>
 Country: RU Russian Federation
 Location: Russian Federation, Moscow
 Sponsor: National Research Nuclear University "MEPhI" http://mephi.ru/
-Bandwidth: 1Gbps
 
 Site: debian.cse.msu.edu
 Type: leaf
@@ -870,7 +854,6 @@ Maintainer: Adam Pitcher <manager@cse.msu.edu>
 Country: US United States
 Location: East Lansing, Michigan
 Sponsor: Computer Science and Engineering at Michigan State University http://www.cse.msu.edu
-Bandwidth: 1Gbps
 
 Site: opensource.exmeritus.com
 Type: Push-Primary
@@ -909,7 +892,6 @@ Maintainer: Sven Wiese <noc@trabia.net>
 Country: MD Moldova
 Location: Chisinau
 Sponsor: Trabia-Network http://www.trabia.net
-Bandwidth: 1Gbps
 
 Site: ftp2.cn.debian.org
 Includes: mirrors.tuna.tsinghua.edu.cn
@@ -929,9 +911,6 @@ Maintainer: TUNA <thu-opensource-mirror-admin@googlegroups.com>
 Country: CN China
 Location: Beijing
 Sponsor: Tsinghua University http://www.tsinghua.edu.cn/
-Bandwidth: 1Gbps, upgrade is possible when utilization becomes higher
-Comment: CERNET &amp; CERNET2
-
 
 Site: ftp.sg.debian.org
 Includes: mirror.0x.sg
@@ -941,7 +920,6 @@ Archive-rsync: /debian/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Country: SG Singapore
-
 
 Site: mirror.0x.sg
 Type: Push-Primary
@@ -955,8 +933,6 @@ Maintainer: Andrew Yong <me@ndoo.sg>
 Country: SG Singapore
 Location: Singapore
 Sponsor: mirror.0x.sg http://mirror.0x.sg/
-Bandwidth: 1Gbps
-Comment: Forced v6 hostname for cdimage upstream - ftp-v6.cuhk.edu.hk
 
 Site: mirror.waia.asn.au
 Type: Push-Primary
@@ -969,7 +945,6 @@ Maintainer: Joe Wooller <joe@waia.asn.au>
 Country: AU Australia
 Location: Perth, Western Australia
 Sponsor: Western Australian Internet Association http://www.waia.asn.au/
-Bandwidth: 1Gbps peering in Western Australia
 
 Site: ftp.tku.edu.tw
 Type: Push-Secondary
@@ -979,7 +954,6 @@ X-CDImage-http: /debian-cd/
 Updates: push
 Maintainer: wisely <wisely@mail.tku.edu.tw>
 Country: TW Taiwan
-Bandwidth: 1Gbps
 
 Site: debian.linux.edu.lv
 Type: Push-Secondary
@@ -991,7 +965,6 @@ CDImage-rsync: debian-cd/
 Maintainer: Leo Truksans <leot@linux.edu.lv>
 Country: LV Latvia
 Location: University of Latvia
-Bandwidth: 1Gbps to Latvian ISPs, 1.25Gbps to other countries via GEANT
 
 Site: debs.pelotas.ifsul.edu.br
 Type: Push-Secondary
@@ -1002,7 +975,6 @@ Maintainer: CMR - Instituto Federal Sul-rio-grandense - Campus Pelotas <cmr@pelo
 Country: BR Brazil
 Location: Pelotas-RS
 Sponsor: Instituto Federal Sul-rio-grandense http://www.pelotas.ifsul.edu.br/
-Bandwidth: 34Mbps
 
 Site: mirror.its.dal.ca
 Type: Push-Secondary
@@ -1015,8 +987,6 @@ Maintainer: Dalhousie Mirror Admins <mirror@lists.dal.ca>
 Country: CA Canada
 Location: Halifax Nova Scotia
 Sponsor: Dalhousie University http://dal.ca/
-Comment: 1Gb/s CANet / I2 Peers, 300Mb/s shared commodity QoS'd low priority on commodity link
-Bandwidth: 300Mbps
 
 Site: mirrors.melbourne.co.uk
 Type: Push-Secondary
@@ -1026,7 +996,6 @@ Maintainer: Chris Merrett <support.team@melbourne.co.uk>
 Country: GB United Kingdom
 Location: Manchester
 Sponsor: Melbourne Server Hosting Ltd. http://www.melbourne.co.uk/
-Bandwidth: 1Gbps
 
 Site: ftp.ec-m.fr
 Alias: ftp.centrale-marseille.fr
@@ -1038,8 +1007,6 @@ Maintainer: geoffroy desvernay <debianmirror@ec-m.fr>
 Country: FR France
 Location: Marseille
 Sponsor: Centrale Marseille http://www.centrale-marseille.fr/
-Bandwidth: 100Mbps
-Comment: 100Mbps, Renater
 
 Site: mirror.bytemark.co.uk
 Type: Push-Secondary
@@ -1052,7 +1019,6 @@ Maintainer: Patrick Cherry <support@support.bytemark.co.uk>
 Country: GB United Kingdom
 Location: Manchester, UK
 Sponsor: Bytemark Hosting http://www.bytemark.co.uk
-Bandwidth: 1Gbps
 
 Site: mirror.kku.ac.th
 Type: Push-Secondary
@@ -1064,7 +1030,6 @@ Maintainer: Kitt Tientanopajai <kitty@kitty.in.th>
 Country: TH Thailand
 Location: Khon Kaen
 Sponsor: Computer Center, Khon Kaen University http://www.computer.kku.ac.th/
-Bandwidth: 1Gbps
 
 Site: deb-mir1.naitways.net
 Type: Push-Secondary
@@ -1075,7 +1040,6 @@ Maintainer: Jeremy SPY <contact@naitways.com>
 Country: FR France
 Location: Paris 19e
 Sponsor: Naitways http://www.naitways.com
-Bandwidth: 60Mbps
 
 Site: debian.cc.lehigh.edu
 Type: Push-Secondary
@@ -1087,8 +1051,6 @@ Maintainer: Keith Erekson <keith.erekson@gmail.com>, hostmaster@lehigh.edu
 Country: US United States
 Location: Bethlehem, Pennsylvania
 Sponsor: Lehigh University http://www.lehigh.edu/
-Comment: multiple ISPs including Internet2
-Bandwidth: 1Gbps
 
 Site: mirror.buildd.net
 Type: Push-Secondary
@@ -1099,7 +1061,6 @@ Location: Nuernberg
 Maintainer: Ingo Juergensmann <ij@buildd.net>
 Sponsor: Ingo Juergensmann http://www.buildd.net/
 Country: DE Germany
-Bandwidth: 100Mbps
 
 Site: ftp.lt.debian.org
 Includes: debian.mirror.vu.lt
@@ -1108,7 +1069,6 @@ Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64
 Archive-http: /debian/
 Archive-rsync: debian/
 Country: LT Lithuania
-Comment: Primary mirror cluster for Lithuania
 
 Site: debian.mirror.vu.lt
 Alias: e450.vu.lt
@@ -1123,13 +1083,6 @@ Maintainer: Arnoldas Sareckis <hostmaster@vu.lt>
 Country: LT Lithuania
 Location: Lithuania, Vilnius (Vilnius University)
 Sponsor: Vilnius University http://www.vu.lt/
-Comment: The mirror is updated four times a day.
- The mirror has the following connectivity:
- -Up to 240Mbps to GEANT;
- -Up to 240Mbps to Lithuania networks;
- -Up to 10Mbps to other worldwide networks;
- -Total Maximum outgoing bandwidth is 260Mbps.
-Bandwidth: 240Mbps
 
 Site: debian.simnet.is
 Type: Push-Secondary
@@ -1142,7 +1095,6 @@ CDImage-rsync: debian-cd/
 Maintainer: Gudmundur Mar Kristjansson <mirrors@siminn.is>
 Sponsor: Simnet http://simnet.is/
 Country: IS Iceland
-Bandwidth: 1Gbps
 
 Site: mirror.eu.oneandone.net
 Alias: mirror.1und1.de
@@ -1156,7 +1108,6 @@ Old-rsync: debian-archive/
 Maintainer: Jakob-Tobias Winter <jakob-tobias.winter@1und1.de>, pureserver@1und1.de
 Country: DE Germany
 Sponsor: 1&amp;1 Internet AG http://www.1und1.de/
-Bandwidth: 1Gbps
 
 
 Site: mirror.us.oneandone.net
@@ -1194,7 +1145,6 @@ Maintainer: Ming-Ting Yao Wei <mwei@lxde.org>
 Country: TW Taiwan
 Location: National Taiwan Ocean University
 Sponsor: Institute of Network Development http://ind.ntou.edu.tw/
-Bandwidth: 1Gbps
 
 Site: mirrors.163.com
 Type: Push-Secondary
@@ -1207,7 +1157,6 @@ Updates: once
 Maintainer: netease <mirror@service.netease.com>
 Country: CN China
 Sponsor: Netease http://www.163.com/
-Bandwidth: 1Gbps
 
 Site: debian.gtisc.gatech.edu
 Type: Push-Secondary
@@ -1222,7 +1171,6 @@ Maintainer: Robert Edmonds <edmonds@debian.org>, Paul Royal <paul@gtisc.gatech.e
 Country: US United States
 Location: Atlanta, GA, US
 Sponsor: Georgia Tech Information Security Center (GTISC) http://gtisc.gatech.edu/
-Bandwidth: 1Gbps
 
 Site: ftp.cn.debian.org
 Includes: mirrors.ustc.edu.cn
@@ -1234,8 +1182,8 @@ Archive-method: push
 Country: CN China
 
 Site: mirrors.ustc.edu.cn
-Alias: ipv4.mirrors.ustc.edu.cn 
-Alias: ipv6.mirrors.ustc.edu.cn 
+Alias: ipv4.mirrors.ustc.edu.cn
+Alias: ipv6.mirrors.ustc.edu.cn
 Alias: rsync.mirrors.ustc.edu.cn
 Type: Push-Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
@@ -1244,12 +1192,11 @@ Archive-rsync: debian/
 Archive-method: push
 CDImage-rsync: debian-cd/
 Updates: push
-Maintainer: zsj950618@gmail.com,  mirrors@ustc.edu.cn
+Maintainer: zsj950618@gmail.com, mirrors@ustc.edu.cn
 Country: CN China
 Location: Hefei
 Sponsor: USTC Network Information Center http://ustcnet.ustc.edu.cn/
 Sponsor: University of Science and Technology of China http://www.ustc.edu.cn/
-Bandwidth: 1Gbps
 
 Site: mirror.nl.leaseweb.net
 Type: Push-Secondary
@@ -1265,7 +1212,6 @@ Maintainer: Jeffrey Kriegsman <mirror@leaseweb.com>
 Country: NL Netherlands
 Location: EvoSwitch DC, Haarlem, The Netherlands
 Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
-Bandwidth: 4Gbps
 
 Site: mirror.de.leaseweb.net
 Type: Push-Secondary
@@ -1280,7 +1226,6 @@ Maintainer: Jeffrey Kriegsman <mirror@leaseweb.com>
 Country: DE Germany
 Location: Databurg, Franfurt, Germany
 Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
-Bandwidth: 4Gbps
 
 Site: debian.salud.gob.sv
 Alias: mirror.salud.gob.sv
@@ -1295,7 +1240,6 @@ Maintainer: Carlos Juan Martin Perez <cmartin@salud.gob.sv>, mirror@salud.gob.sv
 Country: SV El Salvador
 Location: San Salvador
 Sponsor: Ministerio de Salud de El Salvador http://www.salud.gob.sv/
-Bandwidth: 24Mbps
 
 Site: debian.volia.net
 Alias: mirror.volia.net
@@ -1313,7 +1257,6 @@ Maintainer: Eugene Paskevich <mirror@volia.net>
 Country: UA Ukraine
 Location: Kiev
 Sponsor: Volia Broadband http://www.volia.com/
-Bandwidth: 10Gbps
 
 Site: suro.ubaya.ac.id
 Type: Push-Secondary
@@ -1326,8 +1269,6 @@ Maintainer: Budiwijaya <budiw_1@yahoo.com>, mirror-admin@ubaya.ac.id
 Country: ID Indonesia
 Location: Surabaya, Indonesia
 Sponsor: Universitas Surabaya http://www.ubaya.ac.id
-Comment: Connected to IIX/OIXP/SIX with 50Mbps and 50Mbps for International
-Bandwidth: 50Mbps
 
 Site: ftp.agh.edu.pl
 Type: Push-Secondary
@@ -1338,11 +1279,10 @@ Maintainer: Boguslaw Juza <bogdan@uci.agh.edu.pl>, Szymon Sokol <szymon@uci.agh.
 Country: PL Poland
 Location: AGH Kraków
 Sponsor: AGH University of Science and Technology http://www.agh.edu.pl
-Bandwidth: 1Gbps
 
 Site: mirror.sinavps.ch
 Type: Push-Secondary
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: push
@@ -1350,7 +1290,6 @@ Maintainer: Marco Naef <info@sinavps.ch>
 Country: CH Switzerland
 Location: Zug, Switzerland
 Sponsor: SinaVPS http://sinavps.ch
-Comment: 1 Gbit
 
 Site: mirror.unej.ac.id
 Type: Push-Secondary
@@ -1364,9 +1303,6 @@ Maintainer: Mahyuddin Susanto <udienz@gmail.com>, it.staff@uj.ac.id
 Country: ID Indonesia
 Location: Jember, East Java
 Sponsor: Jember University http://www.unej.ac.id/
-Comment: 200Mps and above to Indonesia; 10Mbps international; status at http://mirror.unej.ac.id/status/
-Bandwidth: 200Mbps
-X-Comment: disabled, no admin at the moment: <AANLkTi=H0K1-fcqxveFVC3RGy6a5nq6QebBzmfzbJdHp@mail.gmail.com>
 
 Site: mirror.hmc.edu
 Alias: worblehat.math.hmc.edu
@@ -1378,7 +1314,6 @@ Maintainer: Claire Connelly <mirrors@math.hmc.edu>
 Country: US United States
 Location: Claremont, CA, US
 Sponsor: Harvey Mudd College http://www.hmc.edu/
-Comments: On Internet2
 
 Site: ftp.nc.debian.org
 Includes: debian.nautile.nc
@@ -1402,7 +1337,6 @@ Maintainer: Nicolas Aupetit <contact@nautile.nc>
 Country: NC New Caledonia
 Location: Noumea, New Caledonia
 Sponsor: Nautile (ISP) http://www.nautile.nc/
-X-Comment: generates ISOs localy using jigdo
 
 Site: debian.lagis.at
 Type: Push-Secondary
@@ -1414,7 +1348,6 @@ Maintainer: lagis Mirror Admins <mirror@lagis.at>
 Country: AT Austria
 Location: Linz
 Sponsor: lagis Internet Serviceprovider GmbH http://www.lagis.at/
-Bandwidth: 200Mbps
 
 Site: www.oyu-net.jp
 Type: Push-Secondary
@@ -1438,7 +1371,6 @@ Maintainer: Oleg Milaenko <team@debian.org.ua>, omnix@debian.org.ua
 Country: UA Ukraine
 Location: Kiev
 Sponsor: ColoCALL http://www.colocall.net/
-Bandwidth: 100Mbps in Ukraine (UA-IX http://ua-ix.net.ua/eng.phtml), 8Mbps other
 
 Site: ftp.be.debian.org
 Includes: mirror.as35701.net
@@ -1460,7 +1392,6 @@ X-CDImage-rsync: debian-cd/
 Maintainer: Kurt Roeckx <kurt@roeckx.be>, mirror-admin@as35701.net
 Country: BE Belgium
 Sponsor: Bart Champagne http://www.as35701.net/
-Bandwidth: 1Gbps
 
 Site: ftp.univ-nantes.fr
 Alias: vacuum.univ-nantes.fr
@@ -1470,7 +1401,6 @@ Archive-http: /debian/
 Maintainer: Yann Dupont <Yann.Dupont@univ-nantes.fr>
 Country: FR France
 Sponsor: University of Nantes http://www.univ-nantes.fr/
-Bandwidth: 100Mbps dedicated to IPv4, 55Mbps dedicated to IPv6
 
 Site: debian.lth.se
 Alias: ftp.ddg.lth.se
@@ -1480,7 +1410,6 @@ Archive-http: /debian/
 Maintainer: Per Foreby <perf@ddg.lth.se>
 Country: SE Sweden
 Updates: once
-Bandwidth: 1Gbps
 
 
 Site: mirror.cc.columbia.edu
@@ -1492,8 +1421,6 @@ Maintainer: Columbia Mirror Administrator <mirror-admin@columbia.edu>
 Country: US United States
 Location: New York, NY
 Sponsor: Columbia University http://www.columbia.edu
-Comment: Internet2
-Bandwidth: 2Gbps
 
 Site: debian.csie.nctu.edu.tw
 Type: Push-Secondary
@@ -1519,8 +1446,6 @@ Maintainer: Evgeniy Kozhuhovskiy <ugenk@mgts.by> <e.kozhuhovskiy@gmail.com>, Evg
 Country: BY Belarus
 Location: Minsk
 Sponsor: RUE Beltelecom, MGTS http://www.beltelecom.by/
-Bandwidth: 1Gbps
-X-Comment: generates ISOs localy using jigdo
 
 Site: ftp.gul.uc3m.es
 Type: Push-Secondary
@@ -1530,7 +1455,6 @@ Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64
 Maintainer: info@gul.uc3m.es
 Country: ES Spain
 Sponsor: Grupo de Usuarios de Linux - Universidad Carlos III de Madrid http://www.gul.uc3m.es/
-Bandwidth: 100Mbps
 
 Site: debian.univ-lorraine.fr
 Alias: debian.mines.inpl-nancy.fr
@@ -1544,7 +1468,6 @@ Maintainer: DN Infra <debian-contact@univ-lorraine.fr>
 Country: FR France
 Location: Nancy
 Sponsor: Université de Lorraine http://www.univ-lorraine.fr/
-Bandwidth: 1Gbps
 
 Site: debian.nctu.edu.tw
 Type: Push-Secondary
@@ -1559,9 +1482,6 @@ Maintainer: L.E. Kao <mirror@debian.nctu.edu.tw>
 Country: TW Taiwan
 Location: Hsinchu, Taiwan
 Sponsor: Computer and Network Center, National Chiao-Tung University, Hsinchu, Taiwan. http://www.nctu.edu.tw/
-Comment: This site is upgraded for offering better services.
- It consists of 16GB RAM, an FC-based storage and a 2Gb-bonding uplink now.
-Bandwidth: 2Gbps
 
 Site: ftp.ua.debian.org
 Includes: debian.org.ua
@@ -1588,7 +1508,6 @@ Maintainer: Oleg Milaenko <omnix@debian.org.ua>, team@debian.org.ua
 Country: UA Ukraine
 Location: Kiev, UA
 Sponsor: MHost http://mhost.kiev.ua/
-Bandwidth: 100Mbps in Ukraine (UA-IX http://ua-ix.net.ua/eng.phtml), 4Mbps other
 
 Site: ftp.ie.debian.org
 Includes: debian.heanet.ie
@@ -1615,7 +1534,6 @@ Maintainer: Colm MacCarthaigh <mirrors@heanet.ie>
 Country: IE Ireland
 Location: Dublin
 Sponsor: HEAnet national mirror server http://ftp.heanet.ie/about/
-Bandwidth: 10Gbps connectivity to our national and international backbone
 
 Site: ftp.linux.org.tr
 Type: Push-Secondary
@@ -1630,7 +1548,6 @@ Country: TR Turkey
 Location: Ankara
 Sponsor: LKD http://www.linux.org.tr/
 Sponsor: Ulakbim http://www.ulak.net.tr/
-Bandwidth: 1Gbps
 
 Site: mirror.positive-internet.com
 Type: Push-Secondary
@@ -1654,7 +1571,6 @@ Country: BR Brazil
 Location: Sao Paulo
 Sponsor: Department of Mathematical Physics http://www.fma.if.usp.br/
 Sponsor: Institute for Physics, University of Sao Paulo http://www.if.usp.br/
-Bandwidth: 1Gbps
 
 Site: ftp.nerim.net
 Type: Push-Secondary
@@ -1664,7 +1580,6 @@ Maintainer: mirrors@nerim.net, ftp@nerim.net
 Country: FR France
 Location: Paris
 Sponsor: Nerim http://www.nerim.net/
-Bandwidth: 100Mbps
 
 Site: ftp.tr.debian.org
 Includes: ftp.linux.org.tr
@@ -1714,17 +1629,6 @@ Archive-http: /debian/
 Archive-rsync: debian/
 Country: IS Iceland
 
-Site: ftp.carnet.hr
-Type: Push-Secondary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-Archive-http: /debian/
-CDImage-architecture: amd64 i386
-CDImage-http: /debian-cd/
-Maintainer: Josip Rodin <ftp-admin@carnet.hr>
-Country: HR Croatia
-Location: Zagreb
-Sponsor: Croatian Academic and Research Network http://www.carnet.hr/
-
 Site: ftp.u-picardie.fr
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
@@ -1770,7 +1674,6 @@ Maintainer: Nerijus Kislauskas <ftpadmin@litnet.lt>
 Country: LT Lithuania
 Location: http://ftp.litnet.lt
 Sponsor: Lithuanian Academical and Research Network (LitNET) http://www.litnet.lt
-Bandwidth: 100Mbps
 
 Site: dennou-k.gfd-dennou.org
 Alias: dennou-k.gaia.h.kyoto-u.ac.jp
@@ -1811,15 +1714,6 @@ Maintainer: ftpmaint@oleane.net
 Country: FR France
 Sponsor: Orange Business Services / France Telecom http://www.orange-business.com/
 
-Site: ftp.irb.hr
-Type: leaf
-Archive-architecture: amd64 armhf i386 s390x
-Archive-http: /debian/
-Maintainer: Neven Kmetic and Andelko Horvat <ftpadmin@irb.hr>
-Country: HR Croatia
-Location: Zagreb
-Sponsor: Rudjer Boskovic Institute http://www.irb.hr/
-
 Site: ftp.no.debian.org
 Includes: ftp.uio.no
 Type: Push-Secondary
@@ -1846,7 +1740,6 @@ Country: NO Norway
 Location: Oslo
 Sponsor: USIT, University of Oslo, Norway http://www.usit.uio.no/
 Sponsor: Uninett http://www.uninett.no/
-Bandwidth: 1Gbps interface into the NIX, very good connectivity
 
 Site: ftp.hu.debian.org
 Includes: ftp.fsn.hu
@@ -1876,7 +1769,6 @@ Maintainer: mirror@switch.ch
 Country: CH Switzerland
 Location: Zurich
 Sponsor: SWITCHmirror http://mirror.switch.ch/
-Bandwidth: 10Gbps
 
 Site: ftp.nara.wide.ad.jp
 Alias: ftp.aist-nara.ac.jp
@@ -1886,13 +1778,10 @@ Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
-Maintainer: debian-admin@debian.or.jp, Mio SUZUKI <mio-su@is.aist-nara.ac.jp>
+Maintainer: debian-admin@debian.or.jp, ftp-admin@is.naist.jp
 Country: JP Japan
 Location: Nara
 Sponsor: NARA Institute of Science and Technology http://nara.aist-nara.ac.jp/
-Comment: ftp.nara.wide.ad.jp is reachable via IPv6, ftp.aist-nara.ac.jp is not.
- @is.aist-nara.ac.jp's maintainer address bounces.
-X-Comment: still has debian-amd64
 
 Site: ftp.bg.debian.org
 Includes: debian.spnet.net
@@ -1974,7 +1863,6 @@ Maintainer: Lee Yeosong <mirror@lanet.kr>
 Country: KR Korea, Republic of
 Location: Seoul
 Sponsor: LANET http://www.lanet.kr
-Comment: I supported TLS connection on HTTP, FTP, but TLS connection supports via HTTPS SNI mode. So HTTPS SNI supported client can connect via HTTPS to my service only.
 
 Site: debian.redlibre.cl
 Type: leaf
@@ -1987,7 +1875,7 @@ Location: Santiago - Las Condes
 
 Site: miroir.vbrunet.eu
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -2010,7 +1898,7 @@ Sponsor: UPC Czech Republic s.r.o. https://www.upc.cz/
 
 Site: debmirror.tuxis.nl
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Updates: four
 Maintainer: Tuxis Internet Engineering V.O.F. <packages@tuxis.nl>
@@ -2030,22 +1918,20 @@ Maintainer: Fakrul Alam <mirror@dhakacom.com>
 Country: BD Bangladesh
 Location: Dhaka, Bangladesh
 Sponsor: dhakaCom Limited http://www.dhakacom.com
-Comment: 1GB bandwidth
 
 Site: packages.hs-regensburg.de
 Type: leaf
-Archive-architecture: amd64 
+Archive-architecture: amd64
 Archive-http: /debian/
 Updates: four
 Maintainer: Tom Foerster <tom.foerster@hs-regensburg.de>
 Country: DE Germany
 Location: Regensburg
 Sponsor: Hochschule Regensburg http://www.hs-regensburg.de
-Comment: Bandwidth is limited to 100 MBit/s. 
 
 Site: mirrors.asnet.am
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: once
@@ -2056,7 +1942,7 @@ Sponsor: Academic Scientific Research Computer http://www.asnet.am
 
 Site: mirror.rise.ph
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -2067,11 +1953,11 @@ Sponsor: Rise http://rise.ph
 
 Site: softlibre.unizar.es
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: push
-Maintainer: Oficina de Software Libre de la Universidad de Zaragoza <osluz@unizar.es> Private email admin Alejandro Suarez  <alejandroscf@gmail.com>
+Maintainer: Oficina de Software Libre de la Universidad de Zaragoza <osluz@unizar.es> Private email admin Alejandro Suarez <alejandroscf@gmail.com>
 Country: ES Spain
 Location: Zaragoza
 Sponsor: Universidad de Zaragoza http://unizar.es
@@ -2079,19 +1965,19 @@ Sponsor: Universidad de Zaragoza http://unizar.es
 Site: debian.redparra.com
 Alias: mirrors.redparra.com
 Type: leaf
-Archive-architecture: amd64 armel 
+Archive-architecture: amd64 armel
 Archive-http: /debian/
 Updates: once
 Maintainer: Luis Miguel Parra <administrator@redparra.com>
 Country: ES Spain
 Location: Espana, Madrid
 Sponsor: Redparra Networks http://www.redparra.com
-Comment: Server status: http://status.redparra.com Server bandwidth: 200Mbps
+Comment: Server status: http://status.redparra.com
 
 Site: mirror.sucs.swan.ac.uk
 Alias: mirror.sucs.org
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /pub/linux/debian/
 CDImage-http: /pub/linux/debian-cdimage/
 Updates: four
@@ -2099,11 +1985,10 @@ Maintainer: Imran Hussain <imranh@sucs.org>
 Country: GB United Kingdom
 Location: Swansea University
 Sponsor: Swansea University Computer Society http://sucs.org
-Comment: 1Gbps link.
 
 Site: mirror.applebred.net
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: four
@@ -2124,18 +2009,17 @@ Sponsor: NETIX Ltd. http://netix.net/
 
 Site: mirror.plusserver.com
 Type: leaf
-Archive-architecture:  amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/debian/
 Updates: four
 Maintainer: PlusServer GmbH <mhsys-lists@plusserver.com>
 Country: FR France
 Location: Strasbourg, FR
 Sponsor: PlusServer GmbH http://www.plusserver.com/
-Comment: PlusServer GmbH 2 Gbps public mirror. Located in FR, with direct connection to Frankfurt/Main DE.
 
 Site: debian-mirror.sakura.ne.jp
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: push
@@ -2146,7 +2030,7 @@ Sponsor: Sakura Internet, Inc. http://www.sakura.ad.jp
 
 Site: mirrors.bloomu.edu
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -2156,7 +2040,6 @@ Maintainer: Bloomsburg University <mirroradm@bloomu.edu>
 Country: US United States
 Location: Bloomsburg, Pennsylvania
 Sponsor: Bloomsburg University of Pennsylvania http://www.bloomu.edu
-Comment: Connected to Internet2 and KINBER Member Exchange (KMEX)
 
 Site: debian.mirror.ate.info
 Type: leaf
@@ -2167,7 +2050,6 @@ Maintainer: Support ATE <support@ate.info>
 Country: FR France
 Location: Lille
 Sponsor: ATE http://www.ate.info
-Bandwidth: 1Gbps
 
 Site: mirror.one.com
 Type: leaf
@@ -2183,7 +2065,6 @@ Maintainer: mirror@one.com, Jesper Nyerup <nyerup@one.com>
 Country: DK Denmark
 Location: Copenhagen
 Sponsor: One.com http://www.one.com/
-Bandwidth: 10Gbps
 
 Site: mirror.poliwangi.ac.id
 Type: leaf
@@ -2195,7 +2076,6 @@ Maintainer: Agus Priyo Utomo <banksonk@gmail.com>
 Country: ID Indonesia
 Location: Banyuwangi, East Java
 Sponsor: State Polytechnic of Banyuwangi http://www.poliwangi.ac.id
-Bandwidth: 100Mbps
 
 Site: mirrors.cat.pdx.edu
 Type: leaf
@@ -2208,7 +2088,6 @@ Maintainer: Portland State University <mirror@cat.pdx.edu>
 Country: US United States
 Location: Portland, Oregon, USA
 Sponsor: Portland State University http://cat.pdx.edu
-Bandwidth: 1Gbps
 
 Site: debian.xtdv.net
 Type: leaf
@@ -2219,7 +2098,6 @@ Maintainer: Ta Xuan Truong <truongtx8@xtdv-group.com>
 Country: VN Viet Nam
 Location: Ho Chi Minh city
 Sponsor: XTDV Group http://www.xtdv-group.com
-Bandwidth: 50Mbps
 
 Site: mirror.iway.ch
 Type: leaf
@@ -2235,7 +2113,7 @@ Bandwith: 1Gbps
 
 Site: mirror.liquidtelecom.com
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/debian/
 Archive-rsync: debian/
 CDImage-http: /debian/debian-cd/
@@ -2262,7 +2140,7 @@ Sponsor: RNL - Técnico Lisboa http://www.rnl.tecnico.ulisboa.pt
 Site: mirrors.namecheap.com
 Alias: mirror01.phx.namecheap.com
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: four
@@ -2270,11 +2148,10 @@ Maintainer: Billy Vierra <bvierra@namecheap.com>
 Country: US United States
 Location: Phoenix, AZ, USA
 Sponsor: NameCheap.com http://www.namecheap.com
-Comment: Connection is 1Gbps
 
 Site: mirror.cedia.org.ec
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Updates: four
@@ -2282,11 +2159,10 @@ Maintainer: Ernesto Perez <ernesto.perez@cedia.org.ec>
 Country: EC Ecuador
 Location: Cuenca
 Sponsor: Consorcio Ecuatoriano para el Desarrollo de Internet Avanzada http://www.cedia.org.ec
-Comment: the site maintains only debian-cd
 
 Site: mirror.uta.edu.ec
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 CDImage-http: /debian-cd/
 Updates: four
 Maintainer: Ernesto Perez Estevez <ernesto.perez@cedia.org.ec>
@@ -2296,7 +2172,7 @@ Sponsor: Universidad Tecnica de Ambato http://www.uta.edu.ec
 
 Site: debian.mirror.digitalpacific.com.au
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -2306,11 +2182,10 @@ Maintainer: Matthew Taylor <networking@digitalpacific.com.au>
 Country: AU Australia
 Location: Sydney, Australia
 Sponsor: Digital Pacific http://www.digitalpacific.com.au/
-Comment: Server is on a 1Gbit link in Sydney, Australia.
 
 Site: debian.anexia.at
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -2323,7 +2198,7 @@ Sponsor: ANEXIA Internetdienstleistungs GmbH http://www.anexia.at/
 
 Site: dist1.800hosting.com
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Updates: four
 Maintainer: Cashan Stine <cstine@800hosting.com>
@@ -2333,7 +2208,7 @@ Sponsor: 800hosting, Inc. http://www.800hosting.com
 
 Site: mirrors-usa.go-parts.com
 Type: leaf
-Archive-architecture:  amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: mirror/debian/
 Updates: twice
@@ -2344,19 +2219,19 @@ Sponsor: Go-Parts http://www.go-parts.com
 
 Site: pubmirrors.dal.corespace.com
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Updates: four
-Maintainer: Ryan Coplen  <mirrors@corespace.com>
+Maintainer: Ryan Coplen <mirrors@corespace.com>
 Country: US United States
-Location: Dallas, TX 
-Sponsor: Corespace  http://corespace.com
+Location: Dallas, TX
+Sponsor: Corespace http://corespace.com
 
 Site: debian.saix.net
 Alias: ftp.saix.net
 Alias: www.ftp.saix.net
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /
 CDImage-http: /debian-cd/
 Updates: 4 times per day
@@ -2364,11 +2239,10 @@ Maintainer: Jaco Lesch <ftp@saix.net>
 Country: ZA South Africa
 Location: Cape Town
 Sponsor: Telkom SA SOC Ltd http://www.telkom.co.za
-Comment: Max bandwidth 1Gig
 
 Site: mirror.iranserver.com
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -2380,7 +2254,7 @@ Sponsor: Iranserver http://iranserver.com
 Site: debian.uberglobalmirror.com
 Alias: debian.mirror.uber.com.au
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -2390,7 +2264,6 @@ Maintainer: Seamus Ryan <mirrors@uber.com.au>
 Country: AU Australia
 Location: Sydney, Australia
 Sponsor: UberGlobal http://www.uber.com.au/
-Comment: moving debian.mirror.uber.com.au to new URL, closes bug #785599
 
 Site: mirror.as24220.net
 Alias: mirror.hostcentral.net.au
@@ -2405,7 +2278,6 @@ Maintainer: David Hill <mirrors@as24220.net>
 Country: AU Australia
 Location: Melbourne, Australia
 Sponsor: Hostcentral http://www.hostcentral.net.au/
-Bandwidth: 1Gbps
 
 Site: buaya.klas.or.id
 Type: leaf
@@ -2419,8 +2291,6 @@ Maintainer: Mahyuddin Susanto <ftpmaster@buaya.klas.or.id>
 Country: ID Indonesia
 Location: Surabaya, East Java, Indonesia
 Sponsor: PT Rahajasa Media Internet (RADNET) http://www.rad.net.id
-Bandwidth: 1Gbps
-Comment: 100Mbps international
 
 Site: debian.lagoon.nc
 Alias: mirror.lagoon.nc
@@ -2443,11 +2313,10 @@ Maintainer: LCHost Support <support@lchost.co.uk>
 Country: GB United Kingdom
 Location: London, UK
 Sponsor: LCHost http://www.lchost.co.uk
-Bandwidth: 1Gbps
 
 Site: mirrors.ocf.berkeley.edu
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -2457,7 +2326,6 @@ Maintainer: Jason Perrin <jvperrin@ocf.berkeley.edu>
 Country: US United States
 Location: Berkeley, California
 Sponsor: Open Computing Facility http://ocf.berkeley.edu/
-Bandwidth: 1Gbps
 
 Site: mirror.rackcentral.com.au
 Type: leaf
@@ -2508,7 +2376,6 @@ Updates: four
 Maintainer: Steve Noorderbroek <debian@telsatbb.vu>
 Country: VU Vanuatu
 Sponsor: Telsat Broadband Ltd. http://www.telsatbb.vu
-Bandwidth: 100Mbps
 Restricted-to: country
 
 Site: debian.univ-tlse2.fr
@@ -2520,11 +2387,10 @@ Maintainer: Julien CABESSUT <cabessut@univ-tlse2.fr>
 Country: FR France
 Location: Toulouse, Midi-Pyrénées
 Sponsor: Universite Toulouse 2 Le Mirail http://www.univ-tlse2.fr
-Bandwidth: 100Mbps
 
 Site: debian.mirror.lrz.de
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: push
@@ -2532,9 +2398,7 @@ Maintainer: LRZ Debian Admins <debian-admin@lists.lrz.de>
 Country: DE Germany
 Location: Garching near Munich, Germany
 Sponsor: Leibniz Supercomputing Centre http://www.lrz.de
-Comment: (2015) 20 Gbps bandwidth. Compared to the last submission we have: dropped FTP and added RSYNC
- Switched from restricted archs to all archs and switched from ftp.uni-kl.de to syncproxy.eu.debian.org
- Push from syncproxy is pending (Bug #788566), at the moment we're checking freshness once per hour
+Comment: [2015] 20 Gbps bandwidth.
 
 Site: ftp.rezopole.net
 Type: leaf
@@ -2545,7 +2409,6 @@ Maintainer: PAGES Vincent <sysadm@rezopole.net>
 Country: FR France
 Location: Lyon
 Sponsor: Rezopole http://www.rezopole.net
-Bandwidth: 100Mbps
 
 Site: mirror.nexcess.net
 Type: leaf
@@ -2568,7 +2431,6 @@ Updates: four
 Maintainer: Philippe Talbot <support@globo.tech>
 Country: CA Canada
 Sponsor: GloboTech Communications http://www.globo.tech/
-Bandwidth: 1Gbps
 
 Site: mirror.crucial.com.au
 Type: leaf
@@ -2581,7 +2443,6 @@ Updates: four
 Maintainer: Crucial Cloud Hosting <mirror@crucial.com.au>
 Country: AU Australia
 Sponsor: Crucial Cloud Hosting http://crucial.com.au
-Bandwidth: 100Mbps
 
 Site: debian.uniminuto.edu
 Type: leaf
@@ -2593,7 +2454,6 @@ Maintainer: Jonathan Narvaez <jnarvaez@uniminuto.edu>
 Country: CO Colombia
 Location: Bogota
 Sponsor: Corporación Universitaria Minuto de Dios http://www.uniminuto.edu
-Bandwidth: 50Mbps
 
 Site: debian.mirror.uk.sargasso.net
 Type: leaf
@@ -2603,7 +2463,6 @@ Updates: push
 Maintainer: David Croft <support@sargasso.net>
 Country: GB United Kingdom
 Sponsor: Sargasso Networks http://www.sargasso.co.uk/from/debian
-Bandwidth: 1Gbps
 
 Site: mirror.mythic-beasts.com
 Type: leaf
@@ -2614,7 +2473,6 @@ Maintainer: Richard Smith <support@mythic-beasts.com>
 Country: GB United Kingdom
 Location: London UK
 Sponsor: Mythic Beasts Ltd http://www.mythic-beasts.com/
-Bandwidth: 1Gbps
 
 Site: deb.vanvps.com
 Type: leaf
@@ -2625,7 +2483,6 @@ Maintainer: Nate Elkan <support@vanvps.com>
 Country: CA Canada
 Location: Vancouver BC, Canada
 Sponsor: vanVPS Hosting http://vanvps.com
-Bandwidth: 1Gbps
 
 Site: mirror.easyspeedy.com
 Type: leaf
@@ -2639,7 +2496,6 @@ Maintainer: EasySpeedy <mirror@easyspeedy.com>
 Country: DK Denmark
 Location: Copenhagen, Denmark
 Sponsor: EasySpeedy http://easyspeedy.com/
-Bandwidth: 1Gbps
 
 Site: debian.insacom.cl
 Type: leaf
@@ -2651,7 +2507,6 @@ Maintainer: Sandro Rossi <srossi@insacom.cl>
 Country: CL Chile
 Location: Valparaíso
 Sponsor: Insacom http://www.insacom.cl
-Bandwidth: 100Mbps
 
 Site: debianmirror.nkn.in
 Type: leaf
@@ -2662,7 +2517,6 @@ Maintainer: S.Gopinath <s.gopinath@nic.in>
 Country: IN India
 Location: Chennai,INDIA
 Sponsor: National Knowledge Network http://www.nkn.in/
-Bandwidth: 1Gbps
 
 Site: debian.mirror.neology.co.za
 Type: leaf
@@ -2674,7 +2528,6 @@ Maintainer: Wesley Channon / Paul Diedericks <support@multisource.co.za>
 Country: ZA South Africa
 Location: Midrand, Gauteng
 Sponsor: Neology http://neology.co.za
-Bandwidth: 100Mbps
 
 Site: mirror.picosecond.org
 Type: leaf
@@ -2685,7 +2538,6 @@ Maintainer: Picosecond Software Mirror Admins <mirror-support@picosecond.org>
 Country: US United States
 Location: Fremont, CA
 Sponsor: Picosecond Software http://www.picosecond.org/
-Bandwidth: 100Mbps
 
 Site: debian.mirror.constant.com
 Type: leaf
@@ -2696,7 +2548,6 @@ Maintainer: Brian Rak <mirrors@constant.com>
 Country: US United States
 Location: Piscataway, New Jersey
 Sponsor: Constant.com http://www.constant.com
-Bandwidth: 1Gbps
 
 Site: kartolo.sby.datautama.net.id
 Type: leaf
@@ -2710,8 +2561,6 @@ Maintainer: mirrors-admin <mirrors-admin@sby.datautama.net.id>
 Country: ID Indonesia
 Location: Surabaya, East Java, Indonesia
 Sponsor: DATAUTAMA-NET-ID http://datautama.net.id/
-Bandwitdh: 100Mbps
-Comment: 100Mbps global, 1Gbps IIX-JI (Indonesia Internet Exchange - Jawa Timur), 1Gbps ODIX (Omadata Internet Exchange)
 
 Site: mirrors.advancedhosters.com
 Type: leaf
@@ -2727,7 +2576,6 @@ Maintainer: Igor Butsan <mirror-admins@advancedhosters.com>
 Country: US United States
 Location: Ashburn, VA
 Sponsor: AdvancedHosters http://www.advancedhosters.com
-Bandwidth: 2Gbps
 
 Site: debian.xfree.com.ar
 Type: leaf
@@ -2737,7 +2585,6 @@ Maintainer: John Knoll <mirror@xfree.com.ar>
 Country: AR Argentina
 Location: Argentina
 Sponsor: John Knoll http://www.xfree.com.ar
-Bandwidth: 100Mbps
 
 Site: debian.serverspace.co.uk
 Type: leaf
@@ -2749,7 +2596,6 @@ Maintainer: Chris Lewis <deb-repo@serverspace.co.uk>
 Country: GB United Kingdom
 Location: London, UK
 Sponsor: ServerSpace http://www.serverspace.co.uk
-Bandwidth: 100Mbps
 
 Site: mirror.vorboss.net
 Type: leaf
@@ -2761,7 +2607,6 @@ Maintainer: Bill Brigden <noc@vorboss.net>
 Country: GB United Kingdom
 Location: London
 Sponsor: Vorboss Limited http://www.vorboss.com
-Bandwidth: 500Mbps
 
 Site: debian.grena.ge
 Type: leaf
@@ -2773,7 +2618,6 @@ Maintainer: Nugzar Gamtsemlidze <debian@grena.ge>
 Country: GE Georgia
 Location: Tbilisi
 Sponsor: Georgian Research and Educational Networking Association http://grena.ge
-Bandwidth: 100Mbps
 
 Site: debian.mirror.ac.ke
 Type: leaf
@@ -2784,7 +2628,6 @@ Maintainer: mirror@kenet.or.ke, Ronald Osure <rosure@kenet.or.ke>
 Country: KE Kenya
 Location: JKML Bldg, University of Nairobi
 Sponsor: KENET - (Kenya Education Network) http://www.kenet.or.ke
-Bandwidth: 100Mbps
 
 Site: mirror.1000mbps.com
 Type: leaf
@@ -2798,7 +2641,6 @@ Maintainer: 1000Mbps.com <mirroradmin@baseip.com>
 Country: NL Netherlands
 Location: Amsterdam, Base IP
 Sponsor: 1000Mbps.com http://www.1000mbps.com/
-Bandwidth: 10Gbps
 
 Site: mirror.cogentco.com
 Type: leaf
@@ -2812,7 +2654,6 @@ Maintainer: Brad Belanger <mirror-admin@cogentco.com>
 Country: US United States
 Location: Herndon, VA
 Sponsor: Cogent Communications http://www.cogentco.com/
-Bandwidth: 1Gbps
 
 Site: mirrors.dcarsat.com.ar
 Type: leaf
@@ -2823,7 +2664,6 @@ Maintainer: Ezequiel Mc Govern <mirrors@dcarsat.com.ar>
 Country: AR Argentina
 Location: Benavidez
 Sponsor: ARSAT http://www.arsat.com.ar
-Bandwidth: 60Mbps
 
 Site: mirrors.liquidweb.com
 Type: leaf
@@ -2835,7 +2675,6 @@ Maintainer: Mirror Admin <mirror-admin@liquidweb.com>
 Country: US United States
 Location: Lansing, Michigan
 Sponsor: LiquidWeb http://www.liquidweb.com
-Bandwidth: 1Gbps
 
 Site: mirrors.syringanetworks.net
 Type: leaf
@@ -2849,7 +2688,6 @@ Maintainer: Derek Denk <mirrors@syringanetworks.net>
 Country: US United States
 Location: Boise, Idaho, United States
 Sponsor: Syringa Networks http://www.syringanetworks.net
-Bandwidth: 1Gbps
 
 Site: mirror.i3d.net
 Type: leaf
@@ -2865,7 +2703,6 @@ Maintainer: www.i3d.net <info@i3d.net>
 Country: NL Netherlands
 Location: Rotterdam
 Sponsor: i3D.net (INTERACTIVE 3D) http://www.i3d.net/
-Bandwidth: 10Gbps
 
 Site: debian.mirror.iphh.net
 Type: leaf
@@ -2876,7 +2713,6 @@ Maintainer: IPHH Mirror-Team <debian-mirror@iphh.net>
 Country: DE Germany
 Location: Hamburg
 Sponsor: IPHH http://www.iphh.net
-Bandwidth: 1Gbps
 
 Site: mirror.pmf.kg.ac.rs
 Type: leaf
@@ -2887,8 +2723,6 @@ Maintainer: mirror.pmf@gmail.com
 Country: RS Serbia
 Location: Kragujevac
 Sponsor: Faculty of Science http://imi.pmf.kg.ac.rs/
-Bandwidth: 100Mbps
-X-Comment: missing sources
 
 Site: merlin.fit.vutbr.cz
 Type: leaf
@@ -2911,7 +2745,6 @@ Maintainer: Levent YILDIRIM <noc@doratelekom.com.tr>
 Country: TR Turkey
 Location: Istanbul
 Sponsor: Dora Telekom http://www.doratelekom.com.tr/
-Bandwidth: 300Mbps
 
 Site: mirrors.gigenet.com
 Type: leaf
@@ -2923,7 +2756,6 @@ Maintainer: Jeremy May <mirrors@gigenet.com>
 Country: US United States
 Location: Arlington Heights, Il
 Sponsor: GigeNet http://www.gigenet.com
-Bandwidth: 1Gbps
 
 Site: ftp.crifo.org
 Type: leaf
@@ -2932,7 +2764,6 @@ Updates: once
 Maintainer: Julien Crifo <mirror@crifo.org>
 Country: FR France
 Location: Paris
-Bandwidth: 90Mbps
 
 Site: mirror.crazynetwork.it
 Type: leaf
@@ -2942,11 +2773,10 @@ Maintainer: Andrea Iannucci <support@crazynetwork.it>
 Country: IT Italy
 Location: Roma, Lazio
 Sponsor: Crazy Network http://www.crazynetwork.it
-Bandwidth: 100Mbps
 
 Site: debian.mirror.netelligent.ca
 Type: leaf
-Archive-architecture:  amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Archive-rsync: debian/
 X-CDImage-http: /debian-cd/
@@ -2956,7 +2786,6 @@ Maintainer: Paulius G <paulius@netelligent.ca>, support@netelligent.ca
 Country: CA Canada
 Location: Montreal, Canada
 Sponsor: Netelligent http://www.netelligent.ca/
-Bandwidth: 100Mbps
 
 Site: mirror.us.leaseweb.net
 Type: leaf
@@ -2970,7 +2799,6 @@ Maintainer: Jeffrey Kriegsman <mirror@leaseweb.com>
 Country: US United States
 Location: Manassas, Virginia
 Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
-Bandwidth: 4Gbps
 
 Site: debian.cabletel.com.mk
 Type: leaf
@@ -2982,7 +2810,6 @@ Maintainer: Free Software Macedonia <info@slobodensoftver.org.mk>
 Country: MK Macedonia, Republic of
 Location: Skopje
 Sponsor: CableTel Macedonia http://cabletel.com.mk
-Bandwidth: 1Gbps
 
 Site: debian.ec.as6453.net
 Type: leaf
@@ -2991,7 +2818,6 @@ Archive-http: /debian/
 Updates: twice
 Maintainer: Alex <debian-m@as6453.net>
 Country: US United States
-Bandwidth: 1Gbps
 
 Site: mirrors.tecnoera.com
 Type: leaf
@@ -3002,7 +2828,6 @@ Maintainer: Juan Pablo Abuyeres <jpabuyer@tecnoera.com>, mirrors@tecnoera.com
 Country: CL Chile
 Location: VINA DEL MAR
 Sponsor: TECNOERA http://www.tecnoera.com/
-Bandwidth: 1Gbps
 
 Site: ftp.tsukuba.wide.ad.jp
 Type: leaf
@@ -3013,8 +2838,6 @@ Updates: twice
 Maintainer: Kohei Takahashi <tsukuba-ftp-servers@tsukuba.wide.ad.jp>
 Country: JP Japan
 Location: Tsukuba
-Comment: Update frequency: 4 times a day
-Bandwidth: 1Gbps
 
 Site: mirror.pregi.net
 Type: leaf
@@ -3026,7 +2849,6 @@ Updates: twice
 Maintainer: PREGINET-OPS <rod@asti.dost.gov.ph>
 Country: PH Philippines
 Sponsor: PREGINET http://www.pregi.net/
-Bandwidth: 100Mbps
 
 Site: mirrors.accretive-networks.net
 Type: leaf
@@ -3040,7 +2862,6 @@ Maintainer: Mirror Support <debmirror@accretive-networks.net>
 Country: US United States
 Location: Seattle, WA
 Sponsor: Accretive Networks http://accretivetg.com/
-Bandwidth: 1Gbps
 
 Site: mirror.datacenter.by
 Type: leaf
@@ -3052,7 +2873,6 @@ CDImage-rsync: debian-cd/
 Updates: push
 Maintainer: Mitry Matyushkov <ftp@mgts.by>
 Country: BY Belarus
-Bandwidth: 2Gbps
 
 Site: mirrors.rackhosting.com
 Type: leaf
@@ -3066,8 +2886,6 @@ Maintainer: support@rackhosting.com
 Country: DK Denmark
 Location: Taastrup, Denmark
 Sponsor: Rackhosting.com http://rackhosting.com/
-Bandwidth: 1Gbps
-Comment: support@rackhosting.com
 
 Site: debian.unal.edu.co
 Type: leaf
@@ -3079,7 +2897,6 @@ Maintainer: Ernesto Parra <mirrors_fcbog@unal.edu.co>
 Country: CO Colombia
 Location: National University of Colombia
 Sponsor: Departament of Chemistry, Computer Center http://www.unal.edu.co/
-Bandwidth: 300Mbps
 
 Site: mirror.unitedcolo.de
 Type: leaf
@@ -3091,7 +2908,6 @@ Maintainer: Nils Buechner <n.buechner@unitedcolo.de>
 Country: DE Germany
 Location: Coburg, Germany
 Sponsor: UNITED COLO GmbH http://www.ngz-server.de
-Bandwidth: 2Gbps
 
 Site: debian.securedservers.com
 Alias: mirrors.securedservers.com
@@ -3102,7 +2918,6 @@ Maintainer: Secured Servers NOC Services Engineering <support@securedservers.com
 Country: US United States
 Location: Tempe, AZ
 Sponsor: Secured Servers, LLC http://www.securedservers.com/
-Bandwidth: 80Mbps
 
 Site: debian.gnu.gen.tr
 Alias: windu.bcc.bilkent.edu.tr
@@ -3115,7 +2930,6 @@ Maintainer: Yavuz Selim Komur <komur@gnu.gen.tr>
 Country: TR Turkey
 Location: Bilkent University
 Sponsor: Bilkent University http://www.bilkent.edu.tr
-Bandwidth: 100Mbps
 
 Site: debian.bononia.it
 Type: leaf
@@ -3126,7 +2940,6 @@ Maintainer: Ftp Admin <ftpadmin@bononia.it>
 Country: IT Italy
 Location: Bologna, Emilia Romagna
 Sponsor: Associazione Bononia.it http://www.bononia.it/
-Bandwidth: 8Mbps
 
 Site: mirror.yellowfiber.net
 Type: leaf
@@ -3135,7 +2948,6 @@ Archive-http: /debian/
 CDImage-http: /debian-cd/
 Maintainer: Ross <lists@skafari.com>, support@yellowfiber.net
 Country: US United States
-Bandwidth: 1Gbps
 
 Site: debian.usu.edu
 Alias: mirror.usu.edu
@@ -3148,7 +2960,6 @@ Maintainer: Eldon Koyle <mirrors@usu.edu>
 Country: US United States
 Location: Logan, UT
 Sponsor: Utah State University http://www.usu.edu
-Comment: Gig-connected to I2.
 
 Site: mirrors.modwest.com
 Type: leaf
@@ -3159,7 +2970,6 @@ Maintainer: Thomas Connell <info@modwest.com>
 Country: US United States
 Location: Missoula, Montana
 Sponsor: Modwest http://modwest.com
-Bandwidth: 100Mbps
 
 Site: debian.mirror.root.lu
 Type: leaf
@@ -3172,7 +2982,6 @@ Maintainer: root S.A. <info@root.lu>
 Country: LU Luxembourg
 Location: Steinsel
 Sponsor: root S.A. http://www.root.lu/
-Bandwidth: 1Gbps
 
 Site: mirror.cse.iitk.ac.in
 Type: leaf
@@ -3183,7 +2992,6 @@ Maintainer: Lab TA Team <debian@cse.iitk.ac.in>
 Country: IN India
 Location: IIT Kanpur, Kanpur -208016, India
 Sponsor: CSE Department, IIT Kanpur http://www.cse.iitk.ac.in/
-Bandwidth: 1Gbps
 
 Site: mirror.intrapower.net.au
 Alias: mirror1.intrapower.net.au
@@ -3196,7 +3004,6 @@ Updates: once
 Maintainer: James Paussa <mirror@intrapower.net.au>
 Country: AU Australia
 Sponsor: IntraPower http://www.intrapower.com.au/
-Bandwidth: 200Mbps
 
 Site: mirrors.ucr.ac.cr
 Alias: espejos.ucr.ac.cr
@@ -3221,8 +3028,6 @@ Updates: push
 Maintainer: Boian Bonev <bbonev@ipacct.com>
 Country: BG Bulgaria
 Location: Sofia, Bulgaria
-Comment: bandwidth limited
-Bandwidth: 1Gbps in Bulgaria
 
 Site: mirror.neolabs.kz
 Type: leaf
@@ -3233,8 +3038,6 @@ Maintainer: Alexander Uskov <support@neolabs.kz>
 Country: KZ Kazakhstan
 Location: Almaty
 Sponsor: Neolabs LLP http://neolabs.kz/
-Comment: 300Mbps to Kazakhstan, 100Mbps to world
-Bandwidth: 300Mbps
 
 Site: debian.mirror.cambrium.nl
 Type: leaf
@@ -3250,7 +3053,6 @@ Maintainer: Cambrium Mirrors <mirrors@cambrium.nl>
 Country: NL Netherlands
 Location: Amsterdam
 Sponsor: Cambrium http://www.cambrium.nl/
-Bandwidth: 1Gbps
 
 Site: debian.superhosting.cz
 Type: leaf
@@ -3260,7 +3062,6 @@ CDImage-http: /debian-cd/
 Updates: twice
 Maintainer: Ondrej Zuffa <linux@superhosting.cz>
 Country: CZ Czech Republic
-Bandwidth: 100Mbps
 
 Site: mirror.sov.uk.goscomb.net
 Type: leaf
@@ -3272,8 +3073,6 @@ Maintainer: Goscomb Technologies Limited <mirrors@goscomb.net>
 Country: GB United Kingdom
 Location: London, E14
 Sponsor: Goscomb Technologies Limited http://www.goscomb.net
-Comment: Site is on a 1Gbps port (currently limited to 200Mbps) in one of our core PoPs close to peering exchanges.
-Bandwidth: 200Mbps
 
 Site: ftp.debian.chuvsu.ru
 Alias: debian.chuvsu.ru
@@ -3285,7 +3084,6 @@ Updates: once
 Maintainer: Aleksander Kozhin <debian@chuvsu.ru>
 Country: RU Russian Federation
 Location: Chuvash State University. Cheboksary.
-Comments: 4Mbps to RUNNet, 100Mbps connection to the regional networks in Cheboksary and Chuvash Republic
 
 Site: ftp.seclan.com
 Type: leaf
@@ -3296,7 +3094,6 @@ Updates: once
 Maintainer: Mikko Husari <ftp-admin@seclan.com>
 Country: FI Finland
 Sponsor: Seclan http://www.seclan.com/
-Bandwidth: 100Mbps
 
 Site: debian.ignum.cz
 Alias: ucho.ignum.cz
@@ -3311,7 +3108,6 @@ Maintainer: Tomas Hlavacek <tomas.hlavacek@ignum.cz>
 Country: CZ Czech Republic
 Location: Prague, Czech Republic
 Sponsor: Ignum, s.r.o. http://www.ignum.cz/
-Comment: max 1Gbps, min 100Mbps. Connected to NIX.CZ and DE-CIX
 
 Site: ftp.metu.edu.tr
 Type: leaf
@@ -3323,7 +3119,6 @@ Maintainer: METU Computer Center <ccnet@metu.edu.tr>
 Country: TR Turkey
 Location: Ankara - TURKEY
 Sponsor: Middle East Technical University http://www.metu.edu.tr/
-Bandwidth: 300Mbps. Connected to GEANT
 
 Site: repository.linux.pf
 Type: leaf
@@ -3336,7 +3131,6 @@ Country: PF French Polynesia
 Location: Polynésie française
 Sponsor: LoLiTa http://www.lolita.pf/
 Sponsor: Mana (local ISP) http://www.mana.pf/
-Bandwidth: 100Mbps
 
 Site: debian.cs.binghamton.edu
 Type: leaf
@@ -3348,7 +3142,6 @@ Maintainer: Steaphan Greene <stea@cs.binghamton.edu>
 Country: US United States
 Location: Binghamton, New York, USA
 Sponsor: Binghamton University Computer Science Department http://www.cs.binghamton.edu/
-Bandwidth: 350Mbps
 
 Site: debian.snet.uz
 Type: leaf
@@ -3359,7 +3152,6 @@ Maintainer: Alexander Abgaryan <support@sarkor.uz>
 Country: UZ Uzbekistan
 Location: Tashkent, Uzbekistan
 Sponsor: Sarkor Telecom http://www.sarkor.com
-Bandwidth: 100Mbps in Uzbekistan (TAS-IX)
 
 Site: ftp.cvut.cz
 Alias: ftp.fs.cvut.cz
@@ -3368,10 +3160,10 @@ Archive-architecture: amd64 armhf i386 ia64 kfreebsd-amd64 kfreebsd-i386 s390x
 Archive-http: /debian/
 Updates: twice
 Maintainer: NetOps <net@fsid.cvut.cz>
+Comment: [2017-02] Maintainer address bounces
 Country: CZ Czech Republic
 Location: Prague
 Sponsor: Czech Technical University http://www.cvut.cz/
-Bandwidth: 1Gbps to academic backbone
 
 Site: ftp.antik.sk
 Alias: debian.antik.sk
@@ -3388,7 +3180,6 @@ Maintainer: Matus Zilla <ftp@antik.sk>
 Country: SK Slovakia
 Location: Kosice
 Sponsor: Antik Computer & Communications http://www.antik.sk
-Bandwidth: 1Gbps
 
 Site: debian.revolsys.fr
 Type: leaf
@@ -3399,7 +3190,6 @@ Maintainer: Jean-Bernard Yata <debian-mnt@revolsys.fr>
 Country: FR France
 Location: Strasbourg
 Sponsor: RevolSyS Interactive http://www.revolsys.fr/
-Bandwidth: 100Mbps
 
 Site: ftp.utexas.edu
 Alias: ftp.the.net
@@ -3413,7 +3203,6 @@ Updates: once
 Maintainer: UTnet <mirrors@argus.gw.utexas.edu>
 Country: US United States
 Sponsor: The University of Texas at Austin http://www.utexas.edu
-Bandwidth: 10Mbps access for external users, 1Gbps access for UT users
 
 Site: debian.univ-reims.fr
 Type: leaf
@@ -3424,7 +3213,6 @@ Maintainer: Didier Barthe <didier.barthe@univ-reims.fr>
 Country: FR France
 Location: Reims
 Sponsor: Universite Reims Champagne-Ardenne http://www.univ-reims.fr/
-Bandwidth: 70Mbps
 
 Site: mirror.mirohost.net
 Alias: deb.mirohost.net
@@ -3437,7 +3225,6 @@ Maintainer: Sydoruk Yaroslav <mirror@mirohost.net>
 Country: UA Ukraine
 Location: Ukraine, Kyiv
 Sponsor: mirohost.net http://mirohost.net
-Bandwidth: 100Mbps to Ukraine, 5Mbps other countries
 
 Site: mirror.rit.edu
 Type: leaf
@@ -3451,8 +3238,6 @@ Maintainer: Lee Burton <lburton@mrow.org>
 Country: US United States
 Location: Rochester, NY
 Sponsor: Rochester Institute of Technology, RITLUG http://www.ritlug.org
-Comment: connected to the academic backbone and will soon be on ipv6/I2.
-Bandwidth: 200Mbps
 
 Site: piotrkosoft.net
 Alias: ftp.man.oswiecim.pl
@@ -3476,7 +3261,6 @@ CDImage-http: /debian-cd/
 Maintainer: gato@linux.ues.edu.sv
 Country: SV El Salvador
 Sponsor: Universidad de El Salvador http://www.ues.edu.sv/
-X-Comment: ftp requires login ; spaillar 6 Jan 2009
 
 Site: mirror.steadfast.net
 Type: leaf
@@ -3487,8 +3271,6 @@ Maintainer: Kevin Stange <mirror@steadfast.net>
 Country: US United States
 Location: Chicago, IL
 Sponsor: Steadfast Networks http://steadfast.net/
-Comment: Uncapped connection for local users, ~60Mbps for public use.
-Bandwidth: 60Mbps
 
 Site: mirror.csclub.uwaterloo.ca
 Type: leaf
@@ -3499,8 +3281,6 @@ Maintainer: David Bartley <syscom@csclub.uwaterloo.ca>
 Country: CA Canada
 Location: Waterloo, Ontario
 Sponsor: University of Waterloo Computer Science Club http://csclub.uwaterloo.ca/
-Comment: 1Gbps over CA*Net/Internet2, 300Mbps otherwise
-Bandwidth: 300Mbps
 
 Site: debian.grn.cat
 Alias: ftp.grn.es
@@ -3512,7 +3292,6 @@ Updates: twice
 Maintainer: GRN <info@grn.cat>, admin@grn.es, Joan Juvanteny <admin@grn.cat>
 Country: ES Spain
 Sponsor: GRN Serveis Telematics S.L. http://www.grn.cat/
-Bandwidth: 100Mbps
 
 Site: mirror.overthewire.com.au
 Type: leaf
@@ -3523,7 +3302,6 @@ Updates: four
 Maintainer: noc@overthewire.com.au
 Country: AU Australia
 Sponsor: Over The Wire http://www.overthewire.com.au
-Bandwidth: 1Gbps
 
 Site: ftp.plusline.de
 Type: leaf
@@ -3534,7 +3312,6 @@ Maintainer: Robert Klima and Martin Knipper <ftp-admin@plusline.de>
 Country: DE Germany
 Location: Frankfurt am Main
 Sponsor: Plus.line AG http://www.plusline.de/
-Bandwidth: 100Mbps at the DE-CIX-II
 
 Site: ftp.man.poznan.pl
 Type: leaf
@@ -3545,7 +3322,6 @@ Country: PL Poland
 Location: Poznan
 Sponsor: Poznan Supercomputing and Networking Center http://www.psnc.pl/
 Updates: four
-Bandwidth: 1Gbps
 
 Site: ftp.univ-pau.fr
 Type: leaf
@@ -3585,8 +3361,6 @@ Maintainer: Wei-li Tang <ftpadm@ncnu.edu.tw>
 Country: TW Taiwan
 Location: Puli, Nantou
 Sponsor: National Chi Nan University http://www.ncnu.edu.tw/
-Comment: Machine: Pentium III 1133MHz, 2GB RAM, 4TB RAID.
-Bandwidth: 100Mbps
 
 Site: mirror.units.it
 Type: leaf
@@ -3596,7 +3370,6 @@ Maintainer: CSIA <rete@units.it>
 Country: IT Italy
 Location: Trieste
 Sponsor: University of Trieste http://www.units.it/
-Bandwidth: 100Mbps
 
 Site: mirrors.acm.jhu.edu
 Alias: astrolabe.acm.jhu.edu
@@ -3607,7 +3380,6 @@ Maintainer: admins@acm.jhu.edu
 Country: US United States
 Location: Baltimore, MD
 Sponsor: Johns Hopkins University ACM http://www.acm.jhu.edu/
-Comment: fast for Internet2, JHU or JHMI users
 
 Site: debian-iso.mirror.anlx.net
 Type: leaf
@@ -3617,7 +3389,6 @@ Maintainer: mirror@anlx.net
 Country: GB United Kingdom
 Location: Telehouse East, London
 Sponsor: Associated Networks Ltd http://www.anlx.net/
-Bandwidth: 100Mbps
 
 Site: mirror.cse.unsw.edu.au
 Type: leaf
@@ -3637,7 +3408,6 @@ Maintainer: Kapetanakis Giannis <mirror@cc.uoc.gr>
 Country: GR Greece
 Location: Crete / Heraklion
 Sponsor: University of Crete / Computer Center http://www.cc.uoc.gr
-Bandwidth: 1Gbps
 
 
 Site: mirror.isoc.org.il
@@ -3648,7 +3418,6 @@ Maintainer: Lior Kaplan <mirrormaster@isoc.org.il>
 Country: IL Israel
 Sponsor: ISOC-IL http://www.isoc.org.il
 Updates: twice
-Bandwidth: 4Mbps
 
 Site: mirror.yandex.ru
 Alias: ftp.yandex.ru
@@ -3663,7 +3432,6 @@ Country: RU Russian Federation
 Location: Moscow
 Sponsor: Yandex http://www.yandex.ru
 Updates: twice
-Bandwidth: 1Gbps
 
 Site: mirrors.fe.up.pt
 Type: leaf
@@ -3681,7 +3449,6 @@ Maintainer: mirrors@fe.up.pt
 Country: PT Portugal
 Location: Porto
 Sponsor: FEUP - University of Porto http://www.fe.up.pt
-Bandwidth: 1Gbps
 
 Site: ftp.debianclub.org
 Type: leaf
@@ -3702,7 +3469,6 @@ Maintainer: Boldizsar Bencsath <boldi@mail2007.crysys.hu>
 Country: HU Hungary
 Location: Budapest
 Sponsor: Laboratory of Cryptography and Systems Security (CrySyS), BME http://www.crysys.hu/
-Bandwidth: 100Mbps bandwidth, connected to the GEANT network.
 
 Site: ftp.udc.es
 Type: leaf
@@ -3712,8 +3478,6 @@ Maintainer: Andres J. Diaz Lopez <softwarelibre@udc.es>
 Country: ES Spain
 Location: A Coru&ntilde;a, Spain
 Sponsor: Free Software Office, University of A Coru&ntilde;a http://softwarelibre.udc.es
-Comment: 2TB disk space, 2GB RAM.
-Bandwidth: 2Gbps
 
 Site: ftp.iitm.ac.in
 Type: leaf
@@ -3736,7 +3500,6 @@ Maintainer: Dmitry Sherman <dmitry@conft.org>, archive@debian.co.il, admin@inter
 Country: IL Israel
 Location: Rishon Leziyon
 Sponsor: Interhost http://www.interhost.co.il/
-Bandwidth: 100Mbps
 
 Site: debian.charite.de
 Type: leaf
@@ -3758,7 +3521,6 @@ Maintainer: Patrick Holahan <mirroradmin@tenet.ac.za>
 Country: ZA South Africa
 Location: Johannesburg
 Updates: once
-Bandwidth: 10Gpbs
 Sponsor: TENET - Tertiary Education and Research Networks http://www.tenet.ac.za
 
 Site: debian.mirror.web4u.cz
@@ -3778,7 +3540,6 @@ Maintainer: Web4U administrators <mirror@web4u.cz>
 Country: CZ Czech Republic
 Location: Prague
 Sponsor: Web4U http://www.web4u.cz/
-Bandwidth: 1Gbps
 
 Site: debian.telecoms.bg
 Type: leaf
@@ -3797,7 +3558,6 @@ Maintainer: Roberto Bosticardo <staff@fastbull.org>
 Country: IT Italy
 Location: Torino
 Sponsor: top-ix http://www.top-ix.org/
-Bandwidth: 1Gbps
 
 Site: debian.mirror.frontiernet.net
 Type: leaf
@@ -3809,7 +3569,6 @@ Country: US United States
 Location: Rochester, NY
 Sponsor: FrontierNet http://www.frontiernet.net/
 Updates: once
-Comment: OC-12+ bandwidth.
 
 Site: debian.netcologne.de
 Type: leaf
@@ -3831,7 +3590,6 @@ Country: DE Germany
 Location: Hamburg
 Sponsor: Artfiels New Media GmbH http://www.artfiles.de
 Updates: once
-Bandwidth: 100Mbps
 
 Site: debian.intergenia.de
 Alias: debian.server4you.de
@@ -3846,7 +3604,6 @@ Country: DE Germany
 Location: 2x D?sseldorf/DE, 2x Frankfurt am Main/DE (loadbalanced)
 Sponsor: intergenia Webhosting AG http://www.intergenia.de
 Updates: every four hours (?)
-Bandwidth: 1Gbps
 
 Site: debian.pop-sc.rnp.br
 Alias: mirror.pop-sc.rnp.br
@@ -3881,7 +3638,6 @@ Country: DE Germany
 Location: Cologne
 Sponsor: Host Europe GmbH http://www.hosteurope.de/
 Updates: every six hours
-Bandwidth: 900Mbps
 
 Site: ftp.ccc.uba.ar
 Type: leaf
@@ -3901,7 +3657,6 @@ Maintainer: Chris Kuehn and Daniel Lewart <cites-cosmos@illinois.edu>
 Country: US United States
 Location: Urbana, IL
 Sponsor: University of Illinois CITES http://cosmos.cites.illinois.edu/
-Bandwidth: 100Mbps
 
 Site: mirrors.telianet.dk
 Alias: mirrors.dk.telia.net
@@ -3913,7 +3668,6 @@ Country: DK Denmark
 Location: Glostrup, Copenhagen
 Sponsor: Telia Networks http://telia.dk
 Updates: twice
-Bandwidth: 100Mbps
 
 Site: webb.ens-cachan.fr
 Alias: debian.ens-cachan.fr
@@ -3950,7 +3704,6 @@ Maintainer: Eberhard M&ouml;nkeberg <emoenke@gwdg.de>
 Country: DE Germany
 Location: G&ouml;ttingen
 Sponsor: GWDG http://www.gwdg.de/
-Bandwidth: 622Mbps
 
 Site: ftp.th.debian.org
 Alias: ftp.coe.psu.ac.th
@@ -3965,8 +3718,6 @@ Maintainer: CoE Sysadmin Team <sysadmin@coe.psu.ac.th>, Chatchai Jantaraprim <cj
 Country: TH Thailand
 Location: Songkhla, Thailand
 Sponsor: Computer Engineering Department, Prince of Songkla University, Thailand http://www.coe.psu.ac.th
-Bandwidth: 100Mbps
-Comments: 100Mbps via UniNet
 
 Site: ftp.riken.jp
 Alias: ftp.riken.go.jp
@@ -3993,7 +3744,6 @@ Maintainer: Romain Kubany <tech@ikoula.com>, mirrors@ikoula.com
 Country: FR France
 Location: Reims
 Sponsor: Ikoula http://www.ikoula.com/
-Bandwidth: 1Gbps
 
 Site: ftp.uni-bayreuth.de
 Alias: btr0x2.rz.uni-bayreuth.de
@@ -4006,7 +3756,6 @@ Country: DE Germany
 Location: Bayreuth
 Sponsor: University of Bayreuth http://www.uni-bayreuth.de/
 Comment: Rsync is on rsync.uni-bayreuth.de (aka btr0xq.rz.uni-bayreuth.de).
-Bandwidth: 1Gbps
 
 Site: rsync.uni-bayreuth.de
 Alias: btr0qx.rz.uni-bayreuth.de
@@ -4055,8 +3804,6 @@ Maintainer: mirrors@corbina.net
 Country: RU Russian Federation
 Location: Moscow
 Sponsor: Corbina telecom http://www.corbina.ru/
-Country: RU Russian Federation
-Sponsor: Corbina Telecom http://home.corbina.ru/
 
 Site: opensource.nchc.org.tw
 Alias: os.nchc.org.tw
@@ -4086,11 +3833,10 @@ Maintainer: Martin Östlund <martin.ostlund@availo.se>
 Country: SE Sweden
 Location: Stockholm
 Sponsor: Availo Networks AB http://www.availo.se/
-Comment: distributed across several servers with gigabit cards
 
 Site: debian.inode.at
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -4100,7 +3846,6 @@ Maintainer: mirror@inode.at Team <mirror@inode.at>
 Country: AT Austria
 Location: Vienna
 Sponsor: UPC http://www.upc.at
-Comment: Updated per bug #808726
 
 Site: ftp.cica.es
 Type: leaf
@@ -4116,7 +3861,7 @@ Sponsor: Centro Informatico Cientifico de Andaluca (CICA) http://www.cica.es/
 
 Site: ftp.caliu.cat
 Type: leaf
-Archive-architecture: amd64 armel i386 kfreebsd-amd64 kfreebsd-i386 
+Archive-architecture: amd64 armel i386 kfreebsd-amd64 kfreebsd-i386
 Archive-http: /debian/
 X-CDImage-http: /debian-cd/
 Maintainer: Francesc Genov&eacute; Mu&ntilde;oz <francesc@genove.info>
@@ -4145,7 +3890,6 @@ Maintainer: Kevin Martin <mirrors@pair.net>
 Country: US United States
 Location: Pittsburgh, PA
 Sponsor: pair Networks, Inc http://www.pair.com/
-Comment: on multiple OC-12c and OC-3c
 
 Site: mirror.ox.ac.uk
 Type: leaf
@@ -4156,8 +3900,6 @@ Maintainer: Oxford University Computing Services <sysdev@oucs.ox.ac.uk>, Stephen
 Country: GB United Kingdom
 Location: Oxford
 Sponsor: Oxford University Computing Services http://www.oucs.ox.ac.uk/
-Comment: Two servers
-Bandwidth: 1Gbps
 
 Site: ftp.crihan.fr
 Type: leaf
@@ -4179,9 +3921,6 @@ Country: GB United Kingdom
 Location: London
 Sponsor: earth.li http://www.earth.li/
 Sponsor: RapidSwitch Ltd http://www.rapidswitch.com/
-Comment: Machine has 400Mb/s to the outside world, though
- only has a 100Mb/s ethernet card.
-Bandwidth: 100Mbps
 
 Site: ftp.bme.hu
 Type: leaf
@@ -4193,7 +3932,6 @@ Maintainer: Imre Simon <ftp@bme.hu>
 Country: HU Hungary
 Location: Budapest, Hungary
 Sponsor: Budapest University of Technology and Economics http://www.bme.hu/
-Bandwidth: 2Gbps
 
 Site: debian.fastweb.it
 Type: leaf
@@ -4205,7 +3943,7 @@ Maintainer: Guglielmo Bondioni <bond@linux.it>
 Country: IT Italy
 Location: Milano
 Sponsor: FastWeb S.p.A. http://www.fastweb.it/
-Comment: Full bandwidth (100Mbps) only available for FastWeb customers. Maintainer address bounces.
+Comment: Maintainer address bounces.
 X-Comment: outdated ISO ; spaillar 2007/04/07
 
 Site: mi.mirror.garr.it
@@ -4267,7 +4005,6 @@ Maintainer: Artis Steinbergs <artis@steinbergs.lv>
 Country: LV Latvia
 Location: Riga
 Sponsor: Riga Technical University http://www.rtu.lv/
-Comment: 1Gbps to Latvia, 1,25Gb/s via GEANT
 
 Site: debian.mirrors.ovh.net
 Type: leaf
@@ -4277,7 +4014,6 @@ Maintainer: Felix Krohn <mirror@ovh.net>
 Country: FR France
 Location: Roubaix, France
 Sponsor: OVH http://www.ovh.com/welcome/
-Bandwidth: 2Gbps
 
 Site: debian.bhs.mirrors.ovh.net
 Type: leaf
@@ -4289,7 +4025,6 @@ Maintainer: Felix Krohn <mirror@ovh.net>
 Country: CA Canada
 Location: Beauharnois, Montreal, Canada
 Sponsor: OVH.COM http://www.ovh.com/ca/en/
-Bandwidth: 1Gbps
 
 
 Site: debian.csie.ntu.edu.tw
@@ -4319,7 +4054,6 @@ Maintainer: Wolfram Wagner <ftpadmin@mpi-sb.mpg.de>
 Country: DE Germany
 Location: Saarbr&uuml;cken
 Sponsor: Max-Planck-Institut f&uuml;r Informatik http://www.mpi-sb.mpg.de/
-Bandwidth: 34Mbps uplink to DFN
 
 Site: ftp.zcu.cz
 Type: leaf
@@ -4341,7 +4075,6 @@ Maintainer: Maarten van der Ster <mvdster@proserve.nl>, Edwin van Vliet <evvliet
 Country: NL Netherlands
 Location: Alblasserdam, Netherlands
 Sponsor: Proserve http://www.proserve.nl
-Bandwidth: 2Gbps
 
 Site: ftp.iinet.net.au
 Type: leaf
@@ -4361,9 +4094,7 @@ Maintainer: Evaldas Darcianovas <evaldas@balt.net>, Baltnetos Komunikacijos <hos
 Country: LT Lithuania
 Location: Vilnius
 Sponsor: JSC Baltnetos Komunikacijos http://www.balt.net/
-Bandwidth: 1Gbps
 Updates: four
-Comment: will add some more architectures on demand
 
 Site: ftp.funet.fi
 Type: leaf
@@ -4435,7 +4166,6 @@ Maintainer: Y. Augustin <ftpmaster@easynet.fr>
 Country: FR France
 Location: Paris
 Sponsor: Easynet http://www.easynet.fr/
-Bandwidth: 100Mbps
 
 Site: download.xs4all.nl
 Type: leaf
@@ -4445,7 +4175,6 @@ Maintainer: unixbeheer@xs4all.nl
 Country: NL Netherlands
 Location: Amsterdam
 Sponsor: XS4ALL/KPN http://www.xs4all.nl/
-Bandwidth: 1Gbps
 
 Site: ftp.ticklers.org
 Alias: rib.ticklers.org
@@ -4459,7 +4188,6 @@ Old-rsync: archive.debian.org/
 Maintainer: Alister Winfield <alister@ticklers.org>, debian-mirror@ticklers.org
 Country: GB United Kingdom
 Location: London
-Bandwidth: 100Mbps
 
 Site: mirror.unesp.br
 Alias: download.unesp.br
@@ -4525,7 +4253,6 @@ Maintainer: Adrian Reber <adrian@hs-esslingen.de>, Adrian Reber <adrian@lisas.de
 Country: DE Germany
 Location: Esslingen, Germany
 Sponsor: Computing Center, University of Applied Sciences Esslingen http://www.hs-esslingen.de/
-Bandwidth: 2Gbps
 
 Site: ftp.sh.cvut.cz
 Alias: debian.sh.cvut.cz
@@ -4536,7 +4263,7 @@ Maintainer: ftp@lists.sh.cvut.cz
 Country: CZ Czech Republic
 Location: Prague
 Sponsor: Silicon Hill, Czech Technical University Prague http://www.sh.cvut.cz/
-Comment: Native IPv6.4 10G connection to CESNET2 academic network. Our server is run within a students club Silicon Hill (http://www.siliconhill.cz)
+Comment: run within a students club Silicon Hill (http://www.siliconhill.cz)
 
 Site: ftp.informatik.rwth-aachen.de
 Alias: sunsite.informatik.rwth-aachen.de
@@ -4573,7 +4300,7 @@ Site: debian.otenet.gr
 Type: leaf
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
 Archive-http: /debian/
-Maintainer: Costas Tavernarakis <taver@otenet.gr>
+Maintainer: mirror-info@otenet.gr
 Country: GR Greece
 Location: Athens
 Sponsor: OTEnet http://www.otenet.gr/
@@ -4644,7 +4371,7 @@ Archive-http: /linux/debian/
 Maintainer: Unix Workstation Support Group <uwsg@indiana.edu>
 Country: US United States
 Location: Bloomington, Indiana
-Comment: maintiner address bounces
+Comment: maintainer address bounces
 Sponsor: Unix Workstation Support Group at Indiana University http://www.uwsg.indiana.edu/
 
 Site: ftp.kfki.hu
@@ -4724,7 +4451,6 @@ Maintainer: Sebastian Podjasek <admin@inhost.pro>
 Country: PL Poland
 Location: PL, 39200 Debica
 Sponsor: inhosting.pro http://inhosting.pro/
-Bandwidth: 1Gbps
 
 Site: ftp.iut-bm.univ-fcomte.fr
 Alias: debian.iut-bm.univ-fcomte.fr
@@ -4748,7 +4474,6 @@ Archive-rsync: debian/
 Maintainer: Patrick Menager <cinfo@polytech-lille.fr>
 Country: FR France
 Location: Villeneuve d'ascq, université de Lille1
-Bandwidth: 100Mbps (RENATER)
 Sponsor: Polytech'Lille http://www.polytech-lille.fr/
 
 Site: ftp.ru.debian.org
@@ -4762,7 +4487,7 @@ Country: RU Russian Federation
 Site: freedom.dicea.unifi.it
 Type: leaf
 Archive-architecture: amd64 i386
-Archive-http: /ftp/pub/linux/debian/
+Archive-http: /debian/
 Maintainer: Leonardo Boselli <leo@dicea.unifi.it>
 Country: IT Italy
 Location: Firenze
@@ -4853,7 +4578,7 @@ Site: ftp.is.co.za
 Type: leaf
 Archive-http: /debian/
 Archive-rsync: /debian/
-Archive-architecture:  amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
 CDImage-http: /debian-cd/
 CDImage-rsync: /debian-cd/
 Maintainer: IS FTP Admin <ftpadmin@is.co.za>
@@ -4861,7 +4586,7 @@ Country: ZA South Africa
 
 Site: pkg.adfinis-sygroup.ch
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Updates: four
 Maintainer: Adfinis SyGroup AG <pkg@adfinis-sygroup.ch>
@@ -4872,17 +4597,16 @@ Sponsor: Adfinis SyGroup AG http://adfinis-sygroup.ch
 
 Site: mirrors.noction.com
 Type: leaf
-Archive-architecture:  amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/debian/
 CDImage-http: /debian/debian-cd/
 Updates: four
 Maintainer: Noction Mirrors Service <mirrors@noction.com>
 Country: NL Netherlands
-Comment: 1Gbps Connection
 
 Site: mirror.t-home.mk
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Old-http: /debian-archive/
@@ -4894,7 +4618,7 @@ Sponsor: Makedonski Telekom http://www.t-home.mk/
 
 Site: mirror.satellite-service.ru
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Updates: four
 Maintainer: Maksim Sobyanin <max@satellite-service.ru>
@@ -4904,7 +4628,7 @@ Location: Berezniki, Perm region
 
 Site: ftp.uni-mainz.de
 Type: leaf
-Archive-architecture:  amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Updates: four
 Maintainer: Christoph Martin <martin@uni-mainz.de>
@@ -4915,18 +4639,17 @@ Sponsor: Johannes Gutenberg University Mainz, ZDV http://www.zdv.uni-mainz.de
 
 Site: mirror.usertrust.info
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
 Maintainer: Matthew Weeks <scriptjunkie@scriptjunkie.us>
 Country: US United States
 Comment: We (Matthew Weeks and Jonathan Ketchum) are long time users of Debian and would like to help the project out by hosting a mirror.
- Our maximum bandwidth is 100Mbps.
 
 Site: mirror.akl.tmnetwork.co.nz
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: four
@@ -4937,7 +4660,7 @@ Sponsor: Trade Me Limited http://www.trademe.co.nz/
 
 Site: mirror.sax.uk.as61049.net
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Archive-rsync: /debian/
 Updates: four
@@ -4948,7 +4671,7 @@ Sponsor: Exascale https://www.exascale.co.uk
 
 Site: mirror.wlg.tmnetwork.co.nz
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: four
@@ -4959,7 +4682,7 @@ Sponsor: Trade Me Limited http://www.trademe.co.nz/
 
 Site: mirror.math.princeton.edu
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /pub/debian/
 Archive-rsync: pub/debian/
 CDImage-http: /pub/debian-cd/
@@ -4969,11 +4692,10 @@ Old-rsync: pub/debian-archive/
 Updates: four
 Maintainer: Benjamin Rose <compudoc@math.princeton.edu>
 Country: US United States
-Comment: 10-gig to university core. Availability on I2 and ESNET.
 
 Site: mirror.cs.uwm.edu
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -4984,18 +4706,17 @@ Country: US United States
 
 Site: mirror.ueb.edu.ec
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 CDImage-http: /debian-cd/
 Updates: four
 Maintainer: Ernesto Perez <mirror@cedia.org.ec>
 Country: EC Ecuador
 Location: Guaranda, Bolivar, Ecuador
 Sponsor: Universidad Estatal de Bolivar http://www.ueb.edu.ec
-Comment: Also connected to I2
 
 Site: debian.redimadrid.es
 Type: leaf
-Archive-architecture:  amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Updates: four
 Maintainer: REDIMadrid NOC <noc@redimadrid.es>
@@ -5024,7 +4745,7 @@ Sponsor: Evowise http://www.evowise.com
 
 Site: mirrors.apu.edu.my
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -5035,7 +4756,7 @@ Sponsor: Asia Pacific University of Technology and Innovation http://www.apu.edu
 
 Site: debian.parspack.com
 Type: leaf
-Archive-architecture: amd64 arm64 hurd-i386 i386 
+Archive-architecture: amd64 arm64 hurd-i386 i386
 Archive-http: /debian/
 Updates: once
 Maintainer: parspack.com <info@parspack.com>
@@ -5045,7 +4766,7 @@ Location: Iran,Tehran
 Site: repo.cure.edu.uy
 Alias: repositorio.cure.edu.uy
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel 
+Archive-architecture: amd64 arm64 armel armhf i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel
 Archive-http: /debian/
 Updates: four
 Maintainer: Pablo Garcia <pgarcia@cure.edu.uy>
@@ -5053,18 +4774,17 @@ Country: UY Uruguay
 
 Site: debian.mirror.net-d-sign.de
 Type: leaf
-Archive-architecture: amd64 i386 kfreebsd-amd64 kfreebsd-i386 
+Archive-architecture: amd64 i386 kfreebsd-amd64 kfreebsd-i386
 Archive-http: /debian/
 Updates: four
 Maintainer: Joerg Schumann <mirrors@net-d-sign.de>
 Country: DE Germany
 Location: Munich, Bavaria
 Sponsor: Net-D-Sign GmbH https://www.net-d-sign.de
-Comment: Bandwidth 1G
 
 Site: mirror.daniel-jost.net
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Updates: four
@@ -5074,7 +4794,7 @@ Sponsor: Daniel Jost - Freelance Web Professional http://www.daniel-jost.de
 
 Site: debian.mirror.linux.ro
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /
 Updates: four
 Maintainer: Daniel Petre <ftpadmin@linux.ro>
@@ -5086,7 +4806,7 @@ Site: ftp.piotrkosoft.net
 Alias: heather.piotrkosoft.net
 Alias: ftp.man.oswiecim.pl
 Type: leaf
-Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc 
+Archive-architecture: amd64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mipsel powerpc s390x sparc
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -5096,11 +4816,11 @@ Maintainer: Piotr Maluty <piotr@maluty.pl> <piotr.maluty@gmail.com>
 Country: PL Poland
 Location: Oswiecim, Malopolskie
 Sponsor: Piotrkosoft.net - Data Storage Center http://piotrkosoft.net
-Comment: Name of site sponsor: Piotr Maluty  URL of site sponsor: www.maluty.pl
+Sponsor: Piotr Maluty - http://www.maluty.pl/
 
 Site: mirror.atomki.mta.hu
 Type: leaf
-Archive-architecture: amd64 arm64 i386 
+Archive-architecture: amd64 arm64 i386
 Archive-http: /debian/
 Updates: four
 Maintainer: Attila Debreczeni <debreczeni.attila@atomki.mta.hu>
@@ -5110,18 +4830,17 @@ Sponsor: MTA Atomki http://atomki.mta.hu/
 
 Site: mirrors.wikimedia.org
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Updates: four
 Maintainer: Faidon Liambotis <noc@wikimedia.org>
 Country: US United States
 Location: Ashburn, VA, USA
 Sponsor: Wikimedia Foundation https://wikimediafoundation.org/
-Comment: Newly procured dedicated mirror box. Currently mirroring Debian, Ubuntu and Tails; ~8-9TB of disk space still free. Lots of RAM, HW RAID, 10Gbps NIC, connected on the multi-10G Wikimedia backbone with no restrictions. Operated by the Wikimedia operations team, with 4 DDs among it (Faidon Liambotis, Filippo Giunchendi, Moritz Mühlenhoff, Emanuele Rocca). Public stats.
- 
+
 Site: mirror.dataone.nl
 Type: leaf
-Archive-architecture:  amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Archive-rsync: debian/
 Updates: four
@@ -5129,11 +4848,10 @@ Maintainer: Mykola Mitrokhin <mirror@dataone.nl>
 Country: NL Netherlands
 Location: Wormer, Netherlands
 Sponsor: Dataone Datacenters http://www.dataone.nl/
-Comment: ipv4 and ipv6 supported  4000 mbit bandwidth capacity located in own datacenter
 
 Site: debian.uvigo.es
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -5145,7 +4863,7 @@ Sponsor: Universidade de Vigo http://uvigo.gal
 Site: mirrors.xjtu.edu.cn
 Alias: mirrors.tiaozhan.com
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -5155,7 +4873,7 @@ Location: Xi'an, ShaanXi
 
 Site: pubmirror.plutex.de
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 Updates: four
 Maintainer: Fabian Mueller <fmu@plutex.de>
@@ -5166,15 +4884,13 @@ Sponsor: PLUTEX GmbH https://plutex.de
 Site: ftp.upcnet.ro
 Alias: ftp.astral.ro
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Updates: push
 Maintainer: Imre Gergely <webmaster@upcbiz.ro>
 Country: RO Romania
 Location: Cluj-Napoca
 Sponsor: UPC Romania http://upc.ro
-Comment: Bandwidth: 1000mbps
-
 
 Site: mirrors.pidginhost.com
 Type: leaf
@@ -5201,7 +4917,7 @@ Sponsor: Intergrid https://intergrid.com.au
 
 Site: mirror.sjc02.svwh.net
 Type: leaf
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x 
+Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
 Archive-http: /debian/
 Archive-rsync: debian/
 CDImage-http: /debian-cd/
@@ -5214,7 +4930,7 @@ Sponsor: Silicon Valley Web Hosting LLC http://svwh.net
 
 Site: mirror.upb.edu.co
 Type: leaf
-Archive-architecture: amd64 i386 
+Archive-architecture: amd64 i386
 Archive-http: /debian/
 CDImage-http: /debian-cd/
 Updates: four
@@ -5231,7 +4947,6 @@ Updates: four
 Maintainer: Simon Frerichs <sf@lwlcom.com>, noc@lwlcom.com
 Country: DE Germany
 Location: Bremen, Germany
-Comment: 10Gbit/s Uplink
 
 Site: ftp.harukasan.org
 Aliases: iori.harukasan.org
@@ -5286,7 +5001,6 @@ Maintainer: support@m247.com
 Country: GB United Kingdom
 Location: Manchester, UK
 Sponsor: M247 Ltd http://www.m247.com/
-Comment: 1Gb Port
 
 Site: mirror.23media.de
 Type: leaf
@@ -5310,7 +5024,6 @@ Maintainer: Simon Jalandt <s.jalandt@checkdomain.de>
 Country: DE Germany
 Location: near Regnsburg, Bavaria
 Sponsor: Checkdomain GmbH https://www.checkdomain.de
-Comment: Connection: 1Gbps
 
 Site: ftp.uni-hannover.de
 Aliases: ftp.luis.uni-hannover.de
@@ -5352,3 +5065,14 @@ Maintainer: admin@ftp.ne.jp
 Country: JP Japan
 Location: Saitama
 Sponsor: KDDI Research, Inc. http://www.kddi-research.jp/english
+
+Site: mirrors.glesys.net
+Type: leaf
+Archive-architecture: ALL amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
+Archive-http: /debian/
+Archive-rsync: debian/
+Updates: four
+Maintainer: Abdulaziz AlAhmad <support@glesys.se>
+Country: SE Sweden
+Location: Falkenberg
+Sponsor: GleSYS Internet Services AB http://glesys.se/
