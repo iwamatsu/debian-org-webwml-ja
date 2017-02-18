@@ -19,7 +19,7 @@ Country: GR Greece
 
 Site: archive.debian.org
 Type: RoundRobinDNS
-Includes: archive-klecker.debian.org archive-glinka.debian.org archive-sibelius.debian.org
+Includes: archive-klecker.debian.org archive-gretchaninov.debian.org archive-sibelius.debian.org
 Old-http: /debian-archive/
 Old-rsync: debian-archive/
 
@@ -154,7 +154,7 @@ Sponsor: Oregon State University http://www.net.oregonstate.edu/
 Comment: only for other mirrors
 
 
-Site: archive-glinka.debian.org
+Site: archive-gretchaninov.debian.org
 Type: Push-Primary
 Old-http: /debian-archive/
 Country: CA Canada
@@ -237,6 +237,7 @@ Maintainer: Adam Lackorzynski <adam@os.inf.tu-dresden.de>, ftpadm@inf.tu-dresden
 Country: DE Germany
 Location: Dresden
 Sponsor: Technical University of Dresden, Dept. of Computer Science http://www.inf.tu-dresden.de/
+Comment: offers ssh triggers for downstream mirrors, contact maintainer for setup - see https://www.debian.org/mirror/push_mirroring
 
 Site: ftp.pl.debian.org
 Includes: ftp.task.gda.pl
@@ -450,6 +451,7 @@ Country: NL Netherlands
 Location: Enschede
 Sponsor: Studenten Net Twente http://www.snt.utwente.nl/
 Sponsor: University of Twente http://www.utwente.nl/
+Comment: offers ssh triggers for downstream mirrors, contact maintainer for setup - see https://www.debian.org/mirror/push_mirroring
 
 Site: ftp.gr.debian.org
 Includes: debian.noc.ntua.gr
@@ -488,6 +490,7 @@ Maintainer: support@osuosl.org
 Country: US United States
 Location: Corvallis, Oregon
 Sponsor: OSU Open Source Lab http://www.osuosl.org/
+Comment: offers ssh triggers for downstream mirrors, contact maintainer for setup - see https://www.debian.org/mirror/push_mirroring
 
 Site: ftp-osl.osuosl.org
 Type: Push-Primary
@@ -631,6 +634,7 @@ Maintainer: mirror@phys.ethz.ch
 Country: CH Switzerland
 Location: Zurich, Hoenggerberg
 Sponsor: ETHZ, Department of Physics http://www.phys.ethz.ch/
+Comment: offers ssh triggers for downstream mirrors, contact maintainer for setup - see https://www.debian.org/mirror/push_mirroring
 
 Site: ftp.es.debian.org
 Includes: ulises.hostalia.com
@@ -863,13 +867,6 @@ Country: US United States
 Location: East Lansing, Michigan
 Sponsor: Computer Science and Engineering at Michigan State University http://www.cse.msu.edu
 
-Site: opensource.exmeritus.com
-Type: Push-Primary
-Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
-Ports-http: /mirror/debian-ports/
-Ports-rsync: debian-ports/
-Country: US United States
-
 Site: debian.asis.io
 Type: Push_Primary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
@@ -1059,16 +1056,6 @@ Maintainer: Keith Erekson <keith.erekson@gmail.com>, hostmaster@lehigh.edu
 Country: US United States
 Location: Bethlehem, Pennsylvania
 Sponsor: Lehigh University http://www.lehigh.edu/
-
-Site: mirror.buildd.net
-Type: Push-Secondary
-Ports-architecture: alpha arm64 hppa m68k powerpcspe ppc64 sh4 sparc64 x32
-Ports-http: /debian-ports/
-Ports-rsync: debian-ports/
-Location: Nuernberg
-Maintainer: Ingo Juergensmann <ij@buildd.net>
-Sponsor: Ingo Juergensmann http://www.buildd.net/
-Country: DE Germany
 
 Site: ftp.lt.debian.org
 Includes: debian.mirror.vu.lt
@@ -1361,20 +1348,6 @@ Country: JP Japan
 Sponsor: OYU-NET.JP http://www.oyu-net.jp/
 Comment: One of the cdn.debian.or.jp backends. Please access via cdn.debian.or.jp.
 
-Site: ftp2.debian.org.ua
-Type: Push-Secondary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-Archive-http: /debian/
-Archive-rsync: debian/
-Archive-method: push
-CDImage-http: /debian-cd/
-CDImage-rsync: debian-cd/
-Updates: push
-Maintainer: Oleg Milaenko <team@debian.org.ua>, omnix@debian.org.ua
-Country: UA Ukraine
-Location: Kiev
-Sponsor: ColoCALL http://www.colocall.net/
-
 Site: ftp.be.debian.org
 Includes: mirror.as35701.net
 Type: Push-Secondary
@@ -1497,6 +1470,7 @@ Country: UA Ukraine
 
 Site: debian.org.ua
 Alias: lumpy.3logic.net
+Alias: ftp2.debian.org.ua
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
 Archive-http: /debian/
@@ -1509,7 +1483,7 @@ Old-rsync: debian-archive/
 Updates: push
 Maintainer: Oleg Milaenko <omnix@debian.org.ua>, team@debian.org.ua
 Country: UA Ukraine
-Location: Kiev, UA
+Location: Kiev
 Sponsor: MHost http://mhost.kiev.ua/
 
 Site: ftp.ie.debian.org
@@ -1815,6 +1789,7 @@ Maintainer: Rhonda D'Vine <rhonda@deb.at>
 Country: AT Austria
 Location: Vienna
 Sponsor: Silver Server http://www.sil.at/
+Comment: offers ssh triggers for downstream mirrors, contact maintainer for setup - see https://www.debian.org/mirror/push_mirroring
 
 Site: ftp.dk.debian.org
 Includes: mirrors.dotsrc.org
@@ -2058,17 +2033,6 @@ Maintainer: mirror@one.com, Jesper Nyerup <nyerup@one.com>
 Country: DK Denmark
 Location: Copenhagen
 Sponsor: One.com http://www.one.com/
-
-Site: mirror.poliwangi.ac.id
-Type: leaf
-Archive-architecture: amd64 armel armhf i386
-Archive-http: /debian/
-CDImage-http: /debian-cd/
-Updates: four
-Maintainer: Agus Priyo Utomo <banksonk@gmail.com>
-Country: ID Indonesia
-Location: Banyuwangi, East Java
-Sponsor: State Polytechnic of Banyuwangi http://www.poliwangi.ac.id
 
 Site: mirrors.cat.pdx.edu
 Type: leaf
@@ -2777,7 +2741,8 @@ Country: US United States
 Location: Manassas, Virginia
 Sponsor: LeaseWeb B.V. http://www.leaseweb.com/
 
-Site: debian.cabletel.com.mk
+Site: debian.blizoo.mk
+Alias: debian.cabletel.com.mk
 Type: leaf
 Archive-architecture: amd64 armhf i386 kfreebsd-amd64 kfreebsd-i386 s390x
 Archive-http: /debian/
@@ -3641,16 +3606,16 @@ Country: JP Japan
 Location: Ishikawa
 Sponsor: Japan Advanced Institute of Science and Technology http://www.jaist.ac.jp/
 
-Site: ftp5.gwdg.de
+Site: ftp.gwdg.de
 Type: leaf
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
 Archive-http: /pub/linux/debian/debian/
 Archive-rsync: pub/linux/debian/debian/
 CDImage-http: /pub/linux/debian/debian-cd/
 CDImage-rsync: pub/linux/debian/debian-cd/
-Maintainer: Eberhard M&ouml;nkeberg <emoenke@gwdg.de>
+Maintainer: ftpadmin@gwdg.de
 Country: DE Germany
-Location: G&ouml;ttingen
+Location: Göttingen
 Sponsor: GWDG http://www.gwdg.de/
 
 Site: ftp.th.debian.org
@@ -4761,6 +4726,7 @@ Maintainer: Faidon Liambotis <noc@wikimedia.org>
 Country: US United States
 Location: Ashburn, VA, USA
 Sponsor: Wikimedia Foundation https://wikimediafoundation.org/
+Comment: offers ssh triggers for downstream mirrors, contact maintainer for setup - see https://www.debian.org/mirror/push_mirroring
 
 Site: mirror.dataone.nl
 Type: leaf
