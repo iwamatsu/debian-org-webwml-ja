@@ -1003,17 +1003,6 @@ Country: GB United Kingdom
 Location: Manchester
 Sponsor: Melbourne Server Hosting Ltd. http://www.melbourne.co.uk/
 
-Site: ftp.ec-m.fr
-Alias: ftp.centrale-marseille.fr
-Type: Push-Secondary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
-Archive-http: /debian/
-Updates: twice
-Maintainer: geoffroy desvernay <debianmirror@ec-m.fr>
-Country: FR France
-Location: Marseille
-Sponsor: Centrale Marseille http://www.centrale-marseille.fr/
-
 Site: mirror.bytemark.co.uk
 Type: Push-Secondary
 Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 ia64 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390 s390x sparc
@@ -1824,14 +1813,17 @@ Country: IT Italy
 
 Site: ftp.lanet.kr
 Type: Push-Secondary
-Archive-architecture: amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
+Archive-architecture: Archive-architecture: ALL amd64 arm64 armel armhf hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 mips mips64el mipsel powerpc ppc64el s390x
+Archive-http: /debian/
+Archive-rsync: debian/
 CDImage-http: /debian-cd/
 CDImage-rsync: debian-cd/
 Updates: push
-Maintainer: Lee Yeosong <mirror@lanet.kr>
+Maintainer: Yeosong Lee <mirror@lanet.kr>
 Country: KR Korea, Republic of
 Location: Seoul
 Sponsor: LANET http://www.lanet.kr
+X-Comment: checks the updates on the upstream server two times an hour and synchronizes when an update is detected
 
 Site: debian.redlibre.cl
 Type: leaf
