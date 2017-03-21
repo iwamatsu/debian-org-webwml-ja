@@ -1,13 +1,13 @@
 <define-tag pagetitle>Debian Project mourns the loss of Adrian von Bidder</define-tag>
 <define-tag release_date>2011-04-23</define-tag>
 #use wml::debian::news
-# $Id: 20110423.wml,v 1.4 2014/04/30 09:21:59 pabs Exp $
+# $Id: 20110423.wml,v 1.5 2017/03/21 03:12:25 pabs Exp $
 
 <p>The Debian Project has lost an active member of its community. Adrian
 von Bidder (cmot) died on April 17th.</p>
 
 <p>Adrian was one of the founding members and current secretary of <a
-href="http://debian.ch">debian.ch</a>, he sparked many ideas that made
+href="https://debian.ch">debian.ch</a>, he sparked many ideas that made
 Debian Switzerland be what it is today.  Adrian also actively maintained
 software in the Debian package archive, and represented the project at
 numerous events.  Even to those, who haven't worked with him directly, he

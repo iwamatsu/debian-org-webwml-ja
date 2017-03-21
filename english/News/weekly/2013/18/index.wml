@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-10-14" SUMMARY="Debian Outreach Program for Women matching fund 2013, Bits from the DPL, Debian behind the biggest website in Sweden, automatic removal of packages from testing"
 
-# $Id: index.wml,v 1.5 2014/04/30 07:42:17 pabs Exp $
+# $Id: index.wml,v 1.6 2017/03/21 03:12:27 pabs Exp $
 # $Rev: 5250 $
 # Status: [frozen]
 
@@ -26,7 +26,7 @@ In order to aid this effort, one of Debian's generous sponsors has offered to
 start a matching fund in USD to fund Debian's participation in OPW.
 
 For details, and to give a donation, please see 
-<a href="http://debian.ch/opw2013">our <q>Donate now</q> page</a>.
+<a href="https://debian.ch/opw2013">our <q>Donate now</q> page</a>.
 
 Please do think about getting involved and sharing your ideas with us, to help
 us make OPW an even more useful program for Debian in the future.

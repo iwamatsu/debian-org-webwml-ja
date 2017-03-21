@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2013-10-28" SUMMARY="Bits from the Release Team, s390 removed from the archive in favour of s390x, manpages.debian.net now an official service, Debian increases its popularity on web servers"
 
-# $Id: index.wml,v 1.8 2014/04/30 07:42:17 pabs Exp $
+# $Id: index.wml,v 1.9 2017/03/21 03:12:28 pabs Exp $
 # $Rev: 5281 $
 # Status: [freeze]
 
@@ -94,7 +94,7 @@ The eighth update of the oldstable distribution of Debian (codename <q>Squeeze</
 The <a href="$(HOME)/News/2013/18/#opwmatch">Debian Outreach Program for Women
 matching fund 2013</a> will still be running for a bit over two more weeks. For
 details, and to give a donation, please see the
-<a href="http://debian.ch/opw2013/"><q>Donate now</q> page</a>.
+<a href="https://debian.ch/opw2013/"><q>Donate now</q> page</a>.
 </p>
 
 
