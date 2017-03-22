@@ -484,15 +484,15 @@ CZ 56002 &#x10C;esk&aacute; T&#x159;ebov&aacute;" />
 ### the vendor has requested to be listed both in Germany and Czech
 ### Republic as he's located on the border and he sell mostly to Germans
 
-<vendor name="Sascha Schmidt Datentechnik"
-  country="de"
-  URL="http://www.saschaschmidt.de"
-  email="info@saschaschmidt.de"
-  phone="+49 1577 3090158"
-  ship="no"
-  smail="Sascha Schmidt Datentechnik <br />
-  Zollernstraße 5<br />
-  D-72250 Freudenstadt" />
+#<vendor name="Sascha Schmidt Datentechnik"
+#  country="de"
+#  URL="http://www.saschaschmidt.de"
+#  email="info@saschaschmidt.de"
+#  phone="+49 1577 3090158"
+#  ship="no"
+#  smail="Sascha Schmidt Datentechnik <br />
+#  Zollernstraße 5<br />
+#  D-72250 Freudenstadt" />
 
 <vendor name="Sanux.de"
   country="de"
@@ -588,6 +588,13 @@ D-22041 Hamburg" />
 ############################################
 
 <country code="hu" name="<country-name HU>">
+
+<vendor name="CYBINV CONSULTING Kft."
+  country="hu"
+  URL="http://www.professional-it-services.com"
+  email="info@professional-it-services.com"
+  phone="+36 703811680"
+  ship="yes" />
 
 #  <vendor name="ENEXIS Informatics Ltd."
 #  country="hu"
@@ -1298,16 +1305,16 @@ San Jose CA 95131<br />
 #San Jose, CA 95129<br/>
 #<country-name US>" />
 
-<vendor name="Los Alamos Computers"
+<vendor name="LAC Portland"
   country="us"
-  URL="http://www.laclinux.com/"
-  email="sales@laclinux.com"
-  phone="+1 866-865-9498"
-  fax="+1 505-819-5657"
+  URL="https://lacpdx.com/"
+  email="sales@lacpdx.com"
+  phone="+1 971-236-2718"
   ship="yes"
-  smail="Los Alamos Computers<br />
-PO Box 1486<br />
-Los Alamos, NM 87544<br />
+  smail="LAC Portland<br />
+21370 SW Langer Farms Pkwy<br />
+Suite 142 #229<br />
+Sherwood OR 97140<br />
 <country-name US>" />
 
 #<vendor name="Microway, Inc"
