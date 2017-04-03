@@ -2,7 +2,7 @@
 <define-tag moreinfo>
 <p>Jann Horn of Google discovered a time-of-check, time-of-use race
 condition in Samba, a SMB/CIFS file, print, and login server for Unix. A
-malicious client can take advantage of this flaw by exploting a symlink
+malicious client can take advantage of this flaw by exploiting a symlink
 race to access areas of the server file system not exported under a
 share definition.</p>
 
@@ -17,4 +17,4 @@ version 2:4.5.6+dfsg-2.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2017/dsa-3816.data"
-# $Id: dsa-3816.wml,v 1.1 2017/03/23 11:28:57 carnil Exp $
+# $Id: dsa-3816.wml,v 1.2 2017/04/02 13:49:51 carnil Exp $
