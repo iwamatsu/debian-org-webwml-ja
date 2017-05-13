@@ -1,7 +1,7 @@
 #use wml::debian::blend title="Download Live Images"
 #use wml::debian::blends::hamradio
 #use "../navbar.inc"
-# $Id: live.wml,v 1.2 2015/11/02 20:50:35 irl Exp $
+# $Id: live.wml,v 1.3 2017/05/13 08:33:32 jcristau Exp $
 
 <p>The Debian Hamradio Pure Blend produces <b>Live DVD images</b> that can
 be used to try out the Debian Hamradio Pure Blend on a computer without
@@ -23,7 +23,7 @@ not included in Debian Jessie.</p>
 </ul>
 
 <p>For webboot images, checksums and GPG signatures, see the <a
-href="http://cdimage.debian.org/cdimage/blends-live/">full file
+href="https://cdimage.debian.org/cdimage/blends-live/">full file
 listing</a>.</p>
 
 <h2>Debian Hamradio Blend Stretch</h2>
