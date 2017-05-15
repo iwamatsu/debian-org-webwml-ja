@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PAGENAME="2003 Timeline"
-# $Id: timeline.wml,v 1.18 2016/11/30 04:06:15 pabs Exp $
+# $Id: timeline.wml,v 1.19 2017/05/15 04:38:23 pabs Exp $
 
 <p>This special supplement to Debian Weekly News is a review of the
 most important happenings of 2003 in the Debian community.  This is
@@ -317,7 +317,7 @@ about 750&nbsp;kB and the Debian project attended about 40 events.</p>
 <li> Mattias Wadenstein <a
      href="https://lists.debian.org/debian-mirrors-0309/msg00000.html">\
      announced</a> the new <a
-     href="http://cdimage.debian.org/debian-cd/">cdimage.debian.org</a>
+     href="https://cdimage.debian.org/debian-cd/">cdimage.debian.org</a>
      with iso images and an authoritative directory structure.
 
 <li> Martin Michlmayr <a

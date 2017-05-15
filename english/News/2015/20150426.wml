@@ -1,5 +1,5 @@
 # Status: frozen
-# $Id: 20150426.wml,v 1.4 2015/04/30 08:01:36 pabs Exp $
+# $Id: 20150426.wml,v 1.5 2017/05/15 04:38:19 pabs Exp $
 # $Rev$
 
 <define-tag pagetitle>Debian 8 <q>Jessie</q> released</define-tag>
@@ -128,7 +128,7 @@ which support installation of multiple architectures from a single disc.
 Or you can always create bootable USB installation media
 (see the <a href="$(HOME)/releases/jessie/installmanual">Installation Guide</a>
 for more details).  For cloud users Debian also offers 
-<a href="http://cdimage.debian.org/cdimage/openstack/current/">pre-built
+<a href="https://cdimage.debian.org/cdimage/openstack/current/">pre-built
 OpenStack images</a>, ready to use.
 </p>
 

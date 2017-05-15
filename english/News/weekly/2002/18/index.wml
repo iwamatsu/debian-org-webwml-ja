@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2002-05-01" SUMMARY="Events, LILO, ATM, Woody*3, Daily DVDs, Woody CDs, User-Agent, DPL"
-# $Id: index.wml,v 1.24 2014/10/19 04:55:30 pabs Exp $
+# $Id: index.wml,v 1.25 2017/05/15 04:38:22 pabs Exp $
 
 <p>Welcome to this year's eighteenth issue of DWN, the weekly newsletter for
 the Debian community.  It seems a week never goes by without a flamebait
@@ -105,7 +105,7 @@ daily DVD snapshots.</p>
 
 <p><strong>Woody CD Images up for Testing.</strong> Phil Hands <a
 href="https://lists.debian.org/debian-cd-0204/msg00390.html">announced</a> new
-<a href="http://cdimage.debian.org/jigdo-area/">preliminary</a> jigdo files
+<a href="https://cdimage.debian.org/jigdo-area/">preliminary</a> jigdo files
 for Woody CD Images.  Phil said that images for the Alpha and SPARC architectures are currently
 broken, but that should be fixed in time for release.  Please test these images
 and report bugs to the <a href="https://lists.debian.org/debian-cd/">debian-cd list</a>.</p>

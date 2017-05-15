@@ -1,7 +1,7 @@
 <define-tag pagetitle>Debian Project adds Security Support for AMD64</define-tag>
 <define-tag release_date>2005-08-11</define-tag>
 #use wml::debian::news
-# $Id: 20050811.wml,v 1.3 2014/04/30 09:21:55 pabs Exp $
+# $Id: 20050811.wml,v 1.4 2017/05/15 04:38:18 pabs Exp $
 
 <p>The Debian project adds security support for the stable amd64
 distribution.  This port is not yet part of the Debian archive, but it
@@ -49,7 +49,7 @@ things to do follows:</p>
 
 <ul>
 <li><a href="http://security.debian.org/dists/stable/updates/">Security Updates</a>
-<li><a href="http://cdimage.debian.org/cdimage/unofficial/sarge-amd64/">CD and DVD Images</a>
+<li><a href="https://cdimage.debian.org/cdimage/unofficial/sarge-amd64/">CD and DVD Images</a>
 <li><a href="http://amd64.debian.net/debian">AMD64 Packages</a>
 <li><a href="http://amd64.debian.net/README.mirrors.html">AMD64 Mirror List</a>
 <li><a href="http://amd64.debian.net/docs/package_changes.txt">Differences to Debian 3.1</a>

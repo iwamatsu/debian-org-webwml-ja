@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-02-16" SUMMARY="History of the arm64 port, first release candidate of Jessie Debian installer, mirrors changes, Debian LTS, technical committee term limits, Call for projects for Debian GSoC, progress on reproducible builds, bug squashing parties, Mumbai Mini-DebConf, and the 2048 bit key removal"
 
-# $Id: index.wml,v 1.6 2015/02/20 21:33:12 boutil Exp $
+# $Id: index.wml,v 1.7 2017/05/15 04:38:30 pabs Exp $
 # $Rev: 5976 $
 # Status: [content-frozen]
 
@@ -351,7 +351,7 @@ Thomas Goirand gave an
 availability letting us know that it is
 now generated at the same time as the official Debian CD ISO images. He suggests
 cloud users and public cloud operators should
-<a href="http://cdimage.debian.org/cdimage/openstack/testing/">download</a>
+<a href="https://cdimage.debian.org/cdimage/openstack/testing/">download</a>
 the now available weekly build.
 Presently the only arch available is arm64, which historically has not been 
 a problem for operators. Goirand adds a few suggestions and comments for the 
