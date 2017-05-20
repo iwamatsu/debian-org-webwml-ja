@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2006-07-04" SUMMARY="Python, Spanish Planet, DWN, Debian Live, DPL, Flash, LSB"
-# $Id: index.wml,v 1.10 2016/11/30 04:06:31 pabs Exp $
+# $Id: index.wml,v 1.11 2017/05/20 03:54:27 pabs Exp $
 
 <p>Welcome to this year's 27th issue of DWN, the weekly newsletter for the
 Debian community.  Andreas Barth <a
@@ -24,9 +24,9 @@ about 100 packages are left.</p>
 
 <p><strong>Spanish Planet Debian.</strong> David Moreno Garza <a
 href="http://www.damog.net/20060629/planeta-debian-en-espanol/">announced</a>
-that a <a href="http://planeta.debian.net/">Spanish variant</a> of the popular
+that a <a href="http://planet.debian.org/es/">Spanish variant</a> of the popular
 feed aggregator <a href="http://planet.debian.org/">Planet Debian</a> has been
-set up on <a href="http://planeta.debian.net/">planeta.debian.net</a>,
+set up on <a href="http://planet.debian.org/es/">planeta.debian.net</a>,
 comprising 10 people at the moment.  More people writing about Debian in
 Spanish are welcome to be added there.</p>
 
