@@ -20,7 +20,6 @@
 <bind-gettext-domain domain="doc" />
 
 <language name="dutch">
-
 <bookentry>
   <title Debian 8, van inleiding tot systeembeheer>
   <author Koen Wybo>
@@ -30,35 +29,38 @@
   <br />
   <description
   <gettext domain="doc">
-  Debian 8 is the must-have handbook for learning Linux. Start on the 
-  beginners level and learn how to deploy the system with graphical 
+  Debian 8 is the must-have handbook for learning Linux. Start on the
+  beginners level and learn how to deploy the system with graphical
   interface and terminal.
-  This book provides the basic knowledge to grow and become a 'junior' 
-  systems administrator. Start off with exploring the GNOME desktop 
-  interface and adjust it to your personal needs. Overcome your fear of 
-  using the Linux terminal and learn the most essential commands in 
-  administering Debian. Expand your knowledge of system services (systemd) 
-  and learn how to adapt them. Get more out of the software in Debian and 
+  This book provides the basic knowledge to grow and become a 'junior'
+  systems administrator. Start off with exploring the GNOME desktop
+  interface and adjust it to your personal needs. Overcome your fear of
+  using the Linux terminal and learn the most essential commands in
+  administering Debian. Expand your knowledge of system services (systemd)
+  and learn how to adapt them. Get more out of the software in Debian and
   outside of Debian. Manage your home-network with network-manager, etc.
-  10 percent of the profits on this book will be donated to the Debian 
+  10 percent of the profits on this book will be donated to the Debian
   Project.</gettext>>
 </bookentry>
-
 </language>
 
 <language name="english">
 <bookentry>
-  <title The Debian Administrator's Handbook>
+  <title The Debian Administrator's Handbook, Debian Jessie from Discovery to Mastery>
   <author Rapha&euml;l Hertzog, Roland Mas>
   <publisher Freexian>
   <URL "https://debian-handbook.info">
+  <available
+    <a href="https://www.lulu.com/shop/product-22408803.html">Lulu</a>,
+    <a href="https://www.amazon.com/dp/B017D20O26">Amazon</a>
+  >
   <br />
   <description
   <gettext domain="doc">Written by two Debian developers, this free book
   started as a translation of their French best-seller known as Cahier de
   l'admin Debian (published by Eyrolles). Accessible to all, this book
   teaches the essentials to anyone who wants to become an effective and
-  independent Debian GNU/Linux administrator.  
+  independent Debian GNU/Linux administrator.
   It covers all the topics that a competent Linux administrator should
   master, from the installation and the update of the system, up to the
   creation of packages and the compilation of the kernel, but also
@@ -66,6 +68,7 @@
   like SELinux setup to secure services, automated installations, or
   virtualization with Xen, KVM or LXC.</gettext>>
 </bookentry>
+
 <bookentry>
   <title Debian GNU/Linux Desktop Survival Guide>
   <author Graham J Williams>
@@ -79,56 +82,6 @@
   current unstable distribution). It is comprehensive with basic support
   for the user who installs and maintains the system themselves (whether
   in the home, office, club, or school).</gettext>>
-</bookentry>
-<bookentry>
-  <title Debian GNU/Linux 3.1 Bible>
-  <author David B. Harris, Benjamin Mako Hill, Jaldhar Vyas>
-  <publisher John Wiley &amp; Sons>
-  <URL "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764595326.html">
-  <cd-included <gettext domain="doc">Sarge CD with installer and a selection of packages</gettext>>
-  <cd-included <gettext domain="doc">Live CD with Knoppix</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">Beginners and advanced users alike will find this book to be a
-  comprehensive source of information on using Debian for desktops,
-  intranet and internet servers, and development.  It also contains
-  background information on the project and extensive coverage of
-  Debian's unique package management system.</gettext>>
-</bookentry>
-<bookentry>
-  <title The Debian System - Concepts and Techniques>
-  <author Martin F. Krafft>
-  <publisher "<a href="https://www.opensourcepress.de/">Open Source Press</a>">
-  <URL "http://debiansystem.info/">
-  <email info@debiansystem.info>
-  <cd-included <gettext domain="doc">official Debian GNU/Linux 3.1r0a "sarge" on DVD (i386)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book introduces the concepts and techniques of the Debian
-  operating system, explaining their usage and pitfalls, and
-  illustrating the thinking behind each of the approaches. The goal is
-  not to be a reference book, but to give the reader enough insight
-  into the workings of the project and operating system to learn and
-  embrace the sophisticated and elegant, sometimes at first slightly
-  non-intuitive solutions that have evolved as part of the Debian
-  system over the past decade. While targeted at the well-versed
-  UNIX/Linux administrator, the book can also serve as an excellent
-  resource alongside a standard Linux reference to bootstrap one's
-  Linux experience in Debian's bottom-up philosophy.</gettext>>
-</bookentry>
-<bookentry>
-  <title The Linux Cookbook>
-  <author Michael Stutz>
-  <publisher No Starch Press>
-  <URL "http://dsl.org/cookbook/">
-  <email sales@nostarch.com>
-  <br />
- <description
-  <gettext domain="doc">A hands-on reference guide to the Debian GNU/Linux system that shows,
-  in over 1,500 <q>recipes</q>, how to use it for everyday activities -- from
-  working with text, images, and sound to productivity and networking
-  issues. Like the software the book describes, the book is copylefted
-  and its source data is available.</gettext>>
 </bookentry>
 
 <bookentry>
@@ -152,42 +105,19 @@
   will be working from this distribution and preferably have a Debian based
   host machine too.</gettext>>
 </bookentry>
-
-<bookentry>
-  <title Learning Debian GNU/Linux>
-  <author Bill McCarty>
-  <publisher O'Reilly &amp; Associates>
-  <URL "http://www.oreilly.com/catalog/debian/chapter/book/index.html">
-  <br />
-  <description
-  <gettext domain="doc">Learning Debian GNU/Linux guides the new user of Linux through the
-  installation and configuration of Debian GNU/Linux.
-  Windows users will gain a gentle introduction to this exciting
-  computing world guided by Bill McCarty in <q>Learning Debian GNU/Linux</q>.</gettext>>
-</bookentry>
-<bookentry>
-  <title Debian User's Guide>
-  <author Dale Scheetz>
-  <available <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0965957519/">Amazon</a>>
-  <cd-included <gettext domain="doc">Debian 2.1</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">Includes 230+ pages and three CD-ROM discs. Topics covered by software
-  include Debian Linux, networking, programming tools, GUI, desktop
-  publishing, business, fun things, and multimedia. 30 days of free e-mail
-  support included.</gettext>>
-</bookentry>
 </language>
 
 <language name="french">
-
 <bookentry>
-  <title Debian Squeeze (Cahiers de l'Admin)>
+  <title Debian 8 Jessie : GNU/Linux>
   <author Rapha&euml;l Hertzog, Roland Mas>
   <publisher Eyrolles>
   <URL "https://raphaelhertzog.fr/livre/cahier-admin-debian/">
+  <available
+    <a href="https://www.amazon.fr/dp/221214203X">Amazon</a>,
+    <a href="http://www.eyrolles.com/Informatique/Livre/debian-8-jessie-9782212142037">Eyrolles</a>
+  >
   <email raphael@ouaza.com>
-  <cd-included <gettext domain="doc">DVD Debian Squeeze i386/amd64</gettext>>
   <br />
   <description
   <gettext domain="doc">The first French book about Debian is already in its fifth edition. It
@@ -198,31 +128,9 @@
   for tips to enhance his mastership of the Debian tools and the
   administrator who wants to build a reliable network with Debian.</gettext>>
 </bookentry>
-<bookentry>
-  <title The Debian System - Concepts and Techniques>
-  <author Martin F. Krafft>
-  <publisher "<a href="https://www.opensourcepress.de/">Open Source Press</a>">
-  <URL "http://debiansystem.info/">
-  <email info@debiansystem.info>
-  <cd-included <gettext domain="doc">official Debian GNU/Linux 3.1r0a "sarge" on DVD (i386)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book introduces the concepts and techniques of the Debian
-  operating system, explaining their usage and pitfalls, and
-  illustrating the thinking behind each of the approaches. The goal is
-  not to be a reference book, but to give the reader enough insight
-  into the workings of the project and operating system to learn and
-  embrace the sophisticated and elegant, sometimes at first slightly
-  non-intuitive solutions that have evolved as part of the Debian
-  system over the past decade. While targeted at the well-versed
-  UNIX/Linux administrator, the book can also serve as an excellent
-  resource alongside a standard Linux reference to bootstrap one's
-  Linux experience in Debian's bottom-up philosophy.</gettext>>
-</bookentry>
 </language>
 
 <language name="german">
-
 <bookentry>
   <title Debian-Paketmanagement>
   <author Axel Beckert, Frank Hofmann>
@@ -231,12 +139,27 @@
   <email book@dpmb.org>
   <br />
   <description
-  <gettext domain="doc">The book covers topics ranging from concepts of package 
+  <gettext domain="doc">The book covers topics ranging from concepts of package
   management over the available tools and how they're used to concrete problems
-  which may occur in real life and how they can be solved. The book is written 
-  in German, an English translation is planned. Format: e-book (Online, HTML, 
+  which may occur in real life and how they can be solved. The book is written
+  in German, an English translation is planned. Format: e-book (Online, HTML,
   PDF, ePub, Mobi), printed book planned.
 </gettext>>
+</bookentry>
+
+<bookentry>
+  <title Debian GNU/Linux: Das umfassende Handbuch (aktuell zu »Jessie«)>
+  <author Heike Jurzik>
+  <publisher Rheinwerk Computing>
+  <URL "https://www.rheinwerk-verlag.de/debian-gnulinux_3847/">
+  <available
+    <a href="https://www.amazon.de/dp/3836237628">Amazon</a>,
+    <a href="https://www.rheinwerk-verlag.de/debian-gnulinux_3847/">Rheinwerk</a>
+  >
+  <email service@rheinwerk-verlag.de>
+  <br />
+  <description
+  <gettext domain="doc">This book teaches you how to install and configure the system and also how to use Debian in a professional environment.  It shows the full potential of the distribution (in its current version 8) and provides a practical manual for all users who want to learn more about Debian and its range of services.</gettext>>
 </bookentry>
 
 <bookentry>
@@ -245,230 +168,56 @@
   <publisher Addison Wesley>
   <URL "http://debiananwenderhandbuch.de/">
   <email fr@debiananwenderhandbuch.de>
-  <cd-included <gettext domain="doc">2 editions: One without a DVD, the other with 2 DVDs (i386)</gettext>>
-</bookentry>
-<bookentry>
-  <title Debian GNU/Linux -- Das umfassende Handbuch (aktuell zu Squeeze)>
-  <author Heike Jurzik>
-  <publisher Galileo Computing>
-  <URL "https://www.rheinwerk-verlag.de/2510/">
-  <email info@galileo-press.de>
-  <cd-included <gettext domain="doc">Debian Squeeze, 6.0.1a, Multi-Arch (i386 and amd64) on DVD</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book teaches you how to install and configure the system and also how to use Debian in a professional environment.  It shows the full potential of the distribution (in its current version 6.0) and provides a practical manual for all users who want to learn more about Debian and its range of services.</gettext>>
-</bookentry>
-<bookentry>
-  <title The Debian System - Concepts and Techniques>
-  <author Martin F. Krafft>
-  <publisher "<a href="https://www.opensourcepress.de/">Open Source Press</a>">
-  <URL "http://debiansystem.info/">
-  <email info@debiansystem.info>
-  <cd-included <gettext domain="doc">official Debian GNU/Linux 3.1r0a "sarge" on DVD (i386)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book introduces the concepts and techniques of the Debian
-  operating system, explaining their usage and pitfalls, and
-  illustrating the thinking behind each of the approaches. The goal is
-  not to be a reference book, but to give the reader enough insight
-  into the workings of the project and operating system to learn and
-  embrace the sophisticated and elegant, sometimes at first slightly
-  non-intuitive solutions that have evolved as part of the Debian
-  system over the past decade. While targeted at the well-versed
-  UNIX/Linux administrator, the book can also serve as an excellent
-  resource alongside a standard Linux reference to bootstrap one's
-  Linux experience in Debian's bottom-up philosophy.</gettext>>
-</bookentry>
-<bookentry>
-  <title  Debian GNU/Linux - Grundlagen, Grundlagen, Einrichtung und Betrieb>
-  <author Peter Ganten>
-  <URL "http://www.springer.com/de/book/9783540733386">
-  <email debian-buch@ganten.org>
-  <cd-included <gettext domain="doc">2 editions: One with no CD, the other with Official CD (i386, contrib and sources)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">The book covers all steps of planning and installing Debian GNU/Linux on
-  PC based hardware, including important applications like the X Window
-  System, window managers and desktop environments (KDE, GNOME) and a
-  selection of important system services. Unix/Linux basics and
-  concepts together with system usage and important components (bash,
-  system services and important commands) are introduced.
-  There is an explanation of Debian's package format and how to create
-  packages in this format. It also includes an overview of standard Linux
-  applications (networking, software development, LaTeX and office
-  suites). Strong emphasis is on networking and system
-  administration issues, like planing and building of a dial-in router or
-  a server for Windows based clients (Samba).</gettext>>
 </bookentry>
 </language>
 
 <language name="japanese">
 <bookentry>
-  <title The Debian System - Concepts and Techniques>
-  <author Martin F. Krafft>
-  <publisher "<a href="https://www.opensourcepress.de/">Open Source Press</a>">
-  <URL "http://debiansystem.info/">
-  <email info@debiansystem.info>
-  <cd-included <gettext domain="doc">official Debian GNU/Linux 3.1r0a "sarge" on DVD (i386)</gettext>>
+  <title Debian 管理者ハンドブック、Debian Jessie との出会いから習熟まで>
+  <author Rapha&euml;l Hertzog, Roland Mas>
+  <publisher Freexian>
+  <URL "https://debian-handbook.info/">
+  <available
+    <a href="https://www.lulu.com/shop/product-22625767.html">Lulu</a>
+  >
   <br />
   <description
-  <gettext domain="doc">This book introduces the concepts and techniques of the Debian
-  operating system, explaining their usage and pitfalls, and
-  illustrating the thinking behind each of the approaches. The goal is
-  not to be a reference book, but to give the reader enough insight
-  into the workings of the project and operating system to learn and
-  embrace the sophisticated and elegant, sometimes at first slightly
-  non-intuitive solutions that have evolved as part of the Debian
-  system over the past decade. While targeted at the well-versed
-  UNIX/Linux administrator, the book can also serve as an excellent
-  resource alongside a standard Linux reference to bootstrap one's
-  Linux experience in Debian's bottom-up philosophy.</gettext>>
-</bookentry>
-<bookentry>
-  <title Debian Jiten>
-  <author &#27494;&#34276;&#20581;&#24535; (Kenshi Muto)>
-  <publisher &#32724;&#27891;&#31038; (SHOEISHA)>
-  <URL "http://kmuto.jp/debian/debian_dic/">
-  <email kmuto@debian.org>
-  <cd-included <gettext domain="doc">Debian GNU/Linux 3.1 Sarge installer (single-width CD)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book is dictionary style and covers various tips for beginners
-  and intermediate skill users; installation via various ways,
-  desktop customize, troubleshooting, profitable knowhow and so on.</gettext>>
-</bookentry>
-
-<bookentry>
-  <title Debian GNU/Linux&#24505;&#24213;&#20837;&#38272; &#31532;3&#29256; -
-     Sarge&#23550;&#24540; (Debian Tettei Nyumon 3rd edition, Sarge
-     version)>
-  <author &#27494;&#34276;&#20581;&#24535; (Kenshi Muto)>
-  <publisher &#32724;&#27891;&#31038; (SHOEISHA)>
-  <URL "http://kmuto.jp/debian/debian_sarge/">
-  <email kmuto@debian.org>
-  <cd-included <gettext domain="doc">Debian GNU/Linux 3.1r0 i386, author's edition (DVD +
-     CD)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This is the latest book for Sarge of the series that has been
-  supported as a standard bible of Debian in Japan.
-  This book covers all aspects of using Debian GNU/Linux 3.1 Sarge, such
-  as installation, desktop environments, system administration, and
-  server configuration. Furthermore, this book also includes commercial
-  font package that decorates your desktop. This book might be useful
-  for all Debian users from beginners to advanced users.</gettext>>
-</bookentry>
-
-<bookentry>
-  <title Debian GNU/Linux &#24505;&#24213;&#20837;&#38272; (Debian GNU/Linux Tettei Nyumon)>
-  <author &#27494;&#34276;&#20581;&#24535; (Kenshi Muto)>
-  <publisher &#32724;&#27891;&#31038; (SHOEISHA)>
-  <URL "http://www.shoeisha.co.jp/book/detail/9784881356944">
-  <email kmuto@debian.org>
-  <cd-included <gettext domain="doc">Debian 2.2r0 i386 author's edition (3 CDs)</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book covers general topics about Debian GNU/Linux:
-  installation, APT and dpkg, shell, X Window System, networking, system
-  administration, kernel setup, sharing with Windows, building servers
-  and so on.
-  You will be able to install and start to use Debian GNU/Linux Japanese
-  environment very easily with the customized CDs.</gettext>>
-</bookentry>
-</language>
-
-<language name="korean">
-<bookentry>
-  <title Debian GNU/Linux - Best Linux Server>
-  <author <a href="http://debianusers.org/">Korean Debian Users</a>>
-  <publisher Hanbit Media>
-  <URL http://www.hanb.co.kr/book/look.html?isbn=89-7914-152-1>
-  <email yooseong@debian.org>
-  <cd-included <gettext domain="doc">1 unofficial Woody, 3 Potato rev0</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book gives a brief guide to installation of Debian
-  GNU/Linux, fundamentals of Unix or Linux commands, basic configuration and
-  maintenance of system and networking,
-  X Window System setup, and using multimedia in Debian GNU/Linux.
-  This book also includes a guide for maintainers, which stimulates
-  people in Korea to become official Debian maintainers.</gettext>>
-</bookentry>
-
-<bookentry>
-  <title Debian GNU/Linux - for the Special Linuxer>
-  <author &#51060;&#54840;&#49437; (Ho-seok Lee)>
-  <publisher Bestbook>
-  <URL http://www.bestbook.net/newhome/book/book_detail.html?b_id=102&amp;cate=2>
-  <email alee@debian.or.kr>
-  <cd-included <gettext domain="doc">Three official potato r3 CDs and an unofficial woody CD</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">This book introduces readers to Debian GNU/Linux with many
-  hands-on tutorials and tips. Written in Korean, this book covers
-  comprehensive aspects of Debian GNU/Linux system: first-time setup,
-  package installation, setting up X, connecting to Internet, network
-  maintenance, and more. This book provides a handful of tips on setting up
-  Debian for Korean language environment, and it is good for newcomers, too.</gettext>>
-</bookentry>
-</language>
-
-
-<language name="persian">
-
-<bookentry>
-  <title &#x646;&#x635;&#x628; &#x648;
-  &#x631;&#x627;&#x647;&zwnj;&#x627;&#x646;&#x62F;&#x627;&#x632;&#x6CC;
-  &#x633;&#x631;&#x648;&#x631;&#x647;&#x627;&#x6CC;
-  &#x644;&#x6CC;&#x646;&#x648;&#x6A9;&#x633; (Setting Up and Running
-  GNU/Linux Servers)>
-  <author Alan Baghumian>
-  <publisher NASS Publications>
-  <URL http://www.technotux.org/dload/deb-srv-toc.pdf>
-  <email sales@technotux.org>
-  <cd-included <gettext domain="doc">Debian GNU/Linux 3.1r0 CD1</gettext>>
-  <br />
-  <description
-  <gettext domain="doc">The first Persian book about Debian GNU/Linux. This book helps you
-  to install Debian GNU/Linux and set up network services like web,
-  database, firewall, mail, ftp and ... on it. Also helps you to start
-  using GNU/Linux and Debian's powerful package management system.</gettext>>
-</bookentry>
-</language>
-
-<language name="portuguese">
-<bookentry>
-  <title Descobrindo o Linux (Discovering Linux)>
-  <author Jo&atilde;o Eriberto Mota Filho>
-  <publisher Novatec Editora>
-  <URL "http://novateceditora.com.br/livros/descobrindolinux">
-  <email novatec@novateceditora.com.br>
-  <br />
-  <description
-  <gettext domain="doc">This book is divided into four parts: Basic concepts, Management of
-  GNU/Linux, Administration of the system and Advanced operations. Each chapter
-  explains in depth the features of the operating system. The first
-  chapters explain the structure of GNU/Linux. These chapters will help
-  the reader to understand how the system uses basic resources such as
-  the processor and memory. A detailed analysis about filesystems such as
-  Ext2, Ext3, and ReiserFS will enable users to make the correct choice
-  for their needs. Many figures throughout the book show aspects about
-  the performance of the system. This book caters for college students
-  and anyone who wants to learn GNU/Linux in depth. This book covers
-  Debian Sarge.</gettext>>
+  <gettext domain="doc">Written by two Debian developers, this free book
+  started as a translation of their French best-seller known as Cahier de
+  l'admin Debian (published by Eyrolles). Accessible to all, this book
+  teaches the essentials to anyone who wants to become an effective and
+  independent Debian GNU/Linux administrator.
+  It covers all the topics that a competent Linux administrator should
+  master, from the installation and the update of the system, up to the
+  creation of packages and the compilation of the kernel, but also
+  monitoring, backup and migration, without forgetting advanced topics
+  like SELinux setup to secure services, automated installations, or
+  virtualization with Xen, KVM or LXC.</gettext>>
 </bookentry>
 </language>
 
 <language name="spanish">
 <bookentry>
-  <title El gran libro de Debian GNU/Linux>
-  <author Rafael Eduardo Rumbos Salomón>
-  <publisher Marcombo, S.A>
-  <URL "http://www.marcombo.com/El-gran-libro-de-debian-gnu_linux_isbn9788426718075.html">
-  <email rafaeleduardo.ve@gmail.com>
+  <title El manual del Administrador de Debian>
+  <author Rapha&euml;l Hertzog, Roland Mas>
+  <publisher Freexian>
+  <URL "https://debian-handbook.info/">
+  <available
+    <a href="https://www.lulu.com/shop/product-22877838.html">Lulu</a>,
+    <a href="https://www.amazon.es/dp/B01MA0GHRH">Amazon</a>
+  >
   <br />
   <description
-  <gettext domain="doc">This is the right book for you to learn how to create basic and complex IT platforms using only Free Software. Inside it you will find a wide range of procedures reviewed and adjusted to fit into the best practices of technological infrastructure implementation. This easy to read and comprehensive guide will take you by the hand to achieve specific objectives with the Debian GNU/Linux operating system.</gettext>>
+  <gettext domain="doc">Written by two Debian developers, this free book
+  started as a translation of their French best-seller known as Cahier de
+  l'admin Debian (published by Eyrolles). Accessible to all, this book
+  teaches the essentials to anyone who wants to become an effective and
+  independent Debian GNU/Linux administrator.
+  It covers all the topics that a competent Linux administrator should
+  master, from the installation and the update of the system, up to the
+  creation of packages and the compilation of the kernel, but also
+  monitoring, backup and migration, without forgetting advanced topics
+  like SELinux setup to secure services, automated installations, or
+  virtualization with Xen, KVM or LXC.</gettext>>
 </bookentry>
 </language>
-
