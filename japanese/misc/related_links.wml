@@ -25,7 +25,7 @@
 <dt><a href="http://www.gnu.org/">GNU</a></dt>
   <dd>Debian は GNU オペレーティングシステムの完全な実装です。</dd>
 
-<dt><a href="http://www.X.org/wiki/">The X.Org Foundation</a></dt>
+<dt><a href="https://www.x.org/wiki/">The X.Org Foundation</a></dt>
   <dd>The X.Org Foundation
     は、X Window System
     のオープンソース実装を提供しています。</dd>
@@ -45,7 +45,7 @@
   <dd>GNOME は、フリーソフトウェアによる、完全でユーザフレンドリーな
     デスクトップ環境の構築を目指しています。</dd>
 
-<dt><a href="http://www.kde.org/">K Desktop Environment (KDE)</a></dt>
+<dt><a href="https://www.kde.org/">K Desktop Environment (KDE)</a></dt>
   <dd>KDE は、Macintosh や Microsoft Windows オペレーティングシステムに見られるようなデスクトップ環境に似た、使いやすいデスクトップに必要なものを UNIX ワークステーション向けに実現しようとしています。</dd>
 
 <dt><a href="http://www.freedesktop.org/">freedesktop.org</a></dt>
@@ -70,7 +70,7 @@
 <dt><a href="http://www.debianworld.org/">DebianWorld</a></dt>
   <dd>フランス語を使う Debian ユーザのためのポータル</dd>
 
-<dt><a href="http://www.debianforum.de/forum/">DebianForum.de</a></dt>
+<dt><a href="https://www.debianforum.de/forum/">DebianForum.de</a></dt>
   <dd>ドイツ語を使う Debian ユーザのためのポータル</dd>
 </dl>
 
@@ -93,7 +93,7 @@
 <h2><a name="otherfreeos">他のフリーオペレーティングシステムのプロジェクト</a></h2>
 
 <ul>
-  <li><a href="http://www.freebsd.org/">FreeBSD</a></li>
+  <li><a href="https://www.freebsd.org/">FreeBSD</a></li>
   <li><a href="http://www.netbsd.org/">NetBSD</a></li>
   <li><a href="http://www.openbsd.org/">OpenBSD</a></li>
   <li><a href="http://www.gnu.org/software/hurd/">GNU Hurd</a></li>
