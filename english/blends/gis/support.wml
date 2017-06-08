@@ -1,6 +1,6 @@
 #use wml::debian::blend title="Blend Support"
 #use "navbar.inc"
-# $Id: support.wml,v 1.1 2015/10/15 08:20:03 irl Exp $
+# $Id: support.wml,v 1.2 2017/06/07 18:51:08 toddy Exp $
 
 <h2>Documentation</h2>
 
@@ -33,7 +33,7 @@ users</a>.</p>
 <p><a href="http://www.irchelp.org/">IRC (Internet Relay Chat)</a> is a way
 to chat with people from all over the world in real time.
 IRC channels dedicated to Debian can be found on
-<a href="http://www.oftc.net/">OFTC</a>.</p>
+<a href="https://www.oftc.net/">OFTC</a>.</p>
 
 <p>To connect, you need an IRC client. Some of the most popular clients are
 <a href="https://packages.debian.org/stable/net/xchat">XChat</a>,

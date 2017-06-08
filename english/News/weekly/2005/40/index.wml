@@ -1,5 +1,5 @@
 #use wml::debian::weeklynews::header PUBDATE="2005-10-04" SUMMARY="DPL and Release Team, WNPP, Networking, teTeX, Meetings, IA64, Planet, S/390, /dev"
-# $Id: index.wml,v 1.17 2014/04/30 07:41:36 pabs Exp $
+# $Id: index.wml,v 1.18 2017/06/07 18:44:07 toddy Exp $
 
 <p>Welcome to this year's 40th issue of DWN, the weekly newsletter for the
 Debian community.  Donald Feinberg, vice-president of Gartner <a
@@ -35,7 +35,7 @@ significant activity were removed by this action.  He will repeat this process
 automatically in the future.</p>
 
 <p><strong>Debian Network Introduction.</strong> Steve Kemp wrote a basic <a
-href="http://www.debian-administration.org/articles/254">introduction</a> into
+href="https://www.debian-administration.org/articles/254">introduction</a> into
 the network setup with Debian GNU/Linux.  The article includes setting the
 hostname and IP address, setting up DNS, gives a short introduction into
 routing and explains hostname lookup.</p>
