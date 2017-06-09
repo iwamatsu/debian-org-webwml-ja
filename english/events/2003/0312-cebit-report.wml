@@ -1,5 +1,5 @@
 #use wml::debian::template title="CeBIT 2003 -- Report"
-# $Id: 0312-cebit-report.wml,v 1.17 2014/09/07 08:56:08 pabs Exp $
+# $Id: 0312-cebit-report.wml,v 1.18 2017/06/08 18:58:26 toddy Exp $
 
 <p>The Debian presentation at this year's CeBIT was sponsored by <a
 href="http://www.linuxland.de/">LinuxLand International</a> this year
@@ -83,7 +83,7 @@ like Debian. There was even one person from Korea, who was a real
 fan. We discussed a little bit about i18n, and he considered showing
 up again, when grisu has arrived. He really wanted to help us, and so
 we thought, that he might want to start a Korean translation of the <a
-href="http://ddtp.debian.org/">package descriptions</a>.</p>
+href="https://ddtp.debian.org/">package descriptions</a>.</p>
 
 <p>Thomas Lange, the developer of <a
 href="http://www.informatik.uni-koeln.de/fai/">FAI</a> and several

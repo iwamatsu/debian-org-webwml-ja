@@ -1,7 +1,7 @@
 #use wml::debian::template title="Work-Needing and Prospective Packages"
 #use wml::debian::toc
 #include "$(ENGLISHDIR)/devel/wnpp/wnpp.data"
-# $Id: index.wml,v 1.44 2016/12/16 07:37:07 pabs Exp $
+# $Id: index.wml,v 1.45 2017/06/08 18:53:16 toddy Exp $
 
 <define-tag toc-title-formatting endtag=required><h3>%body</h3></define-tag>
 
@@ -59,11 +59,11 @@ please check the <a href="https://bugs.debian.org/wnpp">wnpp pseudo package</a>
 entry in the BTS.</p>
 
 <p>You can search the above information by package, description or type
-on the <a href="http://wnpp.debian.net">WNPP search</a> website.</p>
+on the <a href="https://wnpp.debian.net">WNPP search</a> website.</p>
 
 <p>You can browse the above information broken down into various categories
 (based on <a href="https://debtags.debian.org/">debtags</a>) on the 
-<a href="http://wnpp-by-tags.debian.net">WNPP-by-tags</a> website.</p>
+<a href="https://wnpp-by-tags.debian.net">WNPP-by-tags</a> website.</p>
 
 <hrline />
 
