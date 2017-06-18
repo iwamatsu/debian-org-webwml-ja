@@ -24,9 +24,10 @@
 @import url("https://www.debian.org/empty.css");
 
 #splash {
-	background-image: url('Pics/lines_web_bg.png');
+	background-image: url('Pics/softwaves_web_bg.png');
 	background-position:top center;
-	background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-size: 100%;
 	margin-top: 0;
 	margin-bottom: 1.5em;
 	text-align: center;
@@ -34,7 +35,7 @@
 	height: 120px;
 }
 #splash h1 {
-	background-image: url('Pics/lines_web_logo.png');
+	background-image: url('Pics/softwaves.png');
 	background-position:top center;
 	padding-top:130px;
 	overflow:hidden;
