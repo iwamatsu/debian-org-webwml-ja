@@ -92,16 +92,6 @@
  <partnerdisplaytable>
 
  <partnertablerow>
-
- <partnerlogo2 "Open Source Press" opensourcepress.png "http://www.opensourcepress.de/">
- <partnerdesc2>
- <opensourcepress1>
- <opensourcepress2>
- </partnerdesc2>
-
- </partnertablerow>
-
- <partnertablerow>
  <partnerlogo2 "No Starch Press" nostarch.png "http://www.nostarch.com/">
  <partnerdesc2>
  <nostarch1>
@@ -149,7 +139,7 @@
  <hr>
 
  <div>
- <partnerlogo "Oregon State University Open Source Lab" osuosl.jpg "http://osuosl.org/">
+ <partnerlogo "Oregon State University Open Source Lab" osuosl.png "http://osuosl.org/">
  <partnerdesc>
  <osuosl1>
  <osuosl2>
