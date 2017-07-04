@@ -4,8 +4,6 @@
 library. The Common Vulnerabilities and Exposures project identifies the
 following problems:</p>
 
-<p></p>
-
 <ul>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2016-9063">CVE-2016-9063</a>
@@ -42,4 +40,4 @@ version 2.2.1-1 or earlier version.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2017/dsa-3898.data"
-# $Id: dsa-3898.wml,v 1.1 2017/06/25 13:35:10 carnil Exp $
+# $Id: dsa-3898.wml,v 1.2 2017/07/03 15:14:43 gusnan Exp $
