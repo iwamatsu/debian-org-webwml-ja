@@ -371,10 +371,11 @@ rates, it depends on your needs.>
 
 # Consultant: AU
 # Added on 19.03.2013
+# Data updated on 11.07.2017
 <p>
 <name	 JJ Fiasson>
-<company Cloud BT IT Support &amp; IT Services>
-<address 24B / 203 Castlereagh Street, Sydney, NSW, 2000, <country-name AU>>
+<company Cloud Business Technology IT Support &amp; IT Services>
+<address Suite 510, 46 Kippax Street, Surry Hills, NSW, 2010, <country-name AU>>
 <phone	 1300 737 205>
 <email	 jj@cloudbt.com.au>
 <URL	 "http://www.it-support.com.au/">
@@ -850,6 +851,17 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 <rates	 Available on request.>
 </p>
 
+# Consultant: BE
+# added on 11.07.2017
+<p>
+<name	 Tom De Smet>
+<company NETBASE Consultancy>
+<address Martijn van Torhoutstraat 160 bus 0201, 9700 Oudenaarde, <country-name BE>>
+<phone	 +32-486-68-49-71>
+<email	 debian@netbase.be>
+<rates	 Available upon request.>
+</p>
+
 
 <h1><a name="BA"><country-name BA>:</a></h1>
 
@@ -1138,10 +1150,12 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 
 # Consultant: BR
 # added on 25.07.2014
+# Data updated on 11.07.2017
 <p>
 <name	 Diego Neves>
-<address Foz do Iguaçu - PR - <country-name BR>>
+<address Minas Gerais, <country-name BR>>
 <email	 diego@diegoneves.eti.br scramble="yes">
+<URL     "http://diegoneves.eti.br">
 <rates   To be verified per project.>
 </p>
 
@@ -1421,6 +1435,19 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 <additional_info gplhost>
 </p>
 
+# Consultant: CN
+# entry added: 11.07.2017
+<p>
+<company TYA infotech (广州市腾御安信息科技有限公司)>
+<address 1020-1024 (Level 10) Poly Clover Office Building, 406 Huasui Road, Tianhe District, Guangzhou, Guangdong, <country-name CN>>
+<phone   (+86) 020-38551260>
+<email   shawn@tya.email>
+<URL     "http://tya.company/features.html">
+<rates   Based on project and scope. Or you can solve the problem by following
+some knowledge we share (https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles)>
+<additional_info gplhost>
+</p>
+
 
 <h1><a name="CY"><country-name CY>:</a></h1>
 
@@ -1591,6 +1618,16 @@ prices during summer holidays.>
 <phone	 +506 6047.1707>
 <email	 laguilar678@gmail.com>
 <rates	 Negotiable.>
+</p>
+
+# Consultant: CR
+# added on 11.07.2017
+<p>
+<name	 Esteban Monge>
+<address 25 mts S de la escuela Sotero Gonzalez Barquero, San Juan de Dios de
+Desamparados, <country-name CR>>
+<phone	 (506) 8660-9111>
+<email	 estebanmonge@riseup.net>
 </p>
 
 
@@ -2096,6 +2133,31 @@ prices during summer holidays.>
 <url     "http://hypra.fr">
 <rates   80E per hour.>
 <additional_info hypra>
+</p>
+
+# Consultant: FR
+# added on 11.07.2017
+<p>
+<name    Patrice Le Guyader>
+<company UXWARE>
+<address 42 Avenue de la perrière, 56100 Lorient, <country-name FR>>
+<phone   Office: (+33) 02 90 38 04 42>
+<phone   Cellphone: (+33) 06 67 33 65 10>
+<email   contact@uxware.bzh>
+<url     "https://www.uxware.bzh">
+<rates   Please contact us for rates. or have a look on our web site.>
+<additional_info uxware>
+</p>
+
+# Consultant: FR
+# added on 11.07.2017
+<p>
+<company 6clones>
+<address 6B rue Georges Clémenceau, 14130 Pont-l'Évêque, <country-name FR>>
+<phone   +33 9 72 60 88 39>
+<email   contact@6clones.fr>
+<url     "https://www.6clones.fr/">
+<rates   Please contact us for rates.>
 </p>
 
 
@@ -2935,6 +2997,16 @@ Maintenance Plan rates available.>
 <contact "https://www.unixteacher.org/contact/">
 <rates	 Based on project. Free for educational, academic, scientific and
 open source projects.>
+</p>
+
+# Consultant: DE
+# added at 11.07.2017
+<p>
+<name	 Christoph Martin>
+<company Martin EDV-Beratung>
+<address Am Fort Gonsenheim 30, 55122 Mainz, <country-name DE>>
+<phone	 +49(0)-6131-963074>
+<email	 martin@m1234.de>
 </p>
 
 
@@ -4299,12 +4371,13 @@ open-source projects. Free help available on IM.>
 
 # Consultant: ES
 # mail sent to check status: 16.06.2013 holger-guest. Result: still active, entry updated.
+# Data updated: 11.07.2017
 <p>
 <name    Rub&eacute;n da Silva>
 <company Ozono Multimedia s.l.l.>
-<address C/Galeras, 13. 15705 Santiago de Compostela, <country-name ES>>
+<address Rúa das Hedras 4 - planta 2 - local N, O Milladoiro (Ames) - 15895 - A Coruña,
+Galicia, <country-name ES>>
 <phone   +34-981580679>
-<fax     +34-981580679>
 <email   ozono@ozonomultimedia.com>
 #<url     "http://www.ozonomultimedia.com/">
 <rates   Available upon request. Variable according service. Contact us.>
@@ -4464,6 +4537,20 @@ open-source projects. Free help available on IM.>
 <address <country-name ES>>
 <email	 francisco@garciac.es>
 <URL	 "http://www.garciac.es/debian">
+</p>
+
+# Consultant: ES
+# added on 11.07.2017
+<p>
+<name    Manuel Rubio>
+<company Altenwald Solutions, S.L.>
+<contact http://www.garciac.es/contacto>
+<address Calle La Fragua, 2, 14100 La Carlota, Cordoba, <country-name ES>>
+<phone   +34.651108590>
+<email	 manuel@altenwald.com>
+#<URL	 "http://www.altenwald.com">
+<rates   Usually we charge 40 €/month per server, but depending on project 
+and volume we can change it.>
 </p>
 
 
