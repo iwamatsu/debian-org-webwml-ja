@@ -1444,8 +1444,8 @@ negotiated rates available. Min charge: 15 mins BH, 30 mins AH,
 <email   shawn@tya.email>
 <URL     "http://tya.company/features.html">
 <rates   Based on project and scope. Or you can solve the problem by following
-some knowledge we share (https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles)>
-<additional_info gplhost>
+some knowledge we share:
+<url "https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles">>
 </p>
 
 
@@ -2145,7 +2145,7 @@ Desamparados, <country-name CR>>
 <phone   Cellphone: (+33) 06 67 33 65 10>
 <email   contact@uxware.bzh>
 <url     "https://www.uxware.bzh">
-<rates   Please contact us for rates. or have a look on our web site.>
+<rates   Please contact us for rates. Or have a look on our web site.>
 <additional_info uxware>
 </p>
 
@@ -4544,7 +4544,6 @@ Galicia, <country-name ES>>
 <p>
 <name    Manuel Rubio>
 <company Altenwald Solutions, S.L.>
-<contact http://www.garciac.es/contacto>
 <address Calle La Fragua, 2, 14100 La Carlota, Cordoba, <country-name ES>>
 <phone   +34.651108590>
 <email	 manuel@altenwald.com>
