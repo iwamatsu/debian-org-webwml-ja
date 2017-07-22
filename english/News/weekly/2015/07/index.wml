@@ -1,6 +1,6 @@
 #use wml::debian::projectnews::header PUBDATE="2015-09-02" SUMMARY="Stefano Zacchiroli Award, Stretch Installer, Archive changes, UEFI team, FreedomBox release, Bits from the Release, Perl Maintainers, and Wanna Build teams, Reports, Tips and Tricks, Events"
 
-# $Id: index.wml,v 1.5 2015/09/06 21:49:54 jipege1-guest Exp $
+# $Id: index.wml,v 1.6 2017/07/22 01:53:45 pabs Exp $
 # $Rev$
 # Status: [content-frozen]
 
@@ -81,7 +81,7 @@ He also <a href="https://lists.debian.org/debian-devel-announce/2015/08/msg00009
 that due to disk space limitations on mirror hosts, the non-LTS   
 architectures of Squeeze were removed from the mirror network. Squeeze i386/amd64 
 will continue to be hosted on the normal mirrors, while the whole of Squeeze is 
-available at <a href="https://archive.debian.org/">archive.debian.org</a>.
+available at <a href="http://archive.debian.org/">archive.debian.org</a>.
 
 </p>
 
