@@ -25,10 +25,6 @@ emulator:</p>
 
     <p>Denial of service via memory leak in USB XHCI emulation.</p></li>
 
-<li><a href="https://security-tracker.debian.org/tracker/CVE-2017-9524">CVE-2017-9524</a>
-
-    <p>Denial of service in qemu-nbd server.</p></li>
-
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-10664">CVE-2017-10664</a>
 
     <p>Denial of service in qemu-nbd server.</p></li>
@@ -51,4 +47,4 @@ version 1:2.8+dfsg-6+deb9u1.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2017/dsa-3920.data"
-# $Id: dsa-3920.wml,v 1.2 2017/07/26 22:59:01 jipege1-guest Exp $
+# $Id: dsa-3920.wml,v 1.3 2017/07/27 13:09:29 carnil Exp $
