@@ -19,7 +19,7 @@ version 1.9.1.</p>
     allowed remote attackers to cause a denial of service (resource
     consumption) or bypass the mass assignment protection mechanism via
     a crafted JSON document that triggers the creation of arbitrary Ruby
-    symbols or certain internal objects.</p>/li>
+    symbols or certain internal objects.</p></li>
 
 </ul>
 
@@ -30,4 +30,4 @@ your ruby1.9.1 package.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2015/dla-263.data"
-# $Id: dla-263.wml,v 1.2 2016/04/07 20:24:54 djpig Exp $
+# $Id: dla-263.wml,v 1.3 2017/07/28 21:53:51 jipege1-guest Exp $
