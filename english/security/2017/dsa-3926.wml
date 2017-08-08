@@ -43,7 +43,7 @@
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5098">CVE-2017-5098</a>
 
-    <p>Jihoon Kim discover a use-after-free issue in the v8 javascript library.</p></li>
+    <p>Jihoon Kim discovered a use-after-free issue in the v8 javascript library.</p></li>
 
 <li><a href="https://security-tracker.debian.org/tracker/CVE-2017-5099">CVE-2017-5099</a>
 
@@ -111,4 +111,4 @@ version 60.0.3112.78-1 or earlier versions.</p>
 
 # do not modify the following line
 #include "$(ENGLISHDIR)/security/2017/dsa-3926.data"
-# $Id: dsa-3926.wml,v 1.1 2017/08/05 01:57:30 kaare Exp $
+# $Id: dsa-3926.wml,v 1.2 2017/08/07 17:38:48 kaare Exp $
